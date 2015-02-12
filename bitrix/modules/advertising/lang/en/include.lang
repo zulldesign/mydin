@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Advertising and banners]]></data>
+	<data name="Module.Description"><![CDATA[Site advertisement management module.]]></data>
+	<data name="AdminMenuItem.AdvertisingRootTitle"><![CDATA[Advertising]]></data>
+	<data name="AdminMenuItem.AdvertisingBannerListTitle"><![CDATA[Advertising and Banners]]></data>
+	<data name="AdminMenuItem.AdvertisingSpaceTitle"><![CDATA[Advertising Areas]]></data>
+	<data name="BannerContentType.Image"><![CDATA[Image]]></data>
+	<data name="BannerContentType.Flash"><![CDATA[Flash]]></data>
+	<data name="BannerContentType.TextOnly"><![CDATA[Text or HTML]]></data>
+	<data name="BannerContentType.Silverlight"><![CDATA[Silverlight]]></data>
+	<data name="AdvertisingSpace.VerificationError.CodeAlreadyExists"><![CDATA[The area with symbolic code '{0}' already exists.]]></data>
+	<data name="Task.BXAdvertisingAdmin.Title"><![CDATA[Advertising Administrator]]></data>
+	<data name="Task.BXAdvertisingEditor.Title"><![CDATA[Banner Manager]]></data>
+	<data name="Role.BXAdvertisingAdmin.Title"><![CDATA[Advertising Administrator]]></data>
+	<data name="Auth.Operations.AdvertisingSpaceManagement"><![CDATA[Manage advertising areas in Control Panel]]></data>
+	<data name="Auth.Operations.AdvertisingBannerManagement"><![CDATA[Manage banners in Control Panel]]></data>
+	<data name="Error.Banner.MaxDisplayCountMustBeIntegerNonnegative"><![CDATA[Maximum banner impression count must be a positive integer.]]></data>
+	<data name="Error.Banner.MaxDisplayCountPerVisitorMustBeIntegerNonnegative"><![CDATA[Maximum banner impression per user count must be a positive integer.]]></data>
+	<data name="Error.Banner.MaxRedirectionCountMustBeIntegerNonnegative"><![CDATA[Maximum banner click count must be a positive integer.]]></data>
+	<data name="Error.Banner.MaxVisitorCountMustBeIntegerNonnegative"><![CDATA[Maximum visitor count must be a positive integer.]]></data>
+	<data name="Banner.VerificationError.NameFildLengthLimit"><![CDATA[The name string must not exceed {0} characters.]]></data>
+	<data name="Banner.VerificationError.ToolTipFildLengthLimit"><![CDATA[The tooltip text must not exceed {0} characters.]]></data>
+	<data name="Banner.VerificationError.DescriptionFildLengthLimit"><![CDATA[The description must not exceed {0} characters.]]></data>
+</resources>

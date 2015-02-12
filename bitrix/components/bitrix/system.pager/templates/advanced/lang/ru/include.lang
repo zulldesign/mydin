@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Prev"><![CDATA[предыдущая]]></data>
+	<data name="Next"><![CDATA[следующая]]></data>
+	<data name="Title"><![CDATA[Продвинутая навигация]]></data>
+</resources>

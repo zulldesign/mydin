@@ -1,0 +1,153 @@
+<xml>
+  <iblocktype name="Furniture.CataloguesAndServices" havesections="true" xmlid="type_iblock_furniture_catandserv" sort="100">
+    <loc lang="en">Products and services</loc>
+  </iblocktype>
+  <iblocktype name="Furniture.News" xmlid="type_iblock_furniture_news" sort="120">
+    <loc lang="en">Company News</loc>
+  </iblocktype>
+  <iblocktype name="Furniture.Vacancies" xmlid="type_iblock_furniture_vacancies" sort="130">
+    <loc lang="en">Company Vacancies</loc>
+  </iblocktype>
+  <iblock name="Products" indexcontent="true" sort="100" typeid="type_iblock_furniture_catandserv" xmlid ="iblock_furniture_catalog.#SiteId#">
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <store item="iblock" optname="CatalogIblockId"></store>
+    <captions>
+      <caption type="addelement">Add Item</caption>
+      <caption type="addsection">Add Section</caption>
+      <caption type="changeelement">Edit Item</caption>
+      <caption type="changesection">Change Section</caption>
+      <caption type="deleteelement">Delete Item</caption>
+      <caption type="deletesection">Delete Section</caption>
+      <caption type="elementlist">Items</caption>
+      <caption type="elementname">Item</caption>
+      <caption type="elementsname">Items</caption>
+      <caption type="modifyingelement">Item</caption>
+      <caption type="modifyingsection">Section</caption>
+      <caption type="newelement">Item</caption>
+      <caption type="newsection">Section</caption>
+      <caption type="sectionlist">Sections</caption>
+      <caption type="sectionname">Section</caption>
+      <caption type="sectionsname">Sections</caption>
+    </captions>
+    <propdef id ="showonmain" type="Bitrix.System.Boolean" for="section" >
+      <loc lang="en">Show section on main page</loc>
+    </propdef>
+    <propdef id ="specialoffer" type="Bitrix.System.Boolean" for="element" >
+      <loc lang="en">Special Offer</loc>
+    </propdef>
+    <propdef id ="price" type="Bitrix.System.Int" for="element" >
+      <loc lang="en">Our Price</loc>
+    </propdef>
+    <propdef id ="pricecurrency" type="Bitrix.System.Enumeration" for="element" >
+      <loc lang="en">Currency</loc>
+      <enum>
+        <value default="true" xmlid="corp_cf_cur_1" sort="10">€</value>
+        <value sort="20" xmlid="corp_cf_cur_2">$</value>
+      </enum>
+    </propdef>
+    <propdef id ="size" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Dimensions (L x W x H)</loc>
+      <settings>
+        <setting name="ValidationRegex"><![CDATA[[1-9][0-9]*x[1-9][0-9]*x[1-9][0-9]*]]></setting>
+      </settings>
+    </propdef>
+    <propdef id ="s_size" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Size of sleeping area</loc>
+      <settings>
+        <setting name="ValidationRegex"><![CDATA[[1-9][0-9]*x[1-9][0-9]]]></setting>
+      </settings>
+    </propdef>
+    <propdef id ="artnumber" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Item Number</loc>
+    </propdef>
+    <propdef id ="material" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Material</loc>
+    </propdef>
+    <propdef id ="manufacturer" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Manufacturer</loc>
+    </propdef>
+  </iblock>
+  <iblock name="News" indexcontent="true" sort="120" typeid="type_iblock_furniture_news" xmlid ="iblock_furniture_news.#SiteId#">
+    <store item="iblock" optname="NewsIblockId"></store>
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <captions>
+      <caption type="addelement">Add News</caption>
+      <caption type="addsection">Add Category</caption>
+      <caption type="changeelement">Edit News</caption>
+      <caption type="changesection">Change Category</caption>
+      <caption type="deleteelement">Delete News</caption>
+      <caption type="deletesection">Delete Category</caption>
+      <caption type="elementlist">News</caption>
+      <caption type="elementname">News</caption>
+      <caption type="elementsname">News</caption>
+      <caption type="modifyingelement">Edit News</caption>
+      <caption type="modifyingsection">Edit Category</caption>
+      <caption type="newelement">News</caption>
+      <caption type="newsection">Category</caption>
+      <caption type="sectionlist">Categories</caption>
+      <caption type="sectionname">Category</caption>
+      <caption type="sectionsname">Categories</caption>
+    </captions>
+  </iblock>
+  <iblock name="Services" sort="120" indexcontent="true" typeid="type_iblock_furniture_catandserv" xmlid ="iblock_furniture_services.#SiteId#">
+    <store item="iblock" optname="ServicesIblockId"></store>
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <captions>
+      <caption type="addelement">Add Service</caption>
+      <caption type="addsection">Add Category</caption>
+      <caption type="changeelement">Edit Service</caption>
+      <caption type="changesection">Change Category</caption>
+      <caption type="deleteelement">Delete Service</caption>
+      <caption type="deletesection">Delete Category</caption>
+      <caption type="elementlist">List of Services</caption>
+      <caption type="elementname">Service</caption>
+      <caption type="elementsname">Services</caption>
+      <caption type="modifyingelement">Edit Service</caption>
+      <caption type="modifyingsection">Edit Category</caption>
+      <caption type="newelement">Service</caption>
+      <caption type="newsection">Category</caption>
+      <caption type="sectionlist">Categories</caption>
+      <caption type="sectionname">Category</caption>
+      <caption type="sectionsname">Categories</caption>
+    </captions>
+  </iblock>
+  <iblock name="Company Vacancies" indexcontent="true" typeid="type_iblock_furniture_vacancies" sort="130" xmlid ="iblock_furniture_vacancies.#SiteId#">
+    <store item="iblock" optname="VacanciesIblockId"></store>
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <propdef id ="reqs" type="Bitrix.System.Text" issearchable="true" for="element" >
+      <loc lang="en">Requirements</loc>
+    </propdef>
+    <propdef id ="resps" type="Bitrix.System.Text" issearchable="true" for="element" >
+      <loc lang="en">Essential Functions</loc>
+    </propdef>
+    <propdef id ="conds" type="Bitrix.System.Text" issearchable="true" for="element" >
+      <loc lang="en">Employment Status</loc>
+    </propdef>
+    <captions>
+      <caption type="addelement">Add Vacancy</caption>
+      <caption type="addsection">Add Category</caption>
+      <caption type="changeelement">Edit Vacancy</caption>
+      <caption type="changesection">Change Category</caption>
+      <caption type="deleteelement">Delete Vacancy</caption>
+      <caption type="deletesection">Delete Category</caption>
+      <caption type="elementlist">List of Vacancies</caption>
+      <caption type="elementname">Vacancy</caption>
+      <caption type="elementsname">Vacancies</caption>
+      <caption type="modifyingelement">Vacancy</caption>
+      <caption type="modifyingsection">Category</caption>
+      <caption type="newelement">Vacancy</caption>
+      <caption type="newsection">Category</caption>
+      <caption type="sectionlist">List of Categories</caption>
+      <caption type="sectionname">Category</caption>
+      <caption type="sectionsname">Categories</caption>
+    </captions>
+  </iblock>
+</xml>

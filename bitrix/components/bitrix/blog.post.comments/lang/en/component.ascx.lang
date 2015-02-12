@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Category.GuestParameters"><![CDATA[Guest Parameters]]></data>
+	<data name="Param.GuestEmail"><![CDATA[Show E-mail Filed]]></data>
+	<data name="Param.GuestCaptcha"><![CDATA[Use CAPTCHA]]></data>
+	<data name="GuestEmail.Hide"><![CDATA[Hide]]></data>
+	<data name="GuestEmail.Show"><![CDATA[Suggest]]></data>
+	<data name="GuestEmail.Require"><![CDATA[Always]]></data>
+	<data name="Error.Unknown"><![CDATA[Unknown error.]]></data>
+	<data name="Error.PostNotFound"><![CDATA[Record was not found.]]></data>
+	<data name="Error.PageNotFound"><![CDATA[Page was not found.]]></data>
+	<data name="Error.CommentNotFound"><![CDATA[Comment was not found.]]></data>
+	<data name="Error.UnauthorizedView"><![CDATA[You do not have permission to view this record.]]></data>
+	<data name="Error.UnauthorizedDelete"><![CDATA[You do not have permission to delete this comment.]]></data>
+	<data name="Error.UnauthorizedComment"><![CDATA[You do not have permission to delete comment on this post.]]></data>
+	<data name="Title"><![CDATA[Post Comments]]></data>
+	<data name="Description"><![CDATA[Shows blog post comments.]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Blog Master Slug]]></data>
+	<data name="Param.PostId"><![CDATA[Post ID]]></data>
+	<data name="Param.CommentId"><![CDATA[Comment ID]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="Param.BlogUrlTemplate"><![CDATA[Blog URL Template]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[User Profile URL Template]]></data>
+	<data name="Param.PostViewUrlTemplate"><![CDATA[Post View Page URL Template]]></data>
+	<data name="Param.PostEditUrlTemplate"><![CDATA[Post Edit Page URL Template]]></data>
+	<data name="Param.CommentUrlTemplate"><![CDATA[Comment URL Template]]></data>
+	<data name="Param.EnableVotingForComment"><![CDATA[Enable Voting]]></data>
+	<data name="Param.RolesAuthorizedToVote"><![CDATA[Roles of Users Authorized to Vote]]></data>
+	<data name="Category.Voting"><![CDATA[Voting]]></data>
+	<data name="Param.CategoryId"><![CDATA[Show Blog Comments Of These Categories Only]]></data>
+</resources>

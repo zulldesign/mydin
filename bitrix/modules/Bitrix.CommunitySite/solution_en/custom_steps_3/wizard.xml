@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<wizard>
+	<steps>
+		<step name="files" />
+		<step name="structure" />
+		<step name="data" />
+		<step name="menu" />
+		<step name="options" />
+		<step name="ratings" />
+		<step name="componentevents" />
+		<step name="permissions" />
+		<step name="sef" />
+	</steps>
+</wizard>

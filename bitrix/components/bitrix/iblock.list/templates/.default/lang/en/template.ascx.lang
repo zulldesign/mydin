@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="LinkText.DeleteItemFromList"><![CDATA[Remove]]></data>
+	<data name="LinkHint.DeleteItemFromList"><![CDATA[Deletes an element from the list]]></data>
+	<data name="ButtonText.Compare"><![CDATA[Compare]]></data>
+	<data name="IBlocksNotFound"><![CDATA[No information blocks found.]]></data>
+</resources>

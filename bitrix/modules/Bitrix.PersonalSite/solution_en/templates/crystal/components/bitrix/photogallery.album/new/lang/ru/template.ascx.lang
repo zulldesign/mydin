@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="EditAlbum"><![CDATA[Ред.]]></data>
+	<data name="FormatYouHaveToAdjustTheComponent"><![CDATA[Компонент "{0}" необходимо настроить]]></data>
+	<data name="UploadPhoto"><![CDATA[Загрузка фото]]></data>
+	<data name="Delete"><![CDATA[Удалить]]></data>
+	<data name="Legend.Albums"><![CDATA[Альбомы:]]></data>
+	<data name="OpenAlbum"><![CDATA[Открыть альбом]]></data>
+	<data name="Legend.Photos"><![CDATA[Фотографии:]]></data>
+	<data name="Photo"><![CDATA[фото]]></data>
+	<data name="ConfirmText.DoYouReallyWantRemoveThisAlbum"><![CDATA[Удалить альбом?]]></data>
+	<data name="Hint.EditAlbum"><![CDATA[Редактировать свойства альбома]]></data>
+	<data name="Foto"><![CDATA[Фото]]></data>
+	<data name="Of"><![CDATA[из]]></data>
+	<data name="DeleteAlbum"><![CDATA[Вы действительно хотите удалить альбом?]]></data>
+	<data name="ViewFotoDetail"><![CDATA[Смотреть детальную информацию]]></data>
+	<data name="Original"><![CDATA[Оригинал]]></data>
+	<data name="Close"><![CDATA[Закрыть слайдер]]></data>
+	<data name="Edit"><![CDATA[Редактировать детальную информацию]]></data>
+	<data name="PhotosCount"><![CDATA[{0} фото]]></data>
+</resources>

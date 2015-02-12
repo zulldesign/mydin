@@ -1,0 +1,1 @@
+﻿<%@ Control Language="C#" AutoEventWireup="false" CodeFile="Forum.ascx.cs" Inherits="Bitrix.Install.Internal.ForumXmlImporterDummy" %>

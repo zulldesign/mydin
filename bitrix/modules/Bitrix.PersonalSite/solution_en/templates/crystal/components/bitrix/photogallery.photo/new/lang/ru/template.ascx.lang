@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Delete"><![CDATA[Удалить]]></data>
+	<data name="PhotoHasBeenLoaded.User"><![CDATA[Снимок загрузил]]></data>
+	<data name="PhotoHasBeenLoaded.Date"><![CDATA[Снимок загружен]]></data>
+	<data name="PhotoHasBeenShown.Times"><![CDATA[Просмотры:]]></data>
+	<data name="DoYouReallyWantRemoveThisPhoto"><![CDATA[Удалить фотографию?]]></data>
+	<data name="PhotoNotFound"><![CDATA[Фотография не найдена]]></data>
+</resources>

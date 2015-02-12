@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.TaskList"><![CDATA[Список задач]]></data>
+	<data name="FilterText.Cation"><![CDATA[Название]]></data>
+	<data name="ActionText.AddTask"><![CDATA[Добавить задачу]]></data>
+	<data name="Message.RecordsHaveBeenDeletedSuccessfully"><![CDATA[Записи были успешно удалены]]></data>
+	<data name="PopupTitle.ModifyTask"><![CDATA[Редактировать задачу]]></data>
+	<data name="PopupTitle.DeleteTask"><![CDATA[Удалить задачу]]></data>
+	<data name="ColumnHeaderText.Comment"><![CDATA[Комментарий]]></data>
+	<data name="ColumnHeaderText.QuantityOfSubtasks"><![CDATA[Количество подзадач]]></data>
+	<data name="ColumnHeaderText.QuantityOfOperations"><![CDATA[Количество операций]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteThisRecord"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="ExceptionText.DeletionOfTaskIsFailed"><![CDATA[Ошибка удаления задачи]]></data>
+	<data name="ExceptionText.TaskIsNotFound"><![CDATA[Задача не найдена]]></data>
+	<data name="ExceptionText.CodeOfTaskIsNotFound"><![CDATA[Код задачи не найден]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранную задачу?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть задачу]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные задачи?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕ задачи из списка?]]></data>
+</resources>

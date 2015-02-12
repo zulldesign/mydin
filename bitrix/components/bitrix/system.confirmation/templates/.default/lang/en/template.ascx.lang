@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ConfirmationSuccessful"><![CDATA[User registration has successfully confirmed. You can authorize using your login and password.]]></data>
+	<data name="Authorized"><![CDATA[User registration has successfully confirmed.]]></data>
+	<data name="ConfirmationError"><![CDATA[Error confirming user registration.]]></data>
+</resources>

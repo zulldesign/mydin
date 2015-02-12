@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Cloud: Green Theme]]></data>
+	<data name="Template.Description"><![CDATA[<p>Light, spring inspired template.</p><p>This is a fixed width template crafted in mild color, with a light background image.</p>]]></data>
+	<data name="Theme.Name"><![CDATA[Green]]></data>
+	<data name="Theme.Description"><![CDATA[Green theme]]></data>
+</resources>

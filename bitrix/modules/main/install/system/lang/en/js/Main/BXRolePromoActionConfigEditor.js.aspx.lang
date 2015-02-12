@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Role.Label"><![CDATA[Role]]></data>
+	<data name="Policy.Label"><![CDATA[Policy]]></data>
+</resources>

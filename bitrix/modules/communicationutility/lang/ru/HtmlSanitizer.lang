@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="UnexpectedClosingTag"><![CDATA[Не ожидалось закрывающегося тега {0}]]></data>
+	<data name="InvalidClosingTag"><![CDATA[Неверный закрывающийся тег {0}. Ожидалось закрытие {1}]]></data>
+	<data name="InvalidAttributeValue"><![CDATA[Недопустимое значение для атрибута тега {0} {1}={2}: {3}]]></data>
+	<data name="IntegerExpected"><![CDATA[Ожидалось число]]></data>
+	<data name="ValueShouldNotBeLessThan"><![CDATA[Значение не должно быть меньше {0}]]></data>
+	<data name="ValueShouldNotBeGreaterThan"><![CDATA[Значение не должно быть больше {0}]]></data>
+	<data name="IncorrectSize"><![CDATA[Размер задан неправильно]]></data>
+	<data name="IncorrectColor"><![CDATA[Цвет задан неправильно]]></data>
+	<data name="JavascriptInUrl"><![CDATA[Попытка вставить JavaScript в URI]]></data>
+	<data name="UrlFirstSymbolAlphanumeric"><![CDATA[URI: Первый символ адреса должен быть буквой или цифрой]]></data>
+	<data name="JavascriptInImg"><![CDATA[Попытка вставить JavaScript в пути к изображению]]></data>
+	<data name="InvalidValue"><![CDATA[Недопустимое значение параметра]]></data>
+	<data name="StyleIsEmpty"><![CDATA[Описание стиля не должно быть пустым]]></data>
+</resources>

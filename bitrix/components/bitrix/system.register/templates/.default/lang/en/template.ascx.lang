@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="RegistrationError"><![CDATA[Registration error]]></data>
+	<data name="RegistrationOnSite"><![CDATA[New Account]]></data>
+	<data name="Legend.DisplayName"><![CDATA[Display Name:]]></data>
+	<data name="Message.DisplayNameIsRequired"><![CDATA[The "Display Name" field is required.]]></data>
+	<data name="Legend.Name"><![CDATA[First Name:]]></data>
+	<data name="Message.NameIsRequired"><![CDATA[The "First Name" field is required.]]></data>
+	<data name="Legend.SecondName"><![CDATA[Last Name:]]></data>
+	<data name="Message.SecondNameIsRequired"><![CDATA[The "Last Name" field is required.]]></data>
+	<data name="Legend.Login"><![CDATA[Login:]]></data>
+	<data name="Message.LoginIsRequired"><![CDATA[The "Login" field is required.]]></data>
+	<data name="Legend.Password"><![CDATA[Password:]]></data>
+	<data name="Message.PasswordIsRequired"><![CDATA[The "Password" field is required.]]></data>
+	<data name="Legend.PasswordConfirmation"><![CDATA[Confirm Password:]]></data>
+	<data name="Message.PasswordConfirmationIsRequired"><![CDATA[The "Confirm Password" field is required.]]></data>
+	<data name="Message.PasswordAndItsConfirmationDontMatch"><![CDATA[The password does not match the confirmation.]]></data>
+	<data name="MessageText.EmailIsRequired"><![CDATA[The "E-mail" field is required.]]></data>
+	<data name="MessageToolTip.EmailIsRequired"><![CDATA[The "E-mail" field is required.]]></data>
+	<data name="MessageText.EmailIsInvalid"><![CDATA[The specified E-mail address is incorrect.]]></data>
+	<data name="Legend.SecretQuestion"><![CDATA[Secret Question:]]></data>
+	<data name="MessageText.SecretQuestionMustBeSpecified"><![CDATA[The "Secret Question" field is required.]]></data>
+	<data name="MessageToolTip.SecretQuestionMustBeSpecified"><![CDATA[The "Secret Question" field is required.]]></data>
+	<data name="Legend.AnswerForSecretQuestion"><![CDATA[Secret Answer:]]></data>
+	<data name="MessageText.AnswerForSecretQuestionMustBeSpecified"><![CDATA[The "Secret Answer" field is required.]]></data>
+	<data name="MessageToolTip.AnswerForSecretQuestionMustBeSpecified"><![CDATA[The "Secret Answer" field is required.]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[CAPTCHA Code:]]></data>
+	<data name="ButtonText.Register"><![CDATA[Register]]></data>
+	<data name="YouHaveBeenSuccessfullyRegistredOnTheSite"><![CDATA[Your account has been created successfully.]]></data>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[The "CAPTCHA Code" field is required.]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[The "CAPTCHA Code" field is required.]]></data>
+	<data name="DoAuthentication"><![CDATA[Upon Successful Registration, Do Authentication]]></data>
+	<data name="RedirectUrl"><![CDATA[Upon Successful Registration, Redirect To]]></data>
+	<data name="Error.InvalidLoginOrPassword"><![CDATA[Your login or password is incorrect.]]></data>
+	<data name="ConfirmationRequestWasSent"><![CDATA[An email has been sent to {0} with details on how to activate your account. To complete your registration, please click the link in the e-mail message.]]></data>
+	<data name="ButtonText.Link"><![CDATA[Attach]]></data>
+	<data name="LinkExistingUser"><![CDATA[Specify the existing user data if you already have an account at this site.]]></data>
+	<data name="RegisterNewUser"><![CDATA[If you are new to this site, please fill in the required fields:]]></data>
+</resources>

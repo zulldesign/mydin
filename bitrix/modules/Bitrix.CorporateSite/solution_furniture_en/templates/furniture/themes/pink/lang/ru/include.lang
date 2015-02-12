@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Компания : розовая тема]]></data>
+  	<data name="Template.Description">
+	<![CDATA[
+	<p>Яркий шаблон с фиксированной шириной.</p>
+	]]>
+	</data>
+	<data name="Theme.Name"><![CDATA[Розовый]]></data>
+	<data name="Theme.Description"><![CDATA[Розовая тема]]></data>
+</resources>

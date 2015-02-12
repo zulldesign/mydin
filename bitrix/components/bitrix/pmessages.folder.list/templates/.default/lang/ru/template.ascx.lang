@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ConfirmDelete"><![CDATA[Вы действительно хотите удалить отмеченные папки?]]></data>
+	<data name="NewFolder"><![CDATA[Создать]]></data>
+	<data name="Folders"><![CDATA[Папки]]></data>
+	<data name="Topics"><![CDATA[Переписки]]></data>
+	<data name="Author"><![CDATA[автор]]></data>
+	<data name="Guest"><![CDATA[гость ]]></data>
+	<data name="ManageFolders"><![CDATA[Управление папками]]></data>
+	<data name="Option.DeleteTopics"><![CDATA[Удалить переписки]]></data>
+	<data name="SelectAll"><![CDATA[Выделить все]]></data>
+	<data name="NoFoldersHere"><![CDATA[Пока нет ни одной пользовательской папки]]></data>
+	<data name="Header"><![CDATA[Управление папками]]></data>
+	<data name="Option.Edit"><![CDATA[Изменить]]></data>
+	<data name="Option.Delete"><![CDATA[Удалить]]></data>
+	<data name="Option.MoveUp"><![CDATA[Поднять]]></data>
+	<data name="Option.MoveDown"><![CDATA[Опустить]]></data>
+	<data name="ToolTip.NoUnreadMessages"><![CDATA[Нет непрочитанных сообщений]]></data>
+	<data name="ToolTip.HaveUnreadMessages"><![CDATA[Есть непрочитанные сообщения]]></data>
+	<data name="LastMessage"><![CDATA[Последнее сообщение]]></data>
+	<data name="Title.CreateFolder"><![CDATA[Создать папку]]></data>
+	<data name="Error.FolderNameRequired"><![CDATA[Укажите непустое имя папки]]></data>
+</resources>

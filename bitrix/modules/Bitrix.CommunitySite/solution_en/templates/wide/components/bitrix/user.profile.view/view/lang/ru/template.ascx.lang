@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Профиль пользователя]]></data>
+	<data name="EditProfile"><![CDATA[Изменить профиль]]></data>
+	<data name="Registered"><![CDATA[Зарегистрирован]]></data>
+	<data name="RegisteredDateAndTime"><![CDATA[{0} в {1}]]></data>
+</resources>

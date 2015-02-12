@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="SqlStatistics.QueryInfo"><![CDATA[<b>Query #{0} {1}</b>:
+<br/>
+{2}
+<br/>
+<br/>
+<b>Total execution time:</b> {3} sec.]]></data>
+	<data name="SqlStatistics.CallsCount"><![CDATA[(calls - {0})]]></data>
+	<data name="SqlStatistics.Summary"><![CDATA[File path: {0} <br/>
+Generated in: {4} <br/>
+Total requests: {1}, unique: {2}, time: {3} sec. ({5:P})]]></data>
+	<data name="SqlStatistics.Label.TotalQueries"><![CDATA[Total SQL Queries]]></data>
+	<data name="SqlStatistics.Label.TotalQueriesTime"><![CDATA[Total Execution Time]]></data>
+	<data name="SqlStatistics.Label.ShowDetailStatistics"><![CDATA[Show Query Statistics Details]]></data>
+	<data name="SqlStatistics.Label.SqlQueryStatistics"><![CDATA[SQL Query Statistics]]></data>
+	<data name="SqlStatistics.Label.Seconds"><![CDATA[sec.]]></data>
+	<data name="SqlStatistics.Label.PageExecutionTime"><![CDATA[Page Execution Time]]></data>
+	<data name="SqlStatistics.Label.Unique"><![CDATA[unique]]></data>
+</resources>

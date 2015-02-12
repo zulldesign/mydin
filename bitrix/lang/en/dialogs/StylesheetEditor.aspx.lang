@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="INSUFFICIENT_RIGHTS_TO_PRODUCT_SETTINGS_VIEW"><![CDATA[Insufficient permissions to view CSS file.]]></data>
+	<data name="INSUFFICIENT_RIGHTS_PRODUCT_TO_SETTINGS_MANAGE"><![CDATA[Insufficient permissions to edit CSS file.]]></data>
+	<data name="OPERATION_HAS_BEEN_COMPLETED_SUCCESSFULLY_PAGE_REFRESHING"><![CDATA[Operation has been completed successfully. Refreshing page...]]></data>
+	<data name="OPERATION_HAS_BEEN_COMPLETED_SUCCESSFULLY"><![CDATA[Operation has been completed successfully.]]></data>
+	<data name="FORMAT_MODIFICATION_OF_FILE"><![CDATA[File Editor: "{0}"]]></data>
+</resources>

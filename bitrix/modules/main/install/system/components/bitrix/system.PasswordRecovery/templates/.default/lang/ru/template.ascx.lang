@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.NewPasswordHasBeenSentByEmail"><![CDATA[Новый пароль был выслан по E-Mail]]></data>
+	<data name="Header.PasswordRecovery"><![CDATA[Восстановление пароля]]></data>
+	<data name="Legend.Login"><![CDATA[Логин:]]></data>
+	<data name="IfYouForgetYourPasswordEnterYourLogin"><![CDATA[Если вы забыли пароль, введите ваш логин.]]></data>
+	<data name="Legend.Question"><![CDATA[Вопрос:]]></data>
+	<data name="Legend.Answer"><![CDATA[Ответ:]]></data>
+	<data name="ButtonText.ChangePassword"><![CDATA[Сменить пароль]]></data>
+	<data name="EnterAswerForSecretQuestion"><![CDATA[Введите ответ на ваш секретный вопрос.]]></data>
+	<data name="PasswordRecoveryIsUnavailableByMeansOfSecretQuestion"><![CDATA[Восстановление пароля с помощью секретного вопроса недоступно]]></data>
+	<data name="Format.Return2AuthorizationForm"><![CDATA[Вернуться на {0}форму авторизации{1}.]]></data>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[Поле "Код подтверждения" должно быть заполнено]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[Поле "Код подтверждения" должно быть заполнено]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[Код подтверждения:]]></data>
+</resources>

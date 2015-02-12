@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[New PM Notifier]]></data>
+	<data name="Description"><![CDATA[Displays information about new personal messages]]></data>
+	<data name="Param.MessagesReadUrl"><![CDATA[Personal Messages View Page]]></data>
+	<data name="Group"><![CDATA[Personal Messages]]></data>
+	<data name="Param.MessageReadUrlTemplate"><![CDATA[Message View Page]]></data>
+</resources>

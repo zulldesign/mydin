@@ -1,0 +1,1 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="install_updater.ascx.cs" Inherits="Bitrix.Wizards.Install.InstallUpdaterWizardStep" %>

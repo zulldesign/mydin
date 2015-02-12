@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="IndexerTitle"><![CDATA[Forums]]></data>
+	<data name="Status.NotStarted"><![CDATA[The reindexing did not start.]]></data>
+	<data name="Status.DeletingOld"><![CDATA[Deleting the previous content...]]></data>
+	<data name="Status.Reindexing"><![CDATA[Reindexing...]]></data>
+	<data name="Status.ReindexingTopic"><![CDATA[Reindexing topic "{0}" in forum "{1}" (post #{2})...]]></data>
+	<data name="Status.Suspended"><![CDATA[The reindexing paused.]]></data>
+	<data name="Status.SuspendedTopic"><![CDATA[Paused at record "{0}" in forum "{1}" (post #{2})]]></data>
+	<data name="Status.DeletingMissing"><![CDATA[Deleting missing content...]]></data>
+	<data name="Status.Finished"><![CDATA[The reindexing has been completed.]]></data>
+	<data name="Status.Error"><![CDATA[Reindexing error: {0}<br/>{1}]]></data>
+</resources>

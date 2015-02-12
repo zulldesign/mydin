@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Forum Category]]></data>
+	<data name="FilterText.Name"><![CDATA[Category Name]]></data>
+	<data name="FilterText.Sort"><![CDATA[Sort]]></data>
+	<data name="FilterText.XmlId"><![CDATA[External ID]]></data>
+	<data name="NewButtonText"><![CDATA[New Category]]></data>
+	<data name="NewButtonTitle"><![CDATA[Add a new forum category]]></data>
+	<data name="PopupText.Edit"><![CDATA[Edit Category]]></data>
+	<data name="PopupText.Delete"><![CDATA[Delete Category]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this category?]]></data>
+	<data name="DataGridTitle"><![CDATA[Categories]]></data>
+	<data name="ColumnHeaderText.Name"><![CDATA[Name]]></data>
+	<data name="Error.EmptyCategoryName"><![CDATA[The category name is empty.]]></data>
+	<data name="ActionTitle.EditSelectedCategories"><![CDATA[Edit Selected Categories]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete the selected categories?]]></data>
+</resources>

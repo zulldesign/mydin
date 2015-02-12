@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Description"><![CDATA[Displays Media Gallery Elements]]></data>
+	<data name="Title"><![CDATA[Media Gallery Element List]]></data>
+	<data name="Group"><![CDATA[Media]]></data>
+	<data name="Category.AppearanceCommon.Title"><![CDATA[Common design parameters]]></data>
+</resources>

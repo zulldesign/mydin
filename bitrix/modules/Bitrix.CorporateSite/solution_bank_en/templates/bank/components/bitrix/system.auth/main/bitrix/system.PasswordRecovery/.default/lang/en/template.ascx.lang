@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Password Recovery]]></data>
+	<data name="Login"><![CDATA[Login]]></data>
+	<data name="LoginRequired"><![CDATA[The login is not specified.]]></data>
+	<data name="ButtonText.Next"><![CDATA[Next]]></data>
+	<data name="EnterLogin"><![CDATA[Please enter your login to recover your password.]]></data>
+	<data name="SuccessMessage"><![CDATA[Your new password has been sent to your e-mail address.]]></data>
+	<data name="Question"><![CDATA[Question]]></data>
+	<data name="Answer"><![CDATA[Answer]]></data>
+	<data name="Message.AnswerRequired"><![CDATA[The answer is required.]]></data>
+	<data name="ButtonText.ChangePassword"><![CDATA[Change Password]]></data>
+	<data name="EnterAnswer"><![CDATA[Please answer your secret question.]]></data>
+	<data name="Disabled"><![CDATA[Password cannot be restored using the check word.]]></data>
+	<data name="ReturnToAuth"><![CDATA[Back To <a href="{0}">Authorization Form</a>.]]></data>
+</resources>

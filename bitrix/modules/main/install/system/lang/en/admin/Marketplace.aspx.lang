@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FilterText.Name"><![CDATA[Name]]></data>
+	<data name="FilterText.Category"><![CDATA[Category]]></data>
+	<data name="FilterText.Type"><![CDATA[Type]]></data>
+	<data name="TableTitle.Modules"><![CDATA[Modules]]></data>
+	<data name="ColumnHeaderText.Image"><![CDATA[Image]]></data>
+	<data name="ColumnHeaderText.Id"><![CDATA[ID]]></data>
+	<data name="ColumnHeaderText.Title"><![CDATA[Module]]></data>
+	<data name="ColumnHeaderText.Description"><![CDATA[Module Description]]></data>
+	<data name="ColumnHeaderText.Partner"><![CDATA[Partner]]></data>
+	<data name="ColumnHeaderText.UpdateDate"><![CDATA[Modified]]></data>
+	<data name="ColumnHeaderText.Downloaded"><![CDATA[Loaded]]></data>
+	<data name="PopupTitle.View"><![CDATA[View Details]]></data>
+	<data name="PopupText.Install"><![CDATA[Install]]></data>
+	<data name="PopupTitle.Install"><![CDATA[Download and install the module]]></data>
+	<data name="Error.Unknown"><![CDATA[Error downloading the module. See the event log for details.]]></data>
+</resources>

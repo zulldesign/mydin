@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Solution Parameters]]></data>
+	<data name="SiteNotFound"><![CDATA[The site cannot be found, or is inactive.]]></data>
+	<data name="SolutionNotFound"><![CDATA[No solution installed on the website.]]></data>
+	<data name="SettingsPageNotFound"><![CDATA[The solution configuration page was not found.]]></data>
+</resources>

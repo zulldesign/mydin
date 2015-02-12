@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Prev"><![CDATA[< Предыдущая]]></data>
+	<data name="Next"><![CDATA[Следующая >]]></data>
+	<data name="ShowAll"><![CDATA[Все страницы]]></data>
+	<data name="ShowPages"><![CDATA[Постранично]]></data>
+	<data name="Title"><![CDATA[Диапазон страниц]]></data>
+</resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title.BlogGroups"><![CDATA[Blog Participation]]></data>
+	<data name="Option.SelectBlog"><![CDATA[- select a blog -]]></data>
+	<data name="InGroup"><![CDATA[in group]]></data>
+	<data name="Option.SelectGroup"><![CDATA[- select a group -]]></data>
+	<data name="InBlog"><![CDATA[in blog]]></data>
+	<data name="Tooltip.CreatedAutomatically"><![CDATA[Auto-created]]></data>
+	<data name="AddGroup"><![CDATA[Add new blog participation]]></data>
+</resources>

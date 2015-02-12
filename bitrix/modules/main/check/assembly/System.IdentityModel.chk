@@ -1,0 +1,8 @@
+﻿<%@ Control Language="C#" ClassName="SystemIdentityModel" AutoEventWireup="false" %>
+<script runat="server">
+    protected override void OnInit(EventArgs e)
+    {
+        base.OnInit(e);
+        string s = System.IdentityModel.Claims.ClaimTypes.Anonymous;
+    }
+</script>

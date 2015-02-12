@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Site Templates]]></data>
+	<data name="MasterTitle"><![CDATA[Site Templates]]></data>
+	<data name="ColId"><![CDATA[ID]]></data>
+	<data name="ColName"><![CDATA[Name]]></data>
+	<data name="ColDescription"><![CDATA[Description]]></data>
+	<data name="Edit"><![CDATA[Edit]]></data>
+	<data name="EditDesc"><![CDATA[Edit template]]></data>
+	<data name="Copy"><![CDATA[Copy]]></data>
+	<data name="CopyDesc"><![CDATA[Copy template]]></data>
+	<data name="Delete"><![CDATA[Delete]]></data>
+	<data name="DeleteDesc"><![CDATA[Delete template]]></data>
+	<data name="TableTitle.SiteTemplates"><![CDATA[Site Templates]]></data>
+	<data name="Magnify"><![CDATA[Enlarge]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected site template?]]></data>
+	<data name="PopupTitle.View"><![CDATA[View Site Template]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected site templates?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the site templates?]]></data>
+</resources>

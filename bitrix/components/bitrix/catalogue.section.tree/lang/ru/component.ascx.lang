@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="InfoBlockType"><![CDATA[Тип информационного блока]]></data>
+	<data name="InfoBlockCode"><![CDATA[Код информационного блока]]></data>
+	<data name="SubsectionsDisplayDepth"><![CDATA[Максимальная отображаемая глубина разделов]]></data>
+	<data name="DisplayQuantityOfElementsInSection"><![CDATA[Показывать количество элементов в разделе]]></data>
+	<data name="CountSubElements"><![CDATA[Считать элементы в подразделах раздела]]></data>
+	<data name="PageAddress"><![CDATA[Адрес страницы с содержимым раздела]]></data>
+	<data name="SectionID"><![CDATA[Идентификатор раздела]]></data>
+	<data name="SectionMnemonicCodeID"><![CDATA[Мнемонического кода раздела]]></data>
+	<data name="AddButtonsForThisComponentToAdminPanel"><![CDATA[Добавлять в админ. панель кнопки для данного компонента]]></data>
+	<data name="IncludeParentSections"><![CDATA[Показывать родительские разделы для текущего (выбранного) уровня]]></data>
+	<data name="WrongIBlockCode"><![CDATA[Задан неверный идентификатор информационного блока.]]></data>
+	<data name="AddNewSection"><![CDATA[Добавить раздел]]></data>
+	<data name="EditCurrentSection"><![CDATA[Изменить раздел]]></data>
+	<data name="DeleteCurrentSection"><![CDATA[Удалить раздел]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Структура разделов" необходимо настроить]]></data>
+	<data name="SelectIBlockType"><![CDATA[-- выберите тип --]]></data>
+	<data name="SelectIBlockID"><![CDATA[-- выберите информационный блок --]]></data>
+	<data name="FilterBySectionCustomProperty"><![CDATA[Фильтровать разделы по набираемым свойствам]]></data>
+	<data name="SectionCustomPropertyFilterSettings"><![CDATA[Фильтр по набираемым свойствам разделов]]></data>
+	<data name="SectionDeletionConfirmation"><![CDATA[Вы действительно хотите удалить этот раздел со всем его содержимым?]]></data>
+	<data name="AddSectionMenuItem"><![CDATA[Добавить {0}]]></data>
+	<data name="EditSectionMenuItem"><![CDATA[Редактировать {0}]]></data>
+	<data name="DeleteSectionMenuItem"><![CDATA[Удалить {0}]]></data>
+	<data name="IBlockSectionName"><![CDATA[раздел]]></data>
+</resources>

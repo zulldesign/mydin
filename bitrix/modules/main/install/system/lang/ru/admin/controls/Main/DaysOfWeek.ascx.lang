@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Monday"><![CDATA[Пн.]]></data>
+	<data name="Tuesday"><![CDATA[Вт.]]></data>
+	<data name="Wednesday"><![CDATA[Ср.]]></data>
+	<data name="Thursday"><![CDATA[Чт.]]></data>
+	<data name="Friday"><![CDATA[Пт.]]></data>
+	<data name="Saturday"><![CDATA[Сб.]]></data>
+	<data name="Sunday"><![CDATA[Вс.]]></data>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Выберите шаблон решения]]></data>
+	<data name="Navigation.Template"><![CDATA[Выбор шаблона]]></data>
+	<data name="Error.SelectTemplate"><![CDATA[Выберите один из предложенных шаблонов]]></data>
+</resources>

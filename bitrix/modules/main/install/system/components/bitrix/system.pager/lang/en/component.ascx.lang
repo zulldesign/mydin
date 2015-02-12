@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Page navigation]]></data>
+	<data name="Description"><![CDATA[Paged navigation with current page highlighting.]]></data>
+</resources>

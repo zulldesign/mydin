@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ConfirmDelete"><![CDATA[Are you sure you want to delete the selected conversations?]]></data>
+	<data name="NewTopic"><![CDATA[New Topic]]></data>
+	<data name="Topics"><![CDATA[Topics]]></data>
+	<data name="Replies"><![CDATA[Messages]]></data>
+	<data name="LastPost"><![CDATA[Last Post]]></data>
+	<data name="Title.HasNewMessages"><![CDATA[There are new messages]]></data>
+	<data name="Title.NoNewMessages"><![CDATA[There are no new messages]]></data>
+	<data name="Author"><![CDATA[author]]></data>
+	<data name="Guest"><![CDATA[guest ]]></data>
+	<data name="ManageTopics"><![CDATA[Manage Conversations]]></data>
+	<data name="Option.MoveTopics"><![CDATA[Move]]></data>
+	<data name="Option.DeleteTopics"><![CDATA[Delete]]></data>
+	<data name="Option.MarkAsRead"><![CDATA[Mark As Read]]></data>
+	<data name="Option.RemoveReadMark"><![CDATA[Mark As Unread]]></data>
+	<data name="Option.EnableEmailNotification"><![CDATA[Enable E-Mail Notifications]]></data>
+	<data name="Option.DisableEmailNotification"><![CDATA[Disable E-Mail Notifications]]></data>
+	<data name="SelectAll"><![CDATA[Select All]]></data>
+	<data name="NoTopicsHere"><![CDATA[No conversations exist.]]></data>
+	<data name="UnreadMessages"><![CDATA[New]]></data>
+	<data name="MsgFilter.Option.All"><![CDATA[All Messages]]></data>
+	<data name="MsgFilter.Option.In"><![CDATA[Inbox]]></data>
+	<data name="MsgFilter.Option.Out"><![CDATA[Outbox]]></data>
+	<data name="MsgFilter.LabelText"><![CDATA[Show]]></data>
+	<data name="Header"><![CDATA[Manage Conversations]]></data>
+	<data name="MyTopics"><![CDATA[My Topics]]></data>
+	<data name="InFolder"><![CDATA[in folder "{0}"]]></data>
+	<data name="ToolTip.HaveUnreadMessages"><![CDATA[There are unread messages.]]></data>
+	<data name="ToolTip.NoUnreadMessages"><![CDATA[There are no unread messages.]]></data>
+</resources>

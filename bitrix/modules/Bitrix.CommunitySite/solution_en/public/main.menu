@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menuitem>
+		<title>Posts</title>
+		<sort>10</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>site/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Blogs</title>
+		<sort>20</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>site/blogs/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Forums</title>
+		<sort>30</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>site/forums/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>People</title>
+		<sort>40</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>site/people/</link>
+		</links>
+	</menuitem>
+</menu>

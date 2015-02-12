@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.Go2UpdateSystem"><![CDATA[Перейти в систему обновлений]]></data>
+	<data name="ActionText.ChangeSettings"><![CDATA[Изменить настройки]]></data>
+</resources>

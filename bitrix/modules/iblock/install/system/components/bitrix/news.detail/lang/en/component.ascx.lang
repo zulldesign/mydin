@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FormatModifyNews"><![CDATA[Edit News "{0}"]]></data>
+	<data name="YouDontHaveRightsToBrowsingFullContent"><![CDATA[You do not have permission to view full text.]]></data>
+	<data name="InfoBlockType"><![CDATA[Information Block Type (only for verification)]]></data>
+	<data name="InfoBlockCode"><![CDATA[Information Block Code]]></data>
+	<data name="NewsID"><![CDATA[News ID]]></data>
+	<data name="Properties"><![CDATA[Properties]]></data>
+	<data name="ElementListBrowsingUrl"><![CDATA[Elements Page URL ]]></data>
+	<data name="AddButtonsForThisComponentToAdminPanel"><![CDATA[Control Panel Shows Buttons for This Component]]></data>
+	<data name="SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="DisplayPageTitle"><![CDATA[Show News Title]]></data>
+	<data name="AddSectionToNavigationalChain"><![CDATA[Add Section To Breadcrumbs]]></data>
+	<data name="DateDisplayFormat"><![CDATA[Date Format]]></data>
+	<data name="UsePermissions"><![CDATA[Respect Permissions]]></data>
+	<data name="GroupPermissions"><![CDATA[Detailed Information Is Available To Roles]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[The "News Details" component requires configuration.]]></data>
+	<data name="EmptyIBlockCode"><![CDATA[The information block ID is required.]]></data>
+	<data name="ElementNotFound"><![CDATA[Element was not found.]]></data>
+	<data name="WrongIBlockCode"><![CDATA[The specified information block was not found.]]></data>
+	<data name="EditElementMenuItem"><![CDATA[Edit {0}]]></data>
+	<data name="IBlockElementName"><![CDATA[element]]></data>
+	<data name="CreateElementMenuItem"><![CDATA[Add {0}]]></data>
+	<data name="ShowDetailPicture"><![CDATA[Show Full Image]]></data>
+	<data name="ShowPreviewText"><![CDATA[Show Preview Text]]></data>
+	<data name="ShowPreviewPicture"><![CDATA[Show Preview Picture]]></data>
+	<data name="ShowActiveElements"><![CDATA[Show Only Currently Active Elements]]></data>
+	<data name="ShowElementDate"><![CDATA[Show Element Date]]></data>
+	<data name="LinkNameToElementsList"><![CDATA[Title for elements view link]]></data>
+	<data name="BackToNewsList"><![CDATA[Back to News]]></data>
+</resources>

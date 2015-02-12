@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.AllSettings"><![CDATA[Настройки]]></data>
+	<data name="PageTitle.Content"><![CDATA[Контент]]></data>
+	<data name="ActionText.Icons"><![CDATA[Значки]]></data>
+	<data name="ActionText.List"><![CDATA[Список]]></data>
+</resources>

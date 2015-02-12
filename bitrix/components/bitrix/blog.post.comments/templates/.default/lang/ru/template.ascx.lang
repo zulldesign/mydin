@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="AddComment"><![CDATA[Добавить комментарий]]></data>
+	<data name="Reply"><![CDATA[Ответить]]></data>
+	<data name="Parent"><![CDATA[Родитель]]></data>
+	<data name="Confirm.Link"><![CDATA[Скопируйте в буфер обмена адрес прямой ссылки на этот комментарий]]></data>
+	<data name="Link"><![CDATA[Ссылка]]></data>
+	<data name="Confirm.Delete"><![CDATA[Вы действительно хотите удалить этот комментарий?]]></data>
+	<data name="CommentDeleted"><![CDATA[Здесь раньше был комментарий, но сейчас он удален.]]></data>
+	<data name="CommentShouldBeApproved"><![CDATA[Спасибо за ваш комментарий! Он успешно сохранён и будет показан после одобрения владельцем сообщения.]]></data>
+	<data name="GoToOriginalPostComments"><![CDATA[Перейти к комментариям оригинальной записи]]></data>
+	<data name="Approve"><![CDATA[Показать]]></data>
+	<data name="Disapprove"><![CDATA[Скрыть]]></data>
+</resources>

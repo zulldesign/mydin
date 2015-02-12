@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Summary.Title"><![CDATA[Banner is visible]]></data>
+	<data name="Summary.DisplayEveryDay"><![CDATA[every day]]></data>
+	<data name="Summary.DisplayNever"><![CDATA[never]]></data>
+	<data name="Legend.Choiced"><![CDATA[selected]]></data>
+	<data name="Legend.NotChoiced"><![CDATA[not selected]]></data>
+</resources>

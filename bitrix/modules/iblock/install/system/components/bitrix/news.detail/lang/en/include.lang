@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[News Details]]></data>
+	<data name="Description"><![CDATA[Shows news details]]></data>
+	<data name="Group"><![CDATA[News]]></data>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Legend.ListValues"><![CDATA[Значения списка]]></data>
+	<data name="Message.XmlIdRequired"><![CDATA[Заполните поле "XML_ID" для элемента списка.]]></data>
+	<data name="Message.ValueRequired"><![CDATA[Заполните поле "Значение" для элемента списка.]]></data>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TitleTemplate.Standard"><![CDATA[votes – {0} (yeas – {1}, noes – {2})]]></data>
+	<data name="TitleTemplate.NoVotes"><![CDATA[no votes]]></data>
+	<data name="TitleTemplate.Love"><![CDATA[Like]]></data>
+	<data name="TitleTemplate.Hate"><![CDATA[Dislike]]></data>
+</resources>

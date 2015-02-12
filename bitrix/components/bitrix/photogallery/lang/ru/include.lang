@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Фотогалерея]]></data>
+	<data name="Description"><![CDATA[Компонент фотогалереи]]></data>
+	<data name="Group"><![CDATA[Фотогалерея]]></data>
+</resources>

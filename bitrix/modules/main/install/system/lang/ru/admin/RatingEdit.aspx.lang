@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.Creation"><![CDATA[Создание рейтинга]]></data>
+	<data name="PageTitle.Modification"><![CDATA[Редактирование рейтинга]]></data>
+	<data name="ActionText.GoBack"><![CDATA[Список рейтингов]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Вернуться к списку рейтингов]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новый рейтинг]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить рейтинг]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить этот рейтинг?]]></data>
+	<data name="TabTitle.MainSettings"><![CDATA[Именование, оцениваемый объект и пользовательские поля для хранения значений]]></data>
+	<data name="TabText.MainSettings"><![CDATA[Основные параметры]]></data>
+	<data name="TabTitle.CalculationSettings"><![CDATA[Состав и способ подсчёта]]></data>
+	<data name="TabText.CalculationSettings"><![CDATA[Вычисление]]></data>
+	<data name="FieldTooltip.Active"><![CDATA[Активность рейтинга. В неактивном рейтинге ничего менять нельзя...]]></data>
+	<data name="FieldLabel.Active"><![CDATA[Активность]]></data>
+	<data name="FieldTooltip.Name"><![CDATA[Название рейтинга...]]></data>
+	<data name="FieldLabel.Name"><![CDATA[Название]]></data>
+	<data name="Message.NameNotSpecified"><![CDATA[Не указано название рейтинга]]></data>
+	<data name="Message.BoundEntityType"><![CDATA[Не указан оцениваемый рейтингом объект]]></data>
+	<data name="Message.Components"><![CDATA[Не выбрано ни одного компонента]]></data>
+	<data name="Message.CurValCustomFieldNameNotSpecified"><![CDATA[Не указано имя пользовательского поля для текущего значения]]></data>
+	<data name="Message.PrevValCustomFieldNameNotSpecified"><![CDATA[Не указано имя пользовательского поля для предыдущего значения]]></data>
+	<data name="FieldTooltip.BoundEntityType"><![CDATA[Объект оцениваемый в рейтинге]]></data>
+	<data name="FieldLabel.BoundEntityType"><![CDATA[Оцениваемый объект]]></data>
+	<data name="FieldTooltip.CalculationMethod"><![CDATA[Способ подсчёта рейтинга]]></data>
+	<data name="FieldLabel.CalculationMethod"><![CDATA[Способ подсчёта]]></data>
+	<data name="RatingCalculationMethod.Sum"><![CDATA[Сумма]]></data>
+	<data name="RatingCalculationMethod.Avg"><![CDATA[Среднее]]></data>
+	<data name="RatingRefreshMethod.Instant"><![CDATA[Немедленно]]></data>
+	<data name="RatingRefreshMethod.Periodic"><![CDATA[Периодически]]></data>
+	<data name="FieldTooltip.RefreshMethod"><![CDATA[Способ пересчёта рейтинга]]></data>
+	<data name="FieldLabel.RefreshMethod"><![CDATA[Способ пересчёта]]></data>
+	<data name="FieldTooltip.ComponentTypes"><![CDATA[Компоненты рейтинга]]></data>
+	<data name="FieldLabel.ComponentTypes"><![CDATA[Компоненты]]></data>
+	<data name="FieldLabel.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="FieldTooltip.CurValCustomFieldName"><![CDATA[Пользовательское поле для хранения текущего значения]]></data>
+	<data name="FieldTooltip.PrevValCustomFieldName"><![CDATA[Пользовательское поле для хранения предыдущего значения]]></data>
+	<data name="FieldLabel.CurValCustomFieldName"><![CDATA[Пользовательское поле для текущего значения]]></data>
+	<data name="FieldLabel.PrevValCustomFieldName"><![CDATA[Пользовательское поле для предыдущего значения]]></data>
+	<data name="NotSelectedNeuter"><![CDATA[-- не выбрано --]]></data>
+	<data name="NotSelectedMasculine"><![CDATA[-- не выбран --]]></data>
+	<data name="NotSelectedFeminine"><![CDATA[-- не выбрана --]]></data>
+	<data name="UserRating"><![CDATA[Рейтинг пользователя]]></data>
+	<data name="Message.RatingIsNotFound"><![CDATA[Не удалось найти рейтинг]]></data>
+	<data name="HowIsCalculated"><![CDATA[Как подсчитывается]]></data>
+	<data name="WhatIsCalculated"><![CDATA[Что подсчитывается]]></data>
+</resources>

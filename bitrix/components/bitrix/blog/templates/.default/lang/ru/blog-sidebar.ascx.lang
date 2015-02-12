@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Header.Blog"><![CDATA[Блог]]></data>
+	<data name="ToolTip.NewPost"><![CDATA[Написать новое сообщение]]></data>
+	<data name="NewPost"><![CDATA[Новое сообщение]]></data>
+	<data name="ToolTip.Drafts"><![CDATA[Просмотреть недописанные сообщения]]></data>
+	<data name="Drafts"><![CDATA[Черновики]]></data>
+	<data name="ToolTip.Settings"><![CDATA[Перейти в настройки блога]]></data>
+	<data name="ToolTip.MetaWeblog"><![CDATA[Написать в блог с помощью MetaWeblog API]]></data>
+	<data name="Settings"><![CDATA[Настройки]]></data>
+	<data name="Header.TagCloud"><![CDATA[Облако тегов]]></data>
+	<data name="ToolTip.Rss"><![CDATA[Сообщения текущего блога в формате RSS 2.0]]></data>
+	<data name="Header.Rss"><![CDATA[RSS подписка]]></data>
+</resources>

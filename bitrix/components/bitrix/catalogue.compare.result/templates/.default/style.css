@@ -1,0 +1,75 @@
+﻿div.bx-catalogue-compare-result-container {}
+
+div.bx-catalogue-compare-result-filter-container
+{
+	margin:0.5em 0 2em;	
+}
+
+div.bx-catalogue-compare-result-filter-container label.bx-catalogue-compare-result-filter-diff-only-active {  font-weight:700; }
+div.bx-catalogue-compare-result-filter-container a.bx-catalogue-compare-result-filter-diff-only-not-active { }
+
+div.bx-catalogue-compare-result-grid-container 
+{ 
+	overflow-x:auto; 
+	overflow-y:visible; 
+	padding-bottom:1.5em; 
+	width:100%;	
+}
+table.bx-catalogue-compare-result-grid {}
+table.bx-catalogue-compare-result-grid td 
+{
+	font-size:0.95em;
+	padding:0.6em;
+	vertical-align:top;	
+}
+table.bx-catalogue-compare-result-grid td.bx-catalogue-compare-result-grid-header 
+{
+	border-left:1px solid;
+	border-color:#DEDEDE;	
+	background-color:#ECECEC; 
+	font-size:1em;
+	font-weight:700;
+	vertical-align:middle;	
+}
+
+table.bx-catalogue-compare-result-grid td.bx-catalogue-compare-result-grid-item-header 
+{
+	background-color:#ECECEC; 
+	font-size:1em;
+	font-weight:700;
+	vertical-align:middle;	
+}
+
+table.bx-catalogue-compare-result-grid a.bx-catalogue-compare-result-delete-item 
+{
+	background:url("images/delete_button.gif") no-repeat scroll 0 0 transparent;
+	display:inline-block;
+	float:right;
+	height:20px;
+	margin-left:0.2em;
+	width:20px;
+}
+
+table.bx-catalogue-compare-result-grid span.bx-catalogue-compare-result-grid-title
+{
+	font-weight:700;	
+}
+
+table.bx-catalogue-compare-result-grid span.bx-catalogue-compare-result-grid-price
+{
+	font-size:1.5em;
+	font-weight:700;	
+}
+
+div.bx-catalogue-compare-result-delete-all-items-container
+{
+	margin:0;
+	padding:1em 0;
+}
+
+div.bx-catalogue-compare-result-delete-all-items-container a
+{
+	font-size:1.1em;
+	font-weight:700;	
+}
+

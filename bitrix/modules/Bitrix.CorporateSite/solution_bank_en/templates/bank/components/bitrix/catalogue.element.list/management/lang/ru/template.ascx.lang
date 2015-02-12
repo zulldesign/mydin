@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[таблица]]></data>
+	<data name="Position"><![CDATA[Должность]]></data>
+	<data name="Education"><![CDATA[Образование]]></data>
+</resources>

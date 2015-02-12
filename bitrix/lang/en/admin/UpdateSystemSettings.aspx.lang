@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.Go2UpdateSystem"><![CDATA[Open Update System]]></data>
+	<data name="DbConnectionStringForUpdateSystem"><![CDATA[Update System Database Connection String:]]></data>
+	<data name="DbOwner"><![CDATA[Database Owner:]]></data>
+	<data name="EmailForNotificationAboutUpdates"><![CDATA[E-mail Address For Notifications About New Updates:]]></data>
+	<data name="Legend.BeforeFirstUpdateTestDelay"><![CDATA[After the system is started, initiate first update check after:]]></data>
+	<data name="Legend.DefaultLanguageForUpdateSystem"><![CDATA[Default Update System Language:]]></data>
+	<data name="Legend.DownloadUpdatesAutomatically"><![CDATA[Download Updates Automatically:]]></data>
+	<data name="Legend.InstallStableVersionsOnly"><![CDATA[Install Stable Versions Only:]]></data>
+	<data name="Legend.LicenceKey"><![CDATA[License Key:]]></data>
+	<data name="Legend.Password"><![CDATA[Password:]]></data>
+	<data name="Legend.PasswordConfirmation"><![CDATA[Confirm Password:]]></data>
+	<data name="Legend.ProxyAddress"><![CDATA[Proxy Address:]]></data>
+	<data name="Legend.SafeUpdating"><![CDATA[Safe Update (may consume more resources):]]></data>
+	<data name="Legend.UpdateSystemAddress"><![CDATA[Update Server URL:]]></data>
+	<data name="Legend.UpdateTestFrequency"><![CDATA[Check for new updates each:]]></data>
+	<data name="Legend.UserName"><![CDATA[User Name]]></data>
+	<data name="Legend.UserProxy"><![CDATA[Use Proxy:]]></data>
+	<data name="Message.BeforeFirstUpdateTestDelayIsInvalid"><![CDATA[The period before the first update check attempt must be from 10 to 3600 seconds.]]></data>
+	<data name="Message.LicenceKeyIsRequired"><![CDATA[The "License Key" field is required.]]></data>
+	<data name="Message.PasswordAndItsConfirmationDontMatch"><![CDATA[The password and the confirmation password do not match.]]></data>
+	<data name="Message.RecordHasBeenModifiedSuccessfully"><![CDATA[The record has been changed successfully.]]></data>
+	<data name="Message.UpdateSystemAddressIsInvalid"><![CDATA[The "Update Server URL" field must contain a valid update server address.]]></data>
+	<data name="Message.UpdateSystemAddressIsRequired"><![CDATA[The "Update Server URL" field is required.]]></data>
+	<data name="Message.UpdateTestFrequencyIsRequired"><![CDATA[The "Check for new updates each" field must be from 600 to 86400 seconds.]]></data>
+	<data name="PageTitle.UpdateSystem"><![CDATA[Update System]]></data>
+	<data name="Russian"><![CDATA[Russian]]></data>
+	<data name="Seconds"><![CDATA[seconds]]></data>
+	<data name="Tab.Automation"><![CDATA[Automation]]></data>
+	<data name="TabText.ProxySetup"><![CDATA[Proxy Settings]]></data>
+	<data name="TabText.UpdateSystemSettings"><![CDATA[Update System Settings]]></data>
+	<data name="CheckBoxText.RefreshLicenseData"><![CDATA[request license data]]></data>
+</resources>

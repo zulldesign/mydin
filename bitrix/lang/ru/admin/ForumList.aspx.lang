@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Список форумов]]></data>
+	<data name="FilterText.Name"><![CDATA[Название форума]]></data>
+	<data name="FilterText.Site"><![CDATA[Сайт]]></data>
+	<data name="Option.SelectSite"><![CDATA[(выберите сайт)]]></data>
+	<data name="FilterText.Category"><![CDATA[Категория]]></data>
+	<data name="Option.SelectCategory"><![CDATA[(выберите категорию)]]></data>
+	<data name="Option.EmptyCategory"><![CDATA[(форумы без категорий)]]></data>
+	<data name="FilterText.Sort"><![CDATA[Сортировка]]></data>
+	<data name="FilterText.Code"><![CDATA[Символический код]]></data>
+	<data name="FilterText.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="NewButtonText"><![CDATA[Новый форум]]></data>
+	<data name="NewForumButtonTitle"><![CDATA[Добавить новый форум]]></data>
+	<data name="PopupText.EditText"><![CDATA[Изменить форум]]></data>
+	<data name="PopupTitle.EditTitle"><![CDATA[Изменить параметры форума]]></data>
+	<data name="PopupText.DeleteText"><![CDATA[Удалить форум]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить данный форум?]]></data>
+	<data name="DataGridTitle"><![CDATA[Форумы]]></data>
+	<data name="ColumnHeaderText.Name"><![CDATA[Название]]></data>
+	<data name="Error.EmptyForumName"><![CDATA[Введите название форума]]></data>
+	<data name="ColumnHeaderText.Category"><![CDATA[Категория]]></data>
+	<data name="ColumnHeaderText.Active"><![CDATA[Активность]]></data>
+	<data name="ColumnHeaderText.Site"><![CDATA[Сайт]]></data>
+	<data name="ColumnHeaderText.Sort"><![CDATA[Сортировка]]></data>
+	<data name="ColumnHeaderText.Topics"><![CDATA[Тем]]></data>
+	<data name="ColumnHeaderText.Replies"><![CDATA[Ответов]]></data>
+	<data name="ColumnHeaderText.DateCreate"><![CDATA[Дата создания]]></data>
+	<data name="ColumnHeaderText.AllowSmiles"><![CDATA[Смайлы]]></data>
+	<data name="ColumnHeaderText.IndexContent"><![CDATA[Индексирование]]></data>
+	<data name="ColumnHeaderText.Code"><![CDATA[Символический код]]></data>
+	<data name="ColumnHeaderText.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="ActionTitle.EditSelected"><![CDATA[Редактировать выбранные форумы]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные форумы?]]></data>
+	<data name="Option.NotSet"><![CDATA[(не установлена)]]></data>
+</resources>

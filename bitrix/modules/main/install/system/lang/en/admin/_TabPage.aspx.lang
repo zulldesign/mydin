@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <data name="ActionText.Action1"><![CDATA[Action Text]]></data>
+  <data name="ActionTitle.Action1"><![CDATA[Action Description]]></data>
+  <data name="MasterTitle"><![CDATA[Page Name]]></data>
+  <data name="Message.OperationErrors"><![CDATA[Operation has not completed successfully.]]></data>
+  <data name="Message.OperationSuccessful"><![CDATA[Operation has completed successfully.]]></data>
+  <data name="PageTitle"><![CDATA[Page Title]]></data>
+  <data name="TabText.Tab1"><![CDATA[Tab Text]]></data>
+  <data name="TabTitle.Tab1"><![CDATA[Tab Tooltip]]></data>
+</resources>

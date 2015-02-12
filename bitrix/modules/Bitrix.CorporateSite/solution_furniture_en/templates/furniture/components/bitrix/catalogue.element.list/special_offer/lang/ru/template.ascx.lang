@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[Один случайный элемент]]></data>
+	<data name="SpecialProduct"><![CDATA[Спецпредложение]]></data>
+	<data name="Price"><![CDATA[Цена]]></data>
+	<data name="NoOffersNow"><![CDATA[Специальные предложения отсутствуют]]></data>
+</resources>

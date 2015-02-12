@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menuitem>
+		<title>Site Map</title>
+		<sort>10</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/sitemap/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Contacts</title>
+		<sort>20</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/contacts/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Login</title>
+		<sort>30</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/login/</link>
+		</links>
+	</menuitem>
+</menu>

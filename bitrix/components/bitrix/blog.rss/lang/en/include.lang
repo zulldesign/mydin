@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Title"><![CDATA[Blog RSS]]></data>
+	<data name="Description"><![CDATA[The blog RSS in configurable format.]]></data>
+	<data name="Param.StuffType"><![CDATA[Export]]></data>
+	<data name="Param.FiltrationType"><![CDATA[From]]></data>
+	<data name="Param.CategoryId"><![CDATA[Category]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Blog]]></data>
+	<data name="Param.PostId"><![CDATA[Post]]></data>
+	<data name="NotSelectedMasculine"><![CDATA[-- not selected --]]></data>
+	<data name="NotSelectedFeminine"><![CDATA[-- not selected --]]></data>
+	<data name="FromUser"><![CDATA[from]]></data>
+	<data name="FromUnknownUser"><![CDATA[Guest]]></data>
+	<data name="Param.ItemQuantity"><![CDATA[Items]]></data>
+	<data name="Param.FeedItemUrlTemplate"><![CDATA[Feed Item URL Template]]></data>
+	<data name="Param.FeedUrlTemplate"><![CDATA[Feed URL Template]]></data>
+	<data name="Param.FeedTitle"><![CDATA[Feed Title]]></data>
+	<data name="Param.FeedTitle.Default"><![CDATA[Recent Blog Posts]]></data>
+	<data name="Param.FeedDescription"><![CDATA[Feed Description]]></data>
+	<data name="Param.FeedDescription.Default"><![CDATA[{0} Blog News]]></data>
+	<data name="Param.StuffType.Post"><![CDATA[New posts]]></data>
+	<data name="Param.StuffType.Comment"><![CDATA[New comments]]></data>
+	<data name="Param.FiltrationType.None"><![CDATA[All blogs]]></data>
+	<data name="Param.FiltrationType.CategoryId"><![CDATA[Categories]]></data>
+	<data name="Param.FiltrationType.BlogSlug"><![CDATA[Blog]]></data>
+	<data name="Param.FiltrationType.PostId"><![CDATA[Posts]]></data>
+	<data name="Param.EnablePostCut"><![CDATA[Show Cut Contents (CUT)]]></data>
+	<data name="Param.NoCData"><![CDATA[Don't Use CDATA]]></data>
+	<data name="PostCutDefaultTitle"><![CDATA[Details...]]></data>
+	<data name="Error.CategoryNotFound"><![CDATA[The category was not found.]]></data>
+	<data name="Error.BlogNotFound"><![CDATA[The blog was not found.]]></data>
+	<data name="Error.PostNotFound"><![CDATA[The post was not found.]]></data>
+	<data name="Error.NoData"><![CDATA[No data.]]></data>
+	<data name="Error.General"><![CDATA[General error.]]></data>
+	<data name="FeedTitle.NewBlogPostsInCategory"><![CDATA[{0}: New Posts]]></data>
+	<data name="FeedDescription.NewBlogPostsInCategory"><![CDATA[New blog posts in category "{0}" of "{1}"]]></data>
+	<data name="FeedTitle.NewPostsInBlog"><![CDATA[{0}: New Posts]]></data>
+	<data name="FeedDescription.NewPostsInBlog"><![CDATA[New posts in the blog "{0}" of "{1}"]]></data>
+	<data name="FeedTitle.NewCommentsInPost"><![CDATA[{0}: New Comments]]></data>
+	<data name="FeedDescription.NewCommentsInPost"><![CDATA[New comments on the post "{0}" in the blog "{1}" of "{2}"]]></data>
+	<data name="Param.FilterByPostCustomProperty"><![CDATA[Enable Post Fields Filter]]></data>
+	<data name="Param.PostCustomPropertyFilterSettings"><![CDATA[Post Fields Filter Settings]]></data>
+	<data name="Param.FilterByPostTag"><![CDATA[Enable Post Tags Filter (all other filters will be disabled, the Search module is required)]]></data>
+	<data name="Param.PostTagFilterSettings"><![CDATA[Post Tags Filter Settings (comma separated tags)]]></data>
+	<data name="Category.Tags"><![CDATA[Tags]]></data>
+</resources>

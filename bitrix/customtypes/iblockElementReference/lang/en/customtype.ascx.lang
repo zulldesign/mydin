@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ValueNotSet"><![CDATA[-- none selected --]]></data>
+	<data name="FieldMustBeFilled"><![CDATA[The field "{0}" requires that you select a value.]]></data>
+	<data name="IncorrectValue"><![CDATA[The value of "{0}" is incorrect.]]></data>
+</resources>

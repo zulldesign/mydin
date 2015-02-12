@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Param.YandexMapsApiKey"><![CDATA[Yandex.Map API Key]]></data>
+	<data name="Param.MapWidthInPixels"><![CDATA[Map Width In Pixels]]></data>
+	<data name="Param.MapHeightInPixels"><![CDATA[Map Height In Pixels]]></data>
+	<data name="Param.MapControls"><![CDATA[Show Controls On Map (navigation, type, scale etc.)]]></data>
+	<data name="Param.MapOptions"><![CDATA[Map Settings (wheel and double-click zoom, hotkeys etc.)]]></data>
+	<data name="Param.MapControls.ToolBar"><![CDATA[Toolbar]]></data>
+	<data name="Param.MapControls.ZoomStandard"><![CDATA[Scale]]></data>
+	<data name="Param.MapControls.ZoomCompact"><![CDATA[Campact Zoom]]></data>
+	<data name="Param.MapControls.MiniMap"><![CDATA[Minimap]]></data>
+	<data name="Param.MapControls.TypeControl"><![CDATA[Control Type]]></data>
+	<data name="Param.MapControls.ScaleLine"><![CDATA[Scale Ruler]]></data>
+	<data name="Param.MapControls.Search"><![CDATA[Search]]></data>
+	<data name="Param.MapOptions.DisableDragging"><![CDATA[Disable Mouse Dragging]]></data>
+	<data name="Param.MapOptions.DisableDoubleClickZoom"><![CDATA[Disable Zoom On Double-click]]></data>
+	<data name="Param.MapOptions.EnableScrollZoom"><![CDATA[Enable Wheel Zoom]]></data>
+	<data name="Param.MapOptions.EnableHotKeys"><![CDATA[Enable Hotkeys]]></data>
+	<data name="Param.MapOptions.EnableMagnifier"><![CDATA[Enable Magnifier]]></data>
+	<data name="Param.MapOptions.EnableRightButtonMagnifier"><![CDATA[Enable Magnifier On Right-click]]></data>
+	<data name="Param.MapOptions.EnableRuler"><![CDATA[Enable Ruler]]></data>
+	<data name="Param.InitialState"><![CDATA[Initial Map Settings (type, scale, center, markers)]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[The component "Yandex.Map" requires configuration.]]></data>
+</resources>

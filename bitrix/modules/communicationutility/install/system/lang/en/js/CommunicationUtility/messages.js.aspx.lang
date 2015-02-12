@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Code.DialogTitle"><![CDATA[Insert Code]]></data>
+	<data name="Link.DialogTitle"><![CDATA[Insert Link]]></data>
+	<data name="Image.DialogTitle"><![CDATA[Insert Image]]></data>
+	<data name="ImageUpload.DialogTitle"><![CDATA[Insert Images]]></data>
+	<data name="Movie.DialogTitle"><![CDATA[Insert Video]]></data>
+	<data name="Audio.DialogTitle"><![CDATA[Insert Sound]]></data>
+</resources>

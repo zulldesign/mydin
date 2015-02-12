@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.Authorization"><![CDATA[Authorization]]></data>
+	<data name="PleaseLogin"><![CDATA[Please authorize.]]></data>
+	<data name="LegendLogin"><![CDATA[Login]]></data>
+	<data name="LegendPassword"><![CDATA[Password]]></data>
+	<data name="CheckBoxText.RememberMe"><![CDATA[Remember Me]]></data>
+	<data name="ButtonText.Login"><![CDATA[Log In]]></data>
+	<data name="DoYouForgetPassword"><![CDATA[Forgot password?]]></data>
+	<data name="FormatGo2PasswordRecoveryForm"><![CDATA[Proceed to {0}password recovery page{1}.]]></data>
+	<data name="FormatGo2PasswordChangeForm"><![CDATA[Once you receive the password change notification message, please open the {0}password change page{1}.]]></data>
+	<data name="Error.LoginOrPasswordIsIncorrect"><![CDATA[Your login or password is incorrect.]]></data>
+	<data name="Message.FillField"><![CDATA[The field "{0}" is required.]]></data>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[Confirmation code:]]></data>
+</resources>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Element.CanNotCreate"><![CDATA[Unable to create an information block element.]]></data>
+	<data name="IBlock.CanNotCreate"><![CDATA[Unable to create an information block.]]></data>
+	<data name="Section.CanNotCreate"><![CDATA[Unable to create an information block section.]]></data>
+	<data name="Type.CanNotCreate"><![CDATA[Unable to create information block type.]]></data>
+	<data name="Type.ContainsIBlock"><![CDATA[There are information blocks of this type.]]></data>
+	<data name="Filter.IBlock"><![CDATA[IBlock "{0}"]]></data>
+	<data name="Filter.IBlockType"><![CDATA[IBlock Type "{0}"]]></data>
+	<data name="Module.Name"><![CDATA[Information Blocks]]></data>
+	<data name="Module.Description"><![CDATA[The Information Blocks module manages and handles information of any type: news, jobs, products etc.]]></data>
+	<data name="Module.Element"><![CDATA[Element]]></data>
+	<data name="Module.InfBlocks"><![CDATA[Information Blocks]]></data>
+	<data name="Module.ITypes"><![CDATA[Information Block Types]]></data>
+	<data name="Module.Export"><![CDATA[Export]]></data>
+	<data name="Module.Import"><![CDATA[Import]]></data>
+	<data name="Auth.Operations.IBlockAdmin"><![CDATA[Manage Information Blocks]]></data>
+	<data name="Auth.Operations.IBlockModifyElements"><![CDATA[Edit Information Block Elements]]></data>
+	<data name="Auth.Operations.IBlockModifyStructure"><![CDATA[Manage Information Block Structure]]></data>
+	<data name="Auth.Operations.IBlockRead"><![CDATA[View Information Block in Public Area]]></data>
+	<data name="Auth.Operations.IBlockView"><![CDATA[View Information Block in Control Panel]]></data>
+	<data name="Error.IBlockNotFound"><![CDATA[The information block was not found.]]></data>
+	<data name="Module.AddElement"><![CDATA[Add Element]]></data>
+	<data name="Module.ChangeElement"><![CDATA[Modify Element]]></data>
+	<data name="Module.DeleteElement"><![CDATA[Delete Element]]></data>
+	<data name="Module.ElementName"><![CDATA[Element]]></data>
+	<data name="Module.ElementsName"><![CDATA[Elements]]></data>
+	<data name="Module.AddSection"><![CDATA[Add Section]]></data>
+	<data name="Module.ChangeSection"><![CDATA[Modify Section]]></data>
+	<data name="Module.DeleteSection"><![CDATA[Delete Section]]></data>
+	<data name="Module.SectionName"><![CDATA[Section]]></data>
+	<data name="Module.SectionsName"><![CDATA[Sections]]></data>
+	<data name="Module.NewElement"><![CDATA[New Element]]></data>
+	<data name="Module.ElementList"><![CDATA[Elements List]]></data>
+	<data name="Module.ModifyingElement"><![CDATA[Edit Element]]></data>
+	<data name="Module.NewSection"><![CDATA[New Section]]></data>
+	<data name="Module.SectionList"><![CDATA[Sections list]]></data>
+	<data name="Module.ModifyingSection"><![CDATA[Edit Section]]></data>
+	<data name="Module.CaptionsInfoLoadError"><![CDATA[Cannot load the information block titles.]]></data>
+	<data name="Task.IBlockAdminister.Title"><![CDATA[Manage Information Blocks]]></data>
+	<data name="Role.Editor.Title"><![CDATA[Site Editors]]></data>
+	<data name="Message.DeleteIBlocksBeforeSite"><![CDATA[You have to delete the dependent information blocks before deleting a site: {0}]]></data>
+</resources>

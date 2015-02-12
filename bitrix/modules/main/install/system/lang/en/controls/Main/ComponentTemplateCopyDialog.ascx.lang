@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="DlgTitle.CopyingOfComponentTemplate"><![CDATA[Copy Component Template]]></data>
+	<data name="Legend.CurrentComponentTemplate"><![CDATA[Current Component Template:]]></data>
+	<data name="TemplatePostfix.SystemTemplate"><![CDATA[/  System Template]]></data>
+	<data name="Legend.UsedInSiteTemplate"><![CDATA[Used in Site Template:]]></data>
+	<data name="Legend.TitleForNewComponentTemplate"><![CDATA[New Component Template Name:]]></data>
+	<data name="Legend.CopyToSiteTemplate"><![CDATA[Copy to Site Template:]]></data>
+	<data name="RadioButtonText.ByDefault"><![CDATA[default / ]]></data>
+	<data name="RadioButtonText.Current"><![CDATA[current / ]]></data>
+	<data name="RadioButtonText.Another"><![CDATA[other:]]></data>
+	<data name="Legend.ApplyTheNewComponentTemplate"><![CDATA[Apply New Component Template:]]></data>
+	<data name="Legend.Go2TemplateModification"><![CDATA[Edit Template:]]></data>
+	<data name="DescriptionNotePart.ComponentIsPlaced"><![CDATA[Component disposition: {0}]]></data>
+	<data name="DescriptionNotePart.OnPage"><![CDATA[on page]]></data>
+	<data name="DescriptionNotePart.InTemplate"><![CDATA[in site template]]></data>
+	<data name="Error.CopyingOfTemplate"><![CDATA[Template copying: ]]></data>
+	<data name="Error.ChangingOfTemplate"><![CDATA[Template change: ]]></data>
+	<data name="FormatError.ModifcationOfTemplate.FileIsNotFound"><![CDATA[Template file editing: The file '{0}.ascx' does not exist.]]></data>
+	<data name="Error.InvalidSiteTemplateName"><![CDATA[Invalid site template name.]]></data>
+	<data name="Error.SelectedTemplateDoesntExist"><![CDATA[The selected template does not exist.]]></data>
+	<data name="Error.InvalidComponentTemplateName"><![CDATA[Invalid component template name.]]></data>
+	<data name="FormatError.TemplateAlreadyExists"><![CDATA[A template "{0}" for component "{1}" already exists in the selected site template.]]></data>
+</resources>

@@ -1,0 +1,8 @@
+﻿<%@ Control Language="C#" ClassName="SystemWebMobile" AutoEventWireup="false" %>
+<script runat="server">
+    protected override void OnInit(EventArgs e)
+    {
+        base.OnInit(e);
+        System.Web.Mobile.CookielessData d = new System.Web.Mobile.CookielessData();
+    } 
+</script>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Folders]]></data>
+	<data name="Description"><![CDATA[Displays user's folders]]></data>
+	<data name="Group"><![CDATA[Personal Messages]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="Param.FolderUrlTemplate"><![CDATA[Folder View Page]]></data>
+	<data name="Param.FolderId"><![CDATA[Folder ID]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[CSS File Path]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Color Theme CSS File Path]]></data>
+	<data name="Param.NewMessageUrlTemplate"><![CDATA[New Post URL Template]]></data>
+	<data name="Param.TopicReadUrlTemplate"><![CDATA[Messaging View Page]]></data>
+	<data name="Param.MessageReadUrlTemplate"><![CDATA[Message View Page]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="Error.InvalidPage"><![CDATA[Page was not found.]]></data>
+	<data name="Error.Unknown"><![CDATA[Unknown error.]]></data>
+	<data name="Error.UserNotFound"><![CDATA[The user was not found.]]></data>
+	<data name="Error.Unauthorized"><![CDATA[Insufficient permissions to perform the operation.]]></data>
+	<data name="Error.UnauthorizedRead"><![CDATA[Insufficient permissions to view folders.]]></data>
+</resources>

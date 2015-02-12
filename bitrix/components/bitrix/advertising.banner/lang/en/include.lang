@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Banner]]></data>
+	<data name="Description"><![CDATA[Shows a banner in a specified advertising area.]]></data>
+	<data name="Group"><![CDATA[Advertising]]></data>
+</resources>

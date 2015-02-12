@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title.IBlockFormSettings"><![CDATA[Настройка формы добавления/редактирования]]></data>
+	<data name="Title.SelectFields"><![CDATA[Выбрать отмеченные поля]]></data>
+	<data name="Title.SelectTab"><![CDATA[Выбрать отмеченную вкладку вместе с полями]]></data>
+	<data name="Label.Up"><![CDATA[Выше]]></data>
+	<data name="Label.Down"><![CDATA[Ниже]]></data>
+	<data name="Title.MoveFieldUp"><![CDATA[Порядок показа полей (выше)]]></data>
+	<data name="Title.MoveFieldDown"><![CDATA[Порядок показа полей (ниже)]]></data>
+	<data name="Title.MoveTabUp"><![CDATA[Порядок показа колонок (выше)]]></data>
+	<data name="Title.MoveTabDown"><![CDATA[Порядок показа колонок (ниже)]]></data>
+	<data name="Label.Edit"><![CDATA[Изменить]]></data>
+	<data name="Title.EditTabTitle"><![CDATA[Изменить заголовок закладки]]></data>
+	<data name="Title.EditField"><![CDATA[Изменить подпись к полю]]></data>
+	<data name="Title.AddTab"><![CDATA[Добавить новую вкладку]]></data>
+	<data name="Title.DeleteTab"><![CDATA[Удалить вкладку из выбранных]]></data>
+	<data name="Title.AddSection"><![CDATA[Добавить новый раздел/секцию]]></data>
+	<data name="Label.Add"><![CDATA[Добавить]]></data>
+	<data name="Label.Delete"><![CDATA[Удалить]]></data>
+	<data name="Label.AvailableTabs"><![CDATA[Доступные вкладки]]></data>
+	<data name="Label.Tabs"><![CDATA[Выбранные вкладки]]></data>
+	<data name="Label.AvailableFields"><![CDATA[Доступные поля]]></data>
+	<data name="Label.SelectedFields"><![CDATA[Выбранные поля]]></data>
+	<data name="Save"><![CDATA[Сохранить]]></data>
+	<data name="Cancel"><![CDATA[Отменить]]></data>
+	<data name="Reset"><![CDATA[Сбросить]]></data>
+	<data name="Message.DoYouWantToResetSettings"><![CDATA[Вы уверены что хотите удалить настройки?]]></data>
+	<data name="Message.DataIsSaved"><![CDATA[Данные успешно сохранены]]></data>
+	<data name="Message.EnterNewSectionName"><![CDATA[Введите название нового раздела]]></data>
+	<data name="Message.EnterNewTabName"><![CDATA[Введите название новой вкладки]]></data>
+	<data name="Message.EditName"><![CDATA[Изменение названия]]></data>
+	<data name="Error.RequiredFieldMustBeSelected"><![CDATA[Обязательные поля должны быть выбраны:]]></data>
+	<data name="Error.IBlockOrUserIsNotFound"><![CDATA[Ошибка сохранения данных. Указанный инфоблок не найден или пользователь не авторизован]]></data>
+	<data name="Label.SetDefaultSettingsToAll"><![CDATA[Сделать настройками по умолчанию для всех пользователей]]></data>
+	<data name="Label.ResetSettings"><![CDATA[Сбросить настройки]]></data>
+	<data name="Title.ResetSettings"><![CDATA[Удалить текущие пользовательские настройки и вернуться к настройкам по умолчанию]]></data>
+	<data name="Title.SetDefaultSettingsToAll"><![CDATA[Указанные настройки будут действовать по умолчанию для всех пользователей]]></data>
+</resources>

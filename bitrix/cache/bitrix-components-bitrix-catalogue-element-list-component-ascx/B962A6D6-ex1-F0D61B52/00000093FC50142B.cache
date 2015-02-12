@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>bitrix_components_bitrix_catalogue_element_list_component_ascx.B962A6D6-ex1-F0D61B52</Name>
+  <Meta>
+    <TypeTable>
+      <TypeMapEntry Guid="0" TypeIndex="0" AssemblyIndex="0" AssemblyFullName="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">System.Collections.Generic.List`1[[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]</TypeMapEntry>
+      <TypeMapEntry Guid="1" TypeIndex="0" AssemblyIndex="12" AssemblyFullName="Main, Version=7.0.5.0, Culture=neutral, PublicKeyToken=null">Bitrix.Components.BXComponentResults</TypeMapEntry>
+      <TypeMapEntry Guid="2" TypeIndex="0" AssemblyIndex="12" AssemblyFullName="Main, Version=7.0.5.0, Culture=neutral, PublicKeyToken=null">Bitrix.DataLayer.BXDirectPagingHelper</TypeMapEntry>
+    </TypeTable>
+  </Meta>
+  <Data>
+    <string>/wEWCALV/gNmAgUFgwF+L2JpdHJpeC90ZW1wbGF0ZXMvQml0cml4LkNvcnBvcmF0ZVNpdGUuRU4uZnVybml0dXJlLmRlZmF1bHQvY29tcG9uZW50cy8vL2JpdHJpeC9jYXRhbG9ndWUuZWxlbWVudC5saXN0L3NwZWNpYWxfb2ZmZXIvdGVtcGxhdGUuYXNjeAXEBA0KPGRpdiBpZD0iY3RsMDBfY2F0YWxvZ3VlZWxlbWVudF9saXN0MV9jYXRhbG9ndWVlbGVtZW50X2xpc3QxX2NhdGFsb2d1ZWVsZW1lbnRfbGlzdDFfSXRlbTYiIGNsYXNzPSJzcGVjaWFsLXByb2R1Y3QiPg0KICAgIDxoMz5TcGVjaWFsIE9mZmVyPC9oMz4NCiAgICA8ZGl2IGNsYXNzPSJzcGVjaWFsLXByb2R1Y3QtdGl0bGUiPg0KICAgICAgICA8YSBocmVmPSIvcHJvZHVjdHMvMS9pdGVtLTYvIj5GbG9yYTwvYT4NCiAgICA8L2Rpdj4NCiAgICA8ZGl2IGNsYXNzPSJzcGVjaWFsLXByb2R1Y3QtaW1hZ2UiPg0KICAgICAgICANCiAgICAgICAgPGEgaHJlZj0iL3Byb2R1Y3RzLzEvaXRlbS02LyI+DQogICAgICAgICAgICA8aW1nIGJvcmRlcj0iMCIgc3JjPSIvdXBsb2FkL2libG9jay8yZTMvMmUzYTliM2JiYjQzZTFkOTRjNTk1MzAzZTg2OGNkNDguanBnIiB3aWR0aD0iNzUiICBhbHQ9IiIgZW5hYmxlYWpheD0idHJ1ZSIgLz4NCiAgICAgICAgPC9hPg0KICAgICAgICANCiAgICA8L2Rpdj4NCiAgICA8ZGl2IGNsYXNzPSJzcGVjaWFsLXByb2R1Y3QiPg0KICAgIFByaWNlOiA3OTkgJA0KICAgIDwvZGl2Pg0KPC9kaXY+DQoWHwLQ/gMCAQIOBQxJQmxvY2tUeXBlSWQCAQUKSUJsb2NrTmFtZQUIUHJvZHVjdHMFEUlCbG9ja0VsZW1lbnROYW1lZQURSUJsb2NrU2VjdGlvbk5hbWVlBQxBY3RpdmVGaWx0ZXICAQUQQWN0aXZlRGF0ZUZpbHRlcgIDBRVQYWdpbmdQYWdlVXJsVGVtcGxhdGUFCT9wYWdlPXswfQUUUGFnaW5nRGVmYXVsdFBhZ2VVcmwFDS9EZWZhdWx0LmFzcHgFEFBhZ2luZ1Nob3dBbGxVcmwFCj9zaG93YWxsPXkFClBhZ2luZ1Nob3doBQ1QYWdpbmdTaG93QWxsaAUWUGFnaW5nVG90YWxSZWNvcmRDb3VudAIDBQ9QYWdpbmdQYWdlSW5kZXgCAQUMUGFnaW5nSGVscGVyFgcC8P4DAgICAgUNdG90YWxSZWNDb3VudAIDBQ5yZWNvcmRzUGVyUGFnZQIKZGQ=</string>
+  </Data>
+  <Restriction Name="bitrix_components_bitrix_catalogue_element_list_component_ascx.B962A6D6-ex1-F0D61B52" AbsoluteExpiration="02/12/2015 09:25:58" SlidingExpiration="00:00:00" Priority="Normal" />
+</SerializationResult>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="MsgFilter.Option.All"><![CDATA[All Messages]]></data>
+	<data name="MsgFilter.Option.In"><![CDATA[Inbox]]></data>
+	<data name="MsgFilter.Option.Out"><![CDATA[Outbox]]></data>
+	<data name="MsgFilter.LabelText"><![CDATA[Show]]></data>
+	<data name="MsgFilter.Refresh"><![CDATA[Refresh]]></data>
+</resources>

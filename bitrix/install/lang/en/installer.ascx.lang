@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Welcome to Bitrix .NET Forge CMS 7.0 Setup Wizard]]></data>
+	<data name="Placeholder.Box"><![CDATA[<img alt="" src="{0}/bitrix/install/lang/en/images/box.jpg" />]]></data>
+	<data name="Placeholder.Logo"><![CDATA[<img alt="" src="{0}/bitrix/install/lang/en/images/logo.gif" />]]></data>
+	<data name="Placeholder.Copyright"><![CDATA[© 2007-2011 «Bitrix, Inc.»]]></data>
+	<data name="Placeholder.Links"><![CDATA[<a href="{0}/bitrix/install/lang/en/readme.html" target="_blank">Installation Guide</a> | <a href="http://www.bitrixsoft.com/?referer1=bdn55&amp;referer2=install" target="_blank">www.bitrixsoft.com</a> | <a href="http://www.bitrixsoft.com/support/?referer1=bdn55&amp;referer2=install" target="_blank">Technical Support</a>]]></data>
+	<data name="Placeholder.NoScript"><![CDATA[JavaScript is required for system installation. It is now apparently disabled in the browser settings or not supported. Please configure your browser appropriately and <a href="">try again</a>.]]></data>
+	<data name="Launcher.ProblemsHeader"><![CDATA[Bitrix .NET Forge CMS 7.0 Setup Wizard has detected the following problems and cannot proceed:]]></data>
+	<data name="Launcher.Problem.JavaScript"><![CDATA[JavaScript is required for system installation. It is now apparently disabled in the browser settings or not supported. Please configure your browser appropriately or use another browser.]]></data>
+	<data name="Launcher.Problem.FileAccessCreate"><![CDATA[A file "installer.session" cannot be created in the site root. The web application is likely to have insufficient permissions.]]></data>
+	<data name="Launcher.Problem.FileAccessRead"><![CDATA[Cannot read a file "installer.session" in the site root. The web application is likely to have insufficient permissions.]]></data>
+	<data name="Launcher.Problem.FileAccessDelete"><![CDATA[Cannot delete a file "installer.session" in the site root. The web application is likely to have insufficient permissions.]]></data>
+	<data name="Launcher.Problem.ConfigWrite"><![CDATA[Cannot modify a file "web.config" in the site root. The web application is likely to have insufficient permissions.]]></data>
+	<data name="Launcher.Problem.Exception"><![CDATA[Unexpected error occurred:<br/><br/>{0}]]></data>
+	<data name="Launcher.ProblemsFooter"><![CDATA[Please fix these problems and <a href="">refresh</a> the current page.]]></data>
+	<data name="Launcher.Initializing"><![CDATA[Setup is now being initialized...]]></data>
+	<data name="DefaultPageTitle"><![CDATA[Welcome to Website]]></data>
+	<data name="DefaultPageContent"><![CDATA[<p>You can configure your website manually in <a href="{0}bitrix/admin/">Control Panel</a> or <a href="{0}bitrix/admin/InstallSolutionWizard.aspx?site=default">install one of the ready-to-go solutions</a>.</p>]]></data>
+	<data name="Launcher.Problem.Framework"><![CDATA[The system requires that <b>Microsoft .NET Framework 3.5</b> is installed on your system. If it is not, download your copy <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=AB99342F-5D1A-413D-8319-81DA479AB0D7&displaylang=en">here</a>.]]></data>
+</resources>

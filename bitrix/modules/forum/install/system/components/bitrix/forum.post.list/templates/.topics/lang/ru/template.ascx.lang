@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="NewTopic"><![CDATA[Новая тема]]></data>
+	<data name="Topics"><![CDATA[Темы]]></data>
+	<data name="Replies"><![CDATA[Ответы]]></data>
+	<data name="Views"><![CDATA[Просмотры]]></data>
+	<data name="LastPost"><![CDATA[Обновление]]></data>
+	<data name="Status.Sticky"><![CDATA[Важно]]></data>
+	<data name="Status.Closed"><![CDATA[Закрыто]]></data>
+	<data name="Status.Moved"><![CDATA[Перенесено]]></data>
+	<data name="Title.Moved"><![CDATA[Тема перенесена в другой форум]]></data>
+	<data name="Title.StickyClosed"><![CDATA[Важная и закрытая тема]]></data>
+	<data name="Title.HasNewMessages"><![CDATA[Есть новые сообщения]]></data>
+	<data name="Title.Closed"><![CDATA[Тема закрыта]]></data>
+	<data name="Title.Sticky"><![CDATA[Важная тема]]></data>
+	<data name="Title.NoNewMessages"><![CDATA[Нет новых сообщений]]></data>
+	<data name="Author"><![CDATA[автор]]></data>
+	<data name="Guest"><![CDATA[гость ]]></data>
+	<data name="SelectAll"><![CDATA[Выделить все]]></data>
+	<data name="HeaderText.ActiveTopics"><![CDATA[Активные темы]]></data>
+	<data name="InForum"><![CDATA[В форуме]]></data>
+	<data name="HeaderText.UnAnsweredTopics"><![CDATA[Темы без ответов]]></data>
+	<data name="EmptyMessage"><![CDATA[Не найдено ни одной темы]]></data>
+</resources>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="defaultTitle"><![CDATA[GoogleMaps Initial Settings]]></data>
+	<data name="mapType"><![CDATA[Map Type]]></data>
+	<data name="mapTypeRoadmap"><![CDATA[Map]]></data>
+	<data name="mapTypeSatellite"><![CDATA[Satellite]]></data>
+	<data name="mapTypeHybrid"><![CDATA[Hybrid]]></data>
+	<data name="mapTypeTerrain"><![CDATA[Terrain]]></data>
+	<data name="latitude"><![CDATA[Latitude]]></data>
+	<data name="longitude"><![CDATA[Longitude]]></data>
+	<data name="zoom"><![CDATA[Scale]]></data>
+	<data name="markers"><![CDATA[Markers]]></data>
+	<data name="markerHelp"><![CDATA[This map does not have markers created yet. Click <a id='#AddMarkers1#' href='javascript:void(0);'>Add Markers</a> on the top toolbar. Then, click on the map to create markers. When done, click <a id='#AddMarkers2#' href='javascript:void(0);'>Add Markers</a> again or <a id='#Drag#' href='javascript:void(0);'>Pan Map</a>.]]></data>
+	<data name="MapsMarkupPanel$MapDragging"><![CDATA[Pan Map]]></data>
+	<data name="MapsMarkupPanel$MarkerAdding"><![CDATA[Add Markers]]></data>
+	<data name="MapsMarkupPanel$CenterSetting"><![CDATA[Set Center]]></data>
+	<data name="SearchPanel$Clear"><![CDATA[Clear]]></data>
+	<data name="SearchPanel$Search"><![CDATA[Search]]></data>
+	<data name="SearchPanel$ZeroResults"><![CDATA[Your search request returned no results.]]></data>
+	<data name="SearchPanel$OverQueryLimit"><![CDATA[Server error: query limit exceeded.]]></data>
+	<data name="SearchPanel$RequestDenied"><![CDATA[Server error: request denied.]]></data>
+	<data name="SearchPanel$InvalidRequest"><![CDATA[Server error: invalid request.]]></data>
+	<data name="SearchPanel$GeneralServerError"><![CDATA[Server error]]></data>
+	<data name="InfoWindow$Save"><![CDATA[Save]]></data>
+	<data name="InfoWindow$Delete"><![CDATA[Delete]]></data>
+	<data name="InfoWindow$Cancel"><![CDATA[Cancel]]></data>
+	<data name="InfoWindow$Name"><![CDATA[Name]]></data>
+	<data name="InfoWindow$NameHint"><![CDATA[Leave the name empty to fill it with the marker coordinates]]></data>
+	<data name="SearchResultInfoWindow$CreateMarker"><![CDATA[Add Marker]]></data>
+	<data name="SearchResult$GoToPlaceToolTip"><![CDATA[Go To]]></data>
+	<data name="SearchResult$AddMarkerToolTip"><![CDATA[Add Marker]]></data>
+</resources>

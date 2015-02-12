@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title.Singular"><![CDATA[Move Topic To New Forum]]></data>
+	<data name="Title.Plural"><![CDATA[Move Topics To New Forum]]></data>
+	<data name="ButtonText.MoveSelectedTopics"><![CDATA[Move Selected Topics]]></data>
+	<data name="To"><![CDATA[to]]></data>
+	<data name="CheckBoxText.CreateLink"><![CDATA[Put Link to New Location in Old Forum]]></data>
+</resources>

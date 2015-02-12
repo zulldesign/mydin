@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Upload Files]]></data>
+	<data name="MasterTitle"><![CDATA[Upload Files to]]></data>
+	<data name="TabText.Upload"><![CDATA[Files]]></data>
+	<data name="TabTitle.Upload"><![CDATA[Files to Upload]]></data>
+	<data name="ActionText.GoBack"><![CDATA[Back to Files]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to File Manager]]></data>
+	<data name="Column.Filename"><![CDATA[Save as File]]></data>
+	<data name="Column.File"><![CDATA[File to Upload]]></data>
+	<data name="Message.IllegalFilename"><![CDATA[Invalid file name.]]></data>
+	<data name="Message.TargetItemAlreadyExists"><![CDATA[The destination file or folder already exists.]]></data>
+	<data name="Message.UnableToUpload"><![CDATA[Unable to upload a file (insufficient permissions?)]]></data>
+	<data name="Message.OperationSuccessful"><![CDATA[Operation has completed successfully.]]></data>
+	<data name="Message.OperationErrors"><![CDATA[Operation has not completed successfully.]]></data>
+	<data name="Message.SavingHasBeenCompletedSuccessfully"><![CDATA[Items have been saved successfully.]]></data>
+	<data name="Message.OverwriteFiles"><![CDATA[The following files already exist in the folder "{0}": #FILES#. Overwrite existing files?]]></data>
+	<data name="Message.Success"><![CDATA[The files has been uploaded successfully.]]></data>
+	<data name="Message.FileNameRequirements"><![CDATA[The file name "{0}" can contain Latin letters, digits and the following symbols: ! ( ) [ ] {{ }} - . _ ~]]></data>
+</resources>

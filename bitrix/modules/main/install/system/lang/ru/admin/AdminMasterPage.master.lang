@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Copyright"><![CDATA[<a href="http://www.bitrix.net/ru/">1С-Битрикс: .NET Forge</a>. &copy; 2008-2011 1C-Битрикс]]></data>
+	<data name="HideMenu"><![CDATA[Скрыть меню]]></data>
+	<data name="CurrentPageLink"><![CDATA[Ссылка на текущую страницу]]></data>
+	<data name="Support"><![CDATA[<a href="http://www.1c-bitrix.ru/support/">Техподдержка</a>]]></data>
+	<data name="BitrixCompany"><![CDATA[<a href="http://www.1c-bitrix.ru">www.1c-bitrix.ru</a>]]></data>
+	<data name="MessageText.ThisIsTrailVersion"><![CDATA[Это пробная версия продукта "1С-Битрикс: .NET Forge".]]></data>
+	<data name="MessageText.TrailPeriodHasExpired"><![CDATA[Срок работы пробной версии продукта "1С-Битрикс: .NET Forge" истек. Через две недели этот сайт заблокируется, разблокировать его будет невозможно.]]></data>
+	<data name="FormattedMessageText.UseSiteUpdateTechnologyToGetUpdates"><![CDATA[Внимание! Воспользуйтесь технологией {0}SiteUpdate{1} для получения последних обновлений.]]></data>
+	<data name="FormattedMessageText.TrialPeriodWillExpireInXDays"><![CDATA[До истечения пробного периода осталось {0} дней.]]></data>
+	<data name="MessageText.YouCanGetAFullVersion"><![CDATA[Вы можете купить полнофункциональную версию продукта по адресу <a href="http://www.1c-bitrix.ru/buy/?r1=bdn6trial&r2=expiried">http://www.1c-bitrix.ru/buy/</a>]]></data>
+</resources>

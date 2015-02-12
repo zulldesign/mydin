@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Label.Path2Dir"><![CDATA[Путь к каталогу]]></data>
+	<data name="ButtonText.Load"><![CDATA[Загрузить]]></data>
+	<data name="PageTitle.FileAuthorization"><![CDATA[Файловая авторизация]]></data>
+</resources>

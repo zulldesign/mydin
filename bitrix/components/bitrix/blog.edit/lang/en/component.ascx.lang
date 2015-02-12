@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Error.BlogNameRequired"><![CDATA[The blog name must not be empty.]]></data>
+	<data name="Error.BlogSlugRequired"><![CDATA[The blog slug is required.]]></data>
+	<data name="Error.BlogSlugInvalid"><![CDATA[The blog slug can contain Latin letters, digits and hyphens only.]]></data>
+	<data name="Error.BlogCategoryRequired"><![CDATA[Select at least one category.]]></data>
+	<data name="Error.BlogCategoryLimit"><![CDATA[Select not more than {0} categories.]]></data>
+	<data name="Error.BlogWrongCategory"><![CDATA[The specified category does not exist.]]></data>
+	<data name="Error.BlogSlugAlreadyExists"><![CDATA[The specified blog slug already exists. Provide a different slug.]]></data>
+	<data name="Error.BlogSlugInIgnoreList"><![CDATA[The blog slug "{0}" is forbidden. Provide a different slug.]]></data>
+	<data name="Error.SlugLength"><![CDATA[The blog slug length must be from {0} to {1} characters.]]></data>
+	<data name="Error.Unknown"><![CDATA[Unknown error.]]></data>
+	<data name="Error.FatalBlogAlreadyExists"><![CDATA[You can't create more blogs]]></data>
+	<data name="Error.FatalBlogNotFound"><![CDATA[Blog not found]]></data>
+	<data name="Error.FatalNoGroupsButAdjustingDisabled"><![CDATA[Cannot create the blog. No permission granted to select groups, but the required groups are not defined.]]></data>
+	<data name="Error.UnauthorizedCreateBlog"><![CDATA[You do not have enough permissions to create a new blog]]></data>
+	<data name="Error.UnauthorizedEditBlog"><![CDATA[You do not have enough permissions to change blog settings]]></data>
+	<data name="Error.UnauthorizedNotLogIn.Edit"><![CDATA[You are not authorized.]]></data>
+	<data name="Error.UnauthorizedNotLogIn.Add"><![CDATA[You must be logged in to create blogs.]]></data>
+	<data name="Title"><![CDATA[Create or Edit Blog]]></data>
+	<data name="Description"><![CDATA[A component to create blogs or edit their settings.]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Param.RedirectUrlTemplate"><![CDATA[Redirect URL Template]]></data>
+	<data name="Param.SlugIgnoreList"><![CDATA[Forbidden Blog Slugs (semicolon separated)]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Blog Slug]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="Param.MaxBlogGroups"><![CDATA[Max Blog Groups]]></data>
+	<data name="Param.MinSlugLength"><![CDATA[Min Blog Slug Length]]></data>
+	<data name="Param.MaxSlugLength"><![CDATA[Max Blog Slug Length]]></data>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="PageTitle.CreateBlog"><![CDATA[New Blog]]></data>
+	<data name="PageTitle.EditBlog"><![CDATA[Edit Blog]]></data>
+	<data name="Param.AvailableGroups"><![CDATA[Available Groups]]></data>
+	<data name="Param.ObligatoryBlogGroups"><![CDATA[Bind to Groups]]></data>
+	<data name="Param.AllowToAjustBlogGroups"><![CDATA[Allow to Select Groups]]></data>
+	<data name="Param.AvailableBlogCustomFieldsForAuthor"><![CDATA[Blog Fields Available To Author]]></data>
+	<data name="Param.AvailableBlogCustomFieldsForModerator"><![CDATA[Blog Fields Available To Moderator]]></data>
+	<data name="Param.CategoryId"><![CDATA[Edit Blogs Of This Category Only]]></data>
+</resources>

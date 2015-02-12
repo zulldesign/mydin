@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="EmptyQuery"><![CDATA[Вы ввели пустой запрос]]></data>
+	<data name="Title"><![CDATA[Поиск]]></data>
+	<data name="ButtonText.Find"><![CDATA[Найти]]></data>
+	<data name="EmptySearchQuery"><![CDATA[Пустой поисковый запрос]]></data>
+	<data name="NoResults"><![CDATA[Ничего не найдено]]></data>
+	<data name="Tags"><![CDATA[Теги]]></data>
+</resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[2 columns]]></data>
+	<data name="Add2CartBtnText"><![CDATA[Add To Cart]]></data>
+	<data name="BuyBtnText"><![CDATA[Buy]]></data>
+	<data name="YourPrice"><![CDATA[Price]]></data>
+	<data name="YourQuantity"><![CDATA[Quantity]]></data>
+	<data name="AlreadyInCart"><![CDATA[Already in cart]]></data>
+	<data name="AlreadyInCartWithQty"><![CDATA[Your cart: {0} items]]></data>
+	<data name="Add2ComparisonList"><![CDATA[Compare]]></data>
+	<data name="Product.Unavailable"><![CDATA[Out of stock]]></data>
+	<data name="DlgTitle.Add2ComparisonList"><![CDATA[Add To Comparison]]></data>
+	<data name="DlgTitle.Add2Cart"><![CDATA[Add To Cart]]></data>
+</resources>

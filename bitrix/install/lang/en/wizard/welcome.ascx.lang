@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Starting The Installation]]></data>
+	<data name="Body"><![CDATA[<h4>Thank you for choosing Bitrix .NET Forge CMS! </h4>
+The installation wizard will check your software for compatibility and install the system.<br>
+<br>
+Your site will be up and running as soon as the installation is complete.<br>
+<br>
+The SiteUpdate system will help you obtain latest versions of the system modules and components and keep your copy of Bitrix .NET Forge CMS up-to-date.<br>
+<br>
+For more information, please follow this link: <a href="http://www.bitrixsoft.com/?referer1=bdn5&amp;referer2=install" target="_blank">http://www.bitrixsoft.com</a><br>
+<br>
+Should you have any questions, please do not hesitate to contact the <a href="http://www.bitrixsoft.com/support/?referer1=bdn5&amp;referer2=install" target="_blank">technical support</a>.]]></data>
+</resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="LimitByTags"><![CDATA[Ограничить поиск тегами]]></data>
+	<data name="ButtonText.Find"><![CDATA[Найти]]></data>
+	<data name="EmptyQuery"><![CDATA[Пустой поисковый запрос]]></data>
+	<data name="NoResults"><![CDATA[Ничего не найдено]]></data>
+	<data name="Found"><![CDATA[Найдено]]></data>
+	<data name="NoTitle"><![CDATA[Нет заголовка]]></data>
+	<data name="Tags"><![CDATA[Теги]]></data>
+</resources>

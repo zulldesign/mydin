@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Topic"><![CDATA[Тема]]></data>
+	<data name="Forum"><![CDATA[Форум]]></data>
+	<data name="Author"><![CDATA[Автор]]></data>
+</resources>

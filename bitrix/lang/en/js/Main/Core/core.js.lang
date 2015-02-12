@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="JS_CORE_LOADING"><![CDATA[Loading...]]></data>
+	<data name="JS_CORE_WINDOW_CLOSE"><![CDATA[Close]]></data>
+	<data name="JS_CORE_WINDOW_EXPAND"><![CDATA[Restore]]></data>
+	<data name="JS_CORE_WINDOW_NARROW"><![CDATA[Restore]]></data>
+	<data name="JS_CORE_WINDOW_SAVE"><![CDATA[Save]]></data>
+	<data name="JS_CORE_WINDOW_CANCEL"><![CDATA[Cancel]]></data>
+</resources>

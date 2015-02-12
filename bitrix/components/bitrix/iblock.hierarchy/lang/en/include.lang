@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ParamTitle.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="ParamTitle.SectionsPerPage"><![CDATA[Sections Per Page]]></data>
+	<data name="ParamTitle.FirstSortBy"><![CDATA[Initial Sort Field]]></data>
+	<data name="ParamTitle.SecondSortBy"><![CDATA[Secondary Sort Field]]></data>
+	<data name="ParamTitle.FirstSortOrder"><![CDATA[Initial Sort Direction]]></data>
+	<data name="ParamTitle.SecondSortOrder"><![CDATA[Secondary Sort Direction]]></data>
+	<data name="ParamText.SectionName"><![CDATA[Section Name]]></data>
+	<data name="ParamText.Sort"><![CDATA[Sort]]></data>
+	<data name="ParamText.DateOfLastModification"><![CDATA[Last Modified]]></data>
+	<data name="ParamText.IBlockType"><![CDATA[Information Block Type]]></data>
+	<data name="ParamText.IBlock"><![CDATA[Information Block]]></data>
+	<data name="ParamText.IBlockSection"><![CDATA[Information Block Section]]></data>
+	<data name="ParamText.Depth"><![CDATA[Selection Depth]]></data>
+	<data name="ParamText.GetElements"><![CDATA[Get Elements]]></data>
+	<data name="ParamText.SectionUrlTemplate"><![CDATA[Section Link]]></data>
+	<data name="ParamText.ElementUrlTemplate"><![CDATA[Element Link]]></data>
+	<data name="ParamText.NonStandart"><![CDATA[Non-standard]]></data>
+	<data name="Page.Title"><![CDATA[Sections And Elements]]></data>
+	<data name="Page.Description"><![CDATA[Displays information block elements grouped in sections]]></data>
+	<data name="ParamText.Content"><![CDATA[Content]]></data>
+	<data name="Group"><![CDATA[Information Blocks]]></data>
+	<data name="ParamTitle.SectionActiveFilter"><![CDATA[Select Active Sections]]></data>
+	<data name="ParamTitle.ActiveFilter"><![CDATA[Select Active Elements]]></data>
+	<data name="ParamTitle.ActiveDateFilter"><![CDATA[Select Elements By Active Period]]></data>
+	<data name="ActiveFilter.Active"><![CDATA[active only]]></data>
+	<data name="ActiveFilter.NotActive"><![CDATA[inactive only]]></data>
+	<data name="ActiveFilter.All"><![CDATA[all]]></data>
+	<data name="IBlockElementName"><![CDATA[element]]></data>
+	<data name="AddNewElement"><![CDATA[Add {0}]]></data>
+	<data name="AddNewSection"><![CDATA[Add {0}]]></data>
+	<data name="EditElementMenuItem"><![CDATA[Edit {0}]]></data>
+	<data name="DeleteElementMenuItem"><![CDATA[Delete {0}]]></data>
+	<data name="ElementDeletionConfirmation"><![CDATA[Are you sure you want to delete this {0}?]]></data>
+</resources>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[User]]></data>
+	<data name="SystemAuth.Title"><![CDATA[Authentication]]></data>
+	<data name="SystemAuth.Description"><![CDATA[Authentication compound component]]></data>
+	<data name="UserProfilePath"><![CDATA[User Profile Path]]></data>
+	<data name="RegistrationDoAuthentication"><![CDATA[Upon Successful Registration, Do Authentication]]></data>
+	<data name="RegistrationRedirectUrl"><![CDATA[Upon Successful Registration, Redirect To]]></data>
+	<data name="Field.Hide"><![CDATA[Hide]]></data>
+	<data name="Field.Show"><![CDATA[Show]]></data>
+	<data name="Field.Require"><![CDATA[Require]]></data>
+	<data name="FirstNameFieldMode"><![CDATA[First Name]]></data>
+	<data name="LastNameFieldMode"><![CDATA[Last Name]]></data>
+	<data name="DisplayNameFieldMode"><![CDATA[Display Name]]></data>
+	<data name="FieldSettings"><![CDATA[Field Settings]]></data>
+	<data name="RegistrationAllow"><![CDATA[Allow User Registration]]></data>
+	<data name="ActionVariable"><![CDATA[Operation ID]]></data>
+	<data name="RegisterTemplate"><![CDATA[Registration Page]]></data>
+	<data name="ConfirmationTemplate"><![CDATA[Registration Confirmation Page]]></data>
+	<data name="PasswordRecoveryTemplate"><![CDATA[Password Retrieval Page]]></data>
+	<data name="PasswordResetTemplate"><![CDATA[Password Reset Page]]></data>
+	<data name="SendConfirmationRequest"><![CDATA[Request Registration Confirmation By E-Mail]]></data>
+	<data name="UseCaptcha"><![CDATA[Use CAPTCHA]]></data>
+	<data name="EditFields"><![CDATA[Editable Parameters In Registration Form]]></data>
+	<data name="UrlToConfirmationPage"><![CDATA[Registration Confirmation Page Link]]></data>
+	<data name="UseOpenIdAuth"><![CDATA[Use OpenID Authentication]]></data>
+	<data name="UseLiveIdAuth"><![CDATA[Use LiveID Authentication]]></data>
+	<data name="TryRegisterNewExternalUser"><![CDATA[Register OpenID Users Automatically When Data Is Sufficient]]></data>
+	<data name="AddToRoles"><![CDATA[Add User To Role Upon Registration]]></data>
+</resources>

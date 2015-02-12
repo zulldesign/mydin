@@ -1,0 +1,135 @@
+<xml>
+  <iblocktype name="Bank.People" havesections="true" xmlid="type_iblock_bank_people" sort="100">
+    <loc lang="en">Bank Employess</loc>
+  </iblocktype>
+  <iblocktype name="Bank.News" havesections="true" xmlid="type_iblock_bank_news" sort="100">
+    <loc lang="en">Bank News</loc>
+  </iblocktype>
+  <iblocktype name="Bank.Vacancies" havesections="true" xmlid="type_iblock_bank_vacancies" sort="100">
+    <loc lang="en">Bank Vacancies</loc>
+  </iblocktype>
+  <iblocktype name="Bank.Forms" havesections="true" xmlid="type_iblock_bank_messages" sort="100">
+    <loc lang="en">Bank Web Forms</loc>
+  </iblocktype>
+  <iblock name="News" indexcontent="true" sort="100" typeid="type_iblock_bank_news" havesections="true" xmlid="iblock_bank_news.#SiteId#">
+    <store item="iblock" optname="BankNewsIBlockId"></store>
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <captions>
+      <caption type="addelement">Add News</caption>
+      <caption type="addsection">Add Category</caption>
+      <caption type="changeelement">Edit News</caption>
+      <caption type="changesection">Change Category</caption>
+      <caption type="deleteelement">Delete News</caption>
+      <caption type="deletesection">Delete Category</caption>
+      <caption type="elementlist">News</caption>
+      <caption type="elementname">News</caption>
+      <caption type="elementsname">News</caption>
+      <caption type="modifyingelement">Edit News</caption>
+      <caption type="modifyingsection">Edit Category</caption>
+      <caption type="newelement">News</caption>
+      <caption type="newsection">Category</caption>
+      <caption type="sectionlist">List of Categories</caption>
+      <caption type="sectionname">Category</caption>
+      <caption type="sectionsname">Categories</caption>
+    </captions>
+  </iblock>
+  <iblock name="Governance" indexcontent="false" sort="100" typeid="type_iblock_bank_people" xmlid ="iblock_bank_management.#SiteId#">
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <store item="iblock" optname="ManagementIBlockId"></store>
+    <propdef id ="showonmain" type="Bitrix.System.Boolean" for="element" >
+      <loc lang="en">Display in the quotations block on the main page</loc>
+    </propdef>
+    <propdef id ="lastname" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Last Name</loc>
+    </propdef>
+    <propdef id ="firstname" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Name</loc>
+    </propdef>
+    <propdef id ="education" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Background</loc>
+    </propdef>
+    <propdef id ="quote" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Quotation</loc>
+    </propdef>
+    <propdef id ="title" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Position</loc>
+    </propdef>
+  </iblock>
+  <iblock name="Vacancies" typeid="type_iblock_bank_vacancies" indexcontent="true" sort="100" xmlid ="iblock_bank_vacancies.#SiteId#">
+    <store item="iblock" optname="VacanciesIblockId"></store>
+    <permissions>
+      <permission rolename="Guest">IBlockRead</permission>
+    </permissions>
+    <propdef id ="reqs" type="Bitrix.System.Text" issearchable="true" for="element" >
+      <loc lang="en">Requirements</loc>
+      <settings>
+        <setting name="RowsCount" type="int">5</setting>
+        <setting name="TextType">html</setting>
+      </settings>
+    </propdef>
+    <propdef id ="resps" type="Bitrix.System.Text" issearchable="true" for="element" >
+      <loc lang="en">Essential Functions</loc>
+      <settings>
+        <setting name="RowsCount" type="int">5</setting>
+        <setting name="TextType">html</setting>
+      </settings>
+    </propdef>
+    <propdef id ="conds" type="Bitrix.System.Text" issearchable="true" for="element" >
+      <loc lang="en">Employment Status</loc>
+      <settings>
+        <setting name="TextType">html</setting>
+        <setting name="RowsCount" type="int">5</setting>
+      </settings>
+    </propdef>
+    <captions>
+      <caption type="addelement">Add Vacancy</caption>
+      <caption type="addsection">Add Category</caption>
+      <caption type="changeelement">Edit Vacancy</caption>
+      <caption type="changesection">Change Category</caption>
+      <caption type="deleteelement">Delete Vacancy</caption>
+      <caption type="deletesection">Delete Category</caption>
+      <caption type="elementlist">List of Vacancies</caption>
+      <caption type="elementname">Vacancy</caption>
+      <caption type="elementsname">Vacancies</caption>
+      <caption type="modifyingelement">Vacancy</caption>
+      <caption type="modifyingsection">Category</caption>
+      <caption type="newelement">Vacancy</caption>
+      <caption type="newsection">Category</caption>
+      <caption type="sectionlist">List of Categories</caption>
+      <caption type="sectionname">Category</caption>
+      <caption type="sectionsname">Categories</caption>
+    </captions>
+  </iblock>
+  <iblock name="Feedback" indexcontent="false" sort ="100" typeid="type_iblock_bank_messages" xmlid="iblock_bank_messages_feedback.#SiteId#">
+    <store item="iblock" optname="FeedBackIBlockId"></store>
+    <propdef id ="email" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Your E-mail</loc>
+      <settings>
+        <setting name="ValidationRegex"><![CDATA[^([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$]]></setting>
+      </settings>
+    </propdef>
+    <propdef id ="phone" type="Bitrix.System.Text" for="element" >
+      <loc lang="en">Phone</loc>
+      <settings>
+        <setting name="ValidationRegex"><![CDATA[^\+?[0-9\-\s]*$]]></setting>
+      </settings>
+    </propdef>
+    <propdef id ="topic" type="Bitrix.System.Enumeration" for="element">
+      <loc lang="en">Category</loc>
+      <enum>
+        <value sort="10" xmlid="bank_feed_cf_cur_0">Personal Products &amp; Services</value>
+        <value sort="20" xmlid="bank_feed_cf_cur_1">Corporate Products &amp; Services</value>
+        <value sort="30" xmlid="bank_feed_cf_cur_2">Site Related Question</value>
+        <value sort="40" xmlid="bank_feed_cf_cur_3">Other</value>
+      </enum>
+      <settings>
+        <setting name="ViewMode">list</setting>
+        <setting name="ListSize">1</setting>
+      </settings>
+    </propdef>
+  </iblock>
+</xml>

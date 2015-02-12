@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Меню форума]]></data>
+	<data name="Description"><![CDATA[Выводит ссылки на различные страницы форума]]></data>
+	<data name="Group"><![CDATA[Форум]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Путь к CSS-файлу темы оформления]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Путь к CSS-файлу цветовой схемы]]></data>
+	<data name="UrlTitle.Forums"><![CDATA[Все форумы]]></data>
+	<data name="UrlTitle.Profile"><![CDATA[Профиль]]></data>
+	<data name="UrlTitle.Search"><![CDATA[Поиск]]></data>
+	<data name="UrlTitle.Rules"><![CDATA[Правила]]></data>
+	<data name="UrlTitle.Help"><![CDATA[Помощь]]></data>
+	<data name="UrlTitle.Subscriptions"><![CDATA[Подписки]]></data>
+	<data name="Param.ForumIndexUrl"><![CDATA[Страница списка форумов]]></data>
+	<data name="Param.USerProfileUrlTemplate"><![CDATA[Страница профиля пользователя]]></data>
+	<data name="Param.SearchUrl"><![CDATA[Страница поиска]]></data>
+	<data name="Param.ForumRulesUrl"><![CDATA[Страница правил]]></data>
+	<data name="Param.ForumHelpUrl"><![CDATA[Страница помощи]]></data>
+	<data name="Param.SubscriptionUrlTemplate"><![CDATA[Страница подписок пользователя]]></data>
+	<data name="Param.GuestMenuTextTemplate"><![CDATA[Шаблон сообщения в подменю для неавторизованного пользователя]]></data>
+	<data name="Param.UserMenuTextTemplate"><![CDATA[Шаблон сообщения в подменю для авторизованного пользователя]]></data>
+	<data name="Param.GuestMenuTextTemplate.Default"><![CDATA[Здравствуйте, гость! <a href="Auth.aspx?ReturnUrl=#ReturnUrl#">Войти</a>]]></data>
+	<data name="Param.UserMenuTextTemplate.Default"><![CDATA[Здравствуйте, #UserDisplayName#!]]></data>
+	<data name="UrlTitle.ActiveTopics"><![CDATA[Активные темы]]></data>
+	<data name="UrlTitle.UnAnsweredTopics"><![CDATA[Темы без ответов]]></data>
+</resources>

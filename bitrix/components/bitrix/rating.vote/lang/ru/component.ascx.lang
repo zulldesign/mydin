@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Рейтинговое голосование" необходимо настроить]]></data>
+	<data name="SelectBoundEntityType"><![CDATA[-- выберите тип --]]></data>
+	<data name="SelectRating"><![CDATA[-- выберите рейтинг --]]></data>
+	<data name="Param.BoundEntityTypeId"><![CDATA[Тип сущности]]></data>
+	<data name="Param.BoundEntityId"><![CDATA[ИД сущности]]></data>
+	<data name="Param.CustomPropertyEntityId"><![CDATA[Пользовательское поле для хранения итогов голосования]]></data>
+	<data name="Param.PositiveVoteValue"><![CDATA[Вес голоса 'ЗА']]></data>
+	<data name="Param.NegativeVoteValue"><![CDATA[Вес голоса 'ПРОТИВ']]></data>
+	<data name="Param.RolesAuthorizedToVote"><![CDATA[Роли пользователей, имеющие право голосовать]]></data>
+	<data name="Param.EnableAjax"><![CDATA[Включить AJAX]]></data>
+	<data name="Param.BannedUsers"><![CDATA[ИД пользователей, которым запрещено голосовать]]></data>
+	<data name="Error.General"><![CDATA[Общая ошибка в работе компонента]]></data>
+	<data name="Error.UserIsNotAllowedToVote"><![CDATA[Вам не разрешено принимать участие в голосовании]]></data>
+	<data name="Error.UserHasAlreadyVoted"><![CDATA[Вы уже проголосовали]]></data>
+	<data name="Error.BoundEntityTypeIdIsNotDefined"><![CDATA[Не определён тип сущности]]></data>
+	<data name="Error.BoundEntityIdIsNotDefined"><![CDATA[Не определён ИД сущности]]></data>
+	<data name="Error.RatingVotingIsNotFound"><![CDATA[Не удалость найти компонент голосование]]></data>
+	<data name="Error.SimpleVoting.VoteValueIsNotFound"><![CDATA[Не найдено значение голоса]]></data>
+</resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Подписчики событий]]></data>
+	<data name="MasterTitle"><![CDATA[Подписчики событий]]></data>
+	<data name="TableTitle"><![CDATA[Список подписчиков]]></data>
+	<data name="ColumnListener"><![CDATA[Класс-подписчик]]></data>
+	<data name="ColumnTemplate"><![CDATA[Шаблон события]]></data>
+	<data name="ColumnAssembly"><![CDATA[Сборка класса-подписчика]]></data>
+</resources>

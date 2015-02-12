@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.Attention"><![CDATA[Attention! The module will be removed from the system.]]></data>
+	<data name="CheckBoxText.DeleteTables"><![CDATA[Delete Database Tables]]></data>
+	<data name="CheckBoxText.DeleteDemoData"><![CDATA[Delete Demo Data]]></data>
+	<data name="CheckBoxText.DeleteSystemFiles"><![CDATA[Delete System Files]]></data>
+	<data name="CheckBoxText.DeletePublicFiles"><![CDATA[Delete Public Files]]></data>
+	<data name="ButtonText.Uninstall"><![CDATA[Uninstall]]></data>
+	<data name="PageTitle"><![CDATA[Uninstall Module "{0}"]]></data>
+</resources>

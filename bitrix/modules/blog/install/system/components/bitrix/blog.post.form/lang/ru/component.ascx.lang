@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Блог]]></data>
+	<data name="Error.Unknown"><![CDATA[Неизвестная ошибка]]></data>
+	<data name="Error.PostNotFound"><![CDATA[Запись не найдена]]></data>
+	<data name="Error.BlogNotFound"><![CDATA[Блог не найден]]></data>
+	<data name="Error.BlogIsDisabled"><![CDATA[Этот блог заблокирован]]></data>
+	<data name="Error.UnauthorizedCreate"><![CDATA[У вас нет прав для создания записей в этом блоге]]></data>
+	<data name="Blog.UnauthorizedEdit"><![CDATA[У вас нет прав для редактирования записей в этом блоге]]></data>
+	<data name="Error.TitleIsNotSpecified"><![CDATA[Не задан заголовок записи]]></data>
+	<data name="PageTitle.CreatePost"><![CDATA[Создание новой записи]]></data>
+	<data name="PageTitle.EditPost"><![CDATA[Редактирование записи]]></data>
+	<data name="Title"><![CDATA[Создание записи]]></data>
+	<data name="Description"><![CDATA[Создает/редактирует запись в блоге]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Путь к CSS-файлу темы оформления]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Путь к CSS-файлу цветовой схемы]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Адрес блога]]></data>
+	<data name="Param.PostId"><![CDATA[Идентификатор записи]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Максимальная длина слова]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="Param.PublishUrlTemplate"><![CDATA[Шаблон ссылки на опубликованную запись]]></data>
+	<data name="Param.DraftUrlTemplate"><![CDATA[Шаблон ссылки на черновик]]></data>
+	<data name="Param.RedirectUrlTemplate"><![CDATA[Шаблон ссылки возврата]]></data>
+	<data name="Param.MaximalFileSizeInKBytes"><![CDATA[Максимальный размер файла, КБайт]]></data>
+	<data name="Param.MaximalAllFilesSizeInKBytes"><![CDATA[Максимальный размер всех файлов, КБайт]]></data>
+	<data name="Param.MaximalImageWidthInPixels"><![CDATA[Максимальная ширина изображения, пиксел]]></data>
+	<data name="Param.MaximalImageHeightInPixels"><![CDATA[Максимальная высота изображения, пиксел]]></data>
+	<data name="Error.Forbidden"><![CDATA[Отказано в доступе.]]></data>
+	<data name="Error.Delete.NotFound"><![CDATA[Не удалось найти файл изображения.]]></data>
+	<data name="Error.Delete.CouldNotDelete"><![CDATA[Не удалось удалить файл изображения.]]></data>
+	<data name="Error.Upload.IsNotImage"><![CDATA[Извините, тип загружаемого файла '{0}' не поддерживается, возможно он не является изображением.]]></data>
+	<data name="Error.Upload.NoExtension"><![CDATA[Извините, загружаемый файл не имеет расширения. Пожалуйста, загружайте файлы с расширениями jpg, jpeg, gif, png.]]></data>
+	<data name="Error.Upload.IsNotImageExtension"><![CDATA[Извините, загружаемый файл имеет недопустимое расширение '{0}'. Пожалуйста, загружайте только файлы с расширениями jpg, jpeg, gif, png.]]></data>
+	<data name="Error.Upload.SizeLimitIsExceeded"><![CDATA[Размер загружаемого файла ({0} КБайт) превышает максимально допустимый ({1} КБайт).]]></data>
+	<data name="Error.Upload.OverallSizeLimitIsExceeded"><![CDATA[Размер всех загруженных файлов ({0} КБайт) превышает максимально допустимый ({1} КБайт).]]></data>
+	<data name="Error.Upload.CouldNotSave"><![CDATA[Не удалось сохранить файл изображения.]]></data>
+	<data name="Error.Upload.CouldNotResize"><![CDATA[Не удалось изменить размеры изображения. Возможно файл повреждён.]]></data>
+	<data name="Error.List.GeneralError"><![CDATA[Извините, при формировании списка изображений произошла ошибка.]]></data>
+	<data name="Error.Delete.GeneralError"><![CDATA[Извините, при удалении изображения произошла ошибка.]]></data>
+	<data name="Error.Upload.GeneralError"><![CDATA[Извините, при загрузке изображения произошла ошибка.]]></data>
+	<data name="Param.AvailablePostCustomFieldsForAuthor"><![CDATA[Поля сообщений доступные автору]]></data>
+	<data name="Param.AvailablePostCustomFieldsForModerator"><![CDATA[Поля сообщений доступные модератору]]></data>
+	<data name="Error.NotAllowedToWriteHtml"><![CDATA[Вам не разрешено использовать HMTL в блогах]]></data>
+	<data name="Param.CutThreshold"><![CDATA[Допустимая длина сообщения без врезок (при её превышении потребуется разбить текст на врезки; при значении '0' - длина текста не контролируется)]]></data>
+	<data name="Error.ContentLengthExceedCutThreshold"><![CDATA[Длина текста, не включённого во врезки: {0}, превышает максимально допустимое значение: {1}. Пожалуйста, добавьте новые врезки или расширьте существующие.]]></data>
+	<data name="Param.CategoryId"><![CDATA[Создавать/редактировать сообщения блогов только данных категорий]]></data>
+</resources>

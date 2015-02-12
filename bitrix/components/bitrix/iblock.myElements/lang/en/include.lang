@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[My elements]]></data>
+	<data name="Description"><![CDATA[Compound component "My elements"]]></data>
+	<data name="Group"><![CDATA[Add elements]]></data>
+	<data name="Category.Access"><![CDATA[Access Settings]]></data>
+	<data name="Category.WebFormGeneral"><![CDATA[Editor Form Settings]]></data>
+	<data name="Category.WebFormFields"><![CDATA[Form Field Settings]]></data>
+	<data name="Category.WebFormCustomNames"><![CDATA[Custom Form Field Titles]]></data>
+</resources>

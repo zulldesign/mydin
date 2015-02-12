@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Календарь]]></data>
+	<data name="Date"><![CDATA[Вставить дату]]></data>
+	<data name="Jan"><![CDATA[Январь]]></data>
+	<data name="Feb"><![CDATA[Февраль]]></data>
+	<data name="Mar"><![CDATA[Март]]></data>
+	<data name="Apr"><![CDATA[Апрель]]></data>
+	<data name="May"><![CDATA[Май]]></data>
+	<data name="Jun"><![CDATA[Июнь]]></data>
+	<data name="Jul"><![CDATA[Июль]]></data>
+	<data name="Aug"><![CDATA[Август]]></data>
+	<data name="Sep"><![CDATA[Сентябрь]]></data>
+	<data name="Okt"><![CDATA[Октябрь]]></data>
+	<data name="Nov"><![CDATA[Ноябрь]]></data>
+	<data name="Des"><![CDATA[Декабрь]]></data>
+	<data name="PrevMon"><![CDATA[Предыдущий месяц]]></data>
+	<data name="NextMon"><![CDATA[Следующий месяц]]></data>
+	<data name="Curr"><![CDATA[Перейти на текущий месяц]]></data>
+	<data name="CurrDay"><![CDATA[Вставить текущую дату]]></data>
+	<data name="Mo"><![CDATA[Пн]]></data>
+	<data name="Tu"><![CDATA[Вт]]></data>
+	<data name="We"><![CDATA[Ср]]></data>
+	<data name="Th"><![CDATA[Чт]]></data>
+	<data name="Fr"><![CDATA[Пт]]></data>
+	<data name="Sa"><![CDATA[Сб]]></data>
+	<data name="Su"><![CDATA[Вс]]></data>
+	<data name="PerWeek"><![CDATA[Период: неделя]]></data>
+	<data name="PerMon"><![CDATA[Период: месяц]]></data>
+	<data name="PerYear"><![CDATA[Период: год]]></data>
+	<data name="Close"><![CDATA[Закрыть]]></data>
+	<data name="Month"><![CDATA[Выбрать месяц]]></data>
+	<data name="Year"><![CDATA[Выбрать год]]></data>
+	<data name="Time"><![CDATA[Показать время]]></data>
+	<data name="TimeHide"><![CDATA[Скрыть время]]></data>
+	<data name="Hour"><![CDATA[ч:]]></data>
+	<data name="Minute"><![CDATA[м:]]></data>
+	<data name="Second"><![CDATA[с:]]></data>
+	<data name="HourTitle"><![CDATA[Часы (00 - 23)]]></data>
+	<data name="MinuteTitle"><![CDATA[Минуты (00 - 59)]]></data>
+	<data name="SecondTitle"><![CDATA[Секунды (00 - 59)]]></data>
+	<data name="SetTime"><![CDATA[Установить текущее время (серверное)]]></data>
+	<data name="ClearTime"><![CDATA[Сбросить время]]></data>
+</resources>

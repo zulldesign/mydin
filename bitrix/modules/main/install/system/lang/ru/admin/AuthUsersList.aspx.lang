@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.UserList"><![CDATA[Список пользователей]]></data>
+	<data name="FilterText.Login"><![CDATA[Логин]]></data>
+	<data name="FilterText.LastName"><![CDATA[Фамилия]]></data>
+	<data name="FilterText.DateOfModification"><![CDATA[Дата изменения (DD.MM.YYYY)]]></data>
+	<data name="FilterText.DateOfLastAuthorization"><![CDATA[Последняя авторизация (DD.MM.YYYY)]]></data>
+	<data name="FilterText.IsApproved"><![CDATA[Активен]]></data>
+	<data name="ListItemText.Any"><![CDATA[(Любой)]]></data>
+	<data name="FilterText.Site"><![CDATA[Сайт]]></data>
+	<data name="ActionText.addUser"><![CDATA[Добавить пользователя]]></data>
+	<data name="Message.RecordsHaveBeenDeletedSuccessfully"><![CDATA[Записи успешно удалены]]></data>
+	<data name="PopupTitle.ModificationOfUser"><![CDATA[Редактировать пользователя]]></data>
+	<data name="PopupTitle.DeleteUser"><![CDATA[Удалить пользователя]]></data>
+	<data name="PopupText.RemoveUserFromProvider"><![CDATA[Удалить из провайдера]]></data>
+	<data name="PopupTitle.RemoveUserFromProvider"><![CDATA[Удалить пользователя из провайдера]]></data>
+	<data name="ColumnAccessibleHeaderText.Code"><![CDATA[Код]]></data>
+	<data name="ColumnHeaderText.Provider"><![CDATA[Провайдер]]></data>
+	<data name="ColumnHeaderText.FirstName"><![CDATA[Имя]]></data>
+	<data name="ColumnHeaderText.SecondName"><![CDATA[Отчество]]></data>
+	<data name="ColumnHeaderText.Birthdate"><![CDATA[Дата рождения]]></data>
+	<data name="ColumnHeaderText.IsLockedout"><![CDATA[Заблокирован]]></data>
+	<data name="ColumnHeaderText.DateOfLastVisit"><![CDATA[Дата последнего посещения]]></data>
+	<data name="ColumnHeaderText.DateOfRegistration"><![CDATA[Дата регистрации]]></data>
+	<data name="ListItemText.All"><![CDATA[(Все)]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteUsers"><![CDATA[У вас недостаточно прав для удаления пользователей]]></data>
+	<data name="ExceptionText.DeletionOfUserFailed"><![CDATA[Ошибка удаления пользователя]]></data>
+	<data name="ExceptionText.UserIsNotFound"><![CDATA[Пользователь не найден]]></data>
+	<data name="ExceptionText.CodeOfUserIsNotFound"><![CDATA[Код пользователя не найден]]></data>
+	<data name="String.InnerProvider"><![CDATA[Внутренняя проверка]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранного пользователя?]]></data>
+	<data name="PopupConfirmDialogText.DeleteFromProvider"><![CDATA[Вы действительно хотите удалить выбранного пользователя из провайдера?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть пользователя]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченных пользователей?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕХ пользователей из списка?]]></data>
+	<data name="ActionConfirmDialogText.DeleteProvider"><![CDATA[Вы уверены, что хотите удалить отмеченных пользователей из провайдера?]]></data>
+	<data name="ActionConfirmDialogTextAll.DeleteProvider"><![CDATA[Вы уверены, что хотите удалить из провайдера ВСЕХ пользователей из списка?]]></data>
+	<data name="FilterText.Roles"><![CDATA[Роли]]></data>
+	<data name="CheckBoxText.IncludeSubRoles"><![CDATA[Включая вложенные роли]]></data>
+</resources>

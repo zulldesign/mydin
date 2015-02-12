@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TITLE"><![CDATA[Page Editor]]></data>
+	<data name="INSUFFICIENT_RIGHTS"><![CDATA[You do not have permission to edit pages.]]></data>
+	<data name="PATH_IS_NOT_SPECIFIED"><![CDATA[The file path is not specified.]]></data>
+	<data name="FILE_IS_NOT_EXISTS"><![CDATA[File does not exist.]]></data>
+	<data name="FILE_NAME_IS_NOT_ALLOWED_FOR_PAGE"><![CDATA[The specified file name is invalid.]]></data>
+	<data name="OPERATION_HAS_BEEN_COMPLETED_SUCCESSFULLY"><![CDATA[Page has been saved successfully. Reloading...]]></data>
+	<data name="COULD_NOT_PARSE_DIR_AND_FILE_NAME_IN_PATH"><![CDATA[Could not parse file pathname.]]></data>
+	<data name="DIRECTORY_IS_NOT_FOUND_IN_PATH"><![CDATA[The path does not contain a folder name.]]></data>
+	<data name="FORCE_REDIRECTION_IS_SUPPORTED_ONLY_FOR_STANDARD_MODE"><![CDATA[Redirection can be forced in standard mode only.]]></data>
+	<data name="ManageToolbar"><![CDATA[Common]]></data>
+	<data name="FILE_NAME_HAS_NOT_ALLOWED_EXTENSION"><![CDATA[File '{0}' has not supported extension!]]></data>
+	<data name="EXTENSION_IS_NOT_SUPPORTED_FOR_NEW_FILES"><![CDATA[The specified file extension is not supported for creation]]></data>
+	<data name="FILE_ALREADY_EXISTS"><![CDATA[File "{0}" already exists!]]></data>
+	<data name="OPERATION_HAS_BEEN_COMPLETED_SUCCESSFULLY_UNDO"><![CDATA[The page has been saved successfully. <a title="Undo page saving" onclick="{0}" href="{1}">Undo</a>]]></data>
+</resources>

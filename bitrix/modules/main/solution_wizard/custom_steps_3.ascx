@@ -1,0 +1,1 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true"  CodeFile="custom_steps_3.ascx.cs" Inherits="Bitrix.Wizards.Solutions.CustomSteps3WizardStep" %>

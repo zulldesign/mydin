@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Блоги]]></data>
+	<data name="FilterText.Name"><![CDATA[Название блога]]></data>
+	<data name="FilterText.Active"><![CDATA[Активность]]></data>
+	<data name="Option.Active"><![CDATA[активные]]></data>
+	<data name="Option.Inactive"><![CDATA[неактивные]]></data>
+	<data name="FilterText.Sort"><![CDATA[Сортировка]]></data>
+	<data name="FilterText.Slug"><![CDATA[Адрес]]></data>
+	<data name="FilterText.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="ActionText.Add"><![CDATA[Новый блог]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новый блог]]></data>
+	<data name="PopupText.Edit"><![CDATA[Изменить блог]]></data>
+	<data name="PopupTitle.Edit"><![CDATA[Изменение параметров блога]]></data>
+	<data name="PopupText.Delete"><![CDATA[Удалить блог]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Удаление блога]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить этот блог?]]></data>
+	<data name="TableTitle"><![CDATA[Список блогов]]></data>
+	<data name="ColumnHeaderText.Name"><![CDATA[Название]]></data>
+	<data name="ColumnHeaderText.DateCreated"><![CDATA[Создан]]></data>
+	<data name="ColumnHeaderText.DateLastPosted"><![CDATA[Обновлён]]></data>
+	<data name="ColumnHeaderText.Active"><![CDATA[Активность]]></data>
+	<data name="ColumnHeaderText.Owner"><![CDATA[Владелец]]></data>
+	<data name="ColumnHeaderText.Slug"><![CDATA[Путь]]></data>
+	<data name="ColumnHeaderText.Categories"><![CDATA[Категории]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить отмеченные блоги?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить все блоги из списка?]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить блоги]]></data>
+	<data name="IndexContent.Nothing"><![CDATA[Отключена]]></data>
+	<data name="IndexContent.All"><![CDATA[Полностью]]></data>
+	<data name="IndexContent.TagsOnly"><![CDATA[Только теги]]></data>
+	<data name="FilterText.Index"><![CDATA[Индексация для поиска]]></data>
+	<data name="ColumnHeaderText.Index"><![CDATA[Индексация]]></data>
+	<data name="Blog.DeleteFailure"><![CDATA[Не удалось удалить часть блогов]]></data>
+	<data name="FilterText.IsTeam"><![CDATA[Коллективный блог]]></data>
+	<data name="ColumnHeaderText.IsTeam"><![CDATA[Коллективный]]></data>
+</resources>

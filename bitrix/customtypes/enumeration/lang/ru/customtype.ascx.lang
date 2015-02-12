@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ValueMustBeSet"><![CDATA[Укажите значение поля "{0}"]]></data>
+	<data name="IncorrectValue"><![CDATA[Для поля "{0}" указано неверное значение]]></data>
+</resources>

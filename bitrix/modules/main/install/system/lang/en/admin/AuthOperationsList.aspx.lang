@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Operations]]></data>
+	<data name="FilterText.Caption"><![CDATA[Name]]></data>
+	<data name="FilterText.Module"><![CDATA[Module]]></data>
+	<data name="ActionText.CreateOperation"><![CDATA[New Operation]]></data>
+	<data name="Message.RecordsHasBeenSuccessfullyDeleted"><![CDATA[Records has been deleted successfully.]]></data>
+	<data name="PopupTitle.ModifyOperation"><![CDATA[Edit operation]]></data>
+	<data name="PopupTitle.DeleteOperation"><![CDATA[Delete operation]]></data>
+	<data name="ColumnHeaderText.OperationType"><![CDATA[Type]]></data>
+	<data name="ColumnHeaderText.Comment"><![CDATA[Comment]]></data>
+	<data name="FilterValue.All"><![CDATA[[All]]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteThisRecord"><![CDATA[You do not have permission to delete this record.]]></data>
+	<data name="ExceptionText.DeletionIsFailed"><![CDATA[Operation deletion has failed.]]></data>
+	<data name="ExceptionText.OperationIsNotFound"><![CDATA[Operation was not found.]]></data>
+	<data name="ErrorMessage.CodeOfOperationIsNotFound"><![CDATA[The operation ID was not found.]]></data>
+	<data name="FilterText.Code"><![CDATA[ID]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected operation?]]></data>
+	<data name="PopupTitle.View"><![CDATA[View Operation]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected operations?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the operations?]]></data>
+</resources>

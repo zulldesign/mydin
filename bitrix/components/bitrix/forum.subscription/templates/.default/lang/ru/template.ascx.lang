@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ConfirmUnsubscribe"><![CDATA[Вы действительно хотите удалить отмеченные подписки?]]></data>
+	<data name="HeadTitle"><![CDATA[Форумы и темы]]></data>
+	<data name="Replies"><![CDATA[Ответы]]></data>
+	<data name="Views"><![CDATA[Просмотры]]></data>
+	<data name="LastPost"><![CDATA[Обновление]]></data>
+	<data name="Status.Sticky"><![CDATA[Важно]]></data>
+	<data name="Status.Closed"><![CDATA[Закрыто]]></data>
+	<data name="Status.Moved"><![CDATA[Перенесено]]></data>
+	<data name="Title.Moved"><![CDATA[Тема перенесена в другой форум]]></data>
+	<data name="Title.StickyClosed"><![CDATA[Важная и закрытая тема]]></data>
+	<data name="Title.HasNewMessages"><![CDATA[Есть новые сообщения]]></data>
+	<data name="Title.Closed"><![CDATA[Тема закрыта]]></data>
+	<data name="Title.Sticky"><![CDATA[Важная тема]]></data>
+	<data name="Guest"><![CDATA[гость ]]></data>
+	<data name="ManageSubscriptions"><![CDATA[Управление подписками]]></data>
+	<data name="Option.Unsubscribe"><![CDATA[Отписаться]]></data>
+	<data name="SelectAll"><![CDATA[Выделить все]]></data>
+	<data name="NoSubscriptionsHere"><![CDATA[Вы не подписаны ни на один из форумов.]]></data>
+	<data name="HowToSubscribe"><![CDATA[Для подписки воспользуйтесь соответствующими ссылками "Подписаться" при просмотре форума или темы.]]></data>
+	<data name="Subscribed.For"><![CDATA[Подписан&nbsp;на]]></data>
+	<data name="Subscribed.For.Topic"><![CDATA[тему]]></data>
+	<data name="Subscribed.For.ForumNewPosts"><![CDATA[сообщения форума]]></data>
+	<data name="Subscribed.For.ForumNewTopics"><![CDATA[темы форума]]></data>
+</resources>

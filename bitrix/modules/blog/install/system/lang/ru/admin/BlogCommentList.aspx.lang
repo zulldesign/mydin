@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Комментарии]]></data>
+	<data name="TableTitle"><![CDATA[Список комментариев]]></data>
+	<data name="FilterText.DateCreated"><![CDATA[Дата создания]]></data>
+	<data name="FilterText.Author"><![CDATA[Автор]]></data>
+	<data name="FilterText.AuthorName"><![CDATA[Имя автора]]></data>
+	<data name="FilterText.AuthorEmail"><![CDATA[E-mail автора]]></data>
+	<data name="FilterText.Anonymous"><![CDATA[Анонимный автор]]></data>
+	<data name="FilterText.Content"><![CDATA[Текст комментария]]></data>
+	<data name="FilterText.AuthorIP"><![CDATA[IP-адрес автора]]></data>
+	<data name="FilterText.IsApproved"><![CDATA[Опубликован]]></data>
+	<data name="FilterText.Blog"><![CDATA[Блог]]></data>
+	<data name="FilterText.PostId"><![CDATA[ID сообщения]]></data>
+	<data name="FilterText.BlogOwner"><![CDATA[Владелец блога]]></data>
+	<data name="FilterText.Category"><![CDATA[Категория блога]]></data>
+	<data name="FilterText.Site"><![CDATA[Сайт]]></data>
+	<data name="PopupText.Approve"><![CDATA[Показать]]></data>
+	<data name="PopupTitle.Approve"><![CDATA[Опубликовать комментарий - его смогут увидеть посетители сайта]]></data>
+	<data name="PopupText.Disapprove"><![CDATA[Скрыть]]></data>
+	<data name="PopupTitle.Disapprove"><![CDATA[Отменить публикацию комментария - его не смогут увидеть посетители сайта]]></data>
+	<data name="PopupText.Delete"><![CDATA[Удалить]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Удалить комментарий]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить этот комментарий?]]></data>
+	<data name="ColumnHeaderText.IsApproved"><![CDATA[Опубликован]]></data>
+	<data name="ColumnHeaderText.DateCreated"><![CDATA[Дата создания]]></data>
+	<data name="ColumnHeaderText.Author"><![CDATA[Автор]]></data>
+	<data name="ColumnHeaderText.Text"><![CDATA[Комментарий]]></data>
+	<data name="ColumnHeaderText.PostTitle"><![CDATA[Сообщение]]></data>
+	<data name="ColumnHeaderText.BlogName"><![CDATA[Блог]]></data>
+	<data name="ColumnHeaderText.AuthorIP"><![CDATA[IP]]></data>
+	<data name="Any"><![CDATA[(Все)]]></data>
+	<data name="ActionText.Approve"><![CDATA[Показать]]></data>
+	<data name="ActionText.Disapprove"><![CDATA[Скрыть]]></data>
+	<data name="FindIpInWhois"><![CDATA[Посмотреть данные по IP в службе whois]]></data>
+</resources>

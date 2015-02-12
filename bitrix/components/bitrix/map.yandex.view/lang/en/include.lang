@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Yandex.Map]]></data>
+	<data name="Description"><![CDATA[Yandex.Map with pinpoints and search]]></data>
+	<data name="Group"><![CDATA[Yandex.Map]]></data>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.UserRegisteredAt"><![CDATA[registered]]></data>
+	<data name="Rating"><![CDATA[Rating]]></data>
+	<data name="TimeOnSite"><![CDATA[Joined {0} ago]]></data>
+</resources>

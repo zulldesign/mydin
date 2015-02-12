@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[CAPTCHA Code]]></data>
+	<data name="PageTitle"><![CDATA[Change Password]]></data>
+	<data name="Title"><![CDATA[Change Password]]></data>
+	<data name="SuccessMessage"><![CDATA[The password has been changed..]]></data>
+	<data name="Login"><![CDATA[Login]]></data>
+	<data name="Message.LoginRequired"><![CDATA[The login is not specified.]]></data>
+	<data name="Checkword"><![CDATA[Check Word]]></data>
+	<data name="Message.CheckwordRequired"><![CDATA[The checkword is required.]]></data>
+	<data name="NewPassword"><![CDATA[New Password]]></data>
+	<data name="Message.NewPasswordRequired"><![CDATA[You must type in a new password.]]></data>
+	<data name="PasswordConfirmation"><![CDATA[Confirm New Password]]></data>
+	<data name="Message.PasswordConfirmationRequired"><![CDATA[The password confirmation is required.]]></data>
+	<data name="ButtonText.ChangePassword"><![CDATA[Change Password]]></data>
+	<data name="Disabled"><![CDATA[Password cannot be restored using the check word.]]></data>
+	<data name="Legend"><![CDATA[All fields are required. <br />Return to <A Href="{0}">authorization form</A>.]]></data>
+</resources>

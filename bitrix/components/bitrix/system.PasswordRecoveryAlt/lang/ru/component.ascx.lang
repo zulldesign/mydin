@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="SystemPasswordRecoveryAlt.Title"><![CDATA[Восстановление пароля с помощью контрольной строки]]></data>
+	<data name="SystemPasswordRecoveryAlt.Description"><![CDATA[Стандартный компонент восстановления пароля с помощью контрольной строки]]></data>
+	<data name="User"><![CDATA[Пользователь]]></data>
+	<data name="PathToGettingControlWordScript"><![CDATA[Путь к скрипту ввода контрольного слова]]></data>
+	<data name="PathToAuthorizationScript"><![CDATA[Путь к скрипту авторизации]]></data>
+	<data name="LoginOrEmailIsRequired"><![CDATA[Должно быть заполнено либо поле Логин, либо поле E-Mail.]]></data>
+	<data name="Command.Parameter.YouHaveRequestedYourRegistrationData"><![CDATA[Вы запросили ваши регистрационные данные.]]></data>
+	<data name="Error.UserIsNotFound"><![CDATA[Пользователь не найден.]]></data>
+	<data name="Error.EmailIsNotFound"><![CDATA[E-Mail не найден.]]></data>
+	<data name="UseCaptcha"><![CDATA[Использовать Captcha]]></data>
+</resources>

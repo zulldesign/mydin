@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Компания : красная тема]]></data>
+  	<data name="Template.Description">
+	<![CDATA[
+	<p>Яркий шаблон с плавающей шириной.</p>
+	]]>
+	</data>
+	<data name="Theme.Name"><![CDATA[Красный]]></data>
+	<data name="Theme.Description"><![CDATA[Красная тема]]></data>
+</resources>

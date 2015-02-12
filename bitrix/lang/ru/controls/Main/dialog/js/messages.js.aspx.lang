@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Button.Yes"><![CDATA[Да]]></data>
+	<data name="Button.No"><![CDATA[Нет]]></data>
+	<data name="Button.OK"><![CDATA[&nbsp;&nbsp;OK&nbsp;&nbsp;]]></data>
+	<data name="Button.Cancel"><![CDATA[Отмена]]></data>
+	<data name="Button.Continue"><![CDATA[Продолжить]]></data>
+</resources>

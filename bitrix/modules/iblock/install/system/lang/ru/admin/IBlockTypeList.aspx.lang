@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.InformationalBlockTypes"><![CDATA[Типы информационных блоков]]></data>
+	<data name="FilterText.HasSections"><![CDATA[Есть разделы]]></data>
+	<data name="Any"><![CDATA[(любой)]]></data>
+	<data name="ActionText.AddNewType"><![CDATA[Добавить новый тип]]></data>
+	<data name="Message.RecordsHaveBeenDeletedSuccessfully"><![CDATA[Записи успешно удалены]]></data>
+	<data name="PopupText.InformationalBlocks"><![CDATA[Информационные блоки]]></data>
+	<data name="PopupText.ChangeType"><![CDATA[Изменить]]></data>
+	<data name="PopupTitle.ChangeType"><![CDATA[Изменить тип]]></data>
+	<data name="PopupTitle.DeleteType"><![CDATA[Удалить тип]]></data>
+	<data name="ColumnHeaderText.Title"><![CDATA[Название]]></data>
+	<data name="ColumnHeaderText.Sort"><![CDATA[Сорт.]]></data>
+	<data name="ColumnHeaderText.HasSections"><![CDATA[Содержит разделы]]></data>
+	<data name="Exception.YouDontHaveRightsToDeleteThisRecord"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="Exception.AnErrorHasOccurredWhileDeletingElement"><![CDATA[Ошибка удаления типа]]></data>
+	<data name="Exception.TypeIsNotFound"><![CDATA[Тип не найден]]></data>
+	<data name="Exception.CodeOfTypeIsNotFound"><![CDATA[Код типа не найден]]></data>
+	<data name="Exception.IBlockTypeContainsIBlocks"><![CDATA[Тип инфоблоков "{0}" не был удален, так как содержит инфоблоки]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранный тип инфоблока?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть тип инфоблока]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные типы инфоблоков?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕ типы инфоблоков из списка?]]></data>
+</resources>

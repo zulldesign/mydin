@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Облако тегов]]></data>
+	<data name="Description"><![CDATA[Формирует облако тегов]]></data>
+	<data name="Group"><![CDATA[Поиск]]></data>
+	<data name="Category.Size"><![CDATA[Параметры размера (популярность тега)]]></data>
+	<data name="Category.Color"><![CDATA[Параметры цвета ("возраст" тега)]]></data>
+	<data name="Param.Filter"><![CDATA[Фильтр выборки]]></data>
+	<data name="Param.SelectionSort"><![CDATA[Сортировать выборку по]]></data>
+	<data name="Param.SelectionOrder"><![CDATA[в порядке]]></data>
+	<data name="Param.Moderation"><![CDATA[Параметры модерирования]]></data>
+	<data name="Param.DisplaySort"><![CDATA[Сортировать вывод по]]></data>
+	<data name="Param.DisplayOrder"><![CDATA[в порядке]]></data>
+	<data name="Param.TagLinkTemplate"><![CDATA[Ссылка для тега]]></data>
+	<data name="Param.SizeDistribution"><![CDATA[Распределение размеров]]></data>
+	<data name="Param.SizeMin"><![CDATA[Исходный размер (в пикселах)]]></data>
+	<data name="Param.SizeMax"><![CDATA[Конечный размер (в пикселах)]]></data>
+	<data name="Param.SizePeriod"><![CDATA[Особо выделять теги за последний период (в днях)]]></data>
+	<data name="Param.ColorDistribution"><![CDATA[Распределение цветов]]></data>
+	<data name="Param.ColorMin"><![CDATA[Исходный цвет тегов]]></data>
+	<data name="Param.ColorMax"><![CDATA[Конечный цвет тегов]]></data>
+	<data name="Option.Name"><![CDATA[Имя]]></data>
+	<data name="Option.TagCount"><![CDATA[Количество использований]]></data>
+	<data name="Option.LastUpdate"><![CDATA[Дата обновления]]></data>
+	<data name="Option.All"><![CDATA[Все теги]]></data>
+	<data name="Option.NotRejected"><![CDATA[Не запрещенные]]></data>
+	<data name="Option.Approved"><![CDATA[Разрешенные]]></data>
+	<data name="Option.DontUse"><![CDATA[Не вычислять]]></data>
+	<data name="Option.Linear"><![CDATA[Линейное]]></data>
+	<data name="Option.Exponential"><![CDATA[Экспоненциальное]]></data>
+	<data name="Option.Logarithmic"><![CDATA[Логарифмическое]]></data>
+</resources>

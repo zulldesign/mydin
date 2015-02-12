@@ -1,0 +1,1 @@
+﻿<%@ Control Language="C#" AutoEventWireup="false" CodeFile="Utils.ascx.cs" Inherits="Bitrix.CommunitySite.UtilsDummy" %>

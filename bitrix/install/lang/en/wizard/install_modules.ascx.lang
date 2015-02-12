@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[System Installation]]></data>
+	<data name="SubTitle.BuildOrder"><![CDATA[Resolving the required modules]]></data>
+	<data name="SubTitle.DB"><![CDATA[Installing the module "{0}": writing the database structure]]></data>
+	<data name="SubTitle.Files"><![CDATA[Installing the module "{0}": writing files]]></data>
+	<data name="SubTitle.Data"><![CDATA[Installing the module "{0}": writing data]]></data>
+	<data name="SubTitle.Events"><![CDATA[Installing the module "{0}": writing the e-mail templates]]></data>
+	<data name="SubTitle.Assemblies"><![CDATA[Installing the module "{0}": writing assemblies]]></data>
+	<data name="SubTitle.Configuration"><![CDATA[Installing the module "{0}": configuring the web application]]></data>
+	<data name="SubTitle.Finalize"><![CDATA[Installing the module "{0}": finishing the installation]]></data>
+	<data name="SubTitle.Default"><![CDATA[Installing the module "{0}"]]></data>
+</resources>

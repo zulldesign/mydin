@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="CreateNewBlog"><![CDATA[Создать новый блог]]></data>
+	<data name="NewPostsTitleFull"><![CDATA[Последние записи]]></data>
+	<data name="CommentedPostsTitleFull"><![CDATA[Обсуждаемые записи]]></data>
+	<data name="PopularPostsTitleFull"><![CDATA[Популярные записи]]></data>
+	<data name="NewPostsTitle"><![CDATA[Новые]]></data>
+	<data name="CommentedPostsTitle"><![CDATA[Обсуждаемые]]></data>
+	<data name="PopularPostsTitle"><![CDATA[Популярные]]></data>
+	<data name="NewCommentsTitle"><![CDATA[Последние комментарии]]></data>
+	<data name="NewBlogsTitle"><![CDATA[Новые]]></data>
+	<data name="CommentedBlogsTitle"><![CDATA[Обсуждаемые]]></data>
+	<data name="NewBlogsTitleFull"><![CDATA[Новые блоги]]></data>
+	<data name="CommentedBlogsTitleFull"><![CDATA[Обсуждаемые блоги]]></data>
+	<data name="CategoriesTitle"><![CDATA[Блоги по категориям]]></data>
+	<data name="AllLastPosts"><![CDATA[Все последние записи]]></data>
+	<data name="AllDiscussedPosts"><![CDATA[Все обсуждаемые записи]]></data>
+	<data name="AllPopularPosts"><![CDATA[Все популярные записи]]></data>
+	<data name="AllBlogs"><![CDATA[Все блоги]]></data>
+	<data name="TagsCloudTitleFull"><![CDATA[Облако тегов]]></data>
+	<data name="Hint.RssAllPosts"><![CDATA[Сообщения всех блогов текущего сайта в формате RSS 2.0]]></data>
+	<data name="Title.RssAllPosts"><![CDATA[RSS подписка]]></data>
+	<data name="HeadTitle.RssAllPosts"><![CDATA[Все сообщения блогов текущего сайта]]></data>
+</resources>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Блог]]></data>
+	<data name="Title"><![CDATA[RSS блога]]></data>
+	<data name="Description"><![CDATA[RSS блога в заданном формате]]></data>
+	<data name="Param.StuffType"><![CDATA[Выгружать]]></data>
+	<data name="Param.FiltrationType"><![CDATA[Из]]></data>
+	<data name="Param.CategoryId"><![CDATA[Категория]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Блог]]></data>
+	<data name="Param.PostId"><![CDATA[Запись]]></data>
+	<data name="NotSelectedMasculine"><![CDATA[-- не выбран --]]></data>
+	<data name="NotSelectedFeminine"><![CDATA[-- не выбрана --]]></data>
+	<data name="FromUser"><![CDATA[от]]></data>
+	<data name="FromUnknownUser"><![CDATA[Гостя]]></data>
+	<data name="Param.ItemQuantity"><![CDATA[Количество элементов]]></data>
+	<data name="Param.FeedItemUrlTemplate"><![CDATA[Шаблон ссылки на элемент]]></data>
+	<data name="Param.FeedUrlTemplate"><![CDATA[Шаблон ссылки на канал]]></data>
+	<data name="Param.FeedTitle"><![CDATA[Заголовок канала]]></data>
+	<data name="Param.FeedTitle.Default"><![CDATA[Новое в блогах]]></data>
+	<data name="Param.FeedDescription"><![CDATA[Описание канала]]></data>
+	<data name="Param.FeedDescription.Default"><![CDATA[Новое в блогах сайта "{0}"]]></data>
+	<data name="Param.StuffType.Post"><![CDATA[новые записи]]></data>
+	<data name="Param.StuffType.Comment"><![CDATA[новые комментарии]]></data>
+	<data name="Param.FiltrationType.None"><![CDATA[всех блогов сайта]]></data>
+	<data name="Param.FiltrationType.CategoryId"><![CDATA[категории]]></data>
+	<data name="Param.FiltrationType.BlogSlug"><![CDATA[блога]]></data>
+	<data name="Param.FiltrationType.PostId"><![CDATA[записи]]></data>
+	<data name="Param.EnablePostCut"><![CDATA[Отображать содержимое врезки (CUT'а)]]></data>
+	<data name="Param.NoCData"><![CDATA[Не использовать CDATA]]></data>
+	<data name="PostCutDefaultTitle"><![CDATA[Читать дальше...]]></data>
+	<data name="Error.CategoryNotFound"><![CDATA[Не найдена категория]]></data>
+	<data name="Error.BlogNotFound"><![CDATA[Не найден блог]]></data>
+	<data name="Error.PostNotFound"><![CDATA[Не найдено сообщение]]></data>
+	<data name="Error.NoData"><![CDATA[Нет данных]]></data>
+	<data name="Error.General"><![CDATA[Общая ошибка]]></data>
+	<data name="FeedTitle.NewBlogPostsInCategory"><![CDATA[{0}: новые сообщения]]></data>
+	<data name="FeedDescription.NewBlogPostsInCategory"><![CDATA[Новые сообщения в блогах в категории "{0}" сайта "{1}"]]></data>
+	<data name="FeedTitle.NewPostsInBlog"><![CDATA[{0}: новые сообщения]]></data>
+	<data name="FeedDescription.NewPostsInBlog"><![CDATA[Новые сообщения в блоге "{0}" сайта "{1}"]]></data>
+	<data name="FeedTitle.NewCommentsInPost"><![CDATA[{0}: новые комментарии]]></data>
+	<data name="FeedDescription.NewCommentsInPost"><![CDATA[Новые комментарии на сообщение "{0}" в блоге "{1}" сайта "{2}"]]></data>
+	<data name="Param.FilterByPostCustomProperty"><![CDATA[Включить фильтрацию по полям записей]]></data>
+	<data name="Param.PostCustomPropertyFilterSettings"><![CDATA[Настройки фильтрации по полям записей]]></data>
+	<data name="Param.FilterByPostTag"><![CDATA[Включить фильтрацию по тегам записей (все другие фильтры будут отключены, необходим модуль поиска)]]></data>
+	<data name="Param.PostTagFilterSettings"><![CDATA[Настройки фильтрации по тегам записей (перечисление тегов через запятую)]]></data>
+	<data name="Category.Tags"><![CDATA[Теги]]></data>
+</resources>

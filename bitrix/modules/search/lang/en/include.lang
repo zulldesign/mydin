@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Search]]></data>
+	<data name="Module.Description"><![CDATA[The Search module offers full text search services to other modules]]></data>
+	<data name="Filter.Everywhere"><![CDATA[(everywhere)]]></data>
+	<data name="Menu.Search"><![CDATA[Search]]></data>
+	<data name="Menu.Search.Reindex"><![CDATA[Reindex]]></data>
+	<data name="Menu.Search.Tags"><![CDATA[Tags]]></data>
+	<data name="IndexerTitle"><![CDATA[Static Files]]></data>
+	<data name="Status.NotStarted"><![CDATA[The reindexing did not start.]]></data>
+	<data name="Status.Deleting"><![CDATA[Deleting the previous content...]]></data>
+	<data name="Status.Reindexing"><![CDATA[Reindexing...]]></data>
+	<data name="Status.ReindexingFolder"><![CDATA[Reindexing folder "{0}"...]]></data>
+	<data name="Status.Suspended"><![CDATA[The reindexing paused.]]></data>
+	<data name="Status.SuspendedFolder"><![CDATA[Paused at "{0}"]]></data>
+	<data name="Status.DeleteMissing"><![CDATA[Deleting missing content...]]></data>
+	<data name="Status.Finished"><![CDATA[The reindexing has been completed.]]></data>
+	<data name="Status.Error"><![CDATA[Reindexing error: {0}<br/>{1}]]></data>
+	<data name="Label.Folders"><![CDATA[Folders]]></data>
+	<data name="Hint.FolderExample"><![CDATA[for example: ~/content/;~/examples/]]></data>
+</resources>

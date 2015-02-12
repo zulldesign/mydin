@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menuitem>
+		<title>Кредитование</title>
+		<sort>10</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/biz/credit/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Лизинг</title>
+		<sort>20</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/biz/leazing/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Депозиты</title>
+		<sort>30</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/biz/deposits/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Пластиковые карты</title>
+		<sort>40</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/biz/cards/</link>
+		</links>
+	</menuitem>
+</menu>

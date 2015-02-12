@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Список]]></data>
+	<data name="Description"><![CDATA[Список]]></data>
+	<data name="ListSize"><![CDATA[Количество строк в списке]]></data>
+	<data name="ListView"><![CDATA[Список]]></data>
+	<data name="RadioButtonView"><![CDATA[Флажки]]></data>
+	<data name="View"><![CDATA[Внешний вид]]></data>
+	<data name="RequiredError"><![CDATA[Необходимо выбрать одно значение]]></data>
+	<data name="Default"><![CDATA[Умолч.]]></data>
+	<data name="Delete"><![CDATA[Удалить]]></data>
+	<data name="ID"><![CDATA[ID]]></data>
+	<data name="More"><![CDATA[Еще]]></data>
+	<data name="None"><![CDATA[(нет значения по умолчанию)]]></data>
+	<data name="Sort"><![CDATA[Сорт.]]></data>
+	<data name="Value"><![CDATA[Значение]]></data>
+	<data name="XMLID"><![CDATA[XML_ID]]></data>
+	<data name="Legend.ListValues"><![CDATA[Значения списка]]></data>
+</resources>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Update System]]></data>
+	<data name="Content"><![CDATA[The update system is unavailable. Please contact the <a href="http://dev.bitrixsoft.com/support/">techsupport service</a>.]]></data>
+</resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Blog Categories]]></data>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Description"><![CDATA[Shows the list of blog categories.]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Param.BlogCategoryPageUrlTemplate"><![CDATA[Blog Category Page URL]]></data>
+	<data name="Param.DisplayLimit"><![CDATA[Max Visible Items]]></data>
+	<data name="Param.ColumnCount"><![CDATA[Columns]]></data>
+	<data name="Param.SortByFirst"><![CDATA[Primary Sort Field]]></data>
+	<data name="Param.SortBySecond"><![CDATA[Secondary Sort Field]]></data>
+	<data name="Param.SortOrderFirst"><![CDATA[Primary Sort Order]]></data>
+	<data name="Param.SortOrderSecond"><![CDATA[Secondary Sort Order]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="Category.DisplaySettings"><![CDATA[Appearance]]></data>
+	<data name="FiledCaption.Sort"><![CDATA[Sort]]></data>
+	<data name="FiledCaption.Name"><![CDATA[Name]]></data>
+	<data name="NotSelectedNeuter"><![CDATA[-- none selected --]]></data>
+	<data name="NotSelectedMasculine"><![CDATA[-- not selected --]]></data>
+	<data name="NotSelectedFeminine"><![CDATA[-- not selected --]]></data>
+</resources>

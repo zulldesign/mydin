@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[License Agreement]]></data>
+	<data name="Error.Agreement"><![CDATA[You must accept the License Agreement to proceed installation.]]></data>
+	<data name="Checkbox.Agreement"><![CDATA[I accept the License Agreement]]></data>
+</resources>

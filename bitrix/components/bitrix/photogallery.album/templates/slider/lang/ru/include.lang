@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Edit"><![CDATA[Изменить]]></data>
+	<data name="Delete"><![CDATA[Удалить]]></data>
+	<data name="EditAlbum"><![CDATA[Изменить альбом]]></data>
+	<data name="EditFoto"><![CDATA[Изменить фото]]></data>
+	<data name="DeleteAlbum"><![CDATA[Удалить альбом]]></data>
+	<data name="DeleteFoto"><![CDATA[Удалить фото]]></data>
+</resources>

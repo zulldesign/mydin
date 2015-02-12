@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Comments"><![CDATA[Комментариев]]></data>
+	<data name="Views"><![CDATA[Просмотров]]></data>
+	<data name="Confirm.Delete"><![CDATA[Вы действительно хотите удалить запись?]]></data>
+	<data name="Tags"><![CDATA[Теги]]></data>
+	<data name="CommentsRss"><![CDATA[Подписаться на новые комментарии к записи]]></data>
+</resources>

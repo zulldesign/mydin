@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="InfoBlockType"><![CDATA[Information Block Type (only for verification)]]></data>
+	<data name="InfoBlockCode"><![CDATA[Information Block Code]]></data>
+	<data name="NewsPerPage"><![CDATA[News Per Page]]></data>
+	<data name="FirstSortBy"><![CDATA[Primary Sort Field]]></data>
+	<data name="SecondSortBy"><![CDATA[Secondary Sort Field]]></data>
+	<data name="DetailPageUrl"><![CDATA[Details Page URL]]></data>
+	<data name="DateDisplayFormat"><![CDATA[Date Format]]></data>
+	<data name="ActiveFromDate"><![CDATA[Active From]]></data>
+	<data name="Sort"><![CDATA[Sort]]></data>
+	<data name="DateOfLastModification"><![CDATA[Last Modified]]></data>
+	<data name="FirstSortOrder"><![CDATA[Primary Sort Direction]]></data>
+	<data name="SecondsortOrder"><![CDATA[Secondary Sort Direction]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[The "Newsfeed" component requires configuration.]]></data>
+</resources>

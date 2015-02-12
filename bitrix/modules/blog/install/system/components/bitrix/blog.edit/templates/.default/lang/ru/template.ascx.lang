@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Error.Title"><![CDATA[Вы ввели некорректные данные:]]></data>
+	<data name="Error.SlugLength"><![CDATA[Длина адреса блога должна быть не менее {0} и не более {1} символов]]></data>
+	<data name="Option.SelectCategory"><![CDATA[(выберите категорию)]]></data>
+	<data name="ButtonText.CreateBlog"><![CDATA[Создать блог]]></data>
+	<data name="ButtonText.EditBlog"><![CDATA[Изменить блог]]></data>
+	<data name="FormTitle.CreateBlog"><![CDATA[Создать новый блог]]></data>
+	<data name="FormTitle.BlogSettings"><![CDATA[Настройки блога]]></data>
+	<data name="Label.Name"><![CDATA[Название блога]]></data>
+	<data name="Message.NameNotSpecified"><![CDATA[Поле 'Название блога' должно быть заполнено]]></data>
+	<data name="Label.Slug"><![CDATA[Адрес блога]]></data>
+	<data name="Message.SlugNotSpecified"><![CDATA[Поле 'Адрес блога' должно быть заполнено]]></data>
+	<data name="Message.InvalidSlug"><![CDATA[Поле 'Адрес блога' должно содержать только латинские буквы, цифры и тире]]></data>
+	<data name="Label.BlogCategory"><![CDATA[Категория блогов]]></data>
+	<data name="Message.CategoryNotSpecified"><![CDATA[Должна быть выбрана хотя бы одна категория]]></data>
+	<data name="Label.Description"><![CDATA[Описание блога]]></data>
+	<data name="CheckBoxText.SendEmailNotifications"><![CDATA[Отправлять уведомления на e-mail]]></data>
+	<data name="CheckBoxText.DisableBlog"><![CDATA[Заблокировать данный блог]]></data>
+	<data name="BlogSlug.Description"><![CDATA[— ваш блог будет находится по адресу {0}]]></data>
+	<data name="BlogSlugDummy"><![CDATA[адрес_блога]]></data>
+	<data name="CheckBoxText.EnableSyndication"><![CDATA[Это блог-"зеркало"]]></data>
+	<data name="Label.SyndicationRssFeedUrl"><![CDATA[Адрес RSS-потока основного блога]]></data>
+	<data name="CheckBoxText.SyndicationUpdateable"><![CDATA[Обновлять уже хранящиеся в "зеркале" записи при их изменении в основном блоге]]></data>
+	<data name="CheckBoxText.SyndicationRedirectToComments"><![CDATA[Перенаправлять на страницу с комментариями оригинальной записи]]></data>
+	<data name="Error.DescriptionMaxLengthExceeded"><![CDATA[Длина описания блога не должна превышать 2048 символов]]></data>
+	<data name="Message.SyndicationRssFeedUrlRequired"><![CDATA[Поле "Адрес RSS-потока основного блога" должно быть заполнено]]></data>
+	<data name="Message.SyndicationRssFeedUrlNotValid"><![CDATA[Поле "Адрес RSS-потока основного блога" должно содержать корректный адрес, начинающийся с "http://" или "https://"]]></data>
+	<data name="CheckBoxText.EnableCommentModeration"><![CDATA[Включить премодерацию комментариев]]></data>
+	<data name="Label.CommentModerationMode"><![CDATA[Премодерировать]]></data>
+	<data name="CommentModerationMode.Filter"><![CDATA[комментарии по фильтру]]></data>
+	<data name="CommentModerationMode.All"><![CDATA[все комментарии]]></data>
+	<data name="Label.CommentModerationLinkThreshold"><![CDATA[Максимально допустимое количество ссылок в комментарии]]></data>
+	<data name="Label.CommentModerationStopList"><![CDATA[Стоп-лист (недопустимые слова в комментарии или IP-адреса авторов, каждое слово или IP-адрес с новой строки)]]></data>
+	<data name="FormTitle.Users"><![CDATA[Пользователи]]></data>
+	<data name="FormTitle.UserGroups"><![CDATA[Группы]]></data>
+	<data name="ButtonText.CreateTeamBlog"><![CDATA[Создать коллективный блог]]></data>
+</resources>

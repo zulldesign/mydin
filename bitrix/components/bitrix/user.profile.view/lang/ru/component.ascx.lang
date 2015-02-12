@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.UserNotFound"><![CDATA[Пользователь не найден]]></data>
+	<data name="Title"><![CDATA[Просмотр профиля]]></data>
+	<data name="Description"><![CDATA[Просмотр профиля пользователя]]></data>
+	<data name="Category"><![CDATA[Пользователь]]></data>
+	<data name="Param.UserId"><![CDATA[Идентификатор пользователя (0 - текущий)]]></data>
+	<data name="Param.Fields"><![CDATA[Поля для показа]]></data>
+	<data name="Param.EditProfileTitle"><![CDATA[Заголовок ссылки на страницу редактирования профиля пользователя]]></data>
+	<data name="Param.EditProfileUrlTemplate"><![CDATA[Шаблон ссылки на страницу редактирования профиля пользователя]]></data>
+	<data name="Param.Fields.ButtonTitle"><![CDATA[Группа]]></data>
+	<data name="Param.Fields.Prompt"><![CDATA[Введите название группы]]></data>
+	<data name="Param.Fields.DefaultName"><![CDATA[Новая группа]]></data>
+	<data name="GenderMale"><![CDATA[Мужской]]></data>
+	<data name="GenderFemale"><![CDATA[Женский]]></data>
+	<data name="Field.LastName"><![CDATA[Фамилия]]></data>
+	<data name="Field.FirstName"><![CDATA[Имя]]></data>
+	<data name="Field.SecondName"><![CDATA[Отчество]]></data>
+	<data name="Field.Gender"><![CDATA[Пол]]></data>
+	<data name="Field.BirthdayDate"><![CDATA[Дата рождения]]></data>
+	<data name="Field.DisplayName"><![CDATA[Псевдоним]]></data>
+	<data name="Field.Image"><![CDATA[Аватар]]></data>
+	<data name="Param.EnableVoting"><![CDATA[Разрешить голосование за пользователя]]></data>
+	<data name="Param.RolesAuthorizedToVote"><![CDATA[Роли пользователей, имеющие право голосовать]]></data>
+	<data name="Param.RatingIdsForShow"><![CDATA[Показывать рейтинги]]></data>
+	<data name="Category.Voting"><![CDATA[Голосование]]></data>
+	<data name="Category.Rating"><![CDATA[Рейтинги]]></data>
+</resources>

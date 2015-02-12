@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Text.YouMayAdjustOutputOfCatalogueItemInformation"><![CDATA[Customize here the detail view of catalog elements.]]></data>
+	<data name="Byte"><![CDATA[B]]></data>
+	<data name="Param.BackTitle"><![CDATA[Return Link Title]]></data>
+	<data name="DefaultBackTitle"><![CDATA[Back]]></data>
+	<data name="Param.BackUrlTemplate"><![CDATA[Redirect URL Template]]></data>
+	<data name="Price"><![CDATA[Price]]></data>
+	<data name="Characteristics"><![CDATA[Properties]]></data>
+</resources>

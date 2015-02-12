@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="QuestionText.AboutNewImageUploading"><![CDATA[Upload new file?]]></data>
+	<data name="LegendText.Description"><![CDATA[Description:]]></data>
+	<data name="AnchorTitle.Img"><![CDATA[Enlarge]]></data>
+	<data name="ImageAlternateText.ImageDisplay"><![CDATA[Image]]></data>
+	<data name="CheckBoxText.Del"><![CDATA[Delete File]]></data>
+	<data name="LiteralTextPartFile.ImageParameters"><![CDATA[File]]></data>
+	<data name="LiteralTextPartWidth.ImageParameters"><![CDATA[Width]]></data>
+	<data name="LiteralTextPartHeight.ImageParameters"><![CDATA[Height]]></data>
+	<data name="LiteralTextPartSize.ImageParameters"><![CDATA[Size]]></data>
+	<data name="ButtonCaption.Clear"><![CDATA[Clear]]></data>
+	<data name="QuestionText.AboutXapUploading"><![CDATA[Upload new .XAP file?]]></data>
+</resources>

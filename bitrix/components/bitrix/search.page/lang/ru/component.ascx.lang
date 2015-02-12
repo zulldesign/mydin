@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Страница поиска]]></data>
+	<data name="Description"><![CDATA[Страница с формой поиска и показом результатов поиска]]></data>
+	<data name="MaxChars"><![CDATA[Примерное количество символов во фрагменте результата]]></data>
+	<data name="HighlightDiameter"><![CDATA[Примерное количество символов вокруг выделенного слова во фрагменте результата]]></data>
+	<data name="ShowFilter"><![CDATA[Показывать фильтр поиска]]></data>
+	<data name="ParamSearch"><![CDATA[Название переменной, содержащей запрос]]></data>
+	<data name="ParamPage"><![CDATA[Название переменной, содержащей номер страницы]]></data>
+	<data name="ParamWhere"><![CDATA[Название переменной, содержащей область поиска]]></data>
+	<data name="Group"><![CDATA[Поиск]]></data>
+	<data name="Option.Everywhere"><![CDATA[(везде)]]></data>
+	<data name="SearchFilter"><![CDATA[Ограничить область поиска]]></data>
+	<data name="ShowFilterItems"><![CDATA[Значения для фильтра]]></data>
+	<data name="ShowTags"><![CDATA[Показывать теги результатов]]></data>
+	<data name="ParamTags"><![CDATA[Название переменной, содержащей теги]]></data>
+	<data name="Option.DontShow"><![CDATA[Не показывать]]></data>
+	<data name="Option.Approved"><![CDATA[Разрешенные]]></data>
+	<data name="Option.NotRejected"><![CDATA[Не запрещенные]]></data>
+	<data name="Option.All"><![CDATA[Все]]></data>
+</resources>

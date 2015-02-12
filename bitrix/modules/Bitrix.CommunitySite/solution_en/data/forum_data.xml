@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<topic 
+		name="I bought a new bike! " description=""
+		authorLogin="morrison" authorId="" authorName="" authorEmail=""
+		xmlid="topic01" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general" 
+		approved="true" closed="false" views="456" 
+		stickyindex="0" movedto="" datecreate="Now.AddHours(-72)" 
+	/>
+
+	<post
+		xmlid="post01" topicid="topic01" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general"
+		authorLogin="morrison" authorId="" authorName="" authorEmail=""
+		authorip="" datecreate="Now.AddHours(-72)" dateupdate="Now.AddHours(-72)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[Hello! I now have a new bike, and feels great!
+Impressions:
+- The frame is quite low, sometimes my legs get a little stuck when I pedal hard.
+- I’m not used to having so many gears!
+Likes:
+- It’s softer than my old one (which I haven’t sold yet).
+- The front light is quite bright, but it buzzing and I’m told that the generator will sap some speed.
+- The pump is a little better than the old one, and it sits just below the seat in a safe an unobtrusive place.
+- The lowest speed made me want to try some steep hills, but the only one near me is cobblestone and a full of potholes.
+Shortcomings:
+- Switching between the 3 main speeds is a little clunky.
+- Alex noticed a slight flaw in the rear wheel (I can’t see it).
+Overall. Good for riding in the city and well-paved placed. I’l take it to work tomorrow. I really like the look of it and it is a big step up from my previous one.]]>			
+		</content>
+	</post>
+
+	<post
+		xmlid="post02" topicid="topic01" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general"
+		authorId="valentine" authorName="" authorEmail=""
+		authorip="" datecreate="Now.AddHours(-71)" dateupdate="Now.AddHours(-71)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[Very nice. And it will ride nicely. Don't worry about the flaw in the tire, it probably isn't anything important.]]>
+		</content>
+	</post>
+
+	<post
+		xmlid="post03" topicid="topic01" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general"
+		authorId="1" authorName="" authorEmail=""
+		authorip="" datecreate="Now.AddHours(-70)" dateupdate="Now.AddHours(-70)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[Great pick!]]>
+		</content>
+	</post>
+
+	<!-- topic -->
+
+	<topic
+		name="Where are we going? " description=""
+		authorLogin="joel" authorId="" authorName="" authorEmail=""
+		xmlid="topic02" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general"
+		approved="true" closed="false" views="105"
+		stickyindex="0" movedto="" datecreate="Now.AddHours(-60)" dateupdate="Now.AddHours(-60)"
+	/>
+
+	<post
+		xmlid="post10" topicid="topic02" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general"
+		authorLogin="joel" authorId="" authorName="" authorEmail=""
+		authorip="" datecreate="Now.AddHours(-60)" dateupdate="Now.AddHours(-60)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[Actually, it's worth starting that topic, too. What do people think about organizing bike trips? A critical mass of riders has already been collected, so it's really time. Our first route could be Novred - Jedsted.]]>
+		</content>
+	</post>
+
+
+	<post
+		xmlid="post11" topicid="topic02" forumid="Bitrix.CommunitySite.Forum.#SiteId#.general"
+		authorLogin="valentine" authorId="" authorName="" authorEmail=""
+		authorip="" datecreate="Now.AddHours(-56)" dateupdate="Now.AddHours(-56)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[That's a great route. It's good for beginners, too. The road is new and there aren't many cars.]]>
+		</content>
+	</post>	
+	
+	<!-- topic -->
+
+	<topic
+		name="Excellent site" description=""
+		authorId="" authorName="Stranger" authorEmail=""
+		xmlid="topic03" forumid="Bitrix.CommunitySite.Forum.#SiteId#.about"
+		approved="true" closed="false" views="10"
+		stickyindex="0" movedto="" datecreate="Now.AddHours(-120)"
+	/>
+
+	<post
+		xmlid="post20" topicid="topic03" forumid="Bitrix.CommunitySite.Forum.#SiteId#.about"
+		authorId="" authorName="Stranger" authorEmail=""
+		authorip="217.234.15.67" datecreate="Now.AddHours(-120)" dateupdate="Now.AddHours(-120)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[Thanks for the site. I found a lot of interesting stuff.]]>
+		</content>
+	</post>
+
+	<topic
+		name="How do I create a blog? " description=""
+		authorId="" authorName="Nataly" authorEmail=""
+		xmlid="topic04" forumid="Bitrix.CommunitySite.Forum.#SiteId#.about"
+		approved="true" closed="false" views="20"
+		stickyindex="0" movedto="" datecreate="Now.AddHours(-110)"
+	/>
+
+	<post
+			xmlid="post30" topicid="topic04" forumid="Bitrix.CommunitySite.Forum.#SiteId#.about"
+			authorId="" authorName="Nataly" authorEmail=""
+			authorip="196.206.15.67" datecreate="Now.AddHours(-110)" dateupdate="Now.AddHours(-110)"
+			allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[How do I create a blog here? Cannot find instructions.]]></content>
+	</post>
+
+	<post
+		xmlid="post31" topicid="topic04" forumid="Bitrix.CommunitySite.Forum.#SiteId#.about"
+		authorLogin="valentine" authorId="" authorName="" authorEmail=""
+		authorip="" datecreate="Now.AddHours(-100)" dateupdate="Now.AddHours(-100)"
+		allowsmiles="true" approved="true"
+	>
+		<content><![CDATA[First, register at the site and then open the blog creation page (the link will show up in the top right menu). ]]></content>
+	</post>
+
+</data>

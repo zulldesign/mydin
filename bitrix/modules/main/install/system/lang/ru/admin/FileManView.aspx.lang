@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Просмотр/редактирование файла]]></data>
+	<data name="MasterTitle.ImageView"><![CDATA[Просмотр изображения]]></data>
+	<data name="MasterTitle.TextView"><![CDATA[Просмотр файла]]></data>
+	<data name="MasterTitle.DefaultView"><![CDATA[Просмотр файла]]></data>
+	<data name="TabText.View"><![CDATA[Просмотр]]></data>
+	<data name="TabTitle.ImageView"><![CDATA[Просмотр изображения]]></data>
+	<data name="TabTitle.TextView"><![CDATA[Просмотр содержимого текстового файла]]></data>
+	<data name="TabTitle.DefaultView"><![CDATA[Просмотр содержимого файла]]></data>
+	<data name="ActionText.GoBack"><![CDATA[Вернуться к списку файлов]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Вернуться назад в диспетчер файлов]]></data>
+	<data name="FileEncoding"><![CDATA[Кодировка файла]]></data>
+</resources>

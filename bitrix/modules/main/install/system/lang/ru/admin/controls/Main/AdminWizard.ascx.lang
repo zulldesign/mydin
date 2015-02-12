@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Установка продукта "1С-Битрикс: .NET Forge 6.0"]]></data>
+	<data name="Placeholder.Box"><![CDATA[<img alt="" src="{0}/bitrix/admin/controls/Main/images/ru/box.jpg" />]]></data>
+	<data name="Placeholder.Logo"><![CDATA[<img alt="" src="{0}/bitrix/admin/controls/Main/images/ru/logo.gif" />]]></data>
+	<data name="Placeholder.Copyright"><![CDATA[© 2002 «Битрикс», 2007-2011 «1С-Битрикс»]]></data>
+	<data name="Placeholder.Links"><![CDATA[<a href="http://www.bitrix.net/ru/" target="_blank">www.bitrix.net</a> | <a href="http://www.1c-bitrix.ru/support/?referer1=bdn6&amp;referer2=solution_wizard" target="_blank">Техподдержка</a>]]></data>
+	<data name="Placeholder.NoScript"><![CDATA[Для установки продукта необходимо включить JavaScript. По-видимому, JavaScript либо не поддерживается браузером, либо отключен. Измените настройки браузера и затем <a href="">повторите попытку</a>.]]></data>
+</resources>

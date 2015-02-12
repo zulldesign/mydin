@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<category xmlid="Bitrix.Solutions.PersonalBlogs.#SiteId#" name="Personal Blogs" />
+	<blog xmlid="Bitrix.PersonalSite.Blog.#SiteId#" name="#BlogName#" slug="personal" ownerid="#UserId#">
+		<category>Bitrix.Solutions.PersonalBlogs.#SiteId#</category>
+	</blog>
+</data>

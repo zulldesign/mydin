@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[CAPTCHA Code]]></data>
+	<data name="Login"><![CDATA[Login]]></data>
+	<data name="Message.LoginRequired"><![CDATA[The login is not specified.]]></data>
+	<data name="Password"><![CDATA[Password]]></data>
+	<data name="Message.PasswordRequired"><![CDATA[The password is not specified.]]></data>
+	<data name="CheckBoxText.RememberMe"><![CDATA[Remember Me]]></data>
+	<data name="ButtonText.Login"><![CDATA[Log In]]></data>
+	<data name="ForgotPassword"><![CDATA[Forgot your password?]]></data>
+</resources>

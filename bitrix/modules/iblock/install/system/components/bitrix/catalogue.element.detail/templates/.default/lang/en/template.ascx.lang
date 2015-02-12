@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Text.YouMayAdjustOutputOfCatalogueItemInformation"><![CDATA[Customize here the detail view of catalog elements.]]></data>
+	<data name="Byte"><![CDATA[B]]></data>
+	<data name="Param.BackTitle"><![CDATA[Return Link Title]]></data>
+	<data name="DefaultBackTitle"><![CDATA[Back]]></data>
+	<data name="Param.BackUrlTemplate"><![CDATA[Redirect URL Template]]></data>
+	<data name="PriceVATIncl"><![CDATA[incl. tax]]></data>
+	<data name="PriceVATExcl"><![CDATA[Tax Rate]]></data>
+	<data name="FromQuantity"><![CDATA[from {0}]]></data>
+	<data name="Add2CartBtnText"><![CDATA[Add To Cart]]></data>
+	<data name="BuyBtnText"><![CDATA[Buy]]></data>
+	<data name="Quantity"><![CDATA[Quantity]]></data>
+	<data name="YourPrice"><![CDATA[Your Price]]></data>
+	<data name="YourQuantity"><![CDATA[Quantity]]></data>
+	<data name="AlreadyInCart"><![CDATA[Already in cart]]></data>
+	<data name="AlreadyInCartWithQty"><![CDATA[Your cart: {0} items]]></data>
+	<data name="SkuLegend"><![CDATA[Please select a required option for this product]]></data>
+	<data name="Product.Unavailable"><![CDATA[Out of stock]]></data>
+</resources>

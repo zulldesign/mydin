@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Элементы раздела]]></data>
+	<data name="Description"><![CDATA[Выводит элементы раздела с указанным набором свойств]]></data>
+	<data name="Group"><![CDATA[Каталог]]></data>
+</resources>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Оптимизация работы сайта]]></data>
+	<data name="TabText.Main"><![CDATA[Основные параметры]]></data>
+	<data name="TabTitle.Main"><![CDATA[Настройка параметров динамической компиляции и кеширования]]></data>
+	<data name="TabText.ComponentCaching"><![CDATA[Кеширование компонентов]]></data>
+	<data name="TabTitle.ComponentCaching"><![CDATA[Настройка автокеширования компонентов]]></data>
+	<data name="TabText.ManagedCaching"><![CDATA[Управляемое кеширование]]></data>
+	<data name="TabTitle.ManagedCaching"><![CDATA[Настройка управляемого кеширования]]></data>
+	<data name="Header.MemorySettings"><![CDATA[Настройки памяти]]></data>
+	<data name="Header.DynamicCompilationSettings"><![CDATA[Настройки динамической компиляции]]></data>
+	<data name="Intro.DynamicCompilationSettings"><![CDATA[В глобальном файле web.config подключаются сборки, которые не требуются для динамической компиляции кода "1С-Битрикс: .NET Forge". Вы можете отключить сборки, которые не требуются для компиляции вашего кода, cнизив потребление оперативной памяти приложением.]]></data>
+	<data name="FieldName.EnableMemoryCollection"><![CDATA[Включить очистку кеша в случае недостатка памяти (рекомендуется)]]></data>
+	<data name="FieldName.PrivateBytesLimit"><![CDATA[Максимальный объём единолично используемой приложением памяти (Private Bytes), по превышении которого начинается удаление из кеша элементов с истекшим сроком хранения и предпринимается попытка высвободить память, байт]]></data>
+	<data name="FieldName.PrivateBytesPollTime"><![CDATA[Интервал между запросами объема единолично занимаемой приложением памяти (Private Bytes), сек.]]></data>
+	<data name="FieldName.CompilationEnableDebug"><![CDATA[Отладочный режим]]></data>
+	<data name="FieldName.CompilationEnableBatch"><![CDATA[Пакетная компиляция (рекомендуется)]]></data>
+	<data name="Legend.EnableMemoryCollection"><![CDATA[Очистка кеша в случае недостатка памяти (Scavenging) - удаление неиспользуемых элементов и элементов в низким приоритетом. Отключение очистки кеша может привести к переполнению памяти приложения (исключение System.OutOfMemoryException).]]></data>
+	<data name="Legend.PrivateBytesLimit"><![CDATA[Определяет максимальные размеры единолично используемого пространства рабочего процесса. С приближением значения объёма единолично используемой памяти к максимальному система кеширования постепенно начинает применять более агрессивные меры очистки. Значение по умолчанию: 0.]]></data>
+	<data name="Legend.PrivateBytesPollTime"><![CDATA[Определяет временной интервал между запросами размеров единолично используемого пространства рабочего процесса. Выполнение является дорогостоящим.]]></data>
+	<data name="Legend.CompilationEnableDebug"><![CDATA[Компиляция в режиме отладки снижает производительность приложения. Рекомендуется включать режим отладки только для поиска и исправления ошибок.]]></data>
+	<data name="Message.PrivateBytesLimitIsNotNumber"><![CDATA[Значение максимального объёма единолично используемой памяти должно быть целым положительным числом.]]></data>
+	<data name="Message.PrivateBytesPollTimeIsNotNumber"><![CDATA[Значение интервала между запросами объема единолично занимаемой памяти должно быть целым положительным числом.]]></data>
+	<data name="ErrorMessage.PrivateBytesLimitParsing"><![CDATA[Ошибка при разборе значения максимального объёма единолично используемой памяти.]]></data>
+	<data name="ErrorMessage.PrivateBytesPollTimeParsing"><![CDATA[Ошибка при разборе значения интервала между запросами размеров единолично используемого пространства.]]></data>
+	<data name="Assembly.EnterpriseServices"><![CDATA[Поддержка служб COM+ (System.EnterpriseServices)]]></data>
+	<data name="Assembly.ServiceModel"><![CDATA[Поддержка Windows Communication Foundation (WCF) (System.ServiceModel)]]></data>
+	<data name="Assembly.ServiceModelWeb"><![CDATA[Поддержка HTTP контекста для Windows Communication Foundation (WCF) (System.ServiceModel.Web)]]></data>
+	<data name="Assembly.IdentityModel"><![CDATA[Поддержка аутентификации для Windows Communication Foundation (WCF) (System.IdentityModel)]]></data>
+	<data name="Assembly.WebMobile"><![CDATA[Поддержка мобильных веб-приложений (System.Web.Mobile)]]></data>
+	<data name="Assembly.WorkflowServices"><![CDATA[Поддержка рабочих процессов (System.WorkflowServices)]]></data>
+	<data name="Intro.BackupRecommendation"><![CDATA[
+    <p>Перед сохранением настроек рекомендуется сделать резервную копию файла <a href="FileManDownload.ashx?path=~/web.config">web.config</a> из корня веб-сайта.</p>
+  ]]></data>
+	<data name="Legend.CompilationEnableBatch"><![CDATA[
+    В режиме пекетной компиляции ASP.NET стремится упаковать в одну откомпилированную сборку как можно больше страниц. Цель - минимизацировать количество сборок, загружаемых в приложение. Применяется только к каталогам, содержащим файлы с расширениями aspx и ascx. Следует учитывать, что Windows ограничивает количество библиотек, которые могут быть загружены для одного приложения. По достижении этого предела производительность значительно снижается. Это важно для больших систем. Но способ компиляции отнимает больше ресурсов сервера и увеличить время отклика первой страницы в каталоге. Решение - "предпакетная" компиляция (pre-batch compilation). Перед тем, как кто-либо запросит страницу из каталога, автор сам обращается к любой странице каталога, инициируя процесс пакетной компиляции и заставляя ASP.NET создать и закешировать все страницы каталога.
+  ]]></data>
+	<data name="MessageText.ComponentAutoCachingEnabled"><![CDATA[Автокеширование компонентов включено]]></data>
+	<data name="MessageText.ComponentAutoCachingNotEnabled"><![CDATA[Автокеширование компонентов выключено]]></data>
+	<data name="ButtomText.EnableComponentAutoCaching"><![CDATA[Включить автокеширование]]></data>
+	<data name="ButtomText.DisableComponentAutoCaching"><![CDATA[Выключить автокеширование]]></data>
+	<data name="Html.ComponentCachingIntro"><![CDATA[<table cellspacing="0" cellpadding="5" border="0" width="100%">
+		<tbody>
+			<tr>
+				<td valign="top">Использование режима "Автокеширования" позволяет ускорить работу вашего сайта в несколько раз!</td>
+			</tr>
+			<tr>
+				<td valign="top">
+				<br/>
+					Обратите внимание: при использовании режима "Автокеширования", обновление информации, выводимой компонентами, происходит в соответствии с параметрами отдельных компонентов. 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<br/>
+					Для того чтобы обновить содержимое закешированных объектов на странице, вы можете: 
+				</td>
+			</tr>
+	</tbody>
+</table>
+<table cellspacing="0" cellpadding="5" border="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" valign="top">&nbsp;</td>
+		</tr>
+		<tr>
+			<td valign="top">1. Перейти на нужную страницу и обновить ее содержимое, используя специальную кнопку в административной панели для очистки закешированой информации.<br>
+			<img height="131" width="269" vspace="5" src="img/caching/page_cache.png"/></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">&nbsp;</td>
+		</tr>
+		<tr>
+			<td valign="top">2. В режиме Редактирования сайта использовать кнопки для очистки кеша в панели отдельных компонентов.<br>
+			<img height="162" width="719" vspace="5" src="img/caching/comp_cache.png"/></td>
+		</tr>
+		<tr>
+			<td valign="top">&nbsp;</td>
+		</tr>
+		<tr>
+			<td valign="top">3. Необходимо перейти к настройкам выбранных компонентов и перевести их в режим работы без кеширования. <br>
+			<img height="105" width="682" vspace="5" src="img/caching/spisok.gif"/></td>
+		</tr>
+	</tbody>
+</table>
+<br/>
+<p>
+	Примечание: При включении режима автокеширования компонентов, компоненты с настройкой кеширования <i>"Авто"</i> будут переведены в режим работы с кешированием.<br>
+	<br/>
+	Компоненты с настройкой кеширования <i>"Кешировать"</i> и временем кеширования больше нуля, всегда работают в режиме кеширования.<br>
+	<br/>
+	Компоненты с настройкой кеширования <i>"Не кешировать"</i> или временем кеширования равным нулю, всегда работают без кеширования.
+</p>]]></data>
+	<data name="MessageText.ManagedCachingEnabled"><![CDATA[Управляемое кеширование включено]]></data>
+	<data name="MessageText.ManagedCachingNotEnabled"><![CDATA[Управляемое кеширование выключено]]></data>
+	<data name="ButtomText.EnableManagedCaching"><![CDATA[Включить управляемое кеширование (рекомендуется)]]></data>
+	<data name="ButtomText.DisableManagedCaching"><![CDATA[Выключить управляемое кеширование (не рекомендуется)]]></data>
+	<data name="Html.ManagedCachingIntro"><![CDATA[
+		Технология управляемого кеширования автоматически обновляет кеш при изменении связанных с ним данных. Например, при включенном управляемом кешировании, вам не придётся вручную обновлять кеш компонентов после изменении новостей или товаров - изменения сразу станут видны посетителям сайта.
+				<br/><br/>
+				Узнайте подробнее о <a href="http://www.1c-bitrix.ru/blog/rsv/2074.php">технологии управляемого кеширования</a> на нашем сайте.
+				<br/><br/>
+				<span style="color: grey;">Замечание: не все компоненты могут поддерживать управляемое кеширование.</span>
+	]]></data>
+</resources>

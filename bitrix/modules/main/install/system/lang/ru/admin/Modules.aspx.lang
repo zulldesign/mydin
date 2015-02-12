@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TableTitleModules"><![CDATA[Модули]]></data>
+	<data name="ColumnHeaderText.ModuleName"><![CDATA[Имя модуля]]></data>
+	<data name="ColumnHeaderText.Description"><![CDATA[Описание]]></data>
+	<data name="ColumnHeaderText.Version"><![CDATA[Версия]]></data>
+	<data name="PopupText.Install"><![CDATA[Установить]]></data>
+	<data name="PopupText.Uninstall"><![CDATA[Удалить]]></data>
+	<data name="ColumnHeaderText.Status"><![CDATA[Статус]]></data>
+	<data name="Status.Installed"><![CDATA[Установлен]]></data>
+	<data name="Status.NotInstalled"><![CDATA[Не установлен]]></data>
+	<data name="PopupText.NoOperations"><![CDATA[Нет операций]]></data>
+	<data name="PopupTitle.NoOperations"><![CDATA[Нет операций]]></data>
+	<data name="Module"><![CDATA[Модуль "{0}"]]></data>
+</resources>

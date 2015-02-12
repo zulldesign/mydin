@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Exception.YouDontHaveRightsToPerformThisAction"><![CDATA[You do not have permission to perform this action.]]></data>
+	<data name="Message.SettingsHasBeenSavedSuccessfully"><![CDATA[Parameters have been saved successfully.]]></data>
+	<data name="TabText.AdjustmentOfModuleParameters"><![CDATA[Module Settings]]></data>
+	<data name="Legend.UseVisualEditor"><![CDATA[Use Visual Editor:]]></data>
+	<data name="Legend.CombinedReviewOfSectionsAndElements"><![CDATA[Combine Section and Element Views:]]></data>
+	<data name="Legend.MaxDepthOfSectionMenus"><![CDATA[Maximum Depth of Section Menus:]]></data>
+</resources>

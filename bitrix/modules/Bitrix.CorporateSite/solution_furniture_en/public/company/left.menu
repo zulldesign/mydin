@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <menuitem>
+    <title>About Us</title>
+    <sort>10</sort>
+    <condition type="None" value="" />
+    <links>
+      <link>site/company/</link>
+    </links>
+  </menuitem>
+  <menuitem>
+    <title>Designer Profiles</title>
+    <sort>20</sort>
+    <condition type="None" value="" />
+    <links>
+      <link>site/company/management.aspx</link>
+    </links>
+  </menuitem>
+  <menuitem>
+    <title>Mission &amp; Vision</title>
+    <sort>30</sort>
+    <condition type="None" value="" />
+    <links>
+      <link>site/company/mission.aspx</link>
+    </links>
+  </menuitem>
+  <menuitem>
+    <title>History</title>
+    <sort>40</sort>
+    <condition type="None" value="" />
+    <links>
+      <link>site/company/history.aspx</link>
+    </links>
+  </menuitem>
+  <menuitem>
+    <title>Careers</title>
+    <sort>50</sort>
+    <condition type="None" value="" />
+    <links>
+      <link>site/company/vacancies/</link>
+    </links>
+  </menuitem>
+</menu>

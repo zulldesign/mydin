@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PostsRssTitle"><![CDATA[Blog Entries]]></data>
+	<data name="PostCommentsRssTitle"><![CDATA[Comments For Post "{0}"]]></data>
+	<data name="MetaWeblogApiNote"><![CDATA[To start using <a href="http://download.live.com/writer">Windows Live Writer</a> or other client supporting MetaWeblog API, click <a href="{0}">here</a>.]]></data>
+</resources>

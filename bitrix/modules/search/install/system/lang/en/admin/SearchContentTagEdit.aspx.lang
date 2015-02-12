@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.List"><![CDATA[Tags]]></data>
+	<data name="ActionTitle.List"><![CDATA[Back To Tags]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Add New Tag]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete Tag]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this tag?]]></data>
+	<data name="TabText.MainSettings"><![CDATA[Tag]]></data>
+	<data name="TabTitle.MainSettings"><![CDATA[Tag Properties]]></data>
+	<data name="Label.Name"><![CDATA[Name]]></data>
+	<data name="Label.Status"><![CDATA[Status]]></data>
+	<data name="Status.Unknown"><![CDATA[Undefined]]></data>
+	<data name="Status.Approved"><![CDATA[Allowed]]></data>
+	<data name="Status.Rejected"><![CDATA[Disallowed]]></data>
+	<data name="Label.TagCount"><![CDATA[Use Count]]></data>
+	<data name="Label.LastUpdate"><![CDATA[Modified]]></data>
+	<data name="PageTitle.Edit"><![CDATA[Edit Properties For Tag "{0}"]]></data>
+	<data name="PageTitle.Create"><![CDATA[Create Tag]]></data>
+	<data name="Error.NotFound"><![CDATA[Cannot find the tag.]]></data>
+	<data name="Undefined"><![CDATA[Undefined]]></data>
+</resources>

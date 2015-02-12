@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ErrorTitle"><![CDATA[Вы ввели некорректные данные:]]></data>
+	<data name="Label.Name"><![CDATA[Ваше имя]]></data>
+	<data name="Message.NameIsNotSpecified"><![CDATA[Вы не указали ваше имя]]></data>
+	<data name="Message.EmailIsNotSpecified"><![CDATA[Вы не указали ваш адрес электронной почты]]></data>
+	<data name="Message.InvalidEmail"><![CDATA[Указанное значение не является адресом электронной почты]]></data>
+	<data name="Message.CommentContentIsEmpty"><![CDATA[Вы не задали текст комментария]]></data>
+	<data name="Label.Captcha"><![CDATA[Код подтверждения (символы на картинке)]]></data>
+	<data name="Message.CaptchaIsNotSpecified"><![CDATA[Вы не указали код подтверждения]]></data>
+	<data name="ButtonText.Submit"><![CDATA[Отправить]]></data>
+	<data name="ButtonText.View"><![CDATA[Просмотр]]></data>
+</resources>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Подписки пользователя]]></data>
+	<data name="Description"><![CDATA[Выводит список подписок пользователя]]></data>
+	<data name="Group"><![CDATA[Форум]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Путь к CSS-файлу темы оформления]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Путь к CSS-файлу цветовой схемы]]></data>
+	<data name="Param.UserId"><![CDATA[Идентификатор пользователя]]></data>
+	<data name="Param.TopicUrlTemplate"><![CDATA[Шаблон ссылки на страницу чтения темы]]></data>
+	<data name="Param.ForumUrlTemplate"><![CDATA[Шаблон ссылки на форум]]></data>
+	<data name="Param.PostReadUrlTemplate"><![CDATA[Шаблон ссылки на сообщение]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Максимальная длина слова]]></data>
+	<data name="Param.AvailableForums"><![CDATA[Доступные форумы]]></data>
+	<data name="Error.InvalidPage"><![CDATA[Страница не существует]]></data>
+	<data name="Error.Unknown"><![CDATA[Произошла неизвестная ошибка]]></data>
+	<data name="Error.NoRightsToRead"><![CDATA[У вас нет прав на просмотр подписок]]></data>
+	<data name="Error.NoRightsToDelete"><![CDATA[У вас нет прав на удаление подписки]]></data>
+	<data name="Page.Title"><![CDATA[Управление подписками]]></data>
+</resources>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Forum Topics]]></data>
+	<data name="Description"><![CDATA[Shows topic currently in forum.]]></data>
+	<data name="Group"><![CDATA[Forum]]></data>
+	<data name="TopicListUrl"><![CDATA[Topics Page]]></data>
+	<data name="PostReadUrl"><![CDATA[Post View Page]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Error.ForumNotFound"><![CDATA[The forum is not found.]]></data>
+	<data name="Error.InvalidPage"><![CDATA[The page does not exist.]]></data>
+	<data name="Error.Unknown"><![CDATA[Unknown error.]]></data>
+	<data name="Error.TopicNotFound"><![CDATA[The topic was not found in the forum.]]></data>
+	<data name="Error.NoRightsToRead"><![CDATA[You do not have permission to view the forum.]]></data>
+	<data name="Error.NoRightsToDelete"><![CDATA[You do not have permission to delete topics.]]></data>
+	<data name="Error.NoRightsToApprove"><![CDATA[You do not have permission to show or hide topics.]]></data>
+	<data name="Error.NoRightsToOpenClose"><![CDATA[You do not have permission to open or close topics.]]></data>
+	<data name="Error.NoRightsToStick"><![CDATA[You do not have permission to change the topic pinned status.]]></data>
+	<data name="Error.NoRightsToMove"><![CDATA[You do not have permission to move topics.]]></data>
+	<data name="Error.NoRightsToSubscribe"><![CDATA[You do not have permission to subscribe to topic.]]></data>
+	<data name="Param.ForumId"><![CDATA[Forum ID]]></data>
+	<data name="Param.TopicUrlTemplate"><![CDATA[Topic View Page URL Template]]></data>
+	<data name="Param.PostReadUrlTemplate"><![CDATA[Post URL Template]]></data>
+	<data name="Param.NewTopicUrlTemplate"><![CDATA[New Topic Page URL Template]]></data>
+	<data name="Param.MoveTopicsUrlTemplate"><![CDATA[Topic Move Page URL Template]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="Param.AvailableForums"><![CDATA[Available Forums]]></data>
+	<data name="Param.SortByVotingTotals"><![CDATA[Sort Blog Topics By Votings]]></data>
+	<data name="Category.Voting"><![CDATA[Voting]]></data>
+	<data name="Param.EnableVotingForTopic"><![CDATA[Enable Support Of Voting For Topic]]></data>
+</resources>

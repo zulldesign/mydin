@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ButtonTitle.Next"><![CDATA[Next]]></data>
+	<data name="ButtonTitle.Prev"><![CDATA[Back]]></data>
+	<data name="ButtonTitle.Finish"><![CDATA[Ready]]></data>
+	<data name="ButtonTitle.Cancel"><![CDATA[Cancel]]></data>
+	<data name="ButtonTitle.Retry"><![CDATA[Repeat]]></data>
+	<data name="ButtonTitle.Restart"><![CDATA[Restart]]></data>
+	<data name="Error.NavigationFailed"><![CDATA[Cannot navigate {0} from step {1}]]></data>
+	<data name="Error.Title"><![CDATA[Wizard Error]]></data>
+	<data name="Error.Desync"><![CDATA[Steps desynchronized; try refreshing the page.]]></data>
+	<data name="Finish.Title"><![CDATA[Finish]]></data>
+	<data name="Finish.Body"><![CDATA[The wizard has completed successfully.]]></data>
+</resources>

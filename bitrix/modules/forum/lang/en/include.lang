@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Forum]]></data>
+	<data name="Module.Description"><![CDATA[The forum management module.]]></data>
+	<data name="Task.BXForumAdmin.Title"><![CDATA[Forum Administrator]]></data>
+	<data name="Task.BXForumModerator.Title"><![CDATA[Forum Moderator]]></data>
+	<data name="Task.BXForumMember.Title"><![CDATA[Forum Member]]></data>
+	<data name="Task.BXForumGuest.Title"><![CDATA[Forum Guest]]></data>
+	<data name="Role.BXForumAdmin.Title"><![CDATA[Forum Administrator]]></data>
+	<data name="Auth.Operations.ForumPublicRead"><![CDATA[View Forum In Public Section]]></data>
+	<data name="Auth.Operations.ForumTopicReply"><![CDATA[Post To Topic]]></data>
+	<data name="Auth.Operations.ForumTopicCreate"><![CDATA[Create New Topic]]></data>
+	<data name="Auth.Operations.ForumOwnTopicOpenClose"><![CDATA[Open/Close My Topic]]></data>
+	<data name="Auth.Operations.ForumOwnTopicDelete"><![CDATA[Delete My Topic]]></data>
+	<data name="Auth.Operations.ForumOwnTopicEdit"><![CDATA[Edit My Topic]]></data>
+	<data name="Auth.Operations.ForumOwnTopicMove"><![CDATA[Move My Topic]]></data>
+	<data name="Auth.Operations.ForumOwnPostDelete"><![CDATA[Delete My Post]]></data>
+	<data name="Auth.Operations.ForumOwnPostEdit"><![CDATA[Edit My Post]]></data>
+	<data name="Auth.Operations.ForumTopicDelete"><![CDATA[Delete Any Forum Topic]]></data>
+	<data name="Auth.Operations.ForumTopicEdit"><![CDATA[Edit Any Forum Topic]]></data>
+	<data name="Auth.Operations.ForumTopicStick"><![CDATA[Pin/Unpin Any Forum Topic]]></data>
+	<data name="Auth.Operations.ForumTopicApprove"><![CDATA[Show/Hide Any Forum Topic]]></data>
+	<data name="Auth.Operations.ForumTopicOpenClose"><![CDATA[Close/Open Any Forum Topic]]></data>
+	<data name="Auth.Operations.ForumTopicMove"><![CDATA[Move Any Forum Topic]]></data>
+	<data name="Auth.Operations.ForumPostDelete"><![CDATA[Delete Any Forum Post]]></data>
+	<data name="Auth.Operations.ForumPostEdit"><![CDATA[Edit Any Forum Post]]></data>
+	<data name="Auth.Operations.ForumUserIpView"><![CDATA[View User IP Address]]></data>
+	<data name="Auth.Operations.ForumAdminManage"><![CDATA[Manage Forum In Control Panel]]></data>
+	<data name="Auth.Operations.ForumSubscriptionManage"><![CDATA[Subscribe for new forum posts and topics]]></data>
+	<data name="Forum.Error.NotFound"><![CDATA[The forum is not found..]]></data>
+	<data name="Post.Error.NotFound"><![CDATA[The message was not found..]]></data>
+	<data name="Topic.Error.NotFound"><![CDATA[The topic is not found.]]></data>
+	<data name="ForumSite.OnSiteDelete.Error"><![CDATA[Error unbinding the site from the forum.]]></data>
+	<data name="ForumUser.OnUserDelete.Error"><![CDATA[Error deleting the forum user.]]></data>
+	<data name="Forum.Menu.Section.Title"><![CDATA[Forums]]></data>
+	<data name="Forum.Menu.Forum.List"><![CDATA[Forums]]></data>
+	<data name="Forum.Menu.Subscriptions.List"><![CDATA[Manage Subscriptions]]></data>
+	<data name="Forum.Menu.Category.List"><![CDATA[Categories]]></data>
+	<data name="Forum.Profile.Title"><![CDATA[Forum]]></data>
+	<data name="Forum.Profile.Desc"><![CDATA[Forum User Profile]]></data>
+	<data name="Filter.Forums"><![CDATA[Forums]]></data>
+	<data name="EventType.ForumNewPost.Name"><![CDATA[New Forum Message]]></data>
+	<data name="EventType.ForumNewPost.Description"><![CDATA[#ForumId# - Forum ID
+#ForumName# - Forum Name 
+#ForumCode# - Forum Code
+#ForumUrl# - Forum Page Url
+
+#TopicId# - Topic ID 
+#TopicName# - Topic Title
+#TopicDescription# - Topic Description
+#TopicStarterId# - Topic Author ID 
+#TopicStarterName# - Topic Author Name
+
+#PostId# - Message ID
+#PostUrl# - Message Page Url
+#PostDate# - Message Date
+#PostAuthorName# - Message Author Name
+#PostAuthorId# - Message Author ID
+#PostContentText# - Message Text Content 
+#PostContentHtml# - Message HTML Content
+
+#EmailTo# - E-Mail recipient
+]]></data>
+	<data name="EventTemplate.ForumNewPost.Subject"><![CDATA[[F] #TopicName# : #ForumName#]]></data>
+	<data name="EventTemplate.ForumNewPost.Message"><![CDATA[New message on "#ForumName#" forum at #SITE_NAME#.
+
+Subject:
+#TopicName#
+
+Author: #PostAuthorName#
+Date: #PostDate#
+
+The message reads as follows:
+-----------------------------------------------------------------------
+
+#PostContentText#
+
+-----------------------------------------------------------------------
+
+The post is located at #PostUrl#
+]]></data>
+	<data name="ForumActivity.TypeDescription"><![CDATA[User Forum Activity]]></data>
+	<data name="ForumTopicVotingRatingComponent.TypeDescription"><![CDATA[Voting For User's Topics In Forums]]></data>
+	<data name="ForumPostVotingRatingComponent.TypeDescription"><![CDATA[Voting For User's Posts In Forums]]></data>
+	<data name="Auth.Operations.ForumTopicVote"><![CDATA[Voting For Topics]]></data>
+	<data name="Auth.Operations.ForumPostVote"><![CDATA[Voting For Posts]]></data>
+	<data name="ForumActivityComponent.DescriptionHtml"><![CDATA[
+		
+    <p>The rating value is based on the number of posts and comments a user made today, for the recent 7 days and the recent 30 days.</p>
+  <p class="formula">T<sub>1</sub> * K<sub>T1</sub> + T<sub>7</sub> * K<sub>T7</sub> + T<sub>30</sub> * K<sub>T30</sub> + P<sub>1</sub> * K<sub>P1</sub> + P<sub>7</sub> * K<sub>P7</sub> + P<sub>30</sub> * K<sub>P30</sub></p>
+  <p>T<sub>1</sub>, T<sub>7</sub>, T<sub>30</sub> - topics created: today; for the last week; for the last month, respectively;</br>
+  K<sub>T1</sub>, K<sub>T7</sub>, K<sub>T30</sub> - user-defined multipliers for topics created: today; for the last week; for the last month, respectively;</br>
+  P<sub>1</sub>, P<sub>7</sub>, P<sub>30</sub> - number of posts created: today; for the last week; for the last month, respectively;<br/> 
+  K<sub>P1</sub>, K<sub>P7</sub>, K<sub>P30</sub> - user-defined multipliers for posts created: today; for the last week; for the last month, respectively.</p>  
+ 
+	]]></data>
+	<data name="ForumTopicVotingComponent.DescriptionHtml"><![CDATA[
+		
+  <p>The rating value is based on the votes received by the user's topics in forums.</p>
+  <p class="formula">Total * K</p>
+  <p><i>Total</i> is the voting result; <i>K</i> is the user-defined transitional multiplier.</p>
+  
+	]]></data>
+	<data name="ForumPostVotingComponent.DescriptionHtml"><![CDATA[
+		
+  <p>The rating value is based on the votes received by the user's posts in forums.</p>
+  <p class="formula">Total * K</p>
+  <p><i>Total</i> is the voting result; <i>K</i> is the user-defined transitional multiplier.</p>
+  
+	]]></data>
+</resources>

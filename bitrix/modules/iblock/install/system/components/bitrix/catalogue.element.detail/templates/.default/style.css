@@ -1,0 +1,20 @@
+﻿div.bx-catalog-element-properties-conatiner { padding:0 0 0 1em; }
+span.catalog-element-property { font-size:95%; color:#333333; }
+span.catalog-element-value { font-size:100%;  font-weight:700; }
+
+div.bx-catalog-element-stock-catalog-price-container { padding:1.5em 0 0 0; }
+table.bx-catalog-element-stock-catalog-price-table td.bx-catalog-element-stock-catalog-price-table-head { color:#333333; font-size:95%; font-weight:700; background-color:#ECECEC; }
+table.bx-catalog-element-stock-catalog-price-table td.bx-catalog-element-stock-catalog-price-table-data { font-size:90%; color:#666666; border-bottom:1px dashed #CCCCCC; }
+table.bx-catalog-element-stock-catalog-price-table td.bx-catalog-element-stock-catalog-price-table-data span.bx-catalog-element-stock-catalog-price-name { font-size:110%; font-weight:700; }
+table.bx-catalog-element-stock-catalog-price-table td.bx-catalog-element-stock-catalog-price-table-data span.bx-catalog-element-stock-catalog-price-table-quantity { font-size:130%; font-weight:700; }
+table.bx-catalog-element-stock-catalog-price-table td.bx-catalog-element-stock-catalog-price-table-data span.bx-catalog-element-stock-catalog-price { font-size:110%; font-weight:700; }
+
+div.bx-catalog-element-stock-catalog-add2cart-container { width:35%; float:right; padding:1.5em 0 0 0; }
+div.bx-catalog-element-stock-catalog-add2cart-container span.bx-catalog-element-stock-catalog-your-price { color:#333333; font-size: 140%; font-weight: 700; }
+div.bx-catalog-element-stock-catalog-add2cart-container input.bx-catalog-element-stock-catalog-quantity { color:#333333; font-size: 140%; font-weight: 700; width:45px; }
+div.bx-catalog-element-stock-catalog-add2cart-container input.bx-catalog-element-stock-catalog-button { font-size:110%; padding:0.2em; }
+div.bx-catalog-element-stock-catalog-add2cart-container span.bx-catalog-element-stock-catalog-already-in-cart {font-size:97%; color:#666666; }
+div.bx-catalog-element-stock-catalog-sku-container { width:65%; float:left; padding:1.5em 0 0 0; overflow:hidden; }
+div.bx-catalog-element-stock-catalog-sku-container span.catalog-sku-legend { color: #333333; font-size: 95%; }
+div.bx-catalog-element-stock-catalog-add2cart-container span.bx-catalog-element-stock-catalog-unavailable {font-size:97%; color:red; }
+

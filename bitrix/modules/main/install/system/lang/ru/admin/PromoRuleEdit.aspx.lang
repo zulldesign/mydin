@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="NotSelectedNeuter"><![CDATA[-- не выбрано --]]></data>
+	<data name="NotSelectedMasculine"><![CDATA[-- не выбран --]]></data>
+	<data name="NotSelectedFeminine"><![CDATA[-- не выбрана --]]></data>
+	<data name="PageTitle.Creation"><![CDATA[Создание правила промоутинга]]></data>
+	<data name="PageTitle.Modification"><![CDATA[Редактирование правила промоутинга]]></data>
+	<data name="PromoRuleDefaultName"><![CDATA[Новое правило]]></data>
+	<data name="ActionText.GoBack"><![CDATA[Список правил]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Вернуться к списку правил]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новое правило]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить правило]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить это правило?]]></data>
+	<data name="TabTitle.MainSettings"><![CDATA[Именование, целевой объект, условие и действие]]></data>
+	<data name="TabText.MainSettings"><![CDATA[Основные параметры]]></data>
+	<data name="FieldTooltip.Active"><![CDATA[Активность правила...]]></data>
+	<data name="FieldLabel.Active"><![CDATA[Активность]]></data>
+	<data name="FieldTooltip.Name"><![CDATA[Название правила...]]></data>
+	<data name="FieldLabel.Name"><![CDATA[Название]]></data>
+	<data name="FieldTooltip.BoundEntityType"><![CDATA[Целевой объект...]]></data>
+	<data name="FieldLabel.BoundEntityType"><![CDATA[Целевой объект]]></data>
+	<data name="Message.NameNotSpecified"><![CDATA[Не указано название правила]]></data>
+	<data name="Message.BoundEntityType"><![CDATA[Не указан целевой объект]]></data>
+	<data name="Message.ConditionType"><![CDATA[Не указано условие]]></data>
+	<data name="Message.PromoRuleIsNotFound"><![CDATA[Не удалось найти рейтинг]]></data>
+	<data name="FieldTooltip.XmlId"><![CDATA[Внешний ключ...]]></data>
+	<data name="FieldLabel.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="WhatIsCondition"><![CDATA[Как активируется правило]]></data>
+	<data name="FieldTooltip.ConditionType"><![CDATA[Условие для правила промоутинга...]]></data>
+	<data name="FieldLabel.ConditionType"><![CDATA[Условие]]></data>
+	<data name="WhatIsAction"><![CDATA[Что делает правило]]></data>
+	<data name="FieldTooltip.ActionType"><![CDATA[Действие для правила промоутинга...]]></data>
+	<data name="FieldLabel.ActionType"><![CDATA[Действие]]></data>
+	<data name="Message.ActionType"><![CDATA[Не указано действие]]></data>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<iblocktype name="" xmlid="Bitrix.Solutions.Photos" sort="100" havesections="true">
+		<loc lang="en">Photo Gallery</loc>
+	</iblocktype>
+	<iblocktype name="" xmlid="Bitrix.Solutions.WebForms" sort="120" havesections="true">
+		<loc lang="en">Web Forms</loc>
+	</iblocktype>
+	<iblock name="#SiteName#" sort="100" typeid="Bitrix.Solutions.Photos" xmlid ="Bitrix.PersonalSite.Photos.#SiteId#" indexcontent="true" >
+		<permissions>
+			<permission rolename="Guest">IBlockRead</permission>
+		</permissions>
+		<store item="iblock" optname="PhotosIBlockId" />
+		<captions>
+			<caption type="addelement">Add Photo</caption>
+			<caption type="addsection">Add Album</caption>
+			<caption type="changeelement">Edit Photo</caption>
+			<caption type="changesection">Edit Album</caption>
+			<caption type="deleteelement">Delete Photo</caption>
+			<caption type="deletesection">Delete Album</caption>
+			<caption type="elementlist">List of Photos</caption>
+			<caption type="elementname">Photo</caption>
+			<caption type="elementsname">Photos</caption>
+			<caption type="modifyingelement">Photo</caption>
+			<caption type="modifyingsection">Edit Album</caption>
+			<caption type="newelement">Photo</caption>
+			<caption type="newsection">Album</caption>
+			<caption type="sectionlist">List of Albums</caption>
+			<caption type="sectionname">Album</caption>
+			<caption type="sectionsname">Albums</caption>
+		</captions>
+	</iblock>
+	<iblock name="Feedback (#SiteName#)" sort="120" typeid="Bitrix.Solutions.WebForms" xmlid ="Bitrix.PersonalSite.Feedback.#SiteId#" indexcontent="false" >
+		<store item="iblock" optname="ContactsFeedbackIBlockId" />
+		<captions>
+			<caption type="addelement">Add Review</caption>
+			<caption type="addsection">Add Category</caption>
+			<caption type="changeelement">Edit Review</caption>
+			<caption type="changesection">Change Category</caption>
+			<caption type="deleteelement">Delete Review</caption>
+			<caption type="deletesection">Delete Category</caption>
+			<caption type="elementlist">List of Reviews</caption>
+			<caption type="elementname">Review</caption>
+			<caption type="elementsname">Reviews</caption>
+			<caption type="modifyingelement">Review</caption>
+			<caption type="modifyingsection">Category</caption>
+			<caption type="newelement">New Review</caption>
+			<caption type="newsection">New category</caption>
+			<caption type="sectionlist">List of Categories</caption>
+			<caption type="sectionname">Category</caption>
+			<caption type="sectionsname">Categories</caption>
+		</captions>
+		<propdef id="EMAIL" type="Bitrix.System.Text" for="element" >
+			<loc lang="en">Your E-Mail</loc>
+			<settings>
+				<setting name="ValidationRegex"><![CDATA[^\s*[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+(\.[A-Za-z0-9.-]+)+\s*$]]></setting>
+			</settings>
+		</propdef>
+	</iblock>
+</data>

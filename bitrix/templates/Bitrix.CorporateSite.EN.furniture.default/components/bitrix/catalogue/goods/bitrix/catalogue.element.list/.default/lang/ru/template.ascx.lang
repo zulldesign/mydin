@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[1 колонка ( каталог товаров)]]></data>
+	<data name="Price"><![CDATA[Цена]]></data>
+	<data name="Title"><![CDATA[Продукция]]></data>
+</resources>

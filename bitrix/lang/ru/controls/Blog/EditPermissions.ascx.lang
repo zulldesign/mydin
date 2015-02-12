@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Column.Posts"><![CDATA[Посты]]></data>
+	<data name="Column.Comments"><![CDATA[Комментарии]]></data>
+	<data name="DefaultUserGroupName"><![CDATA[Название группы]]></data>
+	<data name="Error.UserGroupNameRequired"><![CDATA[Не заполнено название группы]]></data>
+</resources>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FormatOriginalSize"><![CDATA[Оригинал: {0} x {1} px]]></data>
+	<data name="Photo"><![CDATA[Фотография]]></data>
+</resources>

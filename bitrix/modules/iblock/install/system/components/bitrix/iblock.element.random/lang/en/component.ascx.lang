@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Component.Title"><![CDATA[Random Elements]]></data>
+	<data name="Component.Description"><![CDATA[Prints random elements of the selected information blocks]]></data>
+	<data name="Group"><![CDATA[Information Blocks]]></data>
+	<data name="Error.ErrorSelectingElement"><![CDATA[Error selecting the element. The selected properties are probably not common to all the selected information blocks.]]></data>
+	<data name="Param.FilterCode"><![CDATA[Filter Property Code (a "Yes/No" property)]]></data>
+	<data name="Param.PhotoCode"><![CDATA[Photo Property Code (a "File" property)]]></data>
+	<data name="Param.IBlockElementUrlTemplate"><![CDATA[Information Block Element Details Page]]></data>
+	<data name="Param.IBlockIds"><![CDATA[Information Blocks for Random Selection]]></data>
+	<data name="Param.ElementsCount"><![CDATA[Select Elements]]></data>
+	<data name="Param.PriceType"><![CDATA[Show Price Of Type (for catalog elements)]]></data>
+</resources>

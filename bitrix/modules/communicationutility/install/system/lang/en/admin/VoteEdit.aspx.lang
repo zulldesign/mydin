@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Edit Vote]]></data>
+	<data name="TabText.VoteTabTitle"><![CDATA[Edit Vote]]></data>
+	<data name="Any"><![CDATA[Any]]></data>
+	<data name="ActionText.GoBack"><![CDATA[All Votes]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to votes list]]></data>
+	<data name="FieldLabel.VotingId"><![CDATA[Voting ID]]></data>
+	<data name="FieldLabel.VotingSubject"><![CDATA[Voting Subject]]></data>
+	<data name="FieldLabel.VoteValue"><![CDATA[Vote Value]]></data>
+	<data name="FieldLabel.User"><![CDATA[Vote Author]]></data>
+	<data name="FieldLabel.CreatedUtc"><![CDATA[Created On]]></data>
+	<data name="VotingEntityType.USER"><![CDATA[User]]></data>
+	<data name="VotingEntityType.FORUMTOPIC"><![CDATA[Forum Topic]]></data>
+	<data name="VotingEntityType.FORUMPOST"><![CDATA[Forum Post]]></data>
+	<data name="VotingEntityType.IBLOCKELEMENT"><![CDATA[Information Block Element]]></data>
+	<data name="VotingEntityType.BLOGPOST"><![CDATA[Blog Post]]></data>
+	<data name="VotingEntityType.BLOGCOMMENT"><![CDATA[Blog Comment]]></data>
+	<data name="PopupText.Edit"><![CDATA[Edit Vote]]></data>
+	<data name="PopupText.Delete"><![CDATA[Delete Vote]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Delete Vote]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this vote?]]></data>
+	<data name="TableTitle"><![CDATA[All Votes]]></data>
+	<data name="Error.VoteSelect"><![CDATA[Error selecting the vote.]]></data>
+	<data name="Error.DeleteFailture"><![CDATA[Error deleting the vote.]]></data>
+</resources>

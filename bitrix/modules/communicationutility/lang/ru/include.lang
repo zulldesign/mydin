@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Инструменты для общения]]></data>
+	<data name="Module.Description"><![CDATA[Вспомогательный  модуль для сервисов общения]]></data>
+	<data name="RatingVoting.TypeDescription"><![CDATA[Голосование]]></data>
+	<data name="Auth.Operations.PMessagesReply"><![CDATA[Создание ответа в личной переписке]]></data>
+	<data name="Auth.Operations.PMessagesTopicCreate"><![CDATA[Создание личной переписки]]></data>
+	<data name="Auth.Operations.PMessagesRead"><![CDATA[Чтение личных сообщений]]></data>
+	<data name="Auth.Operations.PMessagesFolderManage"><![CDATA[Управление пользовательскими папками]]></data>
+	<data name="Auth.Operations.PMessagesTopicEdit"><![CDATA[Редактирование любой личной переписки]]></data>
+	<data name="Auth.Operations.PMessagesMessageEdit"><![CDATA[Редактирование любого личного сообщения]]></data>
+	<data name="Auth.Operations.PMessagesOwnTopicEdit"><![CDATA[Редактирование своих личных переписок]]></data>
+	<data name="Auth.Operations.PMessagesOwnTopicDelete"><![CDATA[Удаление своих личных переписок]]></data>
+	<data name="Auth.Operations.PMessagesOwnMessageEdit"><![CDATA[Редактирование своих личных сообщений]]></data>
+	<data name="EventTemplate.PrivateMessagesNewMessage.Subject"><![CDATA[#SITE_NAME#: Новое личное сообщение в переписке #TopicTitle#]]></data>
+	<data name="Role.BXPMessagesAdministrator.Title"><![CDATA[Администратор системы личных сообщений]]></data>
+	<data name="Task.BXPMessagesAdministrator.Title"><![CDATA[Администратор системы личных сообщений]]></data>
+	<data name="Task.BXPMessagesUser.Title"><![CDATA[Пользователь системы личных сообщений]]></data>
+	<data name="EventTemplate.PrivateMessagesNewMessage.Message"><![CDATA[Новое сообщение в переписке #TopicTitle#
+
+Автор:#MessageAuthorName#
+Дата: #SentDate#
+
+Текст сообщения:
+
+#ContentText#
+
+Адрес сообщения:
+
+#MessageUrl#]]></data>
+	<data name="EventType.PrivateMessagesNewMessage.Name"><![CDATA[Новое личное сообщение]]></data>
+	<data name="EventType.PrivateMessagesNewMessage.Description"><![CDATA[
+		
+#TopicId# - ID переписки
+#TopicTitle# - Название переписки
+#MessageAuthorName# - Имя автора сообщения
+#MessageUrl# - Страница сообщения
+#SentDate# - Дата создания сообщения
+#ContentText# - Текст сообщения 
+#ContentHtml# - Текст сообщения в формате HTML
+#EmailTo# - E-mail получателя письма
+
+	]]></data>
+	<data name="Rating.Property.VotingTotalValue"><![CDATA[Результат голосования]]></data>
+	<data name="Rating.Property.VotingTotalVotes"><![CDATA[Общее число голосов]]></data>
+	<data name="VotingInUserProfile.Title"><![CDATA[Голосование]]></data>
+	<data name="VotingInUserProfile.Desc"><![CDATA[Голосование за пользователя]]></data>
+	<data name="VotingInUserProfile.FieldTitle"><![CDATA[Голосование]]></data>
+	<data name="VotingComponent.DescriptionHtml"><![CDATA[
+		<p>Оценка основывается на итогах голосования.</p>
+	<p class="formula">Total * K</p>
+	<p>Total - итог голосования; K - переходный коэффициент для итогов голосования, определяемый пользователем.</p>
+	]]></data>
+	<data name="AdminMenuItem.VotingTitle"><![CDATA[Голосования]]></data>
+	<data name="AdminMenuItem.VotingListTitle"><![CDATA[Список голосований]]></data>
+	<data name="AdminMenuItem.VoteListTitle"><![CDATA[Список голосов]]></data>
+	<data name="Role.BXRatingVotingAdministrator.Title"><![CDATA[Администратор рейтинговых голосований]]></data>
+	<data name="Task.BXRatingVotingAdministrator.Title"><![CDATA[Администратор рейтинговых голосований]]></data>
+	<data name="Auth.Operations.RatingVotingAdminManagement"><![CDATA[Управление голосованиями в административной части сайта]]></data>
+	<data name="EmailIsProtected"><![CDATA[Включите javascript для отображения e-mail.]]></data>
+</resources>

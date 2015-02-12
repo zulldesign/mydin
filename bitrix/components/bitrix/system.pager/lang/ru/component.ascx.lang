@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Постраничная навигация]]></data>
+	<data name="Description"><![CDATA[Постраничная навигация с выделением текущей страницы.]]></data>
+</resources>

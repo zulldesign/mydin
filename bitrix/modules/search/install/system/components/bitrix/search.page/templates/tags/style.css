@@ -1,0 +1,51 @@
+﻿table.searchResultsTable
+{
+	
+}
+
+td.searchResultsTitle
+{
+	
+}
+
+td.searchResultsTitle a:visited
+{
+	color: #551A8B
+}
+
+td.searchResultsTitle a:active
+{
+	color: Red
+}
+
+td.searchResultsTitle
+{
+	
+}
+
+td.searchResultsTags
+{
+	font-size: smaller;
+}
+
+span.searchResultsTitleNoUrl
+{
+	color: Navy	
+}
+
+span.searchEmptyQuery
+{
+	color: Red;
+	font-weight: bold
+}
+
+div.searchTagsCloud
+{
+	margin-bottom: 10px;
+}
+
+span.searchTag, a.searchTag
+{
+	text-decoration: none;
+	border-bottom: 1px dashed;
+}

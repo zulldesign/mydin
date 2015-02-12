@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="SystemPasswordRecoveryAlt.Title"><![CDATA[Recovers user password using secret question and answer]]></data>
+	<data name="SystemPasswordRecoveryAlt.Description"><![CDATA[Recovers user password using secret question and answer]]></data>
+	<data name="User"><![CDATA[User]]></data>
+	<data name="PathToGettingControlWordScript"><![CDATA[Path To Check Word Script]]></data>
+	<data name="PathToAuthorizationScript"><![CDATA[Path To Authorization Script]]></data>
+	<data name="LoginOrEmailIsRequired"><![CDATA[The "Login" or "E-mail" field is required.]]></data>
+	<data name="Command.Parameter.YouHaveRequestedYourRegistrationData"><![CDATA[You have requested your registration data.]]></data>
+	<data name="Error.UserIsNotFound"><![CDATA[The user was not found.]]></data>
+	<data name="Error.EmailIsNotFound"><![CDATA[E-Mail was not found.]]></data>
+	<data name="UseCaptcha"><![CDATA[Use CAPTCHA]]></data>
+</resources>

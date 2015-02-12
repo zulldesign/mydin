@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TopicsColumnTitle"><![CDATA[Topics]]></data>
+	<data name="RepliesColumnTitle"><![CDATA[Posts]]></data>
+	<data name="LastPostColumnTitle"><![CDATA[Last Post]]></data>
+	<data name="QueuedTopics"><![CDATA[Queued topics]]></data>
+	<data name="QueuedPosts"><![CDATA[posts]]></data>
+	<data name="BoardIsEmpty"><![CDATA[Board is empty]]></data>
+	<data name="DefaultCategoryTitle"><![CDATA[Forums]]></data>
+</resources>

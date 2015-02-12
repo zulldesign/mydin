@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="InstallErrorTitle"><![CDATA[Ошибка установки модуля]]></data>
+	<data name="InstallPageTitle"><![CDATA[Установка модуля]]></data>
+	<data name="UnstallPageTitle"><![CDATA[Удаление модуля]]></data>
+	<data name="UnstallErrorTitle"><![CDATA[Ошибка удаления модуля]]></data>
+</resources>

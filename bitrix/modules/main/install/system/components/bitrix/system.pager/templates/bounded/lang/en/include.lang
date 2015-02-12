@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Prev"><![CDATA[< Previous]]></data>
+	<data name="Next"><![CDATA[Next >]]></data>
+	<data name="ShowAll"><![CDATA[All Pages]]></data>
+	<data name="ShowPages"><![CDATA[Multiple Pages]]></data>
+	<data name="Title"><![CDATA[Pages range]]></data>
+</resources>

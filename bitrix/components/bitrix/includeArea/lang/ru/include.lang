@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Description"><![CDATA[Вставка включаемой области]]></data>
+	<data name="Title"><![CDATA[Вставка включаемой области]]></data>
+	<data name="Group"><![CDATA[Включаемые области]]></data>
+</resources>

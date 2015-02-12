@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Ratings]]></data>
+	<data name="FilterText.Name"><![CDATA[Name]]></data>
+	<data name="FilterText.Active"><![CDATA[Active]]></data>
+	<data name="Option.Active"><![CDATA[active]]></data>
+	<data name="Option.Inactive"><![CDATA[inactive]]></data>
+	<data name="FilterText.BoundEntityTypeId"><![CDATA[Binding]]></data>
+	<data name="ActionText.Add"><![CDATA[New Rating]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Add New Rating]]></data>
+	<data name="PopupText.Edit"><![CDATA[Edit Rating]]></data>
+	<data name="PopupTitle.Edit"><![CDATA[Edit Rating Parameters]]></data>
+	<data name="PopupText.Delete"><![CDATA[Delete Rating]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Delete Rating]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this rating?]]></data>
+	<data name="TableTitle"><![CDATA[All Ratings]]></data>
+	<data name="RatingCalculationMethod.Sum"><![CDATA[Total]]></data>
+	<data name="RatingCalculationMethod.Avg"><![CDATA[Average]]></data>
+	<data name="RatingRefreshMethod.Instant"><![CDATA[Immediate]]></data>
+	<data name="RatingRefreshMethod.Periodic"><![CDATA[Periodic]]></data>
+	<data name="Unknown.Masculine"><![CDATA[(Unknown)]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected ratings?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the ratings?]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete Ratings]]></data>
+	<data name="ColumnHeaderText.Name"><![CDATA[Name]]></data>
+	<data name="ColumnHeaderText.Created"><![CDATA[Created]]></data>
+	<data name="ColumnHeaderText.LastModified"><![CDATA[Modified]]></data>
+	<data name="ColumnHeaderText.Active"><![CDATA[Active]]></data>
+	<data name="ColumnHeaderText.BoundEntityTypeId"><![CDATA[Binding]]></data>
+	<data name="ColumnHeaderText.CalculationMethod"><![CDATA[Calculation Method]]></data>
+	<data name="ColumnHeaderText.RefreshMethod"><![CDATA[Refresh Method]]></data>
+	<data name="ColumnHeaderText.XmlId"><![CDATA[External ID]]></data>
+	<data name="Rating.DeleteFailure"><![CDATA[Some ratings could not be deleted.]]></data>
+	<data name="RatingStatus.UnderUpdating"><![CDATA[now updating]]></data>
+	<data name="RatingStatus.Calculated"><![CDATA[calculated]]></data>
+	<data name="RatingStatus.WaitingForUpdating"><![CDATA[update pending]]></data>
+	<data name="ColumnHeaderText.LastCalculated"><![CDATA[Calculated]]></data>
+	<data name="ColumnHeaderText.Status"><![CDATA[Status]]></data>
+	<data name="PopupText.Recalculate"><![CDATA[Recalculate Rating]]></data>
+	<data name="PopupTitle.Recalculate"><![CDATA[Recalculate Rating]]></data>
+</resources>

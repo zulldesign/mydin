@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Param.UserId"><![CDATA[User ID]]></data>
+	<data name="Param.ActivationToken"><![CDATA[Registration Activation String]]></data>
+	<data name="Param.RegistrationDoAuthentication"><![CDATA[Authorize User Upon Successful Registration Confirmation]]></data>
+	<data name="Group"><![CDATA[User]]></data>
+	<data name="Component.Title"><![CDATA[Registration Confirmation]]></data>
+	<data name="Component.Description"><![CDATA[A component to process user registration confirmation requests sent by e-mail]]></data>
+	<data name="Error.FatalTokenIsInvalid"><![CDATA[The check word is incorrect.]]></data>
+	<data name="Error.UserNotFound"><![CDATA[The user was not found.]]></data>
+	<data name="Error.UserAlreadyActivated"><![CDATA[This registration has already been confirmed.]]></data>
+	<data name="Error.FatalUserAuthFailed"><![CDATA[Authorization error.]]></data>
+	<data name="Error.Unknown"><![CDATA[Unknown error.]]></data>
+</resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Планировщик]]></data>
+	<data name="MasterTitle"><![CDATA[Список агентов планировщика]]></data>
+	<data name="TableTitle"><![CDATA[Агенты]]></data>
+	<data name="ColumnName"><![CDATA[Имя агента]]></data>
+	<data name="ColumnActive"><![CDATA[Активен]]></data>
+	<data name="ColumnClassName"><![CDATA[Имя класса агента]]></data>
+	<data name="ColumnAssembly"><![CDATA[Имя сборки класса агента]]></data>
+	<data name="ColumnParameters"><![CDATA[Параметры исполнения]]></data>
+	<data name="ColumnStartTime"><![CDATA[Время запуска]]></data>
+	<data name="ColumnPeriodic"><![CDATA[Периодичность]]></data>
+	<data name="ColumnPeriod"><![CDATA[Период запуска]]></data>
+	<data name="PeriodNotDefined"><![CDATA[Не определен]]></data>
+	<data name="PopupStartStopText"><![CDATA[Остановить/Запустить]]></data>
+	<data name="PopupStartStopTitle"><![CDATA[Остановить или запустить агента]]></data>
+	<data name="PopupDeleteText"><![CDATA[Удалить]]></data>
+	<data name="PopupDeleteTitle"><![CDATA[Удалить агента]]></data>
+	<data name="Message.OperationHasBeenCompletedSuccessfully"><![CDATA[Операция выполнена успешно]]></data>
+	<data name="Exception.YouDontHaveRightsToPerformThisOperation"><![CDATA[У вас нет прав на выполнение этой операции]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранного агента?]]></data>
+</resources>

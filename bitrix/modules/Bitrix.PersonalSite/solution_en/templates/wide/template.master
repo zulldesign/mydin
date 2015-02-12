@@ -1,0 +1,286 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Master Language="C#" Inherits="Bitrix.UI.BXMasterPage" %>
+<%@ Import Namespace="Bitrix" %>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<%= BXSite.Current.LanguageId %>" lang="<%= BXSite.Current.LanguageId %>">
+<head runat="server">
+	<meta name="keywords" content="<%= Encode(Keywords["keywords"]) %>" />
+	<meta name="description" content="<%= Encode(Keywords["description"]) %>" />
+	<<%= "link" %> rel="shortcut icon" type="image/x-icon" href="<%= SitePath %>favicon.ico" />
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>common.css" />
+	<title></title>
+	
+	<!--[if lte IE 6]>
+	<style type="text/css">
+		#pencil 
+		{
+			background-image: none;
+			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='<%= TemplatePath %>images/pencil.png', sizingMethod = 'crop');
+		}
+	</style>
+	<![endif]-->
+	
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>themes/<%= ThemeId %>/colors.css" />
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>print.css" media="print" />
+</head>
+<body>
+	<script type="text/javascript">
+function FireDefaultButton(event, target) 
+{
+	if (event.keyCode == 13) 
+	{
+		var src = event.srcElement || event.target;
+		if (!src || (src.tagName.toLowerCase() != "textarea")) 
+		{
+			var defaultButton = document.getElementById(target);
+			if (defaultButton && typeof(defaultButton.click) != "undefined") 
+			{
+				defaultButton.click();
+				event.cancelBubble = true;
+                
+				if (event.stopPropagation) 
+					event.stopPropagation();
+                    
+				return false;
+			}
+		}
+	}
+    return true;
+}
+	</script>
+	<div id="leaves-left"></div>
+	<div id="leaves-right"></div>
+	<!-- form tag only for .NET version -->
+	<form id="mainForm" class="main-form" runat="server">
+	
+		<div id="panel"><bx:TemplateRequisite runat="server" ID="Requisite"/></div>
+			
+		<div id="header">
+		
+			<bx:IncludeComponent 
+				runat="server" 
+				ID="TopMenu" 
+				ComponentName="bitrix:system.PublicMenu" 
+				Template="top" 
+				Depth="1" 
+				MenuName="top" 
+				SubMenuName="" 
+			/>
+			
+			<h1 id="site-name"><a href="<%= SitePath %>">
+				<bx:IncludeComponent 
+					runat="server" 
+					ID="HeaderArea" 
+					ComponentName="bitrix:includeArea" 
+					Template=".default" 
+					Mode="File" 
+					FilePath="<%$ Options:Bitrix.PersonalSite:TemplateTitleIncludeArea %>" 
+					FileName="" 
+					FileNameSuffix="" 
+					RecursiveFileSearch="True" 
+					AllowEditing="True" 
+				/>
+			</a></h1>
+		
+		</div>
+
+		<div id="search-layer">
+			<a href="<%= SitePath %>rss" id="rss-link">RSS subscribe</a>
+			<div id="search" onkeypress="">
+				<div id="search-button">
+					<% 
+						SearchSubmit.OnClientClick = 
+							"window.location.href='" 
+							+ Bitrix.Services.Js.BXJSUtility.Encode(BXSite.Current.DirectoryAbsolutePath) 
+							+ "search.aspx?q=' + encodeURIComponent(document.getElementById('" 
+							+ Bitrix.Services.Js.BXJSUtility.Encode(SearchInput.ClientID) 
+							+ "').value); return false;";  
+					%>
+					<asp:Button runat="server" ID="SearchSubmit" Text="Search" OnClick="SearchSubmit_Click" />
+				</div>
+			
+				<div id="search-textbox"><span><asp:TextBox runat="server" ID="SearchInput" /></span></div>
+
+			</div>
+		</div>
+		
+		<div id="content-wrapper">
+		
+			<div id="content">
+			
+				<div id="work-area">
+					<% if (!string.IsNullOrEmpty(TitleHtml)) { %><h1><%= TitleHtml %></h1><% } %>
+					<asp:ContentPlaceHolder ID="BXContent" runat="server" />	
+				</div>
+				
+				
+				<div id="sidebar">
+					<bx:IncludeComponent 
+						runat="server" 
+						ID="SidebarMenu" 
+						ComponentName="bitrix:system.PublicMenu" 
+						Template="sidebar" 
+						Depth="1" 
+						MenuName="sidebar" 
+						SubMenuName="" 
+					/>
+							
+					<div class="sidebar-box popular-posts">
+						<b class="r1"></b>
+						<div class="sidebar-box-header">Popular Posts</div>
+						<div class="sidebar-box-content">
+							<bx:IncludeComponent 
+								runat="server" 
+								ID="PopularPosts" 
+								ComponentName="bitrix:blog.posts" 
+								Template="brief" 
+								ThemeCssFilePath="" 
+								ColorCssFilePath="" 
+								SortBy="ByViews" 
+								PeriodDays="30" 
+								Tags="" 
+								BlogSlug="<%$ Options:Bitrix.PersonalSite:Blog %>" 
+								BlogUrlTemplate="<%$ Options:Bitrix.PersonalSite:BlogUrl %>" 
+								UserProfileUrlTemplate="<%$ Options:Bitrix.PersonalSite:ProfileUrl %>" 
+								PostViewUrlTemplate="<%$ Options:Bitrix.PersonalSite:PostUrl %>" 
+								PostEditUrlTemplate="<%$ Options:Bitrix.PersonalSite:PostEditUrl %>" 
+								PostRssUrlTemplate="<%$ Options:Bitrix.PersonalSite:PostRssUrl %>" 
+								SearchTagsUrlTemplate="<%$ Options:Bitrix.PersonalSite:BlogTagsUrl %>" 
+								MaxWordLength="15" 
+								SetPageTitle="False" 
+								PagingAllow="False" 
+								PagingRecordsPerPage="5" 
+								FilterByPostCustomProperty="False" 
+								PostCustomPropertyFilterSettings="p:o:0:{};" 
+								CacheMode="Auto" 
+								CacheDuration="300" 
+								SetMasterTitle="False" 
+								PagingMode="direct" 
+								PagingTemplate=".default" 
+								PagingShowOne="False" 
+								PagingTitle="Страницы" 
+								PagingPosition="both" 
+								PagingMaxPages="10" 
+								PagingMinRecordsInverse="1" 
+								PagingPageID="<%$ Request:page %>" 
+								PagingIndexTemplate="" 
+								PagingPageTemplate="?page=#pageid#" 
+							/>
+						</div>
+						<b class="r0"></b><b class="r1"></b><b class="r2"></b>
+					</div>
+					<div class="sidebar-box new-comments">
+						<b class="r1"></b>
+						<div class="sidebar-box-header">New Comments</div>
+						<div class="sidebar-box-content">
+							<bx:IncludeComponent 
+								runat="server" 
+								ID="NewComments" 
+								ComponentName="bitrix:blog.comments" 
+								Template="brief" 
+								ThemeCssFilePath="" 
+								ColorCssFilePath="" 
+								AuthorId="0" 
+								BlogUrlTemplate="<%$ Options:Bitrix.PersonalSite:BlogUrl %>" 
+								UserProfileUrlTemplate="<%$ Options:Bitrix.PersonalSite:ProfileUrl %>" 
+								PostViewUrlTemplate="<%$ Options:Bitrix.PersonalSite:PostUrl %>" 
+								CommentUrlTemplate="<%$ Options:Bitrix.PersonalSite:CommentUrl %>" 
+								MaxWordLength="15" 
+								SetPageTitle="False" 
+								PagingAllow="False" 
+								PagingRecordsPerPage="5" 
+								CacheMode="Auto" 
+								CacheDuration="300" 
+							/>
+						</div>
+						<b class="r0"></b><b class="r1"></b><b class="r2"></b>
+					</div>
+					<div class="sidebar-box tags-cloud">
+						<b class="r1"></b>
+						<div class="sidebar-box-header">Tag Cloud</div>
+						<div class="sidebar-box-content">
+							<div class="search-cloud">
+								<bx:IncludeComponent 
+									runat="server" 
+									ID="TagsCloud" 
+									ComponentName="bitrix:search.tags.cloud" 
+									Template="percentage" 
+									Filter="blog" 
+									SelectionSort="TagCount" 
+									SelectionOrder="Desc" 
+									Moderation="NotRejected" 
+									DisplaySort="Name" 
+									DisplayOrder="Asc" 
+									TagLinkTemplate="<%$ Options:Bitrix.PersonalSite:BlogTagsUrl %>" 
+									SizeDistribution="Exponential" 
+									SizeMin="80" 
+									SizeMax="180" 
+									SizePeriod="" 
+									ColorDistribution="None" 
+									ColorMin="" 
+									ColorMax="" 
+									PagingAllow="False" 
+									PagingRecordsPerPage="10" 
+								/>		
+							</div>
+						</div>
+						<b class="r0"></b><b class="r1"></b><b class="r2"></b>
+					</div>
+				
+				
+				</div>
+			
+			</div>
+		</div>
+
+
+		<div id="footer">
+
+			<div id="pencil"></div>			
+			
+			<div id="copyright">
+			<bx:IncludeComponent 
+				runat="server" 
+				ID="FooterArea" 
+				ComponentName="bitrix:includeArea" 
+				Template=".default" 
+				Mode="File" 
+				FilePath="<%$ Options:Bitrix.PersonalSite:TemplateSignatureIncludeArea %>" 
+				FileName="" 
+				FileNameSuffix="<%$ Options:Bitrix.PersonalSite:TemplateSignatureIncludeArea %>" 
+				RecursiveFileSearch="True" 
+				AllowEditing="True" 
+			/>
+			</div>
+			
+			<ul id="contact-links">
+				<li><a href="<%= SitePath %>contacts.aspx">Feedback</a></li>
+				<li><a href="<%= SitePath %>login/?ReturnUrl=<%= HttpUtility.HtmlAttributeEncode(HttpUtility.UrlEncode(Bitrix.Services.BXSefUrlManager.CurrentUrl.AbsolutePath)) %>">Login</a></li>
+			</ul>
+			
+			<div id="jump-to-top">
+				<a href="#panel">Up</a>
+			</div>
+		
+		</div>
+
+	</form>
+</body>
+</html>
+<script runat="server">
+	public string TemplatePath { get; set; }
+	public string SitePath { get; set; }
+	public string RootPath { get; set; }
+	public string ThemeId { get; set; }
+	protected override void OnPreRender(EventArgs e)
+	{
+		base.OnPreRender(e);	
+		TemplatePath = VirtualPathUtility.ToAbsolute(AppRelativeTemplateSourceDirectory);
+		RootPath = VirtualPathUtility.ToAbsolute("~/");
+		SitePath = BXSite.Current.DirectoryAbsolutePath;
+		ThemeId = Bitrix.Configuration.BXOptionManager.GetOptionString("Bitrix.PersonalSite", "InstalledTemplateTheme", "blue", BXSite.Current.Id);	
+	}
+	protected void SearchSubmit_Click(object sender, EventArgs e)
+	{
+		Response.Redirect(BXSite.Current.DirectoryAbsolutePath + "search.aspx?q=" + HttpUtility.UrlEncode(SearchInput.Text));
+	}
+</script>

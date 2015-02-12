@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Навигационная цепочка]]></data>
+	<data name="Description"><![CDATA[Стандартный компонент навигационной цепочки]]></data>
+	<data name="Group"><![CDATA[Навигация]]></data>
+	<data name="Component.Parameter.Title.RootItemTitle"><![CDATA[Название первого пункта]]></data>
+	<data name="Component.Parameter.Title.ShowOnIndexPage"><![CDATA[Выводить цепочку навигации на главной странице сайта]]></data>
+</resources>

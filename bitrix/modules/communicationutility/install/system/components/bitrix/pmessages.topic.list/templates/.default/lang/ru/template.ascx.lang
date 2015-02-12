@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ConfirmDelete"><![CDATA[Вы действительно хотите удалить отмеченные переписки?]]></data>
+	<data name="NewTopic"><![CDATA[Новая тема]]></data>
+	<data name="Topics"><![CDATA[Переписки]]></data>
+	<data name="Replies"><![CDATA[Сообщения]]></data>
+	<data name="LastPost"><![CDATA[Обновление]]></data>
+	<data name="Title.HasNewMessages"><![CDATA[Есть новые сообщения]]></data>
+	<data name="Title.NoNewMessages"><![CDATA[Нет новых сообщений]]></data>
+	<data name="Author"><![CDATA[автор]]></data>
+	<data name="Guest"><![CDATA[гость ]]></data>
+	<data name="ManageTopics"><![CDATA[Управление переписками]]></data>
+	<data name="Option.MoveTopics"><![CDATA[Перенести]]></data>
+	<data name="Option.DeleteTopics"><![CDATA[Удалить переписки]]></data>
+	<data name="Option.MarkAsRead"><![CDATA[Пометить как прочитанные]]></data>
+	<data name="Option.RemoveReadMark"><![CDATA[Снять отметку от прочтении]]></data>
+	<data name="Option.EnableEmailNotification"><![CDATA[Включить уведомления по e-mail]]></data>
+	<data name="Option.DisableEmailNotification"><![CDATA[Отключить уведомления по e-mail]]></data>
+	<data name="SelectAll"><![CDATA[Выделить все]]></data>
+	<data name="NoTopicsHere"><![CDATA[Здесь пока нет ни одной переписки.]]></data>
+	<data name="UnreadMessages"><![CDATA[Новых]]></data>
+	<data name="MsgFilter.Option.All"><![CDATA[Все сообщения]]></data>
+	<data name="MsgFilter.Option.In"><![CDATA[Входящие]]></data>
+	<data name="MsgFilter.Option.Out"><![CDATA[Исходящие]]></data>
+	<data name="MsgFilter.LabelText"><![CDATA[Показать]]></data>
+	<data name="Header"><![CDATA[Управление переписками]]></data>
+	<data name="MyTopics"><![CDATA[Мои переписки]]></data>
+	<data name="InFolder"><![CDATA[ в папке "{0}"]]></data>
+	<data name="ToolTip.HaveUnreadMessages"><![CDATA[Есть непрочитанные сообщения]]></data>
+	<data name="ToolTip.NoUnreadMessages"><![CDATA[Нет непрочитанных сообщений]]></data>
+</resources>

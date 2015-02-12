@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Реклама, баннеры]]></data>
+	<data name="Module.Description"><![CDATA[Модуль управления рекламой на сайте]]></data>
+	<data name="AdminMenuItem.AdvertisingRootTitle"><![CDATA[Реклама]]></data>
+	<data name="AdminMenuItem.AdvertisingBannerListTitle"><![CDATA[Баннеры]]></data>
+	<data name="AdminMenuItem.AdvertisingSpaceTitle"><![CDATA[Рекламные области]]></data>
+	<data name="BannerContentType.Image"><![CDATA[Изображение]]></data>
+	<data name="BannerContentType.Flash"><![CDATA[Flash]]></data>
+	<data name="BannerContentType.TextOnly"><![CDATA[Текст или HTML]]></data>
+	<data name="BannerContentType.Silverlight"><![CDATA[Silverlight]]></data>
+	<data name="AdvertisingSpace.VerificationError.CodeAlreadyExists"><![CDATA[Область с символьным кодом '{0}' уже существует!]]></data>
+	<data name="Task.BXAdvertisingAdmin.Title"><![CDATA[Администратор рекламы]]></data>
+	<data name="Task.BXAdvertisingEditor.Title"><![CDATA[Менеджер баннеров]]></data>
+	<data name="Role.BXAdvertisingAdmin.Title"><![CDATA[Администратор рекламы]]></data>
+	<data name="Auth.Operations.AdvertisingSpaceManagement"><![CDATA[Управление рекламными областями в административной части сайта]]></data>
+	<data name="Auth.Operations.AdvertisingBannerManagement"><![CDATA[Управление баннерами в административной части сайта]]></data>
+	<data name="Error.Banner.MaxDisplayCountMustBeIntegerNonnegative"><![CDATA[Значение максимального количества показов баннера должно быть целым неотрицательным числом.]]></data>
+	<data name="Error.Banner.MaxDisplayCountPerVisitorMustBeIntegerNonnegative"><![CDATA[Значение максимального количества показов баннера одному пользователю должно быть целым неотрицательным числом.]]></data>
+	<data name="Error.Banner.MaxRedirectionCountMustBeIntegerNonnegative"><![CDATA[Значение максимального количества переходов по баннеру должно быть целым неотрицательным числом.]]></data>
+	<data name="Error.Banner.MaxVisitorCountMustBeIntegerNonnegative"><![CDATA[Значение  максимального количество посетителей, которым будет показан баннер должно быть целым неотрицательным числом.]]></data>
+	<data name="Banner.VerificationError.NameFildLengthLimit"><![CDATA[Количество символов в строке названия не должно превышать {0}.]]></data>
+	<data name="Banner.VerificationError.ToolTipFildLengthLimit"><![CDATA[Количество символов в строке всплывающей подсказки не должно превышать {0}.]]></data>
+	<data name="Banner.VerificationError.DescriptionFildLengthLimit"><![CDATA[Количество символов в строке описания не должно превышать {0}.]]></data>
+</resources>

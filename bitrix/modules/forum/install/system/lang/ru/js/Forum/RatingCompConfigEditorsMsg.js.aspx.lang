@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="DayTopicsCoef.Label"><![CDATA[Коэф. для тем за текущий день]]></data>
+	<data name="WeekTopicsCoef.Label"><![CDATA[Коэф. для тем за последние 7 дней]]></data>
+	<data name="MonthTopicsCoef.Label"><![CDATA[Коэф. для тем за последние 30 дней]]></data>
+	<data name="DayPostsCoef.Label"><![CDATA[Коэф. для сообщений за текущий день]]></data>
+	<data name="WeekPostsCoef.Label"><![CDATA[Коэф. для сообщений за последние 7 дней]]></data>
+	<data name="MonthPostsCoef.Label"><![CDATA[Коэф. для сообщений за последние 30 дней]]></data>
+</resources>

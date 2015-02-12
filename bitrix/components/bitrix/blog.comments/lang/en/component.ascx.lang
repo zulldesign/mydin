@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Error.Unknown"><![CDATA[Unknown error.]]></data>
+	<data name="Error.FatalBlogNotFound"><![CDATA[Blog was not found.]]></data>
+	<data name="Error.UnauthorizedViewBlog"><![CDATA[You do not have permission to view comments.]]></data>
+	<data name="Error.FatalInvalidPage"><![CDATA[The page does not exist.]]></data>
+	<data name="Title"><![CDATA[All Blogs Comments]]></data>
+	<data name="Description"><![CDATA[Shows comments from all blogs.]]></data>
+	<data name="PageTitle"><![CDATA[Recent Comments]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Param.BlogUrlTemplate"><![CDATA[Blog Page URL Template]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[Blog User Profile URL Template]]></data>
+	<data name="Param.PostViewUrlTemplate"><![CDATA[Post View Page URL Template]]></data>
+	<data name="Param.CommentUrlTemplate"><![CDATA[Comment URL Template]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="Param.AuthorId"><![CDATA[Comment Author ID]]></data>
+	<data name="Param.CategoryId"><![CDATA[Show Blog Comments Of This Category Only]]></data>
+</resources>

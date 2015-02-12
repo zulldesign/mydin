@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Список сообщений переписки]]></data>
+	<data name="Description"><![CDATA[Выводит список сообщений переписки]]></data>
+	<data name="Group"><![CDATA[Личные сообщения]]></data>
+	<data name="DefaultPagingTitle"><![CDATA[Страницы]]></data>
+	<data name="TopicListUrl"><![CDATA[Страница списка переписок]]></data>
+	<data name="PostReadUrl"><![CDATA[Страница чтения сообщения]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Путь к CSS-файлу темы оформления]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Путь к CSS-файлу цветовой схемы]]></data>
+	<data name="Error.Unauthorized"><![CDATA[Недостаточно прав для выполнения операции]]></data>
+	<data name="Error.InvalidPage"><![CDATA[Страница не существует]]></data>
+	<data name="Error.Unknown"><![CDATA[Произошла неизвестная ошибка]]></data>
+	<data name="Error.TopicNotFound"><![CDATA[Переписка не найдена]]></data>
+	<data name="Error.PostNotFound"><![CDATA[Сообщение не найдено]]></data>
+	<data name="Param.TopicId"><![CDATA[Идентификатор переписки]]></data>
+	<data name="Param.MessageId"><![CDATA[Идентификатор сообщения]]></data>
+	<data name="Param.TopicUrlTemplate"><![CDATA[Шаблон ссылки на страницу чтения переписки]]></data>
+	<data name="Param.PostReadUrlTemplate"><![CDATA[Шаблон ссылки на сообщение]]></data>
+	<data name="Param.NewTopicUrlTemplate"><![CDATA[Шаблон ссылки на страницу создания новой переписки]]></data>
+	<data name="Param.TopicMoveUrlTemplate"><![CDATA[Шаблон ссылки на страницу перемещения переписки]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Максимальная длина слова]]></data>
+	<data name="Param.TopicListUrlTemplate"><![CDATA[Шаблон ссылки на страницу списка переписок]]></data>
+	<data name="Param.TopicReplyUrlTemplate"><![CDATA[Шаблон ссылки на страницу ответа]]></data>
+	<data name="Param.MessageReadUrlTemplate"><![CDATA[Шаблон ссылки на страницу чтения сообщения]]></data>
+	<data name="Param.MessageQuoteUrlTemplate"><![CDATA[Шаблон ссылки на страницу цитирования сообщения]]></data>
+	<data name="Param.TopicEditUrlTemplate"><![CDATA[Шаблон ссылки на страницу редактирования переписки]]></data>
+	<data name="Param.PostQuoteUrlTemplate"><![CDATA[Шаблон ссылки на страницу цитирования сообщения]]></data>
+	<data name="Param.PostEditUrlTemplate"><![CDATA[Шаблон ссылки на страницу редактирования сообщения]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[Шаблон ссылки на страницу профиля пользователя]]></data>
+	<data name="Param.UserPostsUrlTemplate"><![CDATA[Шаблон ссылки на страницу просмотра сообщений пользователя]]></data>
+	<data name="TopicIsEmpty"><![CDATA[В переписке не ни одного сообщения]]></data>
+	<data name="Param.ShowParticipants"><![CDATA[Отображать список участников переписки]]></data>
+	<data name="Param.MessageEditUrlTemplate"><![CDATA[Шаблон ссылки на страницу редактирования сообщения]]></data>
+	<data name="Param.InviteUserUrlTemplate"><![CDATA[Шаблон ссылки на страницу приглашения участника в переписку]]></data>
+</resources>

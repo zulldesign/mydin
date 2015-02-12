@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.List"><![CDATA[Список тегов]]></data>
+	<data name="ActionTitle.List"><![CDATA[Вернуться к списку тегов]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новый тег]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить тег]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить этот тег?]]></data>
+	<data name="TabText.MainSettings"><![CDATA[Тег]]></data>
+	<data name="TabTitle.MainSettings"><![CDATA[Свойства тега]]></data>
+	<data name="Label.Name"><![CDATA[Название]]></data>
+	<data name="Label.Status"><![CDATA[Статус]]></data>
+	<data name="Status.Unknown"><![CDATA[Не определен]]></data>
+	<data name="Status.Approved"><![CDATA[Разрешен]]></data>
+	<data name="Status.Rejected"><![CDATA[Запрещен]]></data>
+	<data name="Label.TagCount"><![CDATA[Количество использований]]></data>
+	<data name="Label.LastUpdate"><![CDATA[Дата изменения]]></data>
+	<data name="PageTitle.Edit"><![CDATA[Редактирование свойств тега "{0}"]]></data>
+	<data name="PageTitle.Create"><![CDATA[Создание тега]]></data>
+	<data name="Error.NotFound"><![CDATA[Не удалось найти тег]]></data>
+	<data name="Undefined"><![CDATA[Не определено]]></data>
+</resources>

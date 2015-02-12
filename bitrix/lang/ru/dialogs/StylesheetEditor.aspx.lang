@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="INSUFFICIENT_RIGHTS_TO_PRODUCT_SETTINGS_VIEW"><![CDATA[Недостаточно прав для просмотра файлов стилей.]]></data>
+	<data name="INSUFFICIENT_RIGHTS_PRODUCT_TO_SETTINGS_MANAGE"><![CDATA[Недостаточно прав для редактирования файлов стилей.]]></data>
+	<data name="OPERATION_HAS_BEEN_COMPLETED_SUCCESSFULLY_PAGE_REFRESHING"><![CDATA[Операция успешно завершена. Производится обновление страницы.]]></data>
+	<data name="OPERATION_HAS_BEEN_COMPLETED_SUCCESSFULLY"><![CDATA[Операция успешно завершена.]]></data>
+	<data name="FORMAT_MODIFICATION_OF_FILE"><![CDATA[Редактирование файла: "{0}"]]></data>
+</resources>

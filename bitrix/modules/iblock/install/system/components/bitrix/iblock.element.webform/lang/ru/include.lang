@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Форма добавления / редактирования]]></data>
+	<data name="Description"><![CDATA[Форма добавления / редактирования элемента информационного блока]]></data>
+	<data name="Group"><![CDATA[Добавление элементов]]></data>
+</resources>

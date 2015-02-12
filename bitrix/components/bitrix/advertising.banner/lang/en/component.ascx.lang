@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Param.Space"><![CDATA[Advertising Area]]></data>
+	<data name="ListItemText.SelectSpace"><![CDATA[(select area)]]></data>
+	<data name="EditBannerMenuItem"><![CDATA[Edit Banner]]></data>
+	<data name="CreateBannerMenuItem"><![CDATA[Add Banner]]></data>
+</resources>

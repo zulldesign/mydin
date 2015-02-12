@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TITLE"><![CDATA[Confirm Page Deletion]]></data>
+	<data name="INSUFFICIENT_RIGHTS"><![CDATA[You do not have permission to delete this page!]]></data>
+	<data name="COULD_NOT_PARSE_DIR_AND_FILE_NAME_IN_PATH"><![CDATA[Could not parse file pathname.]]></data>
+	<data name="DO_YOU_REALLY_WANT_DELETE_PAGE"><![CDATA[Are you sure you want to delete the page?]]></data>
+	<data name="DELETION_OF_DAFAULT_PAGE_ALERT"><![CDATA[Attention! The site section may become inaccessible if you delete the default page.]]></data>
+	<data name="PATH_IS_NOT_SPECIFIED"><![CDATA[The file path is not specified.]]></data>
+	<data name="PATH_IS_NOT_EXISTS"><![CDATA[Path does not exist.]]></data>
+	<data name="FILE_HAS_INVALID_EXTENSION"><![CDATA[The file extension is invalid. Only the "aspx" extension is allowed.]]></data>
+	<data name="OPERATION_IS_COMPLETED_SUCCESSFULLY"><![CDATA[Operation has completed successfully...]]></data>
+	<data name="FILE_NAME_IS_NOT_SPECIFIED_IN_PATH"><![CDATA[The path does not contain a file name.]]></data>
+	<data name="DIRECTORY_IS_NOT_SPECIFIED_IN_PATH"><![CDATA[The path does not contain a folder name.]]></data>
+	<data name="CheckBoxText.DeletePageFromMenus"><![CDATA[Delete Page from Menu]]></data>
+	<data name="ButtonText.YesDelete"><![CDATA[Yes, delete]]></data>
+	<data name="ButtonText.DontDelete"><![CDATA[No, don't delete]]></data>
+	<data name="PATH_IS_NOT_VALID"><![CDATA[An invalid path is specified!]]></data>
+	<data name="OPERATION_IS_COMPLETED_SUCCESSFULLY_UNDO"><![CDATA[The operation has completed successfully. <a title="Undo page deletion" onclick="{0}" href="{1}">Undo</a>]]></data>
+</resources>

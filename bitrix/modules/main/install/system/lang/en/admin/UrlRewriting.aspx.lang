@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[URL Processing]]></data>
+	<data name="MasterTitle"><![CDATA[URL Processing Configuration]]></data>
+	<data name="TableTitle"><![CDATA[Rules]]></data>
+	<data name="ActionText.Add"><![CDATA[Add]]></data>
+	<data name="ActionText.Reload"><![CDATA[Reload]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Adds a new rule]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Deletes selected rules]]></data>
+	<data name="ActionTitle.Inline"><![CDATA[Edit Selected Rules]]></data>
+	<data name="ActionTitle.Reload"><![CDATA[Reloads rules from file]]></data>
+	<data name="Column.ComponentName"><![CDATA[Component Type]]></data>
+	<data name="Column.MatchExpression"><![CDATA[Match Expression]]></data>
+	<data name="Column.Path"><![CDATA[Redirect To]]></data>
+	<data name="Column.ReplaceExpression"><![CDATA[Redirect Expression]]></data>
+	<data name="Column.SiteId"><![CDATA[Site]]></data>
+	<data name="PopupText.Edit"><![CDATA[Edit]]></data>
+	<data name="PopupTitle.Edit"><![CDATA[Edit selected rule]]></data>
+	<data name="SelectSite"><![CDATA[-  Select Site -]]></data>
+	<data name="Message.OperationHasBeenCompletedSuccessfully"><![CDATA[Operation has been completed successfully.]]></data>
+	<data name="PopupTitle.DeleteSelectedRule"><![CDATA[Deletes selected rule]]></data>
+	<data name="Exception.YouDontHaveRightsToPerformThisOperation"><![CDATA[You do not have permission to perform this operation.]]></data>
+	<data name="JsMessage.SefManagerRefreshHasBeenCompleted"><![CDATA[SEF URL refresh has been completed.]]></data>
+	<data name="ActionText.RefreshSef"><![CDATA[Refresh SEF URL Manager]]></data>
+	<data name="ActionTitle.RefreshSef"><![CDATA[Update SEF URL manager internal state for site components]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected SEF URL rule?]]></data>
+	<data name="Error.Unknown"><![CDATA[An error occurred. See the event log for details.]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected URL processing rules?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the URL processing rules?]]></data>
+	<data name="PopupTitle.View"><![CDATA[View URL Processing Rule]]></data>
+	<data name="Column.HelperId"><![CDATA[Helper ID]]></data>
+	<data name="ColumnHeaderText.Sort"><![CDATA[Sort]]></data>
+	<data name="Message.SortMustBeInteger"><![CDATA[The sort index must be an integer.]]></data>
+	<data name="ColumnHeaderText.ExcludeRule"><![CDATA[Exclude?]]></data>
+</resources>

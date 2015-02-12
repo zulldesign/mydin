@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Медиагалерея]]></data>
+	<data name="Description"><![CDATA[Комплексный компонент. Медиагалерея]]></data>
+	<data name="Group"><![CDATA[Медиа]]></data>
+</resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TableTitleModules"><![CDATA[Modules]]></data>
+	<data name="ColumnHeaderText.ModuleName"><![CDATA[Module Name]]></data>
+	<data name="ColumnHeaderText.Description"><![CDATA[Description]]></data>
+	<data name="ColumnHeaderText.Version"><![CDATA[Version]]></data>
+	<data name="PopupText.Install"><![CDATA[Install]]></data>
+	<data name="PopupText.Uninstall"><![CDATA[Uninstall]]></data>
+	<data name="ColumnHeaderText.Status"><![CDATA[Status]]></data>
+	<data name="Status.Installed"><![CDATA[Installed]]></data>
+	<data name="Status.NotInstalled"><![CDATA[Not Installed]]></data>
+	<data name="PopupText.NoOperations"><![CDATA[No Operations]]></data>
+	<data name="PopupTitle.NoOperations"><![CDATA[No Operations]]></data>
+	<data name="Module"><![CDATA[Module "{0}"]]></data>
+</resources>

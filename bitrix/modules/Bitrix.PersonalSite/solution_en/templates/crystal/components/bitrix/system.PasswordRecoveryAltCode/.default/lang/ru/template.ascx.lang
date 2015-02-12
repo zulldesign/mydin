@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[Поле "Код на картинке" должно быть заполнено]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[Поле "Код на картинке" должно быть заполнено]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[Код на картинке]]></data>
+	<data name="PageTitle"><![CDATA[Смена пароля]]></data>
+	<data name="Title"><![CDATA[Смена пароля]]></data>
+	<data name="SuccessMessage"><![CDATA[Пароль сменен.]]></data>
+	<data name="Login"><![CDATA[Логин]]></data>
+	<data name="Message.LoginRequired"><![CDATA[Не введен логин.]]></data>
+	<data name="Checkword"><![CDATA[Контрольная строка]]></data>
+	<data name="Message.CheckwordRequired"><![CDATA[Не введена контрольная строка.]]></data>
+	<data name="NewPassword"><![CDATA[Новый пароль]]></data>
+	<data name="Message.NewPasswordRequired"><![CDATA[Не введен новый пароль.]]></data>
+	<data name="PasswordConfirmation"><![CDATA[Еще раз новый пароль]]></data>
+	<data name="Message.PasswordConfirmationRequired"><![CDATA[Не введено подтверждение пароля.]]></data>
+	<data name="ButtonText.ChangePassword"><![CDATA[Изменить пароль]]></data>
+	<data name="Disabled"><![CDATA[Восстановление пароля с помощью контрольной строки недоступно]]></data>
+	<data name="Legend"><![CDATA[Все поля обязательны для заполнения.<br />Вернуться на <a href="{0}">форму авторизации.</a>]]></data>
+</resources>

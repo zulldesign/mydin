@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ADMIN_INCLAREA_DBLCLICK"><![CDATA[Double-click]]></data>
+	<data name="ADMIN_SHOW_MODE_ON"><![CDATA[on]]></data>
+	<data name="ADMIN_SHOW_MODE_OFF"><![CDATA[off]]></data>
+	<data name="AMDIN_SHOW_MODE_TITLE"><![CDATA[Edit Mode]]></data>
+	<data name="ADMIN_SHOW_MODE_ON_HINT"><![CDATA[Edit mode is on. The page shows the controls for the components and include areas.]]></data>
+	<data name="ADMIN_SHOW_MODE_OFF_HINT"><![CDATA[Edit mode is off]]></data>
+</resources>

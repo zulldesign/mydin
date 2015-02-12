@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Редактирование меню]]></data>
+	<data name="MasterTitle"><![CDATA[Редактирование меню]]></data>
+	<data name="TabText"><![CDATA[Меню]]></data>
+	<data name="TabTitle"><![CDATA[Параметры меню]]></data>
+	<data name="ColTitle"><![CDATA[Название]]></data>
+	<data name="ColLink"><![CDATA[Ссылка]]></data>
+	<data name="ColSort"><![CDATA[Сортировка]]></data>
+	<data name="ColDelete"><![CDATA[Удалить]]></data>
+	<data name="MenuType"><![CDATA[Тип меню]]></data>
+	<data name="AreYouSure"><![CDATA[Вы хотите удалить это меню?]]></data>
+	<data name="DeleteMenu"><![CDATA[Удалить меню]]></data>
+	<data name="EditAsFile"><![CDATA[Редактировать как файл]]></data>
+	<data name="AdvancedMode"><![CDATA[Расширенный режим]]></data>
+	<data name="Back"><![CDATA[Каталог]]></data>
+	<data name="SelectDirDialog.Text.SelectPage"><![CDATA[Выберите страницу, на которую будет ссылаться пункт меню.]]></data>
+	<data name="SelectDirDialog.Title.SelectPage"><![CDATA[Выберите страницу]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить текущий файл меню?]]></data>
+</resources>

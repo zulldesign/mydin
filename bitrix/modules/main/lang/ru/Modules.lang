@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Error.ModuleIsNotInstalled"><![CDATA[Модуль "{0}" не установлен]]></data>
+	<data name="Error.ModuleVersionIsRequired"><![CDATA[Необходим установленный модуль "{0}" версии {1} или выше]]></data>
+	<data name="Error.ModuleIsDedendentOnModule"><![CDATA[Модуль "{0}" зависит от модуля "{1}"]]></data>
+	<data name="Error.ModuleViolatesLicense"><![CDATA[Модуль "{0}" не входит в вашу лицензию]]></data>
+	<data name="InprocSessionConfigurator"><![CDATA[Внутренний]]></data>
+	<data name="SqlSessionConfigurator"><![CDATA[Стандартный SQL Server]]></data>
+	<data name="StandardFileCacheProvider"><![CDATA[Стандартный файловый кеш]]></data>
+	<data name="HttpRuntimeCacheProvider"><![CDATA[Стандартный кеш в памяти]]></data>
+</resources>

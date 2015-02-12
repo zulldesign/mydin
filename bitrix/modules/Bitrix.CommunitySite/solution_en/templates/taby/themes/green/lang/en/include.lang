@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[FixedWidth: Green Theme]]></data>
+	<data name="Template.Description"><![CDATA[<p>This is a fixed width template with tabs as a menu and the authorization form on each page.</p>]]></data>
+	<data name="Theme.Name"><![CDATA[Green]]></data>
+	<data name="Theme.Description"><![CDATA[Green theme]]></data>
+</resources>

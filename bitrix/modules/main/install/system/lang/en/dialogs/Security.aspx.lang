@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.ModificationOfAccessRights"><![CDATA[Edit Access Permissions]]></data>
+	<data name="Exception.InvalisParameterAreDetected"><![CDATA[Invalid dialog parameters.]]></data>
+	<data name="Exception.PageDoesntExist"><![CDATA[Page or section specified does not exist.]]></data>
+	<data name="GoodbyeMessage.AnErrorHasOccurred"><![CDATA[Unknown error.]]></data>
+	<data name="DlgDescription.ModificationOfAccessRightsFor"><![CDATA[Edit access permissions for]]></data>
+	<data name="DlgDescription.File"><![CDATA[file]]></data>
+	<data name="DlgDescription.Folder"><![CDATA[folder]]></data>
+	<data name="GoodbyeMessage.ModificationIsCompletedSuccessfully"><![CDATA[Authorization parameters has been updated successfully.]]></data>
+	<data name="Legend.Allow"><![CDATA[Allow]]></data>
+	<data name="Legend.Deny"><![CDATA[Deny]]></data>
+	<data name="Legend.InheritAllow"><![CDATA[Inherit "Allow" state]]></data>
+	<data name="Legend.InheritDeny"><![CDATA[Inherit "Deny" state]]></data>
+</resources>

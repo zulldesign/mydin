@@ -1,0 +1,14 @@
+﻿div.auth-form {margin:16px 0px 16px 0px; padding:8px; width:500px; border:1px solid #B2BCD9; background-color:#F9FAFD; box-sizing:border-box; -moz-box-sizing:border-box;}
+div.auth-form div.header {font-size:100%; font-weight:bold; padding:0px 3px 8px 3px; margin:0px; background-image:url(images/dots_auth.gif); background-position:left bottom; background-repeat:repeat-x;}
+div.auth-form div.footer {padding:4px 3px 0px 3px; margin:0px; background-image:url(images/dots_auth.gif); background-position:left top; background-repeat:repeat-x;}
+div.auth-form div.footer p {font-size:100%; margin:6px 0px 0px 0px;}
+div.auth-form div.picture {float:left; width:105px; height:120px; margin:0px; background-image:url(images/auth_pict.gif); background-position:center; background-repeat:no-repeat;}
+div.auth-form div.table {float:left; margin:20px 10px 20px 10px;}
+div.auth-form td {font-size:100%; padding:3px;}
+div.auth-form td.label {text-align:right;}
+div.auth-form label {color:#3E65B2;}
+div.auth-form input.input-text {width:150px;}
+
+div.errorSummary {font-size:100%; font-weight:bold; margin:16px 5px 16px 5px; padding-left:40px; border:solid 2px #FF0000; color:#FF0000; background-image:url(images/icon_error.gif); background-repeat:no-repeat; background-position:left center;}
+div.errorSummary ul {margin-top:5px;}
+div.errorSummary li {font-size:100%; font-weight:normal; }

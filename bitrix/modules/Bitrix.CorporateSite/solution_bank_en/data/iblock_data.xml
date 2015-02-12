@@ -1,0 +1,165 @@
+<xml>
+   <iblocktype name="Bank.People" havesections="true" xmlid="type_iblock_bank_people" sort="100">
+    <loc lang="en">Employess</loc>
+  </iblocktype>
+  <iblocktype name="Bank.News" havesections="true" xmlid="type_iblock_bank_news" sort="100">
+    <loc lang="en">Bank News</loc>
+  </iblocktype>
+  <iblocktype name="Bank.Vacancies" havesections="true" xmlid="type_iblock_bank_vacancies" sort="100">
+    <loc lang="en">Bank Vacancies</loc>
+  </iblocktype>
+  <iblocktype name="Bank.Forms" havesections="true" xmlid="type_iblock_bank_messages" sort="100">
+    <loc lang="en">Web Forms</loc>
+  </iblocktype>
+  <iblock name="Bank News" sort="100" typeid="type_iblock_bank_news" indexcontent="true" havesections="true" xmlid="iblock_bank_news.#SiteId#">
+    <el name="J&amp;V launches new online account service for customers" sections="" xmlid="bank_news_1.#SiteId#" activefromdate="Now.AddDays(-1)">
+      <previewtext type="html">
+        <![CDATA[Bank announces today, that it has launched mybankcard - a new online account servicing system that will make it simpler for customers to monitor and manage their account.
+      ]]></previewtext>
+      <detailtext type="html">
+        <![CDATA[J&amp;V announces today, that it has launched mybankcard - a new online account servicing system that will make it simpler for customers to monitor and manage their account.
+          ]]></detailtext>
+    </el>
+    <el name="Bill payments at Bank ATMs" sections="" xmlid="bank_news_2.#SiteId#" activefromdate="Now.AddDays(-2)">
+      <previewtext type="html">
+        <![CDATA[<p>Dear Bank customers! We are pleased to inform you that we have launched a new service for Bank customers - bill payments at Bank ATMs. From now on you will be able to pay bills to over 40 merchants (including regional ones) at any Bank ATM with your debit or credit card.</p>
+      ]]>
+      </previewtext>
+      <detailtext type="html">
+          <![CDATA[
+        <p>Dear Bank customers! We are pleased to inform you that we have launched a new service for Bank customers - bill payments at Bank ATMs. From now on you will be able to pay bills to over 40 merchants (including regional ones) at any Bank ATM with your debit or credit card.</p>
+        ]]>
+      </detailtext>
+    </el>
+  </iblock>
+  <iblock name="Governance" sort="100" indexcontent="false" typeid="type_iblock_bank_people" xmlid ="iblock_bank_management.#SiteId#">
+    <sect name ="Management Board" sectionid="0" sort="10" xmlid="bank_executives.#SiteId#">
+      <store item="sect" optname="ManagementIBlockCouncilId"></store>
+      <desc type="text">Management Board</desc>
+    </sect>
+    <sect name ="Group Executive Committee" sectionid="0" sort="10" xmlid="bank_directors.#SiteId#">
+      <store item="sect" optname="ManagementIBlockDirectorsId"></store>
+      <desc type="text">Group Executive Committee</desc>
+    </sect>
+    <el name="Joel Ainsworth" xmlid="bank_people_1.#SiteId#" sections="bank_executives.#SiteId#" lastname="Ainsworth " firstname="Joel" title="Head of Private &amp; Business Clients"
+        education="B.A. in Language and Economics»"
+        showonmain="true"
+        quote="«We value our clients and do everything in our power to serve them better»"
+        previewimagepath="\src\people\porshnev.jpg"
+        >
+    </el>
+    <el name="Olivia Acres " xmlid="bank_people_2.#SiteId#"  sections="bank_executives.#SiteId#" lastname="Acres" firstname="Olivia" title="Chief Operating Officer"
+        education="Sc. in Business Administration">
+    </el>
+    <el name="Naomi Bessie" xmlid="bank_people_3.#SiteId#"  sections="bank_executives.#SiteId#" lastname="Bessie" firstname="Naomi" title="Chief Financial Officer"
+        education="M. Sc. in Business Administration and Economics"
+		>
+    </el>
+    <el name="Serge Clemons" xmlid="bank_people_4.#SiteId#"  sections="bank_executives.#SiteId#" lastname="Clemons" firstname="Serge" title="CFO "
+        education="B. Sc. in Business Administration"
+		quote="«We value our customers' opinions and we are always ready to engage in a dialog about how we can improve our services»"
+        showonmain="true"
+        previewimagepath="\src\people\pankrashev.jpg">
+    </el>
+    <el name="Morgan Atkinson" xmlid="bank_people_5.#SiteId#"  sections="bank_executives.#SiteId#" lastname="Atkinson" firstname="Morgan" title="President and CEO"
+        education="M.Sc. in Business Administration and Economics">
+    </el>
+    <el name="Ryan Appleby" xmlid="bank_people_6.#SiteId#"  sections="bank_directors.#SiteId#" lastname="Appleby" firstname="Ryan" title="Head of Private Wealth Management"
+      education="Psychology and Pedagogy and B. Sc. (Econ.)">
+    </el>
+    <el name="Andrew Allerton" xmlid="bank_people_7.#SiteId#"  sections="bank_directors.#SiteId#" lastname="Allerton" firstname="Andrew" title="Head of Retail"
+      education="M. Sc. in Business Administration and Economics">
+    </el>
+    <el name="Daisy Allenby" xmlid="bank_people_8.#SiteId#"  sections="bank_directors.#SiteId#" lastname="Allenby" firstname="Daisy" title="Chief Risk Officer"
+      education="M.Sc. in Business Administration and Economics">
+    </el>
+    <el name="Michael Alleine" xmlid="bank_people_9.#SiteId#"  sections="bank_directors.#SiteId#" lastname="Alleine" firstname="Michael" title="Head of Global Transaction Banking"
+      education="M. Sc. in Business Administration and Economics">
+    </el>
+  </iblock>
+  <iblock name="Bank Vacancies" indexcontent="true" typeid="type_iblock_bank_vacancies" sort="100" xmlid ="iblock_bank_vacancies.#SiteId#">
+    <el name ="Head of retail banking department" xmlid ="bank_vac_1.#SiteId#">
+      <customprops>
+        <prop name="reqs">
+          <![CDATA[
+		  <ul>
+		    <li>higher education in Finance or Economics;</li>
+			<li>мinimum of 3 years experience in similar position;</li>
+			<li>negotiation skills;</li>
+			<li>excellent communication skills;</li>
+			<li>high level of positivity, initiative and motivation;</li>
+			<li>good command of English is your advantage;</li>
+			<li>experienced user of PC. </li></ul>
+          ]]>
+        </prop>
+        <prop name="resps">
+          <![CDATA[
+           <ul>
+		    <li>customer acquisition and conduct of negotiations;</li>
+			<li>all Bank products Customer assistance (Accounts, Deposits, Cards, Bank Transfer Service, Loans and other types of provision of finance);</li>
+			<li>management of current Department activity. </li>
+            </ul>
+          ]]>
+        </prop>
+        <prop name="conds">
+          <![CDATA[Hours Per Week:40.00<br />
+                Full / Part-time: Fulltime-Regular<br />
+                Weekly Schedule:M-S Flexible<br />
+                Location: US-AR-Conway]]>
+        </prop>
+      </customprops>
+    </el>
+    <el name ="Teller" xmlid ="bank_vac_2.#SiteId#">
+      <customprops>
+        <prop name="reqs">
+          <![CDATA[
+          <ul>
+			<li>at least 1 year relevant experience with a bank;</li>
+			<li>currency cashier certificate;</li>
+			<li>english language (desirable);</li>
+			<li>basic knowledge of Accounting;</li>
+			<li>experienced PC-user. </li>
+          </ul>
+          ]]>
+        </prop>
+        <prop name="resps">
+          <![CDATA[
+          <ul>
+		    <li>all types exchange and cash transactions administration (currency, travellers cheque, cards);</li>
+			<li>cash reception and payment according to debit and credit cach documents;</li>
+			<li>controll of cash authenticity and paying capacity;</li>
+			<li>cash documents administration.</li>
+          </ul>
+          ]]>
+        </prop>
+        <prop name="conds">
+          <![CDATA[Hours Per Week:20.00<br />
+            Full / Part-time: Parttime-Regular<br />
+            Weekly Schedule:Mon 8-5:30, Fri 8-6:30, Sat 8:45-12:15]]>
+        </prop>
+      </customprops>
+    </el>
+    <el name ="Senior Financial Analyst" xmlid ="bank_vac_3.#SiteId#">
+      <customprops>
+        <prop name="reqs">
+          <![CDATA[
+            <ul>
+            <li>degree in Finance/Business major;</li>
+            <li>strong analytical &amp; communication skills, ability to multi task and work in a team and across finance groups;</li>
+            <li>sdvanced use of MS applications particularly Excel and Powerpoint; strong knowledge of Insight and Essbase applications. </li>
+            </ul>
+          ]]>
+        </prop>
+        <prop name="resps">
+          <![CDATA[Senior Financial Analyst position in the Global Corporate and Investment Bank's Planning, Reporting &amp; Analysis team. Position is responsible for all aspects of month end financial book close processes such as seeking and consolidating estimated results, perform variance analysis, compilation of monthly financial reports, including performance indicators, budgeting and forecast routines and enterprise stress testing processes. Position is also responsible to guide and manage Yr 1 FMAP and should have strong abilities to work LOB CFOs and Controllers, Corporate Planning Team and other internal constituents. 
+          ]]>
+        </prop>
+        <prop name="conds">
+          <![CDATA[Hours Per Week:40.00<br />
+          Full / Part-time: Fulltime-Regular<br />
+          Weekly Schedule:Mon-Fri 8 - 5]]>
+        </prop>
+      </customprops>
+    </el>
+  </iblock>
+</xml>

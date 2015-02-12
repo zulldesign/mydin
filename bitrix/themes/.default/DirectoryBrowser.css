@@ -1,0 +1,37 @@
+﻿div.settings-float-form div.content div.DirectoryBrowser td, div.DirectoryBrowser div.DirectoryBrowser-Selector td
+{
+	padding: 0px;
+}
+
+div.DirectoryBrowser td.divider-bg
+{
+	width: 6px;
+	max-width: 6px;
+	min-width: 6px;
+	background-image: url(images/vdivider_bg.gif);
+	background-color: #E6E6E6;
+	background-repeat: repeat-y;
+}
+div.DirectoryBrowser td.divider-bg div.divider
+{
+	width: 6px;
+	height: 63px;
+	border: 0px none;
+	cursor: pointer;
+}
+div.DirectoryBrowser td.divider-bg div.left
+{
+	background-image: url(images/divider_left.gif);
+}
+div.DirectoryBrowser td.divider-bg div.left-sel
+{
+	background-image: url(images/divider_left_sel.gif);
+}
+div.DirectoryBrowser td.divider-bg div.right
+{
+	background-image: url(images/divider_right.gif);
+}
+div.DirectoryBrowser td.divider-bg div.right-sel
+{
+	background-image: url(images/divider_right_sel.gif);
+}

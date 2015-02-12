@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PopupTitle.Settings"><![CDATA[Изменить настройки решения]]></data>
+	<data name="PopupText.Settings"><![CDATA[Настройка решения]]></data>
+	<data name="PopupTitle.SystemSettings"><![CDATA[Изменит системные настройки решения]]></data>
+	<data name="PopupText.SystemSettings"><![CDATA[Системные настройки]]></data>
+	<data name="PopupTitle.Install"><![CDATA[Установить решение на сайт]]></data>
+	<data name="PopupText.Install"><![CDATA[Установить новое решение]]></data>
+	<data name="PopupTitle.NoOperations"><![CDATA[Нет операций]]></data>
+	<data name="ActionText.InstallNew"><![CDATA[Установить новое решение]]></data>
+	<data name="TableTitle"><![CDATA[Сайты]]></data>
+	<data name="ColumnHeaderText.Solution"><![CDATA[Решение]]></data>
+	<data name="PageTitle"><![CDATA[Решения]]></data>
+	<data name="NotInstalled"><![CDATA[Не установлено]]></data>
+</resources>

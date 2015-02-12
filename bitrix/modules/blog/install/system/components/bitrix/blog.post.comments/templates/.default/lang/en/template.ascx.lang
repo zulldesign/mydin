@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="AddComment"><![CDATA[Add Comment]]></data>
+	<data name="Reply"><![CDATA[Reply]]></data>
+	<data name="Parent"><![CDATA[Parent]]></data>
+	<data name="Confirm.Link"><![CDATA[Copy the direct link to this comment to store the link in your computer's clipboard.]]></data>
+	<data name="Link"><![CDATA[Link]]></data>
+	<data name="Confirm.Delete"><![CDATA[Are you sure you want to delete this comment?]]></data>
+	<data name="CommentDeleted"><![CDATA[Comment deleted]]></data>
+	<data name="CommentShouldBeApproved"><![CDATA[Thank you! Your comment has been saved and will be visible once the blog owner approves it.]]></data>
+	<data name="GoToOriginalPostComments"><![CDATA[Open Original Post Comments]]></data>
+	<data name="Approve"><![CDATA[Show]]></data>
+	<data name="Disapprove"><![CDATA[Hide]]></data>
+</resources>

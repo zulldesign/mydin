@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.GoBack"><![CDATA[Список рекламых областей]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Вернуться к списку рекламных областей]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новую рекламную область]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить рекламную область]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить эту рекламную область?]]></data>
+	<data name="TabText.AdvertisingSpace"><![CDATA[Рекламная область]]></data>
+	<data name="TabTitle.AdvertisingSpace"><![CDATA[Параметры рекламной области]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceCode"><![CDATA[Символьный код...]]></data>
+	<data name="FieldLabel.AdvertisingSpaceCode"><![CDATA[Символьный код]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceActive"><![CDATA[Активность рекламной области...]]></data>
+	<data name="FieldLabel.AdvertisingSpaceActive"><![CDATA[Активность]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceName"><![CDATA[Название рекламной области...]]></data>
+	<data name="FieldLabel.AdvertisingSpaceName"><![CDATA[Название]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceDescription"><![CDATA[Описание рекламной области...]]></data>
+	<data name="FieldLabel.AdvertisingSpaceDescription"><![CDATA[Описание]]></data>
+	<data name="Message.AdvertisingSpaceNameIsNotSpecified"><![CDATA[Не указано название рекламной области]]></data>
+	<data name="Message.AdvertisingSpaceCodeIsNotSpecified"><![CDATA[Не указан символьный код рекламной области]]></data>
+	<data name="FieldTooltip.Sort"><![CDATA[Индекс сортировки...]]></data>
+	<data name="FieldLabel.Sort"><![CDATA[Сортировка]]></data>
+	<data name="Message.IncorrectSortIndex"><![CDATA[Введён некорректный индекс сортировки]]></data>
+	<data name="FieldTooltip.XmlId"><![CDATA[Внешний ключ...]]></data>
+	<data name="FieldLabel.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="PageTitle.EditAdvertisingSpace"><![CDATA[Редактирование рекламной области "{0}"]]></data>
+	<data name="PageTitle.CreateAdvertisingSpace"><![CDATA[Создание рекламной области]]></data>
+	<data name="Error.UnableToFindAdvertisingSpace"><![CDATA[Не удалось найти рекламную область с идентификатором '{0}'. Пожалуйста, убедитесь в правильности указания идентификатора.]]></data>
+</resources>

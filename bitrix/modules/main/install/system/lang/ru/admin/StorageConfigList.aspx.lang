@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Список подключений к облачным хранилищам]]></data>
+	<data name="ActionText.Add"><![CDATA[Добавить]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новое подключение к облачному хранилищу]]></data>
+	<data name="PopupText.Edit"><![CDATA[Редактировать]]></data>
+	<data name="PopupTitle.Edit"><![CDATA[Изменить настройки подключения к облачному хранилищу]]></data>
+	<data name="PopupText.Delete"><![CDATA[Удалить]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Удалить подключение к облачному хранилищу]]></data>
+	<data name="PopupText.Load"><![CDATA[Отправить файлы в облачное хранилище]]></data>
+	<data name="PopupTitle.Load"><![CDATA[Загрузка файлов, удовлетворяющих правилам, в облачное хранилище]]></data>
+	<data name="PopupText.Unload"><![CDATA[Вернуть файлы из облачного хранилища]]></data>
+	<data name="PopupTitle.Unload"><![CDATA[Выгрузка файлов из облачного хранилища]]></data>
+	<data name="TableTitle"><![CDATA[Список подключений к облачным хранилищам]]></data>
+	<data name="ColumnHeaderText.ProviderName"><![CDATA[Провайдер]]></data>
+	<data name="ColumnHeaderText.IsActive"><![CDATA[Акт.]]></data>
+	<data name="ColumnHeaderText.Sort"><![CDATA[Сортировка]]></data>
+	<data name="ColumnHeaderText.CreatedUtc"><![CDATA[Создано]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить отмеченные подключения?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить все подключения из списка?]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить поключения]]></data>
+	<data name="StorageConfiguration.DeleteFailure"><![CDATA[Не удалось удалить часть подключений к облачным хранилищам.]]></data>
+	<data name="SynchronizerStatus.Label.FilesProcessed"><![CDATA[Обработано файлов]]></data>
+	<data name="SynchronizerStatus.Label.FilesTransfered"><![CDATA[Отправлено файлов]]></data>
+	<data name="SynchronizerStatus.Title.Loading"><![CDATA[Производится загрузка файлов в облачное хранилище]]></data>
+	<data name="SynchronizerStatus.Title.Unloading"><![CDATA[Производится выгрузка файлов из облачного хранилища]]></data>
+	<data name="SynchronizerStatus.Title.LoadingCompleted"><![CDATA[Завершена загрузка файлов в облачное хранилище]]></data>
+	<data name="SynchronizerStatus.Title.UnloadingCompleted"><![CDATA[Завершена выгрузка файлов из облачного хранилища]]></data>
+</resources>

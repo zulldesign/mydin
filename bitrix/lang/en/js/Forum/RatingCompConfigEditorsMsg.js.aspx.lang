@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="DayTopicsCoef.Label"><![CDATA[Rating Multiplier For Today's Topics]]></data>
+	<data name="WeekTopicsCoef.Label"><![CDATA[Rating Multiplier For Recent Week Topics]]></data>
+	<data name="MonthTopicsCoef.Label"><![CDATA[Rating Multiplier For Recent Month Topics]]></data>
+	<data name="DayPostsCoef.Label"><![CDATA[Rating Multiplier For Today's Posts]]></data>
+	<data name="WeekPostsCoef.Label"><![CDATA[Rating Multiplier For Recent Week Posts]]></data>
+	<data name="MonthPostsCoef.Label"><![CDATA[Rating Multiplier For Recent Month Posts]]></data>
+</resources>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.CreationOfTask"><![CDATA[Создание задачи]]></data>
+	<data name="ActionText.TaskList"><![CDATA[Список задач]]></data>
+	<data name="ActionTitle.Go2TaskList"><![CDATA[Перейти в список задач]]></data>
+	<data name="ActionText.NewTask"><![CDATA[Новая задача]]></data>
+	<data name="ActionTitle.AddNewTask"><![CDATA[Добавить новую задачу]]></data>
+	<data name="ActionText.DeleteTask"><![CDATA[Удалить задачу]]></data>
+	<data name="ActionTitle.DeleteCurrentTask"><![CDATA[Удалить текущую задачу]]></data>
+	<data name="Message.RecordHasBeenModifiedSuccessfully"><![CDATA[Запись успешно изменена]]></data>
+	<data name="TabText.ParametersOfTask"><![CDATA[Параметры задачи]]></data>
+	<data name="LegendText.QuantityOfSubtasks"><![CDATA[Количество подзадач:]]></data>
+	<data name="LegendText.QuantityOfOperations"><![CDATA[Количество операций:]]></data>
+	<data name="LegendText.Title"><![CDATA[Название:]]></data>
+	<data name="LegendText.Code"><![CDATA[Символический идентификатор:]]></data>
+	<data name="ErrorMessage.TaskNameIsRequired"><![CDATA[Поле "Символический идентификатор" должно быть заполнено]]></data>
+	<data name="LegendText.Comment"><![CDATA[Комментарий:]]></data>
+	<data name="TabText.Subtasks"><![CDATA[Подзадачи]]></data>
+	<data name="TabTitle.ExecutionOfSubtasks"><![CDATA[Выполнение подзадач]]></data>
+	<data name="LegendText.ExecutionOfSubtasks"><![CDATA[Выполнение подзадач:]]></data>
+	<data name="TabText.Operations"><![CDATA[Операции]]></data>
+	<data name="TabTitle.ExecutionOfOperations"><![CDATA[Выполнение операций]]></data>
+	<data name="FormattedPageTitle.ModificationOfTask"><![CDATA[Редактирование задачи №{0}]]></data>
+	<data name="TableCellInnerHtml.Module"><![CDATA[Модуль "{0}":]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToCreateTask"><![CDATA[У вас недостаточно прав для создания новой задачи]]></data>
+	<data name="ExceptionText.CreationOfTaskFailed"><![CDATA[Не удалось создать задачу]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToModifyTask"><![CDATA[У вас недостаточно прав для изменения этой задачи]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteTask"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="ExceptionText.DeletionOfTaskFailed"><![CDATA[Ошибка удаления задачи]]></data>
+	<data name="ExceptionText.TaskIsNotFound"><![CDATA[Задача не найдена]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить текущую задачу?]]></data>
+	<data name="Note1"><![CDATA[Будьте внимательны, добавляя к задаче операции с пользователем, например, UserModify. 
+				К примеру, эта операция разрешает изменение всех пользователяй, включая администраторов. 
+				Если вы хотите ограничить операции группой людей, то задайте соответствующие настройки 
+				на странице редактирования ролей.]]></data>
+</resources>

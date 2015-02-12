@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[2 columns]]></data>
+	<data name="SpecialProduct"><![CDATA[Special Offer]]></data>
+	<data name="Price"><![CDATA[Price]]></data>
+	<data name="NoOffersNow"><![CDATA[There are currently no special offers.]]></data>
+</resources>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Content"><![CDATA[
+<ul>
+<li>In order to keep the forums running well and to prevent problems, please follow these simple rules for the forums here. The rules are applicable to all with no exception.</li>
+<li>The rules of individual forums, if any, are addendum to the general rules of  #SERVER_NAME#.</li>
+<li>Administrators reserve the right to change the forum rules without prior notice and for any reason.</li>
+<li>All addendums and changes to the rules take effect from the moment of their announcement.</li>
+</ul>
+<div class="forum-bold">Registration:</div> 
+<ol>
+<li>The use of names or logins that contain obscene or offensive words, addresses of web sites or emails is strictly prohibited.</li>
+</ol>
+
+<div class="forum-bold">General rules</div>
+<ol>
+<li>Members must not announce information that is deliberately false.</li>
+<li>Do not use obscene or offensive language, words and phrases as well as their euphemisms.</li>
+<li>Members should not abuse or insult anyone, directly or indirectly; express disrespect for the forum members.</li>
+<li>Members must never post messages that can violate law.</li>
+<li>Advertising or soliciting any products, services, funds or donations in messages, signatures or avatars without exclusive permission of the administration are strictly prohibited.</li>
+<li>Never create identical threads in many forums.</li>
+<li>Do not create threads devoted to questions that are answered in FAQ.</li>
+
+<li>Members should use an appropriate, descriptive title when posting a new topic. Do not create meaningless threads whose names do not reflect the gist of the problem ("Help", "SOS", "Urgent" etc.).</li>
+<li>Flaming is not allowed. Do not create topics that are irrelevant to the forum, or posts that are irrelevant to a topic.</li>
+<li> Members must not announce links to illegal software (warez), cracks, serial numbers or keygens, as well as copyrighted content (books, music, video etc.).</li>
+<li>Members should avoid posting flooding messages that are meaningless in the current context.</li>
+<li>Do not use links to off topic sites in your signatures.</li>
+<li>No all-caps (FOR EXAMPLE, LIKE THIS), or mixed-case or "all-bolds" are allowed. This includes the malicious use of excessive formatting to draw special attention.</li>
+<li>Willful moderating is prohibited. Members that are not moderators must avoid reproving other members.</li>
+<li>Members should avoid discussing or speculating upon penalties imposed by moderators or administrators.</li>
+
+</ol>
+
+<div class="forum-bold">General points in closing</div>
+<ol>
+<li>Do not use avatars that exploit political or religious matters. Administration reserve the right to delete them after notifying the member via PM.</li>
+<li>Do not create threads of political or religious nature. Administration reserve the right to delete these threads without prior notice.</li>
+<li>Create signatures in your native or English languages. Other members have the right to understand text written on the forum. English is considered the international language. Administration reserve the right to delete violating signatures after notifying the member via PM.</li>
+<li>Never bring the thread up repeatedly if your question is not answered. Otherwise, such actions may be considered importunate and flooding.</li>
+</ol>
+
+<div class="forum-bold">General recommendations</div>
+
+<ol>
+<li>Use search. Read FAQ. It is likely that your problem has already been discussed earlier. This will save your and other members’ time.</li>
+<li>Be grammatically correct. Spell check your messages before posting them.</li>
+<li>Avoid excess quoting. This embarrasses reading and congests a thread.</li>
+<li>Please refrain from posting private correspondence in public areas. This will be considered off topic. Use PM instead.</li>
+<li>Do not copy contents of verbose web pages to your posts. Instead, use links.</li>
+<li>Do not post meaningless messages just to say something.</li>
+</ol>
+
+<div class="forum-bold">Administration and moderation</div>
+
+<ol>
+<li>Administrators and moderators reserve the right to edit, move, close or delete threads and posts that do not comply with the forum regulations.</li>
+<li>Administrators and moderators have the privileged right to interpret the forum rules in the event that forum members report about ambiguity in any of the clause of the forum rules.</li>
+<li>Members have the right to appeal against moderator actions taken against them. Any appeal should only be lodged with the site administrators and must be made using private message (PM).</li>
+<li>In all cases, the decision of the administration is final.</li>
+</ol>	
+	]]></data>
+</resources>

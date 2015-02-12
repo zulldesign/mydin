@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Column.EditFormLabel"><![CDATA[Edit Form Label]]></data>
+	<data name="Column.ErrorMessage"><![CDATA[Error Message]]></data>
+	<data name="Column.HelpMessage"><![CDATA[Help]]></data>
+	<data name="Column.Language"><![CDATA[Language]]></data>
+	<data name="Column.ListColumnLabel"><![CDATA[List Column Text]]></data>
+	<data name="Column.ListFilterLabel"><![CDATA[List Filter Label]]></data>
+	<data name="DontEditInList"><![CDATA[Read-only]]></data>
+	<data name="Error.FieldNameIllegal"><![CDATA[Field name is invalid. Valid field names can include only Latin letters, digits and underscores.]]></data>
+	<data name="Error.FieldNameIllegalWords"><![CDATA[Field name must not be "Value", "ValueId", "ValueInt", "ValueDouble" or "ValueDate".]]></data>
+	<data name="Error.FieldNameAlreadyExist"><![CDATA[The fiels "{0}" already exists.]]></data>
+	<data name="Error.FieldNameRequired"><![CDATA[The field name is required.]]></data>
+	<data name="Error.UserTypeIdIllegal"><![CDATA[The data type is illegal.]]></data>
+	<data name="Error.UserTypeIdRequired"><![CDATA[The data type is required.]]></data>
+	<data name="FieldName"><![CDATA[Field Name]]></data>
+	<data name="IsSearchable"><![CDATA[Searchable]]></data>
+	<data name="Localization"><![CDATA[Language Settings]]></data>
+	<data name="Mandatory"><![CDATA[Required]]></data>
+	<data name="Multiple"><![CDATA[Multiple (only for new fields)]]></data>
+	<data name="Settings"><![CDATA[Extra Field Settings (type-dependent)]]></data>
+	<data name="ShowFilterList.CompleteMatch"><![CDATA[Exact Match]]></data>
+	<data name="ShowFilterList.Hidden"><![CDATA[Hidden]]></data>
+	<data name="ShowFilterList.MaskMatch"><![CDATA[Wildcards]]></data>
+	<data name="ShowFilterList.SubstringMatch"><![CDATA[Substring]]></data>
+	<data name="ShowInFilter"><![CDATA[Show in Filter]]></data>
+	<data name="DontShowInList"><![CDATA[Don't Show in List]]></data>
+	<data name="Sort"><![CDATA[Sort]]></data>
+	<data name="TabText.Main"><![CDATA[General]]></data>
+	<data name="TabTitle.Main"><![CDATA[Field properties]]></data>
+	<data name="TabText.Extra"><![CDATA[More]]></data>
+	<data name="TabTitle.Extra"><![CDATA[Additional field properties]]></data>
+	<data name="TabText.Advanced"><![CDATA[Advanced]]></data>
+	<data name="TabTitle.Advanced"><![CDATA[Extra Field Settings (type-dependent)]]></data>
+	<data name="UserTypeId"><![CDATA[Data Type]]></data>
+	<data name="XmlId"><![CDATA[XML_ID]]></data>
+	<data name="WindowTitle"><![CDATA[Custom Field Details]]></data>
+</resources>

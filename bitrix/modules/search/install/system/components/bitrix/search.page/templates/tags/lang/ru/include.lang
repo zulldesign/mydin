@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ItemsFound"><![CDATA[Найдено]]></data>
+	<data name="NothingFound"><![CDATA[Нет результатов]]></data>
+	<data name="NoTitle"><![CDATA[Нет заголовка]]></data>
+	<data name="EmptyQuery"><![CDATA[Вы ввели пустой запрос]]></data>
+</resources>

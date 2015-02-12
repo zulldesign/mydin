@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Переиндексация сайта]]></data>
+	<data name="TabText.Main"><![CDATA[Переиндексация]]></data>
+	<data name="TabTitle.Main"><![CDATA[Переиндексация контента сайта]]></data>
+	<data name="MasterTitle"><![CDATA[Переиндексация сайта]]></data>
+	<data name="Note.BackgroundReindexing"><![CDATA[Вы можете закрыть браузер после запуска переиндексации. Процесс будет продолжен в фоновом режиме.]]></data>
+	<data name="TabText.Launch"><![CDATA[Настройка]]></data>
+	<data name="TabTitle.Launch"><![CDATA[Настройка параметров переиндексации]]></data>
+	<data name="Note.IndexingInProcess"><![CDATA[Процесс переиндексации уже запущен. При запуске переиндексации текущий процесс будет прерван.]]></data>
+	<data name="Label.Sites"><![CDATA[Сайты]]></data>
+	<data name="CheckBoxText.AllSites"><![CDATA[Все сайты]]></data>
+	<data name="NotActiveSuffix"><![CDATA[(не активен)]]></data>
+	<data name="Heading.IndexingArea"><![CDATA[Что переиндексируем]]></data>
+	<data name="CheckBoxText.AllContent"><![CDATA[Весь контент]]></data>
+	<data name="Heading.Options"><![CDATA[Дополнительно]]></data>
+	<data name="CheckBoxText.UpdateOnly"><![CDATA[Переиндексировать только измененный контент]]></data>
+	<data name="CheckBoxText.AutoResume"><![CDATA[Автоматически возобновить переиндексацию при перезапуске приложения]]></data>
+	<data name="ButtonText.StopAndLaunch"><![CDATA[Прервать текущий процесс и запустить новый]]></data>
+	<data name="ButtonText.Launch"><![CDATA[Запустить]]></data>
+	<data name="Confirmation.Launch"><![CDATA[Вы уверены, что хотите запустить процесс переиндексации?]]></data>
+	<data name="Status.Running"><![CDATA[Переиндексация...]]></data>
+	<data name="Status.Suspended"><![CDATA[Индексация приостановлена]]></data>
+	<data name="Status.Stopped"><![CDATA[Процесс переиндексации не запущен]]></data>
+	<data name="ButtonText.Suspend"><![CDATA[Остановить]]></data>
+	<data name="ButtonText.Resume"><![CDATA[Возобновить]]></data>
+	<data name="TabText.OldModules"><![CDATA[Старые модули]]></data>
+	<data name="TabTitle.OldModules"><![CDATA[Переиндексация старых модулей]]></data>
+	<data name="Note.OldModules"><![CDATA[При помощи этого интерфейса Вы можете запустить старый механизм переиндексации для модулей, которые его поддерживают.]]></data>
+	<data name="ErrorMessage.NoSites"><![CDATA[Необходимо выбрать хотя бы один сайт]]></data>
+	<data name="ErrorMessage.EmptyArea"><![CDATA[Необходимо указать область для переиндексации]]></data>
+	<data name="Message.Finished"><![CDATA[Процесс переиндексации успешно завершен]]></data>
+</resources>

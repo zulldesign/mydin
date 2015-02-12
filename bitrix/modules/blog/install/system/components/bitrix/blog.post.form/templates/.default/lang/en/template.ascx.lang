@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ErrorTitle"><![CDATA[Some of the data you have provided is incorrect:]]></data>
+	<data name="FormTitle.CreatePost"><![CDATA[New Post]]></data>
+	<data name="FormTitle.EditPost"><![CDATA[Edit Post]]></data>
+	<data name="Title"><![CDATA[Title]]></data>
+	<data name="Tags"><![CDATA[Tags]]></data>
+	<data name="ButtonText.Publish"><![CDATA[Publish]]></data>
+	<data name="ButtonText.Save"><![CDATA[Save]]></data>
+	<data name="ButtonText.SaveAsDraft"><![CDATA[Save As Draft]]></data>
+	<data name="ButtonText.ToDrafts"><![CDATA[To Drafts]]></data>
+	<data name="Confirm.Publish"><![CDATA[Are you sure you want to publish this post?]]></data>
+	<data name="ButtonText.View"><![CDATA[View]]></data>
+	<data name="Note.HtmlNotAllowed"><![CDATA[This post uses HTML code, but you are not permitted to use HMTL in blogs.]]></data>
+	<data name="CheckBoxText.UseBBCode"><![CDATA[Create Post Using BBCode]]></data>
+	<data name="EnableComments"><![CDATA[Enable Comments On This Post]]></data>
+	<data name="Note.LimitedHtml"><![CDATA[This post uses unrestricted HTML. Unsafe HTML elements will be removed after saving the content.]]></data>
+</resources>

@@ -1,0 +1,9 @@
+﻿<%@ Control Language="C#" ClassName="SystemServiceModelWeb" AutoEventWireup="false" %>
+
+<script runat="server">
+    protected override void OnInit(EventArgs e)
+    {
+        base.OnInit(e);
+        System.ServiceModel.Web.WebMessageFormat f = System.ServiceModel.Web.WebMessageFormat.Json;
+    }
+</script>

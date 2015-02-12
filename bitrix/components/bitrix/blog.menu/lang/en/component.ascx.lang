@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Blog Menu]]></data>
+	<data name="Description"><![CDATA[Shows links to blog pages.]]></data>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="UrlTitle.Index"><![CDATA[Blog]]></data>
+	<data name="UrlTitle.NewPost"><![CDATA[New Message]]></data>
+	<data name="UrlTitle.Profile"><![CDATA[My Profile]]></data>
+	<data name="UrlTitle.UserBlog"><![CDATA[My Blog]]></data>
+	<data name="UrlTitle.Draft"><![CDATA[Drafts]]></data>
+	<data name="UrlTitle.UserBlogSettings"><![CDATA[Settings]]></data>
+	<data name="Param.NewPostUrlTemplate"><![CDATA[New Post URL Template]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[User Profile URL Template]]></data>
+	<data name="Param.DraftPostListUrlTemplate"><![CDATA[Draft Post List URL Template]]></data>
+	<data name="Param.UserBlogSettingsUrlTemplate"><![CDATA[Blog Settings URL Template]]></data>
+	<data name="Param.UserBlogUrlTemplate"><![CDATA[User Blog URL Template]]></data>
+	<data name="Param.BlogIndexUrl"><![CDATA[Blogs Main Page]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Blog Slug (empty for current user's blog)]]></data>
+	<data name="Param.CategoryId"><![CDATA[Use Blogs Of This Category Only]]></data>
+	<data name="Param.NewBlogUrlTemplate"><![CDATA[New Blog URL Template]]></data>
+	<data name="UrlTitle.CreateBlog"><![CDATA[Create New Blog]]></data>
+</resources>

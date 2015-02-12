@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[2 колонки]]></data>
+	<data name="Add2CartBtnText"><![CDATA[В корзину]]></data>
+	<data name="BuyBtnText"><![CDATA[Купить]]></data>
+	<data name="YourPrice"><![CDATA[Цена]]></data>
+	<data name="YourQuantity"><![CDATA[Количество]]></data>
+	<data name="AlreadyInCart"><![CDATA[Уже в корзине]]></data>
+	<data name="AlreadyInCartWithQty"><![CDATA[В вашей корзине {0} ед.]]></data>
+	<data name="Add2ComparisonList"><![CDATA[Сравнить]]></data>
+	<data name="Product.Unavailable"><![CDATA[Нет в наличии]]></data>
+	<data name="DlgTitle.Add2ComparisonList"><![CDATA[Добавить в список сравнения]]></data>
+	<data name="DlgTitle.Add2Cart"><![CDATA[Добавить в корзину]]></data>
+</resources>

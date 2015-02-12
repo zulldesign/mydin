@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.SaveSettingsSuccess"><![CDATA[Настройки успешно сохранены]]></data>
+	<data name="TabText.Main"><![CDATA[Настройка параметров модуля]]></data>
+	<data name="TabTitle.Main"><![CDATA[Настройки]]></data>
+	<data name="Heading.StaticFiles"><![CDATA[Статические файлы]]></data>
+	<data name="Label.MaxIndexingDocumentFileSize"><![CDATA[Максимальный размер индексируемого документа в килобайтах]]></data>
+	<data name="Label.InclusionMask"><![CDATA[Маска включения]]></data>
+	<data name="Label.ExclusionMask"><![CDATA[Маска исключения]]></data>
+	<data name="Heading.Stemming"><![CDATA[Морфология]]></data>
+	<data name="Label.UseStemming"><![CDATA[Использовать морфологию]]></data>
+	<data name="Label.StemmingExtraSymbols"><![CDATA[Cимволы, по которым не производится разделение документа на слова (при морфологическом анализе)]]></data>
+	<data name="Label.Tags"><![CDATA[Теги]]></data>
+	<data name="TableHeader.Site"><![CDATA[Сайт]]></data>
+	<data name="TableHeader.PageKeyword"><![CDATA[Свойство страницы]]></data>
+	<data name="Option.DontIndex"><![CDATA[- не индексировать -]]></data>
+	<data name="Label.Files"><![CDATA[Файлы]]></data>
+	<data name="Heading.SystemProperties"><![CDATA[Системные настройки]]></data>
+	<data name="Label.MaxSearchResults"><![CDATA[Максимальное количество документов в результатах поиска]]></data>
+	<data name="CheckBoxText.UseSimplifiedRanking"><![CDATA[Использовать быстрый поиск (с ухудшенным ранжированием)]]></data>
+</resources>

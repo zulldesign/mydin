@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Журнал событий]]></data>
+	<data name="TableTitle.Send"><![CDATA[Журнал состояния отправки]]></data>
+	<data name="ColumnHeaderText.Status"><![CDATA[Статус]]></data>
+	<data name="ColumnHeaderText.Update"><![CDATA[Изменён]]></data>
+	<data name="ColumnHeaderText.Template"><![CDATA[Шаблон]]></data>
+	<data name="ColumnHeaderText.Duplicate"><![CDATA[Дубликат]]></data>
+	<data name="ColumnHeaderText.Subject"><![CDATA[Тема письма]]></data>
+	<data name="ColumnHeaderText.To"><![CDATA[Кому]]></data>
+	<data name="ActionText.Send"><![CDATA[Отправить]]></data>
+	<data name="ActionConfirmDialogText.Confirm"><![CDATA[Вы действительно желаете отправить выделенные письма]]></data>
+	<data name="Message.SendStatus"><![CDATA[Состояние отправки]]></data>
+	<data name="Option.AllSent"><![CDATA[Отправлено]]></data>
+	<data name="Option.SomeSent"><![CDATA[Отправлено с ошибками]]></data>
+	<data name="Option.NoTemplate"><![CDATA[Нет шаблона]]></data>
+	<data name="Option.All"><![CDATA[Все]]></data>
+	<data name="Y"><![CDATA[Отправлено]]></data>
+	<data name="N"><![CDATA[Не отправлено]]></data>
+	<data name="F"><![CDATA[Ошибка]]></data>
+	<data name="P"><![CDATA[Отправлено с ошибками]]></data>
+	<data name="O"><![CDATA[Нет шаблона]]></data>
+</resources>

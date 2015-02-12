@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.UserRegisteredAt"><![CDATA[зарегистрирован]]></data>
+	<data name="Rating"><![CDATA[Рейтинг]]></data>
+	<data name="TimeOnSite"><![CDATA[на сайте {0}]]></data>
+</resources>

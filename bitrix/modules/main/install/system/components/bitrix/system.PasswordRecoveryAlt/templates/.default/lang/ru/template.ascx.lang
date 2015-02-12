@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.ControlStringAndYourRegistrationDataHasBeenSentByEmail"><![CDATA[Контрольная строка, а также ваши регистрационные данные были высланы по E-Mail.]]></data>
+	<data name="Header.SendControlString"><![CDATA[Выслать контрольную строку]]></data>
+	<data name="Legend.Login"><![CDATA[Логин:]]></data>
+	<data name="Or"><![CDATA[или]]></data>
+	<data name="ButtonText.Send"><![CDATA[Выслать]]></data>
+	<data name="IfYouForgetYourPasswordEnterYourLoginOrEmail"><![CDATA[Если вы забыли пароль, введите ваш логин или E-Mail, указанный при регистрации. Контрольная строка для смены пароля будет выслана вам по электронной почте.]]></data>
+	<data name="PasswordRecoveryIsUnavailableByMeansOfControlString"><![CDATA[Восстановление пароля с помощью контрольной строки недоступно]]></data>
+	<data name="Format.AfterYouGetControlStringGo2PasswordChangeForm"><![CDATA[После получения контрольной строки следуйте на {0}форму для смены пароля{1}.]]></data>
+	<data name="Format.Return2AuthorizationForm"><![CDATA[Вернуться на {0}форму авторизации{1}.]]></data>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[Поле "Код подтверждения" должно быть заполнено]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[Поле "Код подтверждения" должно быть заполнено]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[Код подтверждения:]]></data>
+</resources>

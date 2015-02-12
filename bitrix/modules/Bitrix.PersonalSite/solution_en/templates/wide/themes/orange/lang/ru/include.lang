@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Широкий: оранжевая тема]]></data>
+	<data name="Template.Description">
+	<![CDATA[
+	<p>"Резиновый" шаблон - его ширина зависит от размера окна браузера.</p>
+	<p>
+	У шаблона есть  прозрачные поля. Элементы дизайна, такие как, заголовок, 
+	строка навигации, область контента и подпись 
+	выделены цветными полосами на всю ширину страницы.
+	</p>
+	]]>
+	</data>
+	<data name="Theme.Name"><![CDATA[Оранжевый]]></data>
+	<data name="Theme.Description"><![CDATA[Оранжевая тема]]></data>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Отладка меню]]></data>
+	<data name="Description.Standard"><![CDATA[Режим: "Дерево меню"]]></data>
+	<data name="Description.SiteMap"><![CDATA[Режим: "Карта сайта"]]></data>
+	<data name="ButtonText.Continue"><![CDATA[Продолжить]]></data>
+</resources>

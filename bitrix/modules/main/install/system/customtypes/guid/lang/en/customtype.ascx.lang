@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Unique ID]]></data>
+	<data name="Description"><![CDATA[Globally Unique ID (GUID)]]></data>
+	<data name="FieldMustBeFilled"><![CDATA[The field "{0}" is required.]]></data>
+	<data name="ValueMustBeGuid"><![CDATA[The value of "{0}" must be a GUID. The preferable format is XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX]]></data>
+</resources>

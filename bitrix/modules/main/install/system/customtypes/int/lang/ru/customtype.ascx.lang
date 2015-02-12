@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FieldMustBeFilled"><![CDATA[Поле "{0}" должно быть заполнено]]></data>
+	<data name="ValueMustBeInteger"><![CDATA[Значение поля "{0}" должно быть числом]]></data>
+	<data name="ValueMustBeGreaterOrEqual"><![CDATA[Значение поля "{0}" должно быть больше либо равно {1}]]></data>
+	<data name="ValueMustBeLessOrEqual"><![CDATA[Значение поля "{0}" должно быть меньше либо равно {1}]]></data>
+</resources>

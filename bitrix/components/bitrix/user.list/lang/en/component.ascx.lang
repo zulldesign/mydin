@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[User List]]></data>
+	<data name="Description"><![CDATA[Displays the site users]]></data>
+	<data name="Category"><![CDATA[User]]></data>
+	<data name="Param.SortBy"><![CDATA[Sort By]]></data>
+	<data name="Param.SortBy.NameToShowUp"><![CDATA[Display Name]]></data>
+	<data name="Param.SortBy.DateOfRegistration"><![CDATA[Registration Date]]></data>
+	<data name="Param.SortDirection"><![CDATA[Sort Order]]></data>
+	<data name="Param.SortDirection.Asc"><![CDATA[ascending]]></data>
+	<data name="Param.SortDirection.Desc"><![CDATA[descending]]></data>
+	<data name="Param.FilterByGender"><![CDATA[Filter By Gender]]></data>
+	<data name="Param.FilterByGender.None"><![CDATA[[no]]]></data>
+	<data name="Param.FilterByGender.Male"><![CDATA[male]]></data>
+	<data name="Param.FilterByGender.Female"><![CDATA[female]]></data>
+	<data name="Param.FilterByNameToShowUp"><![CDATA[Filter By Display Name]]></data>
+	<data name="Param.FilterByDayOfBirth"><![CDATA[Filter By Date of Birthday ]]></data>
+	<data name="Param.FilterByMonthOfBirth"><![CDATA[Filter By Month of Birthday ]]></data>
+	<data name="Param.ProhibitedUserIds"><![CDATA[Hide Users (separate multiple user ID's with comma)]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[User Profile Page URL Template]]></data>
+	<data name="Error.General"><![CDATA[General error.]]></data>
+	<data name="Error.PageDoesNotExist"><![CDATA[Page was not found.]]></data>
+	<data name="Error.DataReadingFailed"><![CDATA[Error reading data.]]></data>
+	<data name="Param.FilterByUserCustomProperty"><![CDATA[Filter By User Custom Properties]]></data>
+	<data name="Param.UserCustomPropertyFilterSettings"><![CDATA[User Custom Properties]]></data>
+	<data name="Category.Rating"><![CDATA[Ratings]]></data>
+	<data name="Param.EnableSortingByRating"><![CDATA[Enable Sort By Rating]]></data>
+	<data name="Param.SortByRatingId"><![CDATA[Sort By Rating]]></data>
+	<data name="TotalValueCustomFieldEditFormLabel"><![CDATA[Voting Results]]></data>
+	<data name="TotalVotesCustomFieldEditFormLabel"><![CDATA[Total Votes]]></data>
+</resources>

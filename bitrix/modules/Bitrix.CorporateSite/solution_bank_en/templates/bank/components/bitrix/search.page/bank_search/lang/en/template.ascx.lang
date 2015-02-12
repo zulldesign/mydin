@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Tags"><![CDATA[Tags]]></data>
+	<data name="EmptyQuery"><![CDATA[Your search query is empty.]]></data>
+	<data name="Title"><![CDATA[Search]]></data>
+	<data name="ButtonText.Find"><![CDATA[Search]]></data>
+	<data name="EmptySearchQuery"><![CDATA[The search string is empty.]]></data>
+	<data name="NoResults"><![CDATA[No entries have been found.]]></data>
+</resources>

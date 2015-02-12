@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Param.YandexMapsApiKey"><![CDATA[Ключ API Яндекс.Карты]]></data>
+	<data name="Param.MapWidthInPixels"><![CDATA[Ширина карты в пикселях]]></data>
+	<data name="Param.MapHeightInPixels"><![CDATA[Высота карты в пикселях]]></data>
+	<data name="Param.MapControls"><![CDATA[Элементы управления отображаемые на карте (навигация, тип, масштабирование и др.)]]></data>
+	<data name="Param.MapOptions"><![CDATA[Настройки карты (масштабирование при помощи колеса прокрутки, двойного клика, горячие клавиши и др.)]]></data>
+	<data name="Param.MapControls.ToolBar"><![CDATA[Тулбар]]></data>
+	<data name="Param.MapControls.ZoomStandard"><![CDATA[Масштабирование]]></data>
+	<data name="Param.MapControls.ZoomCompact"><![CDATA[Масштабирование компакт.]]></data>
+	<data name="Param.MapControls.MiniMap"><![CDATA[Обзорная карта]]></data>
+	<data name="Param.MapControls.TypeControl"><![CDATA[Переключатель типа]]></data>
+	<data name="Param.MapControls.ScaleLine"><![CDATA[Масштабная линейка]]></data>
+	<data name="Param.MapControls.Search"><![CDATA[Поиск]]></data>
+	<data name="Param.MapOptions.DisableDragging"><![CDATA[Откл. перетаскивание мышью]]></data>
+	<data name="Param.MapOptions.DisableDoubleClickZoom"><![CDATA[Откл. масштабирование двойным щелчком мыши]]></data>
+	<data name="Param.MapOptions.EnableScrollZoom"><![CDATA[Вкл. масштабирование колесиком мыши]]></data>
+	<data name="Param.MapOptions.EnableHotKeys"><![CDATA[Вкл. горячие клавиши]]></data>
+	<data name="Param.MapOptions.EnableMagnifier"><![CDATA[Вкл. лупу]]></data>
+	<data name="Param.MapOptions.EnableRightButtonMagnifier"><![CDATA[Вкл. лупу для правой кнопки мыши]]></data>
+	<data name="Param.MapOptions.EnableRuler"><![CDATA[Вкл. линейку]]></data>
+	<data name="Param.InitialState"><![CDATA[Начальные установки карты (вид, масштаб, центр, точки)]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Карта (Яндекс.Карты)" необходимо настроить]]></data>
+</resources>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="MembershipStatusError.UserWithLoginYouSpecifiedAlreadyExists"><![CDATA[The specified login is alredy in use. Please enter a different login.]]></data>
+	<data name="MembershipStatusError.UserWithEmailYouSpecifiedAlreadyExists"><![CDATA[A user with this E-Mail address already exists. Please specify a different address.]]></data>
+	<data name="MembershipStatusError.PasswordContraveneSiteRules"><![CDATA[The specified password violates the site requirements. ]]></data>
+	<data name="MembershipStatusError.FormatPasswordMustNotBeShorterThan"><![CDATA[The password must contain at least {0} symbols. ]]></data>
+	<data name="MembershipStatusError.FormatPasswordMustContain"><![CDATA[The password must contain at least {0} nonalphanumeric symbols. ]]></data>
+	<data name="MembershipStatusError.EmailYouSpecifiedIsInvalid"><![CDATA[The specified E-mail address is incorrect. Please type a valid address.]]></data>
+	<data name="MembershipStatusError.AnswerForSecretQuestionContraveneSiteRules"><![CDATA[The secret answer violates the site requirements. Please correct your answer.]]></data>
+	<data name="MembershipStatusError.SecretQuestionContraveneSiteRules"><![CDATA[The secret question violates the site requirements. Please correct your question.]]></data>
+	<data name="MembershipStatusError.LoginContraveneSiteRules"><![CDATA[The login violates the site requirements. Please correct your login.]]></data>
+	<data name="MembershipStatusError.AuthenticationProviderError"><![CDATA[Authentication provider error. Please check your entry and try again. If the problem persists, please contact site administrator.]]></data>
+	<data name="MembershipStatusError.RegistrationAttemptHasBeenRejected"><![CDATA[A registration attempt has been rejected. Please check your entry and try again. If the problem persists, please contact site administrator.]]></data>
+	<data name="MembershipStatusError.AnUnknownErrorHasOccurred"><![CDATA[An unknown error occurred. Please check your entry and try again. If the problem persists, please contact site administrator.]]></data>
+	<data name="MarketplaceModuleDownloaderError.UnknownException"><![CDATA[Unknown error occurred while downloading the module.]]></data>
+	<data name="MarketplaceModuleDownloaderError.UnknownExceptionLogged"><![CDATA[Error downloading the module. See the event log for details.]]></data>
+	<data name="MarketplaceModuleDownloaderError.UpdateSystemException"><![CDATA[The update system returned error:<br/>{0}]]></data>
+	<data name="MarketplaceModuleDownloaderError.WebRequestException"><![CDATA[Marketplace query failed:<br/>{0}]]></data>
+	<data name="MarketplaceModuleDownloaderError.IOException"><![CDATA[File operation failed:<br/>{0}]]></data>
+	<data name="MarketplaceModuleDownloaderError.ModuleAlreadyExists"><![CDATA[Cannot download the module "{0}" because this module has already been added.]]></data>
+</resources>

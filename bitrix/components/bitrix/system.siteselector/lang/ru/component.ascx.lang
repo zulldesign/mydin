@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Component.Title"><![CDATA[Выбор сайта]]></data>
+	<data name="Component.Description"><![CDATA[Переключатель сайтов (для использования в шаблоне сайта).]]></data>
+	<data name="Group"><![CDATA[Навигация]]></data>
+</resources>

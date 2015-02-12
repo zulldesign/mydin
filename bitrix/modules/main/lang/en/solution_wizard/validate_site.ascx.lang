@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Attention!]]></data>
+	<data name="Message"><![CDATA[<p>The folder "{0}" contains files. This site is likely to have had a solution installed. You are recommended to delete the folder contents before proceeding. You can do it in <a href="{1}">Control Panel</a>.</p><p>To select another site, click "Back". To continue installation, click "Next".</p>]]></data>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Loading"><![CDATA[Загрузка содержимого]]></data>
+	<data name="RootTitle"><![CDATA[Веб сайт]]></data>
+	<data name="Preview"><![CDATA[Предпросмотр]]></data>
+	<data name="Wait"><![CDATA[Загрузка]]></data>
+</resources>

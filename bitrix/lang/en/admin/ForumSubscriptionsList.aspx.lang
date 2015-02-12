@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Manage Subscriptions]]></data>
+	<data name="PopupText.ViewDetail"><![CDATA[Details]]></data>
+	<data name="PopupText.DeleteText"><![CDATA[Delete]]></data>
+	<data name="ColumnHeaderText.FirstName"><![CDATA[First Name]]></data>
+	<data name="ColumnHeaderText.LastName"><![CDATA[Last Name]]></data>
+	<data name="ColumnHeaderText.Email"><![CDATA[Email]]></data>
+	<data name="ColumnHeaderText.SubscriptionsCount"><![CDATA[Count]]></data>
+	<data name="ColumnHeaderText.UserName"><![CDATA[Login]]></data>
+	<data name="FilterText.LastName"><![CDATA[Last Name]]></data>
+	<data name="FilterText.FirstName"><![CDATA[First Name]]></data>
+	<data name="FilterText.UserName"><![CDATA[Login]]></data>
+	<data name="FilterText.DisplayName"><![CDATA[Member]]></data>
+	<data name="ColumnHeaderText.DisplayName"><![CDATA[Member]]></data>
+	<data name="GridText.ToolTip.EditUser"><![CDATA[Edit User]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete all the user subscriptions?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all subscriptions of all users?]]></data>
+</resources>

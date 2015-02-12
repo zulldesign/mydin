@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[User Subscriptions]]></data>
+	<data name="PopupText.DeleteText"><![CDATA[Delete]]></data>
+	<data name="ColumnHeaderText.ForumName"><![CDATA[Forum]]></data>
+	<data name="ColumnHeaderText.TopicName"><![CDATA[Topic]]></data>
+	<data name="ColumnHeaderText.OnlyTopic"><![CDATA[Subscription Type]]></data>
+	<data name="ColumnText.OnlyTopic"><![CDATA[New Forum Topics]]></data>
+	<data name="ColumnText.FullForum"><![CDATA[New Forum Posts]]></data>
+	<data name="ColumnText.Topic"><![CDATA[Topic]]></data>
+	<data name="ColumnHeaderText.SiteId"><![CDATA[Site]]></data>
+	<data name="ColumnHeaderText.DateStart"><![CDATA[Subscription Start Date]]></data>
+	<data name="FilterText.ForumName"><![CDATA[Forum Name]]></data>
+	<data name="FilterText.TopicName"><![CDATA[Topic Title]]></data>
+	<data name="FilterText.SubscriptionType"><![CDATA[Subscription Type]]></data>
+	<data name="Option.AllTypes"><![CDATA[All]]></data>
+	<data name="Error.UserNotSpecified"><![CDATA[The user was not found.]]></data>
+	<data name="FilterText.Site"><![CDATA[Site]]></data>
+	<data name="Option.SelectSite"><![CDATA[(select a site)]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the subscription?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the user subscriptions?]]></data>
+</resources>

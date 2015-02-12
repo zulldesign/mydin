@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.ListIsEmpty"><![CDATA[<p>Не выбрано ни одного элемента для сравнения. <a href="{0}">Добавить элементы в таблицу сравнения</a></p>]]></data>
+	<data name="DeleteAllElements"><![CDATA[Очистить таблицу сравнения]]></data>
+	<data name="FilterHtml.DisplayOnlyDefference"><![CDATA[<label>Показывать:</label>&nbsp;<{0} {1}>все характеристики</{0}>&nbsp;<{2} {3}>только различающиеся</{2}>]]></data>
+	<data name="ColumnName.Name"><![CDATA[Название]]></data>
+	<data name="ButtonHint.DeteleItem"><![CDATA[Удалить из таблицы]]></data>
+	<data name="LinkHint.Go2Item"><![CDATA[Перейти к элементу]]></data>
+	<data name="FieldName.ID"><![CDATA[Идентификатор]]></data>
+	<data name="FieldName.PreviewImage"><![CDATA[Эскиз]]></data>
+	<data name="FieldName.PreviewText"><![CDATA[Анонс]]></data>
+	<data name="FieldName.DetailImage"><![CDATA[Изображение]]></data>
+	<data name="FieldName.DetailText"><![CDATA[Описание]]></data>
+	<data name="FieldName.ActiveFromDate"><![CDATA[Начало активности]]></data>
+	<data name="FieldName.ActiveToDate"><![CDATA[Завершение активности]]></data>
+</resources>

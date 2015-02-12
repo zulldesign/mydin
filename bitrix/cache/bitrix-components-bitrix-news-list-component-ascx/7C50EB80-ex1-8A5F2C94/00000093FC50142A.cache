@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>bitrix_components_bitrix_news_list_component_ascx.7C50EB80-ex1-8A5F2C94</Name>
+  <Meta>
+    <TypeTable>
+      <TypeMapEntry Guid="0" TypeIndex="0" AssemblyIndex="0" AssemblyFullName="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">System.Collections.Generic.List`1[[System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]</TypeMapEntry>
+      <TypeMapEntry Guid="1" TypeIndex="0" AssemblyIndex="12" AssemblyFullName="Main, Version=7.0.5.0, Culture=neutral, PublicKeyToken=null">Bitrix.Components.BXComponentResults</TypeMapEntry>
+    </TypeTable>
+  </Meta>
+  <Data>
+    <string>/wEWCALV/gNmAgUFdX4vYml0cml4L3RlbXBsYXRlcy9CaXRyaXguQ29ycG9yYXRlU2l0ZS5FTi5mdXJuaXR1cmUuZGVmYXVsdC9jb21wb25lbnRzLy8vYml0cml4L25ld3MubGlzdC9uZXdzX3NpZGViYXIvdGVtcGxhdGUuYXNjeAWnBg0KPGgzPkNvbXBhbnkgTmV3czwvaDM+DQoNCjxkbCBjbGFzcz0iYmxvY2stbGlzdCI+DQoNCiAgICA8ZHQgaWQ9ImN0bDAwX25ld3NsaXN0MV9uZXdzbGlzdDFfbmV3c2xpc3QxX05ld3NJdGVtMjMiPg0KICAgICAgICAwMi4xMS4yMDE1DQoJCQ0KICAgIDwvZHQ+DQogICAgPGRkPjxhIGhyZWY9Ii9uZXdzL2l0ZW0tMjMvIj4NCiAgICAgICAgRHVyYWJsZSwgd2F0ZXJwcm9vZiBjb25uZWN0aW9uIGRldmVsb3BlZC4gDQogICAgICA8L2E+PC9kZD4NCg0KICAgIDxkdCBpZD0iY3RsMDBfbmV3c2xpc3QxX25ld3NsaXN0MV9uZXdzbGlzdDFfTmV3c0l0ZW0yNCI+DQogICAgICAgIDAyLjEwLjIwMTUNCgkJDQogICAgPC9kdD4NCiAgICA8ZGQ+PGEgaHJlZj0iL25ld3MvaXRlbS0yNC8iPg0KICAgICAgICBGdXJuaXR1cmUgRXhwb3NpdGlvbiBPY3RvYmVyIDMwLCAyMDEwPGJyIC8+DQpUaGUgMjAxMCB2ZXJzaW9uIG9mIFNhbG9uIGRlbCBNb2JpbGUgcHJvbWlzZXMgdG8gYmUgdGhlIGJlc3QgZXZlci4NCiAgICA8L2E+PC9kZD4NCg0KICAgIDxkdCBpZD0iY3RsMDBfbmV3c2xpc3QxX25ld3NsaXN0MV9uZXdzbGlzdDFfTmV3c0l0ZW0yNSI+DQogICAgICAgIDAyLjA5LjIwMTUNCgkJDQogICAgPC9kdD4NCiAgICA8ZGQ+PGEgaHJlZj0iL25ld3MvaXRlbS0yNS8iPkZyb20gdGhlIDIwdGggdG8gdGhlIDI0dGggb2YgRGVjZW1iZXIsIDIwMTAsIHRoZSA8c3Ryb25nPk5vcnRoIFNlYSBGdXJuaXR1cmUgRm9ydW08L3N0cm9uZz4gd2lsbCBiZSBoZWxkIGluIHRoZSBUcm9uZGhlaW0sIE5vcndheS48L2E+PC9kZD4NCg0KPC9kbD4NChYJAtD+AwIBAgMFCklCbG9ja05hbWUFBE5ld3MFDElCbG9ja1R5cGVJZAICBRFJQmxvY2tFbGVtZW50TmFtZWVkZA==</string>
+  </Data>
+  <Restriction Name="bitrix_components_bitrix_news_list_component_ascx.7C50EB80-ex1-8A5F2C94" AbsoluteExpiration="02/12/2015 10:24:58" SlidingExpiration="00:00:00" Priority="Normal" />
+</SerializationResult>

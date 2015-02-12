@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.GoBack"><![CDATA[Advertising Areas]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to advertising areas]]></data>
+	<data name="ActionTitle.Add"><![CDATA[New advertising area]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete advertising area]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this advertising area?]]></data>
+	<data name="TabText.AdvertisingSpace"><![CDATA[Advertising Area]]></data>
+	<data name="TabTitle.AdvertisingSpace"><![CDATA[Advertising area parameters]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceCode"><![CDATA[Symbolic Code]]></data>
+	<data name="FieldLabel.AdvertisingSpaceCode"><![CDATA[Symbolic Code]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceActive"><![CDATA[Advertising area active state]]></data>
+	<data name="FieldLabel.AdvertisingSpaceActive"><![CDATA[Active]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceName"><![CDATA[Advertising area name]]></data>
+	<data name="FieldLabel.AdvertisingSpaceName"><![CDATA[Name]]></data>
+	<data name="FieldTooltip.AdvertisingSpaceDescription"><![CDATA[Advertising area description]]></data>
+	<data name="FieldLabel.AdvertisingSpaceDescription"><![CDATA[Description]]></data>
+	<data name="Message.AdvertisingSpaceNameIsNotSpecified"><![CDATA[The advertising area name is not specified.]]></data>
+	<data name="Message.AdvertisingSpaceCodeIsNotSpecified"><![CDATA[The advertising area symbolic code is not specified.]]></data>
+	<data name="FieldTooltip.Sort"><![CDATA[Sort Index]]></data>
+	<data name="FieldLabel.Sort"><![CDATA[Sort]]></data>
+	<data name="Message.IncorrectSortIndex"><![CDATA[The sort index is incorrect.]]></data>
+	<data name="FieldTooltip.XmlId"><![CDATA[External ID]]></data>
+	<data name="FieldLabel.XmlId"><![CDATA[External ID]]></data>
+	<data name="PageTitle.EditAdvertisingSpace"><![CDATA[Edit Advertising Area "{0}"]]></data>
+	<data name="PageTitle.CreateAdvertisingSpace"><![CDATA[Create Advertising Area]]></data>
+	<data name="Error.UnableToFindAdvertisingSpace"><![CDATA[Cannot find the advertising area ID '{0}'. Please ensure the ID is correct.]]></data>
+</resources>

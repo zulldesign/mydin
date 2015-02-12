@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Уникальный идентификатор]]></data>
+	<data name="Description"><![CDATA[Глобально уникальный идентификатор]]></data>
+	<data name="FieldMustBeFilled"><![CDATA[Поле "{0}" должно быть заполнено]]></data>
+	<data name="ValueMustBeGuid"><![CDATA[Значение поля "{0}" должно соответствовать GUID. Предпочтительный формат - XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX]]></data>
+</resources>

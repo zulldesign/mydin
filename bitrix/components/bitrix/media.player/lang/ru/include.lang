@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Description"><![CDATA[Компонент для проигрывания аудио-видео файлов]]></data>
+	<data name="Title"><![CDATA[Медиа-проигрыватель]]></data>
+	<data name="Group"><![CDATA[Медиа]]></data>
+	<data name="Category.AppearanceCommon.Title"><![CDATA[Внешний вид, общие настройки]]></data>
+	<data name="Category.AppearanceFlv.Title"><![CDATA[Внешний вид "Adobe Flash Player"]]></data>
+	<data name="Category.AppearanceWmv.Title"><![CDATA[Внешний вид "Windows Media Player"]]></data>
+	<data name="Category.AdditionalSettingsFlv.Title"><![CDATA[Дополнительные настройки воспроизведения "Adobe Flash Player"]]></data>
+	<data name="AboutText"><![CDATA[1С-Битрикс: Медиа-плеер]]></data>
+	<data name="AboutLink"><![CDATA[http://www.1c-bitrix.ru?r1=mplayer&r2=video]]></data>
+</resources>

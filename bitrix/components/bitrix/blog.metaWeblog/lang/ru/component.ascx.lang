@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Блог]]></data>
+	<data name="Param.MaximalFileSizeInKBytes"><![CDATA[Максимальный размер файла, КБайт]]></data>
+	<data name="Param.MaximalAllFilesSizeInKBytes"><![CDATA[Максимальный размер всех файлов, КБайт]]></data>
+	<data name="Param.MaximalImageWidthInPixels"><![CDATA[Максимальная ширина изображения, пиксел]]></data>
+	<data name="Param.MaximalImageHeightInPixels"><![CDATA[Максимальная высота изображения, пиксел]]></data>
+	<data name="Param.EnableExtendedEntries"><![CDATA[Включить поддержку расширенного содержания постов (cut)]]></data>
+	<data name="Title"><![CDATA[Сервис MetaWeblog]]></data>
+	<data name="Description"><![CDATA[Обеспечивает публикацию в блоги из клиентских программ, поддерживающих MetaWeblog API]]></data>
+	<data name="PageTitle"><![CDATA[Публикация в блог с помощью программы-клиента]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Адрес блога]]></data>
+	<data name="Param.BlogUrlTemplate"><![CDATA[Шаблон ссылки на блог]]></data>
+	<data name="Param.PostViewUrlTemplate"><![CDATA[Шаблон ссылки на пост]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="Error.IncorrectPostId"><![CDATA[Некорректный идентификатор записи]]></data>
+	<data name="Error.BlogNotFound"><![CDATA[Блог не найден]]></data>
+	<data name="Error.InsufficientPermissions"><![CDATA[У Вас не достаточно прав]]></data>
+	<data name="Error.PostNotFound"><![CDATA[Запись не найдена]]></data>
+	<data name="Error.IncorrectBlogId"><![CDATA[Некорректный идентификатор блога]]></data>
+	<data name="Error.FileNoExtension"><![CDATA[Предоставленный файл не имеет расширения]]></data>
+	<data name="Error.FileInvalidExtension"><![CDATA[Предоставленный файл имеет неверное расширение (разрешено jpg, jpeg, gif или png)]]></data>
+	<data name="Error.FileInvalidMimeType"><![CDATA[Предоставленный файл имеет неверный тип]]></data>
+	<data name="Error.FileSizeExceeded"><![CDATA[Превышен допустимый размер файла: {0} Кб вместо разрешенных {1} Кб]]></data>
+	<data name="Error.FileTotalSizeExceeded"><![CDATA[Суммарный размер файлов для записи превышен: {0} Кб вместо разрешенных {1} Кб]]></data>
+	<data name="Error.Unknown"><![CDATA[Произошла внутренняя ошибка]]></data>
+</resources>

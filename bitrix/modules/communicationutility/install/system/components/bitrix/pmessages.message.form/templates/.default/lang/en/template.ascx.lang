@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Error.Title"><![CDATA[Some of the data you have provided is incorrect:]]></data>
+	<data name="Label.TopicTitle"><![CDATA[Topic Title]]></data>
+	<data name="Error.TopicTitleRequired"><![CDATA[The topic title is not specified.]]></data>
+	<data name="Label.GuestName"><![CDATA[Name]]></data>
+	<data name="Label.PostContent"><![CDATA[Message Text]]></data>
+	<data name="Error.PostContentRequired"><![CDATA[The message text is required.]]></data>
+	<data name="ButtonText.Preview"><![CDATA[Preview]]></data>
+	<data name="Label.Preview"><![CDATA[Preview]]></data>
+	<data name="Label.Receiver"><![CDATA[Recipient]]></data>
+	<data name="Label.Receivers"><![CDATA[Recipients]]></data>
+	<data name="Label.ProfileLink"><![CDATA[profile]]></data>
+	<data name="Label.DeleteReceiver"><![CDATA[delete]]></data>
+	<data name="Label.NotifySender"><![CDATA[Request Read Receipt]]></data>
+	<data name="Label.NotifyByEmail"><![CDATA[Notify About Replies By E-Mail]]></data>
+	<data name="Title.AddReceiver"><![CDATA[(You can specify one recipient)]]></data>
+	<data name="Title.AddReceivers"><![CDATA[(You can specify up to {0} recipients)]]></data>
+	<data name="Message.EnterUser"><![CDATA[enter the user name or alias]]></data>
+</resources>

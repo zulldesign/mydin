@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Wide: Cherry Theme]]></data>
+	<data name="Template.Description"><![CDATA[<p>A rubber template changing the width of the presentation area according to the web browser window size.</p><p>This template has transparent areas. The design elements like headers, menus, the content area and the footer are printed on colored strips stretched to fully fill the web page width.</p>]]></data>
+	<data name="Theme.Name"><![CDATA[Cherry]]></data>
+	<data name="Theme.Description"><![CDATA[Cherry theme]]></data>
+</resources>

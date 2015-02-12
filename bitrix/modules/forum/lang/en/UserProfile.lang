@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Posts"><![CDATA[Posts]]></data>
+	<data name="Signature"><![CDATA[Signature]]></data>
+	<data name="OwnPostNotification"><![CDATA[Include Your Own Posts in E-Mail Notifications]]></data>
+</resources>

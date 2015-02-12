@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Error.Title"><![CDATA[Вы ввели некорректные данные:]]></data>
+	<data name="Label.TopicTitle"><![CDATA[Название темы]]></data>
+	<data name="Error.TopicTitleRequired"><![CDATA[Вы должны ввести название темы.]]></data>
+	<data name="Label.TopicDescription"><![CDATA[Описание темы]]></data>
+	<data name="Label.GuestName"><![CDATA[Ваше имя]]></data>
+	<data name="Error.GuestNameRequired"><![CDATA[Вы должны ввести Ваше имя.]]></data>
+	<data name="Error.GuestEmailRequired"><![CDATA[Вы должны ввести E-Mail.]]></data>
+	<data name="Label.PostContent"><![CDATA[Текст сообщения]]></data>
+	<data name="Error.PostContentRequired"><![CDATA[Вы должны ввести текст сообщения.]]></data>
+	<data name="Label.GuestCaptcha"><![CDATA[Код подтверждения]]></data>
+	<data name="Error.GuestCaptchaRequired"><![CDATA[Вы должны ввести код подтверждения.]]></data>
+	<data name="ButtonText.Preview"><![CDATA[Предпросмотр]]></data>
+	<data name="CheckBoxTitle.HidePostAfterCreation"><![CDATA[Скрыть сообщение после создания]]></data>
+	<data name="CheckBoxTitle.SubcribeToNewTopic"><![CDATA[Подписаться на новые сообщения этой темы]]></data>
+	<data name="Label.Preview"><![CDATA[Предварительный просмотр]]></data>
+</resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PublicArea"><![CDATA[Public Area]]></data>
+	<data name="PublicAreaTitle"><![CDATA[Switches to site view mode]]></data>
+	<data name="EditSite"><![CDATA[Edit Site]]></data>
+	<data name="EditSiteTitle"><![CDATA[Switches to include area editor mode]]></data>
+	<data name="ControlPanel"><![CDATA[Control Panel]]></data>
+	<data name="ControlPanelTitle"><![CDATA[Control Panel]]></data>
+	<data name="FixOn"><![CDATA[Pin bar]]></data>
+	<data name="FixOff"><![CDATA[Unpin bar]]></data>
+	<data name="CurrentUser"><![CDATA[Current User]]></data>
+	<data name="LogOff"><![CDATA[End Session (log out)]]></data>
+	<data name="LinkTitle.HidePanel"><![CDATA[Hide panel]]></data>
+</resources>

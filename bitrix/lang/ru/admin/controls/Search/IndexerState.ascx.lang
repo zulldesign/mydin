@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Restart"><![CDATA[Переиндексировать]]></data>
+	<data name="Stop"><![CDATA[Остановить]]></data>
+	<data name="Resume"><![CDATA[Возобновить]]></data>
+	<data name="Refresh"><![CDATA[Проверить состояние]]></data>
+	<data name="IndexingInProcess"><![CDATA[Идет процесс переиндексации контента...]]></data>
+	<data name="IndexingFinished"><![CDATA[Процесс индексации завершен.]]></data>
+	<data name="IndexingStopped"><![CDATA[Процесс индексации остановлен.]]></data>
+	<data name="Finished"><![CDATA[завершено]]></data>
+	<data name="Indexing"><![CDATA[индексация]]></data>
+	<data name="IndexingStoppedOn"><![CDATA[индексация остановлена]]></data>
+	<data name="DropIndex"><![CDATA[Очистить весь поисковый индекс перед запуском переиндексации]]></data>
+	<data name="DropIndexWarning"><![CDATA[Внимание! Весь поисковый индекс будет удален. Вы действительно хотите продолжить?]]></data>
+</resources>

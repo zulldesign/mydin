@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[2 columns]]></data>
+	<data name="Title"><![CDATA[Vacancies]]></data>
+	<data name="NoVacancies"><![CDATA[Sorry, we have no job openings at this time.]]></data>
+</resources>

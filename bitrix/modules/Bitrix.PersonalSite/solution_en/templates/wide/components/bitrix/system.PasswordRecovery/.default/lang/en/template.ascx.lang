@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Login"><![CDATA[Login]]></data>
+	<data name="Message.LoginRequired"><![CDATA[The login is not specified.]]></data>
+	<data name="Password"><![CDATA[Password]]></data>
+	<data name="Message.PasswordRequired"><![CDATA[The password is not specified.]]></data>
+	<data name="CheckBoxText.RememberMe"><![CDATA[Remember Me]]></data>
+	<data name="ButtonText.Login"><![CDATA[Log In]]></data>
+	<data name="ForgotPassword"><![CDATA[Forgot your password?]]></data>
+</resources>

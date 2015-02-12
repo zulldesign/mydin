@@ -1,0 +1,65 @@
+﻿table.iblock-hierarchy-catalog {
+border-collapse:collapse;
+width:100%;
+}
+td {
+vertical-align:top;
+}
+table.iblock-hierarchy-catalog, table.iblock-hierarchy-catalog td {
+border:medium none;
+margin:0;
+padding:0;
+}
+
+table.iblock-hierarchy-catalog  img {
+border:medium none;
+margin:0;
+padding:0;
+}
+
+table.iblock-hierarchy-catalog h1, table.iblock-hierarchy-catalog h2, table.iblock-hierarchy-catalog h3, table.iblock-hierarchy-catalog h4 {
+color:#444444;
+font-weight:normal;
+margin:0;
+padding:0;
+}
+table.iblock-hierarchy-catalog h1 {
+font-size:4em;
+margin-bottom:1em;
+margin-top:60px;
+}
+table.iblock-hierarchy-catalog h2 {
+font-size:2em;
+margin-bottom:0.5em;
+}
+table.iblock-hierarchy-catalog h3 {
+font-size:1.5em;
+font-weight:bolder;
+margin-bottom:0;
+}
+table.iblock-hierarchy-catalog h4 {
+font-size:1.25em;
+font-weight:bolder;
+}
+table.iblock-hierarchy-catalog p {
+margin:0;
+padding:0;
+}
+table.iblock-hierarchy-catalog a {
+color:#1E76CE;
+text-decoration:underline;
+}
+table.iblock-hierarchy-catalog a:hover {
+color:#DA3103;
+}
+
+/*table.iblock-hierarchy-catalog td {
+padding:1em 0.5em 0.5em 0;
+}*/
+table.iblock-hierarchy-catalog p {
+padding:0 0 0 21px;
+}
+table.iblock-hierarchy-catalog h3 {
+padding:0 0 0 21px;
+text-indent:-22px;
+}

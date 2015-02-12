@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="BackButtonText"><![CDATA[Categories]]></data>
+	<data name="BackButtonTitle"><![CDATA[Back to all categories]]></data>
+	<data name="NewButtonTitle"><![CDATA[Add a new forum category]]></data>
+	<data name="DeleteButtonTitle"><![CDATA[Delete category]]></data>
+	<data name="DeleteConfirmText"><![CDATA[Are you sure you want to delete this category?]]></data>
+	<data name="BaseSettingsTabText"><![CDATA[Forum Category]]></data>
+	<data name="BaseSettingsTabTitle"><![CDATA[Forum Category Settings]]></data>
+	<data name="Category.Name"><![CDATA[Name]]></data>
+	<data name="Error.EmptyCategoryName"><![CDATA[The category name is empty.]]></data>
+	<data name="Category.Sort"><![CDATA[Sort]]></data>
+	<data name="Category.XmlId"><![CDATA[External ID]]></data>
+	<data name="Error.CategoryNotFound"><![CDATA[The category was not found.]]></data>
+	<data name="EditPageTitle"><![CDATA[Edit Category "{0}"]]></data>
+	<data name="CreatePageTitle"><![CDATA[New Category]]></data>
+</resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="UrlTitle.GoTo"><![CDATA[Перейти к сообщению]]></data>
+	<data name="UrlTitle.GoToTopic"><![CDATA[Перейти к теме]]></data>
+	<data name="Message.NoPostsFound"><![CDATA[Сообщений не найдено]]></data>
+	<data name="Guest"><![CDATA[Гость]]></data>
+	<data name="Message.PostsOfUser"><![CDATA[Сообщения пользователя]]></data>
+	<data name="Option.DeletePosts"><![CDATA[Удалить сообщения]]></data>
+	<data name="DoYouWantToDeletePosts"><![CDATA[Вы действительно хотите удалить отмеченные сообщения?]]></data>
+	<data name="Title.SelectAll"><![CDATA[Выделить все]]></data>
+	<data name="Title.DeSelectAll"><![CDATA[Снять выделение]]></data>
+</resources>

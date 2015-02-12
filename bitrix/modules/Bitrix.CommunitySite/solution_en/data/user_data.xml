@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<user username="morrison" email="19Victoria84@gmail.com" firstname="Victoria" lastname="Morrison" birthdaydate="Now.AddDays(-9125)" displayname="" gender="Female" image="images/users/fadeeva.jpg" isapproved="true">
+		<properties>
+			<url></url>
+			<occupation>Assistant to CFO, Findorff Building Group</occupation>
+			<interests>Horseback riding, travel, photography, tai chi</interests>
+			<region>Alicante</region>
+			<msn>19Victoria84@gmail.com</msn>
+			<icq></icq>
+			<gtalk></gtalk>
+			<jabber>19Victoria84@gmail.com</jabber>
+			<skype>Morrison_Victoria</skype>
+			<about>Victoria is temperamental, usually stubborn. A little bit lazy but having great taste. Athletic, carries herself like a champion, photogenic. Likes to be the center of attention. Allows herself to be extravagant. For men, she’s dangerous, creating the impression that she’s interested...</about>
+			<rating>0.0</rating>
+			<rating_previous>0.0</rating_previous>
+		</properties>
+	</user>
+
+	<user username="alex" email="alex@gmail.com" firstname="Alex" lastname="Aaronson" secondname="" birthdaydate="Now.AddDays(-14125)" displayname="" gender="Male" image="images/users/artem.jpg" isapproved="true">
+		<properties>
+			<url>http://www.bitrixsoft.com</url>
+			<occupation>cyclist</occupation>
+			<interests>Tours, Bicycle race, Photo</interests>
+			<region>London</region>
+			<msn>alex@gmail.com</msn>
+			<icq></icq>
+			<gtalk></gtalk>
+			<jabber>alex@gmail.com</jabber>
+			<skype></skype>
+			<about></about>
+			<rating>0.0</rating>
+			<rating_previous>0.0</rating_previous>			
+		</properties>
+	</user>
+
+	<user username="valentine" email="valentine@gmail.com" firstname="" lastname="" secondname="" birthdaydate="Now.AddDays(-14125)" displayname="Valentine" gender="Male" image="images/users/kostik.jpg" isapproved="true">
+		<properties>
+			<url></url>
+			<occupation></occupation>
+			<interests></interests>
+			<region>Sevilla</region>
+			<msn></msn>
+			<icq></icq>
+			<gtalk></gtalk>
+			<jabber></jabber>
+			<skype></skype>
+			<about></about>
+			<rating>0.0</rating>
+			<rating_previous>0.0</rating_previous>
+		</properties>
+	</user>
+
+	<user username="joel" email="joel@gmail.com" firstname="" lastname="" secondname="" birthdaydate="Now.AddDays(-20125)" displayname="Joel" gender="Male" image="images/users/mihalych.jpg" isapproved="true">
+		<properties>
+			<url></url>
+			<occupation></occupation>
+			<interests></interests>
+			<region></region>
+			<msn></msn>
+			<icq></icq>
+			<gtalk></gtalk>
+			<jabber></jabber>
+			<skype></skype>
+			<about></about>
+			<rating>0.0</rating>
+			<rating_previous>0.0</rating_previous>
+		</properties>
+	</user>	
+	
+</data>

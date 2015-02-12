@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Edit / View File]]></data>
+	<data name="MasterTitle.ImageView"><![CDATA[Image View]]></data>
+	<data name="MasterTitle.TextView"><![CDATA[Text View]]></data>
+	<data name="MasterTitle.DefaultView"><![CDATA[Text View]]></data>
+	<data name="TabText.View"><![CDATA[View]]></data>
+	<data name="TabTitle.ImageView"><![CDATA[Image view]]></data>
+	<data name="TabTitle.TextView"><![CDATA[Text file view]]></data>
+	<data name="TabTitle.DefaultView"><![CDATA[File Contents]]></data>
+	<data name="ActionText.GoBack"><![CDATA[Back to Files]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to File Manager]]></data>
+	<data name="FileEncoding"><![CDATA[File Encoding]]></data>
+</resources>

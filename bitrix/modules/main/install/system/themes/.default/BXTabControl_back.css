@@ -1,0 +1,73 @@
+﻿/* Edit form*/
+div.BXTabControl {margin:16px 0px 16px 0px;}
+table.BXTabControl td.inner {background-color:#E7EAF5;}
+table.BXTabControl tr.top td {border-top:1px solid #ABB6D7;}
+table.BXTabControl td.left {border-left:1px solid #ABB6D7;}
+table.BXTabControl td.right {border-right:1px solid #ABB6D7;}
+table.BXTabControl tr.top td.left {border:0px; background-image:url(images/TabControl/lt.gif); height:2px; width:2px;}
+table.BXTabControl tr.top td.right {border:0px; background-image:url(images/TabControl/rt.gif); height:2px; width:2px;}
+table.BXTabControl tr.bottom td {border-bottom:1px solid #ABB6D7;}
+table.BXTabControl tr.bottom td.left {border:0px; background-image:url(images/TabControl/lb.gif); height:2px; width:2px;}
+table.BXTabControl tr.bottom td.right {border:0px; background-image:url(images/TabControl/rb.gif); height:2px; width:2px;}
+table.BXTabControl td.content {padding:7px 2px 2px 2px;}
+table.BXTabControl div.buttons {margin-top:4px; padding:5px; background-color:#F8F9FC; background-image:url(images/TabControl/buttons_bg.gif); border:1px solid #CED6EC;}
+
+/* Tab controls*/
+table.BXTabControl-Tabs table {font-size:11px; font-weight:bold; color:#555556;}
+table.BXTabControl-Tabs td.inner {white-space:nowrap; border-bottom:1px solid #B8C1DD; padding:0px;}
+table.BXTabControl-Tabs td.tab-container {border:none; cursor:pointer; cursor: hand;}
+table.BXTabControl-Tabs td.tab-container-selected, table.BXTabControl-Tabs td.tab-container-disabled {border:none; cursor:default;}
+table.BXTabControl-Tabs td.tab-container-disabled table {color:#A2A09F;}
+table.BXTabControl-Tabs td.tab-indent div.empty {width:6px; height:21px;}
+table.BXTabControl-Tabs td.tab-left div.empty {width:2px; height:21px; background-image:url(images/TabControl/tab_l.gif);}
+table.BXTabControl-Tabs td.tab-right div.empty {width:8px; height:21px; background-image:url(images/TabControl/tab_r.gif);}
+table.BXTabControl-Tabs td.tab-right-last div.empty {width:10px; height:21px; background-image:url(images/TabControl/tab_r_last.gif);}
+table.BXTabControl-Tabs td.tab {vertical-align:top; padding:4px 0px 0px 5px; height:21px; background-image:url(images/TabControl/tab_bg.gif);}
+table.BXTabControl-Tabs td.tab-left-selected, table.BXTabControl-Tabs td.tab-selected, table.BXTabControl-Tabs td.tab-right-selected, table.BXTabControl-Tabs td.tab-right-last-selected {border:none;}
+table.BXTabControl-Tabs td.tab-left-selected div.empty {width:2px; height:22px; background-image:url(images/TabControl/tab_l_sel.gif);}
+table.BXTabControl-Tabs td.tab-right-selected div.empty {width:8px; height:22px; background-image:url(images/TabControl/tab_r_sel.gif);}
+table.BXTabControl-Tabs td.tab-right-last-selected div.empty {width:10px; height:22px; background-image:url(images/TabControl/tab_r_last_sel.gif);}
+table.BXTabControl-Tabs td.tab-selected {vertical-align:top; padding: 4px 0px 0px 5px; height:22px; background: url(images/TabControl/tab_bg_sel.gif) repeat-x top center;}
+table.BXTabControl-Tabs td.tab-left-hover div.empty {width:2px; height:21px; background-image:url(images/TabControl/tab_l_hov.gif);}
+table.BXTabControl-Tabs td.tab-right-hover div.empty {width:8px; height:21px; background-image:url(images/TabControl/tab_r_hov.gif);}
+table.BXTabControl-Tabs td.tab-right-last-hover div.empty {width:10px; height:21px; background-image:url(images/TabControl/tab_r_last_hov.gif);}
+table.BXTabControl-Tabs td.tab-hover {vertical-align:top; padding:4px 0px 0px 5px; height:21px; background-image:url(images/TabControl/tab_bg_hov.gif);}
+table.BXTabControl-Tabs a.context-button {display:block; box-sizing:border-box; -webkit-box-sizing: border-box;-moz-box-sizing:border-box; background-repeat:no-repeat; background-position:3px 3px; height:18px; width:18px; border:0px; margin:1px;}
+table.BXTabControl-Tabs a.context-button:hover {width:20px; height:20px; margin:0px; border:1px solid #AEB6C2; background-color:#DBE3F2;}
+table.BXTabControl-Tabs a.down {background-image:url(images/TabControl/show.gif); }
+table.BXTabControl-Tabs a.up {background-image:url(images/TabControl/hide.gif); }
+
+/* Tab inside edit form */
+table.BXTabControl-Tab {border:1px solid #B8C1DD; border-top:none; width:100%;}
+table.BXTabControl-Tab td.tab-panel {background-color:#F8F9FC; padding:4px 4px 9px 4px;}
+
+/* Edit tab title*/
+table.BXTabControl-Tab-Title {width:100%}
+table.BXTabControl-Tab-Title td.icon {padding:5px 5px 5px 0px; width:32px; height:32px;}
+table.BXTabControl-Tab-Title td.title {width:100%; padding:5px 0px 5px 0px; font-size:95%; color:#494949; font-weight:bold; font-family:Arial,helvetica,sans-serif;}
+table.BXTabControl-Tab-Title td.delimiter {padding:0px; height:5px; background-image:url(images/TabControl/title_dot.gif); background-position:left top; background-repeat:repeat-x;}
+table.BXTabControl-Tab-Title td.delimiter-top {background-position:left bottom;}
+
+/* Edit table */
+/*
+table.edit-table {width:100%;}
+table.edit-table td {font-size:70%; padding:4px;}
+table.edit-table td.field-name {color:#646465; text-align:right;}
+table.edit-table tr.heading td {color:#525355; text-align:center; font-weight:bold; background-color:#E0E4F1;}
+table.edit-table table td {padding:0px; border:none;}
+table.edit-table table.edit-table td {padding:4px;}
+table.edit-table div {font-size:100%;}
+span.required {color:red;}
+*/
+
+/* A table inside edit table */
+/*
+table.edit-table table.internal {border-collapse:collapse;}
+table.edit-table table.internal td {padding:3px; border:1px solid #CFD6E9; font-size:70%;}
+table.edit-table table.internal tr.heading td {text-align:center; background-color:#E7EAF5; font-weight:normal; color:#525355;}
+table.edit-table table.internal td.heading {color:#525355; background-color:#E7EAF5;}
+table.edit-table table.internal table td {padding:0px; border:none;}
+*/
+
+
+ 

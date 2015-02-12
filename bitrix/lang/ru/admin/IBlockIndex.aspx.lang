@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.InformationalBlock"><![CDATA[Настройка информационных блоков]]></data>
+	<data name="ActionText.Icons"><![CDATA[Значки]]></data>
+	<data name="ActionText.List"><![CDATA[Список]]></data>
+</resources>

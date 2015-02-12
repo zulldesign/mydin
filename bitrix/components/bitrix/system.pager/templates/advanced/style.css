@@ -1,0 +1,33 @@
+﻿div.navigation-yandex-style
+{
+   font-size:125%;
+   line-height:200%;
+}
+
+div.navigation-yandex-style a
+{
+   text-decoration:underline;
+   padding:0.2em 0.3em;
+}
+
+span.nav-current-page
+{
+   background-color:#e8e9ec;
+   padding:0.2em 0.3em;
+}
+
+div.navigation-yandex-style span.disabled
+{
+   color:#999;
+}
+
+div.navigation-yandex-style span.arrow
+{
+   font-size:100%;
+   font-family:Times;
+}
+
+div.navigation-yandex-style span.ctrl
+{
+   font-size:68%;
+}

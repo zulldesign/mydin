@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Setup"><![CDATA[Configure]]></data>
+	<data name="ActionConfirmDialogText.DeleteElement"><![CDATA[Are you sure you want to delete the current information block element?]]></data>
+</resources>

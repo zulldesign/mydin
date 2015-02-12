@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Section Structure]]></data>
+	<data name="Description"><![CDATA[Displays structure of information block sections]]></data>
+	<data name="Group"><![CDATA[Catalog]]></data>
+</resources>

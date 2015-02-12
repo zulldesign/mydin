@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menuitem>
+		<title>Contacts</title>
+		<sort>10</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>contacts/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Login</title>
+		<sort>20</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>login/</link>
+		</links>
+	</menuitem>
+</menu>

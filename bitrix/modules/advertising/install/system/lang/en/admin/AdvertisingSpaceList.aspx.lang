@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Advertising Areas]]></data>
+	<data name="FilterText.Name"><![CDATA[Advertising Area Name]]></data>
+	<data name="FilterText.Sort"><![CDATA[Sort]]></data>
+	<data name="FilterText.Code"><![CDATA[Symbolic Code]]></data>
+	<data name="FilterText.XmlId"><![CDATA[External ID]]></data>
+	<data name="ActionText.Add"><![CDATA[New Advertising Area]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Add a new advertising area]]></data>
+	<data name="PopupText.Edit"><![CDATA[Edit Advertising Area]]></data>
+	<data name="PopupTitle.Edit"><![CDATA[Edit advertising area parameters]]></data>
+	<data name="PopupText.Delete"><![CDATA[Delete advertising area]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Delete advertising area]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this advertising area?]]></data>
+	<data name="TableTitle"><![CDATA[Advertising Areas]]></data>
+	<data name="ColumnHeaderText.Name"><![CDATA[Name]]></data>
+	<data name="ColumnHeaderText.Description"><![CDATA[Description]]></data>
+	<data name="ColumnHeaderText.Active"><![CDATA[Active]]></data>
+	<data name="ColumnHeaderText.DateCreated"><![CDATA[Created]]></data>
+	<data name="ColumnHeaderText.DateLastModified"><![CDATA[Last Modified]]></data>
+	<data name="ColumnHeaderText.BannerCount"><![CDATA[Banners]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected advertising areas?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the advertising areas?]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete advertising areas]]></data>
+	<data name="AdvertisingSpace.DeleteFailure"><![CDATA[Some of the advertising areas could not be deleted. These areas are likely to contain banners.]]></data>
+</resources>

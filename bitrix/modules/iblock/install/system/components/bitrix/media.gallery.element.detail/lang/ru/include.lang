@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Description"><![CDATA[Компонент для отображения элемента медиагалереи]]></data>
+	<data name="Title"><![CDATA[Элемент медиагалереи]]></data>
+	<data name="Group"><![CDATA[Медиа]]></data>
+	<data name="Category.AppearanceCommon.Title"><![CDATA[Внешний вид, общие настройки]]></data>
+</resources>

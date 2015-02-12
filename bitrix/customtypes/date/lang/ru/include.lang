@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Дата/Время]]></data>
+	<data name="DefaultValue"><![CDATA[Значение по умолчанию]]></data>
+	<data name="No"><![CDATA[нет]]></data>
+	<data name="CurrentTime"><![CDATA[текущее время]]></data>
+	<data name="Error"><![CDATA[Необходимо ввести корректную дату/время]]></data>
+</resources>

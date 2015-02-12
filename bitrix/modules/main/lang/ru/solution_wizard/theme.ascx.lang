@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Выберите цветовую тему шаблона]]></data>
+	<data name="Navigation.Theme"><![CDATA[Выбор темы]]></data>
+	<data name="Error.SelectTheme"><![CDATA[Выберите одну из предложенных тем]]></data>
+</resources>

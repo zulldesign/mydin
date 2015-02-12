@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Site Starter: Corporate Service Site]]></data>
+	<data name="Module.Description"><![CDATA[A corporate site wizard to create a model bank corporate site]]></data>
+</resources>

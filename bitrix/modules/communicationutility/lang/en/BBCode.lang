@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Header.Quote"><![CDATA[Quote]]></data>
+	<data name="Header.Code"><![CDATA[Code]]></data>
+	<data name="BBCodeButton.Bold"><![CDATA[Bold]]></data>
+	<data name="BBCodeButton.Italic"><![CDATA[Italic]]></data>
+	<data name="BBCodeButton.Underline"><![CDATA[Underline]]></data>
+	<data name="BBCodeButton.Strikeout"><![CDATA[Strikeout]]></data>
+	<data name="BBCodeButton.Hyperlink"><![CDATA[Hyperlink]]></data>
+	<data name="BBCodeButton.Image"><![CDATA[Insert image]]></data>
+	<data name="BBCodeButton.ImageUpload"><![CDATA[Upload Image]]></data>
+	<data name="BBCodeButton.Video"><![CDATA[Insert Video]]></data>
+	<data name="BBCodeButton.Audio"><![CDATA[Add Audio]]></data>
+	<data name="BBCodeButton.Quote"><![CDATA[Wrap text in quote tag]]></data>
+	<data name="BBCodeButton.Code"><![CDATA[Wrap text in code tag]]></data>
+	<data name="BBCodeButton.Cut"><![CDATA[Insert cut]]></data>
+	<data name="BBCodeButton.List"><![CDATA[Format text as list]]></data>
+	<data name="BBCodeButton.Color"><![CDATA[Colour]]></data>
+	<data name="Line.UrlTitle"><![CDATA[My Site]]></data>
+	<data name="Line.UrlPromptUrl"><![CDATA[Enter the full address (URL).]]></data>
+	<data name="Line.UrlPromptTitle"><![CDATA[Enter the hyperlink text.]]></data>
+	<data name="Line.ImgPromptUrl"><![CDATA[Enter the URL for the image.]]></data>
+	<data name="Line.ListFirst"><![CDATA[First Item]]></data>
+	<data name="Line.ListSecond"><![CDATA[Second Item]]></data>
+	<data name="Line.CutTitle"><![CDATA[More...]]></data>
+	<data name="Line.ColorDefault"><![CDATA[Default]]></data>
+	<data name="Image.Text"><![CDATA[image]]></data>
+	<data name="Media.audio.Text"><![CDATA[audio]]></data>
+	<data name="Media.video.Text"><![CDATA[video]]></data>
+</resources>

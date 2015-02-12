@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FieldMustBeFilled"><![CDATA[The field "{0}" is required.]]></data>
+	<data name="LengthMustBeNotLess"><![CDATA[The length of "{0}" must be at least {1} characters.]]></data>
+	<data name="LengthMustBeNotGreater"><![CDATA[The length of "{0}" must be not more than {1} characters.]]></data>
+</resources>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="RatingId.Label"><![CDATA[Rating]]></data>
+	<data name="Threshold.Label"><![CDATA[Threshold]]></data>
+</resources>

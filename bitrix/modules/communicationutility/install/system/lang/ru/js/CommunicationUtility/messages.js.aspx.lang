@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Code.DialogTitle"><![CDATA[Вставка кода]]></data>
+	<data name="Link.DialogTitle"><![CDATA[Вставка ссылки]]></data>
+	<data name="Image.DialogTitle"><![CDATA[Вставка изображения]]></data>
+	<data name="ImageUpload.DialogTitle"><![CDATA[Вставка изображений]]></data>
+	<data name="Movie.DialogTitle"><![CDATA[Вставка видео]]></data>
+	<data name="Audio.DialogTitle"><![CDATA[Вставка аудио]]></data>
+</resources>

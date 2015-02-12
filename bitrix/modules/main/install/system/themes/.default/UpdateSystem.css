@@ -1,0 +1,63 @@
+﻿table.BXUpdateSystem {border: #BDC6E0 1px solid; font-size:9pt;}
+table.BXUpdateSystem tr td.HasUpdatesTop
+{
+	font-weight: bold;
+	background-color: #F0E68C;
+	font-size: 9pt;
+	vertical-align: middle;
+	border-bottom: #BDC6E0 1px solid;
+}
+td.HasUpdatesTop div.icon {width:26px; height:26px; margin:2px 4px 4px 4px;}
+td.HasUpdatesTop div.icon-update {background-image:url(icons/sysupdate/update.gif);}
+table.BXUpdateSystem tr td.HasUpdatesBody {font-size: 9pt; vertical-align: top; }
+
+table.BXUpdateSystem a, table.BXUpdateSystem a:visited, table.BXUpdateSystem a:active {color:#5556AB; text-decoration:none; font-size: 9pt;}
+
+table.BXUpdateSystemNotes {font-size: 9pt;}
+
+table.BXUpdateSystem tr td.ProgressTop {font-weight: bold; font-size: 9pt; vertical-align: middle; border-bottom: #BDC6E0 1px solid;}
+table.BXUpdateSystem tr td.ProgressBody {font-size: 9pt; vertical-align: top; }
+
+table.BXUpdateSystem tr td.FinishTop
+{
+	font-weight: bold;
+	background-color: #90EE90;
+	font-size: 9pt;
+	vertical-align: middle;
+	border-bottom: #BDC6E0 1px solid;
+}
+td.FinishTop div.icon {width:26px; height:26px; margin:2px 4px 4px 4px;}
+td.FinishTop div.icon-update {background-image:url(icons/sysupdate/noupdate.gif);}
+table.BXUpdateSystem tr td.FinishBody {font-size: 9pt; vertical-align: top; }
+
+table.BXUpdateSystem tr td.ErrorTopU
+{
+	font-weight: bold;
+	background-color: #cc6633;
+	font-size: 9pt;
+	vertical-align: middle;
+	border-bottom: #BDC6E0 1px solid;
+}
+td.ErrorTopU div.icon {width:26px; height:26px; margin:2px 4px 4px 4px;}
+td.ErrorTopU div.icon-update {background-image:url(icons/sysupdate/error.gif);}
+table.BXUpdateSystem tr td.ErrorBody {font-size: 9pt; vertical-align: top; }
+
+table.BXUpdateSystem tr td.NoUpdatesTop {font-weight: bold; background-color: #90EE90; font-size: 9pt; vertical-align: middle; border-bottom: #BDC6E0 1px solid;}
+td.NoUpdatesTop div.icon {width:26px; height:26px; margin:2px 4px 4px 4px;}
+td.NoUpdatesTop div.icon-update {background-image:url(icons/sysupdate/noupdate.gif);}
+table.BXUpdateSystem tr td.NoUpdatesBody {font-size: 9pt; vertical-align: top; }
+
+table.BXUpdateSystem td {background-color:#F9FAFD; font-size:8pt;}
+
+div.BXUpdateSystem {border: #BDC6E0 1px solid; font-size:9pt; background-color:#F9FAFD;}
+
+.BXUpdateSystemError
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+table.BXUpdateSystem tr td.ListTop {font-weight: bold; background-color: #E6E9F4; font-size: 9pt; vertical-align: middle; text-align:center; border-right: #BDC6E0 1px solid;}
+table.BXUpdateSystem tr td.ListTopRight {font-weight: bold; background-color: #E6E9F4; font-size: 9pt; vertical-align: middle; text-align:center;}
+table.BXUpdateSystem tr td.ListBody {font-size: 9pt; border-top: #BDC6E0 1px solid;  vertical-align: top; border-right: #BDC6E0 1px solid;}
+table.BXUpdateSystem tr td.ListBodyRight {font-size: 9pt; vertical-align: top; border-top: #BDC6E0 1px solid;}

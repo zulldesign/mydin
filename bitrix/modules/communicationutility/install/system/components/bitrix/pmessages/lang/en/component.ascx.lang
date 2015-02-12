@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Personal Messages]]></data>
+	<data name="Description"><![CDATA[A full functional solution for personal messaging]]></data>
+	<data name="Group"><![CDATA[Personal Messages]]></data>
+	<data name="Param.ShowMenu"><![CDATA[Show Menu]]></data>
+	<data name="DefaultPagingTitle"><![CDATA[Pages:]]></data>
+	<data name="Param.MessageSendingInterval"><![CDATA[Minimum Interval Between Message Sendings (sec.)]]></data>
+	<data name="Param.MaxReceiversCount"><![CDATA[Maximum Recipients]]></data>
+	<data name="Param.MaxMessageCount"><![CDATA[Maximum Outcoming Messages]]></data>
+	<data name="Param.AllowNotifyByEmail"><![CDATA[Allow E-Mail Notifications About Personal Messages]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[CSS File Path]]></data>
+	<data name="Param.ActionVariable"><![CDATA[Operation ID]]></data>
+	<data name="Param.TopicVariable"><![CDATA[Messaging ID]]></data>
+	<data name="Param.MessageVariable"><![CDATA[Post ID]]></data>
+	<data name="Param.FolderVariable"><![CDATA[Folder ID]]></data>
+	<data name="Param.PageVariable"><![CDATA[Page ID]]></data>
+	<data name="Param.ReceiversListVariable"><![CDATA[Recipient List ID]]></data>
+	<data name="Param.IndexUrl"><![CDATA[Index Page]]></data>
+	<data name="Param.FoldersUrl"><![CDATA[Folders Page]]></data>
+	<data name="Param.NewTopicTemplate"><![CDATA[New Message Page]]></data>
+	<data name="Param.NewTopicWithReceiversTemplate"><![CDATA[New Message And Recipients Page]]></data>
+	<data name="Param.TopicListTemplate"><![CDATA[Messaging List Page]]></data>
+	<data name="Param.TopicListPageTemplate"><![CDATA[Page In Messaging List Breadcrumbs]]></data>
+	<data name="Param.TopicReadTemplate"><![CDATA[Messaging View Page]]></data>
+	<data name="Param.TopicReadPageTemplate"><![CDATA[Page In Messaging View Breadcrumbs]]></data>
+	<data name="Param.NewMessageTemplate"><![CDATA[New Message Creation Page]]></data>
+	<data name="Param.MessageReadTemplate"><![CDATA[Message View Page]]></data>
+	<data name="Param.MessageQuoteTemplate"><![CDATA[Post Quotation Page URL Template]]></data>
+	<data name="Param.UserPostsTemplate"><![CDATA[User Posts View Page]]></data>
+	<data name="Param.UserProfileTemplate"><![CDATA[User Profile View Page]]></data>
+	<data name="Param.MessageEditTemplate"><![CDATA[Messaging Editor Page]]></data>
+	<data name="Param.TopicEditTemplate"><![CDATA[Message Edit Page URL Template]]></data>
+	<data name="Param.InviteUserTemplate"><![CDATA[User Invitation Page URL Template]]></data>
+</resources>

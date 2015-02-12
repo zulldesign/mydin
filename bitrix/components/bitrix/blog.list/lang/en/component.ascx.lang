@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Blogs]]></data>
+	<data name="Description"><![CDATA[Show the list of existing blogs.]]></data>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="NotSelectedNeuter"><![CDATA[-- none selected --]]></data>
+	<data name="NotSelectedMasculine"><![CDATA[-- not selected --]]></data>
+	<data name="NotSelectedFeminine"><![CDATA[-- not selected --]]></data>
+	<data name="UnknownUser"><![CDATA[Unknown user]]></data>
+	<data name="AllItems"><![CDATA[All Blogs]]></data>
+	<data name="CategoryWithID"><![CDATA[Category '{0}']]></data>
+	<data name="Error.PageDoesNotExist"><![CDATA[The page does not exist.]]></data>
+	<data name="Error.DataGetting"><![CDATA[Error retrieving the list of blogs.]]></data>
+	<data name="Error.PageTitleSetting"><![CDATA[Error setting the page title.]]></data>
+	<data name="Error.PermissonDenied"><![CDATA[You do not have enough permissions to view blogs]]></data>
+	<data name="CaptionForErrorDetails"><![CDATA[Error Details]]></data>
+	<data name="Param.Category"><![CDATA[Category]]></data>
+	<data name="Param.SortByFirst"><![CDATA[Primary Sort Field]]></data>
+	<data name="Param.SortBySecond"><![CDATA[Secondary Sort Field]]></data>
+	<data name="Param.SortOrderFirst"><![CDATA[Primary Sort Order]]></data>
+	<data name="Param.SortOrderSecond"><![CDATA[Secondary Sort Order]]></data>
+	<data name="Param.BlogPageUrlTemplate"><![CDATA[Blog Page URL Template]]></data>
+	<data name="Param.BlogOwnerProfilePageUrlTemplate"><![CDATA[Blog Owner Profile Page URL Template]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="FiledCaption.Sort"><![CDATA[Sort]]></data>
+	<data name="FiledCaption.Name"><![CDATA[First Name]]></data>
+	<data name="FiledCaption.DateCreated"><![CDATA[Created]]></data>
+	<data name="FiledCaption.DateLastPosted"><![CDATA[Last Post Date]]></data>
+	<data name="FiledCaption.PostCount"><![CDATA[Post Count]]></data>
+</resources>

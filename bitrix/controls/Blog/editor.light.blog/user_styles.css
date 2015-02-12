@@ -1,0 +1,62 @@
+﻿img.bx-wysiwyg-video
+{
+	background: #E2DFDA center center no-repeat; 
+	display:block;
+	border: 1px solid black;
+}
+
+img.bx-wysiwyg-audio
+{
+	background: #E2DFDA center center no-repeat; 
+	display:block;
+	border: 1px solid black;
+}
+
+div.bx-wysiwyg-preview
+{
+	background-color: #E2DFDA; 
+	border: 1px solid black;
+	padding: 5px;
+}
+
+div.bx-wysiwyg-cut-start
+{
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+	background: url("cut_start.gif") no-repeat center bottom;
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+}
+
+img.bx-wysiwyg-cut-end
+{
+	display:block;
+	margin-top: 20px; 
+	width: 100%;
+	height: 15px;
+	background: url("cut_end.gif") no-repeat center center;
+	float: none; 
+	clear: both; 
+}
+
+textarea.bx-wysiwyg-code
+{
+	display:block;
+	border: 1px solid Black;
+	width: 95%;
+	height: 300px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+blockquote
+{
+	/*display: block;*/
+	border: 1px solid #7A7A7A;
+	background-color: #FCFCFC;
+	padding: 3px;
+	user-modify: read-write;
+	-moz-user-modify: read-write;
+	-webkit-user-modify: read-write;  	
+}

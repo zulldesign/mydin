@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="UrlTitle.HidePost"><![CDATA[Hide]]></data>
+	<data name="UrlTitle.ApprovePost"><![CDATA[Show]]></data>
+	<data name="UrlTitle.DeletePost"><![CDATA[Delete]]></data>
+	<data name="UrlTitle.EditPost"><![CDATA[Edit]]></data>
+	<data name="UrlTitle.Reply"><![CDATA[Add Comment]]></data>
+	<data name="UrlTitle.QuotePost"><![CDATA[Quote]]></data>
+	<data name="UrlTitle.Reply2Author"><![CDATA[Reply]]></data>
+	<data name="UrlTitle.Reply2Author.Title"><![CDATA[Insert Author's Name]]></data>
+	<data name="ConfirmOfPostDeletion"><![CDATA[Are you sure you want to delete this post?]]></data>
+	<data name="Label.GuestName"><![CDATA[Your Name]]></data>
+	<data name="Error.GuestNameRequired"><![CDATA[Your name is required.]]></data>
+	<data name="Error.GuestEmailRequired"><![CDATA[The e-mail address is not specified.]]></data>
+	<data name="Label.PostContent"><![CDATA[Comment Text]]></data>
+	<data name="Error.PostContentRequired"><![CDATA[The comment text is required.]]></data>
+	<data name="Label.GuestCaptcha"><![CDATA[CAPTCHA Code]]></data>
+	<data name="Error.GuestCaptchaRequired"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="ButtonText.Save"><![CDATA[Save]]></data>
+	<data name="ButtonText.Preview"><![CDATA[Preview]]></data>
+	<data name="CheckBoxTitle.HidePostAfterCreation"><![CDATA[Hide Comment]]></data>
+	<data name="Label.Preview"><![CDATA[Preview]]></data>
+	<data name="Dialog.CopyThisLinkToClipboard"><![CDATA[Copy the direct link to this post below to store the link in your computer's clipboard.]]></data>
+	<data name="ToolTip.PermanentLink"><![CDATA[Permanent link to this post]]></data>
+	<data name="ButtonText.Cancel"><![CDATA[Cancel]]></data>
+	<data name="CommentDeleted"><![CDATA[Comment deleted]]></data>
+</resources>

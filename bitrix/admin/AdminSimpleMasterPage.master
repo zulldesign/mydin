@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminSimpleMasterPage.master.cs" Inherits="bitrix_admin_AdminSimpleMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title><%= GetMessage("Kernel.TopPanel.ControlPanel") %></title>
+	<script type="text/javascript">
+	function PopupOnKeyPress(e)
+	{
+		if(!e) e = window.event
+		if(!e) return;
+		if(e.keyCode == 27)
+			window.close();
+	}
+	</script>
+</head>
+<body class="body-popup" onkeypress="PopupOnKeyPress();">
+    <form id="form1" runat="server">
+    <asp:ScriptManager EnablePageMethods="true" EnablePartialRendering="true" EnableViewState="true" EnableScriptGlobalization="true" runat="server" ID="ScriptManagerMaster1" />
+    <%= Bitrix.Security.BXCsrfToken.RenderAsHiddenField() %>
+    <div>
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" style="height:100%">
+			<tr>
+				<td>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+				</td>
+			</tr>
+		</table>
+    </div>
+    </form>
+</body>
+</html>

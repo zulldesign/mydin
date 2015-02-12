@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.EventLog"><![CDATA[Журнал событий]]></data>
+	<data name="EventType.Unknown"><![CDATA[Неизвестный]]></data>
+	<data name="EventType.Info"><![CDATA[Информация]]></data>
+	<data name="EventType.Comment"><![CDATA[Комментарий]]></data>
+	<data name="EventType.Warning"><![CDATA[Предупреждение]]></data>
+	<data name="EventType.Error"><![CDATA[Ошибка]]></data>
+	<data name="EventType.Critical"><![CDATA[Критическая ошибка]]></data>
+	<data name="EventType.Debug"><![CDATA[Отладочный вывод]]></data>
+	<data name="EventType.Security"><![CDATA[Безопасность]]></data>
+	<data name="Column.Type"><![CDATA[Тип]]></data>
+	<data name="Column.Code"><![CDATA[Код]]></data>
+	<data name="Column.Source"><![CDATA[Источник]]></data>
+	<data name="Collumn.DateOccured"><![CDATA[Дата возникновения]]></data>
+	<data name="Column.Message"><![CDATA[Сообщение]]></data>
+	<data name="Column.Title"><![CDATA[Заголовок]]></data>
+</resources>

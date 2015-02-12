@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Система обновлений]]></data>
+	<data name="Content"><![CDATA[Система обновлений недоступна, обратитесь в <a href="http://dev.1c-bitrix.ru/support/">службу техподдержки</a>.]]></data>
+</resources>

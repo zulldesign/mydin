@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Блог]]></data>
+	<data name="Category.GuestParameters"><![CDATA[Параметры гостя]]></data>
+	<data name="Param.GuestEmail"><![CDATA[Выводить поле "Е-Mail"]]></data>
+	<data name="Param.GuestCaptcha"><![CDATA[Выводить код подтверждения]]></data>
+	<data name="GuestEmail.Hide"><![CDATA[Не выводить]]></data>
+	<data name="GuestEmail.Show"><![CDATA[Предлагать]]></data>
+	<data name="GuestEmail.Require"><![CDATA[Обязательно]]></data>
+	<data name="Error.Unknown"><![CDATA[Неизвестная ошибка]]></data>
+	<data name="Error.PostNotFound"><![CDATA[Запись не найдена]]></data>
+	<data name="Error.PageNotFound"><![CDATA[Страница не найдена]]></data>
+	<data name="Error.CommentNotFound"><![CDATA[Комментарий не найден]]></data>
+	<data name="Error.UnauthorizedView"><![CDATA[У вас нет прав для просмотра этой записи]]></data>
+	<data name="Error.UnauthorizedDelete"><![CDATA[У вас нет прав для удаления этого комментария]]></data>
+	<data name="Error.UnauthorizedComment"><![CDATA[У вас нет прав для коментирования этой записи]]></data>
+	<data name="Title"><![CDATA[Комментарии к записи]]></data>
+	<data name="Description"><![CDATA[Показывает комментарии к записи в блоге]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Путь к CSS-файлу темы оформления]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Путь к CSS-файлу цветовой схемы]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Адрес блога]]></data>
+	<data name="Param.PostId"><![CDATA[Идентификатор записи]]></data>
+	<data name="Param.CommentId"><![CDATA[Идентификатор комментария]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Максимальная длина слова]]></data>
+	<data name="Param.BlogUrlTemplate"><![CDATA[Шаблон ссылки на блог]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[Шаблон ссылки на страницу профиля]]></data>
+	<data name="Param.PostViewUrlTemplate"><![CDATA[Шаблон ссылки на страницу просмотра записи]]></data>
+	<data name="Param.PostEditUrlTemplate"><![CDATA[Шаблон ссылки на страницу редактирования записи]]></data>
+	<data name="Param.CommentUrlTemplate"><![CDATA[Шаблон ссылки на комментарий]]></data>
+	<data name="Param.EnableVotingForComment"><![CDATA[Разрешить голосование]]></data>
+	<data name="Param.RolesAuthorizedToVote"><![CDATA[Роли пользователей, имеющие право голосовать]]></data>
+	<data name="Category.Voting"><![CDATA[Голосование]]></data>
+	<data name="Param.CategoryId"><![CDATA[Показывать комментарии сообщений блогов только данных категорий]]></data>
+</resources>

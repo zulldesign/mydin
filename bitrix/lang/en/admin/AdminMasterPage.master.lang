@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Copyright"><![CDATA[Powered by <a href="http://www.bitrix.net/">Bitrix .NET Forge CMS</a>. Copyright &copy; 2001-2011 Bitrix, Inc.]]></data>
+	<data name="HideMenu"><![CDATA[Hide Menu]]></data>
+	<data name="CurrentPageLink"><![CDATA[Link To Current Page]]></data>
+	<data name="Support"><![CDATA[<a href="http://www.bitrixsoft.com/support/">Support</a>]]></data>
+	<data name="BitrixCompany"><![CDATA[<a href="http://www.bitrixsoft.com">www.bitrixsoft.com</a>]]></data>
+	<data name="MessageText.ThisIsTrailVersion"><![CDATA[This is the trial version of "Bitrix .NET Forge CMS".]]></data>
+	<data name="MessageText.TrailPeriodHasExpired"><![CDATA[The trial period of "Bitrix .NET Forge CMS" has expired. This site will be irreversibly disabled after 2 weeks.]]></data>
+	<data name="FormattedMessageText.UseSiteUpdateTechnologyToGetUpdates"><![CDATA[Attention! Use {0}SiteUpdate{1} technology to obtain latest updates.]]></data>
+	<data name="FormattedMessageText.TrialPeriodWillExpireInXDays"><![CDATA[You have {0} days until the trial period expires.]]></data>
+	<data name="MessageText.YouCanGetAFullVersion"><![CDATA[You can buy a fully functional version at <a href="http://www.bitrixsoft.com/buy/?r1=bdn6trial&r2=expiried">http://www.bitrixsoft.com/buy/</a>]]></data>
+</resources>

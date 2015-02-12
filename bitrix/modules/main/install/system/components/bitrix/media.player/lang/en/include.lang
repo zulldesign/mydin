@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Description"><![CDATA[Media player component]]></data>
+	<data name="Title"><![CDATA[Media Player]]></data>
+	<data name="Group"><![CDATA[Media]]></data>
+	<data name="Category.AppearanceCommon.Title"><![CDATA[Common design parameters]]></data>
+	<data name="Category.AppearanceFlv.Title"><![CDATA["Adobe Flash Player" design]]></data>
+	<data name="Category.AppearanceWmv.Title"><![CDATA["Windows Media Player" design]]></data>
+	<data name="Category.AdditionalSettingsFlv.Title"><![CDATA[Additional settings for "Adobe Flash Player"]]></data>
+	<data name="AboutText"><![CDATA[Bitrix Media Player]]></data>
+	<data name="AboutLink"><![CDATA[http://www.bitrixsoft.com?r1=mplayer&r2=video]]></data>
+</resources>

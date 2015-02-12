@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Master Language="C#" Inherits="Bitrix.UI.BXMasterPage" %>
+<%@ Import Namespace="Bitrix" %>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<%= BXSite.Current.LanguageId %>" lang="<%= BXSite.Current.LanguageId %>">
+<head id="Head" runat="server">
+	<meta name="keywords" content="<%= Encode(Keywords["keywords"]) %>" />
+	<meta name="description" content="<%= Encode(Keywords["description"]) %>" />
+	<<%= "link" %> rel="shortcut icon" type="image/x-icon" href="<%= SitePath %>favicon.ico" />
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>common.css" />
+	
+	<title></title>
+
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>themes/<%= ThemeId %>/colors.css" />
+	<<%= "link" %> rel="alternate" type="application/rss+xml" href="<%= RootPath %>rss/" title="RSS Subscribe" />
+	
+	
+	<script type="text/javascript">
+		function FireDefaultButton(event, target) {
+			if (event.keyCode == 13) {
+				var src = event.srcElement || event.target;
+				if (!src || (src.tagName.toLowerCase() != "textarea")) {
+					var defaultButton = document.getElementById(target);
+					if (defaultButton && typeof (defaultButton.click) != "undefined") {
+						defaultButton.click();
+						event.cancelBubble = true;
+
+						if (event.stopPropagation)
+							event.stopPropagation();
+
+						return false;
+					}
+				}
+			}
+			return true;
+		}
+	</script>	
+</head>
+<body>
+	<form id="mainForm" class="main-form" runat="server">
+		<div id="panel"><bx:TemplateRequisite runat="server" ID="Requisite"/></div>
+		<div id="page-wrapper">
+			<div id="header">
+				<div class="main-column">
+				
+					<table id="logo" cellspacing="0">
+						<tr>
+							<td id="logo-image"><a href="<%= SitePath %>" title="Home">
+												<bx:IncludeComponent 
+													id="LogoImage" 
+													runat="server" 
+													componentname="bitrix:includeArea" 
+													template=".default" 
+													Mode="File" 
+													FilePath="<%$ Options:Bitrix.CommunitySite:TemplateLogoIncludeArea %>" 
+													FileName="" 
+													FileNameSuffix="" 
+													RecursiveFileSearch="True" 
+													AllowEditing="True" 
+												/></a></td>
+							<td id="logo-text">
+								<a href="<%= SitePath %>" title="Home">
+												<bx:IncludeComponent 
+													id="LogoText" 
+													runat="server" 
+													componentname="bitrix:includeArea" 
+													template=".default" 
+													Mode="File" 
+													FilePath="<%$ Options:Bitrix.CommunitySite:TemplateLogoText %>" 
+													FileName="" 
+													FileNameSuffix="" 
+													RecursiveFileSearch="True" 
+													AllowEditing="True" 
+												/>
+								</a>
+							</td>
+						</tr>
+					</table>
+					<bx:IncludeComponent
+						 id="MainMenu"
+						 runat="server"
+						 componentname="bitrix:system.PublicMenu"
+						 template="main"
+						 Depth="1"
+						 MenuName="main"
+						 SubMenuName=""
+					 />
+					
+				</div>
+			
+				<div class="right-column">
+					<div class="rounded-block auth-block">
+						<div class="block-content">
+							<bx:IncludeComponent 
+								id="AuthForm" 
+								runat="server" 
+								componentname="bitrix:system.login" 
+								template=".default" 
+								PasswordRecoveryPath="<%$ Options:Bitrix.CommunitySite:RecoveryUrlTemplate %>" 
+								PasswordRecoveryCodePath="" 
+								LoginRedirectPath="" 
+								ProfilePath="<%$ Options:Bitrix.CommunitySite:UserProfileUrlTemplate %>" 
+								RegisterPath="<%$ Options:Bitrix.CommunitySite:RegistrationUrlTemplate %>" 
+								UseCaptcha="False" 
+							/>
+						</div>
+						<div class="corner left-bottom"></div>
+						<div class="corner right-bottom"></div>
+					</div>				
+				</div>
+			</div>
+			<div id="content">
+				 
+				<div id="workarea<%= (SideBar.Component.Visible ? "" : "-single") %>" class="main-column"> 
+				
+					<bx:IncludeComponent
+						 id="SubMenu"
+						 runat="server"
+						 componentname="bitrix:system.PublicMenu"
+						 template="submenu"
+						 Depth="1"
+						 MenuName="submenu"
+						 SubMenuName=""
+					 />
+				
+					<div id="workarea-content">
+						<%if (!SideBar.Component.Visible){ %>
+							<div id="page-title">
+							
+								<bx:IncludeComponent
+									id="SearchForm"
+									runat="server"
+									componentname="bitrix:search.form"
+									template=".default"
+									SearchUrlTemplate="<%$ Options:Bitrix.CommunitySite:SearchPageUrlTemplate %>"
+								/>
+							
+								<% if (!string.IsNullOrEmpty(TitleHtml)) { %><h1><%= TitleHtml %></h1><% } %>
+							
+							</div>
+						<%} else {%>
+						
+							<% if (!string.IsNullOrEmpty(TitleHtml)) { %><h1><%= TitleHtml %></h1><% } %>
+						
+						<%} %>
+						
+						<asp:ContentPlaceHolder ID="BXContent" runat="server"></asp:ContentPlaceHolder>
+					</div>
+				</div>
+			
+				<%if (SideBar.Component.Visible) { %>
+				<div id="sidebar" class="right-column"> 
+					<bx:IncludeComponent id="SideBar" runat="server" componentname="bitrix:includeArea"  template="sidebar" Mode="Section" FileName="sidebar" RecursiveFileSearch="False" AllowEditing="True" />
+				 </div>
+				 <%} %>
+				 
+				 				
+			</div>
+			<div id="space-for-footer"></div>
+		</div>	
+		<div id="footer">
+		
+			<div id="copyright">
+				<bx:IncludeComponent 
+					id="CopyrightText" 
+					runat="server" 
+					componentname="bitrix:includeArea" 
+					template=".default" 
+					Mode="File" 
+					FilePath="<%$ Options:Bitrix.CommunitySite:CopyrightText %>" 
+					FileName="" 
+					FileNameSuffix="" 
+					RecursiveFileSearch="True" 
+					AllowEditing="True" 
+				/>
+			</div>
+				
+			<bx:IncludeComponent
+						 id="BottomMenu"
+						 runat="server"
+						 componentname="bitrix:system.PublicMenu"
+						 template="bottom"
+						 Depth="1"
+						 MenuName="bottom"
+						 SubMenuName="bottom"
+					 />		
+
+		</div>
+	</form>
+</body>
+</html>
+<script runat="server">
+    public string TemplatePath { get; set; }
+    public string SitePath { get; set; }
+    public string RootPath { get; set; }
+	public string ThemeId { get; set; }
+    protected override void OnPreRender(EventArgs e)
+    {
+        base.OnPreRender(e);
+        TemplatePath = VirtualPathUtility.ToAbsolute(AppRelativeTemplateSourceDirectory);
+        RootPath = VirtualPathUtility.ToAbsolute("~/");
+        SitePath = BXSite.Current.DirectoryAbsolutePath;
+		Page.PreRenderComplete += new EventHandler(Page_PreRenderComplete);
+		ThemeId = Bitrix.Configuration.BXOptionManager.GetOptionString("Bitrix.CommunitySite", "InstalledTemplateTheme", "blue", BXSite.Current.Id);
+    }
+
+	void Page_PreRenderComplete(object sender, EventArgs e)
+	{
+		string siteName = BXSite.Current.SiteName;
+		if (Bitrix.Services.Text.BXStringUtility.IsNullOrTrimEmpty(siteName))
+			return;
+		
+		var title = Page.Title;
+		if (!Bitrix.Services.Text.BXStringUtility.IsNullOrTrimEmpty(title))
+			Page.Title = title + " / " + siteName;
+		else 
+			Page.Title = siteName;
+	}
+</script>

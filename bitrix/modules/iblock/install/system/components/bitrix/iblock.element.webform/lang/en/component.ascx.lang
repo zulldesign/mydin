@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="InfoBlockType"><![CDATA[Information Block Type]]></data>
+	<data name="InfoBlockCode"><![CDATA[Information Block Code]]></data>
+	<data name="SelectIBlockType"><![CDATA[-- select type --]]></data>
+	<data name="SelectIBlockID"><![CDATA[-- select information block --]]></data>
+	<data name="EmptyIBlockCode"><![CDATA[The information block ID is required.]]></data>
+	<data name="ElementNotFound"><![CDATA[Element was not found.]]></data>
+	<data name="WrongIBlockCode"><![CDATA[The specified information block was not found.]]></data>
+	<data name="MannerOfIssueModificationPermissionActive"><![CDATA[If Element Is Active]]></data>
+	<data name="MannerOfIssueModificationPermissionNotActive"><![CDATA[If Element Isn't Active]]></data>
+	<data name="MannerOfIssueModificationPermissionAlways"><![CDATA[Always]]></data>
+	<data name="MannerOfUserAssociationNoBody"><![CDATA[not Set]]></data>
+	<data name="MannerOfUserAssociationCreatedBy"><![CDATA[by Creator]]></data>
+	<data name="MannerOfUserAssociationIBlockProperty"><![CDATA[by Information Block Property]]></data>
+	<data name="MaxUserElementsError"><![CDATA[The current count of elements exceeds the maximum ({0})]]></data>
+	<data name="NameElementField"><![CDATA[Title]]></data>
+	<data name="SectionsElementField"><![CDATA[Sections]]></data>
+	<data name="PreviewTextElementField"><![CDATA[Preview Text]]></data>
+	<data name="DetailTextElementField"><![CDATA[Detailed Description]]></data>
+	<data name="PreviewPictureElementField"><![CDATA[Preview Picture]]></data>
+	<data name="DetailPictureElementField"><![CDATA[Detailed Picture]]></data>
+	<data name="ActiveFromElementField"><![CDATA[Active From]]></data>
+	<data name="ActiveToElementField"><![CDATA[Active Until]]></data>
+	<data name="CaptchCodeElementField"><![CDATA[CAPTCHA Code]]></data>
+	<data name="ElementUpdateError"><![CDATA[Error updating the element.]]></data>
+	<data name="ElementCreateError"><![CDATA[Error creating the element.]]></data>
+	<data name="ParametersAccessCategory"><![CDATA[Access Parameters]]></data>
+	<data name="ParametersFieldSettingsCategory"><![CDATA[Field Parameters]]></data>
+	<data name="ParametersCustomNameCategory"><![CDATA[Custom Field Titles]]></data>
+	<data name="EditElementId"><![CDATA[ID of Element To Edit (0 adds a new element)]]></data>
+	<data name="EditFields"><![CDATA[Editable Fields]]></data>
+	<data name="RequiredFields"><![CDATA[Required Fields]]></data>
+	<data name="RolesAuthorizedToManage"><![CDATA[User Groups Allowed to Create And Edit]]></data>
+	<data name="RolesAuthorizedToAdminister"><![CDATA[User Groups Allowed to Create And Edit Other User's Elements]]></data>
+	<data name="RolesAuthorizedToManageOfActivation"><![CDATA[User Groups Allowed to Manage Status]]></data>
+	<data name="ElementActiveForEdit"><![CDATA[Editable Under Status]]></data>
+	<data name="ElementActiveAfterSave"><![CDATA[Status Upon Save]]></data>
+	<data name="UserBindingBy"><![CDATA[Bind to User]]></data>
+	<data name="IBlockPropertyBindingBy"><![CDATA[Bind to Information Block Property]]></data>
+	<data name="MaxUserElements"><![CDATA[Maximum New Elements A User Can Create]]></data>
+	<data name="MaxSectionSelect"><![CDATA[Element Can Be Added to Maximum Sections]]></data>
+	<data name="OnlyLeafSelect"><![CDATA[Can Be Added Only to The Last Level of Section Tree]]></data>
+	<data name="MaxFileSizeUpload"><![CDATA[Max Size of Uploaded Files, KB (0 - unlimited)]]></data>
+	<data name="ActiveFromDateShowTime"><![CDATA[Show Time for "Active From" Field]]></data>
+	<data name="ActiveToDateShowTime"><![CDATA[Show Time for "Active Until" Field]]></data>
+	<data name="NameFieldMacros"><![CDATA[Auto Template for "Title" Field (if hidden)]]></data>
+	<data name="FieldsTextBoxSize"><![CDATA[Input Field Size]]></data>
+	<data name="CreateButtonTitle"><![CDATA[Add Button Caption]]></data>
+	<data name="UpdateButtonTitle"><![CDATA[Save Button Caption]]></data>
+	<data name="SuccessMessageAfterCreateElement"><![CDATA[Successful Creation Message]]></data>
+	<data name="SuccessMessageAfterUpdateElement"><![CDATA[Successful Save Message]]></data>
+	<data name="RedirectPageUrl"><![CDATA[Redirect to Page Upon Save]]></data>
+	<data name="ActiveCustomTitle"><![CDATA[Active]]></data>
+	<data name="NameCustomTitle"><![CDATA[Title]]></data>
+	<data name="ActiveFromDateCustomTitle"><![CDATA[Active From]]></data>
+	<data name="ActiveToDateCustomTitle"><![CDATA[Active Until]]></data>
+	<data name="SectionsCustomTitle"><![CDATA[Information Block Section]]></data>
+	<data name="PreviewTextCustomTitle"><![CDATA[Preview Text]]></data>
+	<data name="PreviewPictureCustomTitle"><![CDATA[Preview Picture]]></data>
+	<data name="DetailTextCustomTitle"><![CDATA[Detailed Description]]></data>
+	<data name="DetailPictureCustomTitle"><![CDATA[Detailed Picture]]></data>
+	<data name="CaptchaCustomTitle"><![CDATA[CAPTCHA Code]]></data>
+	<data name="IBlockElementName"><![CDATA[Element Title]]></data>
+	<data name="IBlockElementActiveFrom"><![CDATA[Active From]]></data>
+	<data name="IBlockElementActiveTo"><![CDATA[Active Until]]></data>
+	<data name="IBlockElementSections"><![CDATA[Information Block Sections]]></data>
+	<data name="IBlockElementPreviewText"><![CDATA[Preview Text]]></data>
+	<data name="IBlockElementPreviewPicture"><![CDATA[Preview Picture]]></data>
+	<data name="IBlockElementDetailText"><![CDATA[Detailed Text]]></data>
+	<data name="IBlockElementDetailPicture"><![CDATA[Detailed Picture]]></data>
+	<data name="IBlockElementCaptcha"><![CDATA[CAPTCHA Code]]></data>
+	<data name="SelectIBlockPropertyForBinding"><![CDATA[-- select property --]]></data>
+	<data name="ActiveStatusAfterSave"><![CDATA[active]]></data>
+	<data name="NotActiveStatusAfterSave"><![CDATA[inactive]]></data>
+	<data name="EmptyFieldError"><![CDATA[The field "{0}" is empty.]]></data>
+	<data name="FieldValueMustBeDate"><![CDATA[The value of "{0}" must be a date.]]></data>
+	<data name="TempDirectoryPermissionError"><![CDATA[Insufficient permission to upload file to temporary directory ({0}).]]></data>
+	<data name="UploadImage.IncorrectType"><![CDATA[Invalid type.]]></data>
+	<data name="UploadImage.IncorrectExtension"><![CDATA[Invalid extension.]]></data>
+	<data name="UploadImage.Incorrect"><![CDATA[Invalid image.]]></data>
+	<data name="MaxFileSizeError"><![CDATA[Maximum file size exceeded: {0}]]></data>
+	<data name="UploadFileIsNotImage"><![CDATA[The file "{0}" is not an image ({1}).]]></data>
+	<data name="FileUploadPermissionError"><![CDATA[Insufficient permission to upload files.]]></data>
+	<data name="ValueNotSelected"><![CDATA[-- none selected --]]></data>
+	<data name="FieldRequiredSelectedValue"><![CDATA[The field "{0}" requires that you select a value.]]></data>
+	<data name="OnlyLeafSelectError"><![CDATA[You can add items only to the last level sections.]]></data>
+	<data name="MaxSectionSelectError"><![CDATA[The count of selected items in "{0}" must not exceed {1}.]]></data>
+	<data name="ElementSuccessCreated"><![CDATA[Element has been created successfully.]]></data>
+	<data name="ElementSuccessUpdated"><![CDATA[Element has been updated successfully.]]></data>
+	<data name="CreateButtonTitleDefault"><![CDATA[Add]]></data>
+	<data name="UpdateButtonTitleDefault"><![CDATA[Save]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[The "Add elements to information block" component requires configuration.]]></data>
+	<data name="EnableActivationPeriodProcessing"><![CDATA[Set Active Period To New Elements]]></data>
+	<data name="DaysBeforeActivationPeriodStart"><![CDATA[Days Until Active Period ("0" or empty activates immediately)]]></data>
+	<data name="ActivationPeriodLengthInDays"><![CDATA[Active Period ("0" or empty means eternal activity)]]></data>
+	<data name="MannerOfUserIdentification"><![CDATA[User Identification]]></data>
+	<data name="CustomUserId"><![CDATA[User ID]]></data>
+	<data name="MannerOfUserIdentification.Current"><![CDATA[current]]></data>
+	<data name="MannerOfUserIdentification.Custom"><![CDATA[custom]]></data>
+	<data name="ActiveElementField"><![CDATA[Active]]></data>
+	<data name="IBlockElementActive"><![CDATA[Active]]></data>
+	<data name="EmailTo"><![CDATA[E-mail Recipients (comma separated)]]></data>
+	<data name="EmailSubject"><![CDATA[E-Mail Subject]]></data>
+	<data name="EmailMessageTemplate"><![CDATA[E-Mail Message Template]]></data>
+	<data name="SendEmailAfterCreate"><![CDATA[Send E-Mail Message After An Element Is Created]]></data>
+	<data name="ParametersEmailCategory"><![CDATA[Send E-Mail Message After An Element Is Created]]></data>
+	<data name="Yes"><![CDATA[yes]]></data>
+	<data name="No"><![CDATA[no]]></data>
+	<data name="DefaultEmailMessageTemplate"><![CDATA[
+     
+A user #CurrentUserName#
+has added a new element to "#IBlockName#".
+New element properties:
+ Name: #Name#,
+ Preview text:#PreviewText#,
+ Full text:#DetailText#
+ Active state: #Active#
+ Active period: #ActiveFromDate# through #ActiveToDate#
+ Small image:
+ #PreviewImageUrl#
+ Full image link:
+ #DetailImageUrl#
+ INFO property (must exist):
+ #Property_INFO#]]></data>
+	<data name="DefaultEmailSubjectTemplate"><![CDATA[#SITE_NAME#: new element in #IBlockName#]]></data>
+	<data name="ManagementOfActivityIsProhibitedError"><![CDATA[The current user is not allowed to manage active state!]]></data>
+</resources>

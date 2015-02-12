@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Information Blocks]]></data>
+	<data name="Title"><![CDATA[Information Blocks]]></data>
+	<data name="Description"><![CDATA[Prints a list of information blocks]]></data>
+	<data name="Param.IBlockTypeIds"><![CDATA[Information Block Types]]></data>
+	<data name="Param.SortBy"><![CDATA[Sort By]]></data>
+	<data name="Param.ShowSections"><![CDATA[Show Information Block Sections]]></data>
+	<data name="Param.IBlocks"><![CDATA[Information Blocks]]></data>
+	<data name="Param.SortOrder"><![CDATA[Sort Order]]></data>
+	<data name="Param.SectionUrlTemplate"><![CDATA[Information Block Section Page]]></data>
+	<data name="Param.IBlockUrlTemplate"><![CDATA[Information Block View Page]]></data>
+	<data name="SelectIBlockType"><![CDATA[-- select type --]]></data>
+	<data name="NotSelected"><![CDATA[-- none selected --]]></data>
+	<data name="Field.Sort"><![CDATA[Sorting]]></data>
+	<data name="Field.ElementID"><![CDATA[ID]]></data>
+	<data name="Field.UpdateDate"><![CDATA[Modified On]]></data>
+	<data name="Field.ElementName"><![CDATA[Name]]></data>
+</resources>

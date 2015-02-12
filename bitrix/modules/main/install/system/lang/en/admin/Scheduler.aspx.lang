@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Scheduler]]></data>
+	<data name="MasterTitle"><![CDATA[Scheduler Agents]]></data>
+	<data name="TableTitle"><![CDATA[Agents]]></data>
+	<data name="ColumnName"><![CDATA[Name]]></data>
+	<data name="ColumnActive"><![CDATA[Active]]></data>
+	<data name="ColumnClassName"><![CDATA[Class Name]]></data>
+	<data name="ColumnAssembly"><![CDATA[Assembly]]></data>
+	<data name="ColumnParameters"><![CDATA[Run Parameters]]></data>
+	<data name="ColumnStartTime"><![CDATA[Start Time]]></data>
+	<data name="ColumnPeriodic"><![CDATA[Periodic]]></data>
+	<data name="ColumnPeriod"><![CDATA[Period]]></data>
+	<data name="PeriodNotDefined"><![CDATA[Undefined]]></data>
+	<data name="PopupStartStopText"><![CDATA[Start/Stop]]></data>
+	<data name="PopupStartStopTitle"><![CDATA[Starts or stops agent]]></data>
+	<data name="PopupDeleteText"><![CDATA[Delete]]></data>
+	<data name="PopupDeleteTitle"><![CDATA[Deletes agent]]></data>
+	<data name="Message.OperationHasBeenCompletedSuccessfully"><![CDATA[Operation has been completed successfully.]]></data>
+	<data name="Exception.YouDontHaveRightsToPerformThisOperation"><![CDATA[You do not have permission to perform this operation.]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected agent?]]></data>
+</resources>

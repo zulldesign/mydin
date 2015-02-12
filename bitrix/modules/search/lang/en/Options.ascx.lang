@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.SaveSettingsSuccess"><![CDATA[Parameters have been saved successfully.]]></data>
+	<data name="TabText.Main"><![CDATA[Module Settings]]></data>
+	<data name="TabTitle.Main"><![CDATA[Settings]]></data>
+	<data name="Heading.StaticFiles"><![CDATA[Static content]]></data>
+	<data name="Label.MaxIndexingDocumentFileSize"><![CDATA[Maximum size of the document to index (kB)]]></data>
+	<data name="Label.InclusionMask"><![CDATA[Inclusion mask]]></data>
+	<data name="Label.ExclusionMask"><![CDATA[Exclusion mask]]></data>
+	<data name="Heading.Stemming"><![CDATA[Morphology]]></data>
+	<data name="Label.UseStemming"><![CDATA[Enable using of morphology]]></data>
+	<data name="Label.StemmingExtraSymbols"><![CDATA[Symbols that are not used as word dividers in the document (in process of morphological analysis)]]></data>
+	<data name="Label.Tags"><![CDATA[Tags]]></data>
+	<data name="TableHeader.Site"><![CDATA[Site]]></data>
+	<data name="TableHeader.PageKeyword"><![CDATA[Page Property]]></data>
+	<data name="Option.DontIndex"><![CDATA[- Don't index -]]></data>
+	<data name="Label.Files"><![CDATA[Files]]></data>
+	<data name="Heading.SystemProperties"><![CDATA[System Properties]]></data>
+	<data name="Label.MaxSearchResults"><![CDATA[Max. Search Results]]></data>
+	<data name="CheckBoxText.UseSimplifiedRanking"><![CDATA[Use Quick Search (loose ranking)]]></data>
+</resources>

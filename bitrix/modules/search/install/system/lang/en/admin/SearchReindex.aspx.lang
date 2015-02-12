@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Site Reindex]]></data>
+	<data name="TabText.Main"><![CDATA[Reindex]]></data>
+	<data name="TabTitle.Main"><![CDATA[Site content reindex]]></data>
+	<data name="MasterTitle"><![CDATA[Site Reindex]]></data>
+	<data name="Note.BackgroundReindexing"><![CDATA[You can close the browser as soon as you start reindexing. The process will continue in the background.]]></data>
+	<data name="TabText.Launch"><![CDATA[Parameter]]></data>
+	<data name="TabTitle.Launch"><![CDATA[Reindexing Parameters]]></data>
+	<data name="Note.IndexingInProcess"><![CDATA[The reindexing process has already been started. Running the reindexing again will abort the current process.]]></data>
+	<data name="Label.Sites"><![CDATA[Sites]]></data>
+	<data name="CheckBoxText.AllSites"><![CDATA[All Sites]]></data>
+	<data name="NotActiveSuffix"><![CDATA[(inactive)]]></data>
+	<data name="Heading.IndexingArea"><![CDATA[Indexing Area]]></data>
+	<data name="CheckBoxText.AllContent"><![CDATA[All Content]]></data>
+	<data name="Heading.Options"><![CDATA[More]]></data>
+	<data name="CheckBoxText.UpdateOnly"><![CDATA[Only Changed Items]]></data>
+	<data name="CheckBoxText.AutoResume"><![CDATA[Resume Reindexing at Start-Up]]></data>
+	<data name="ButtonText.StopAndLaunch"><![CDATA[Abort Current Process And Start New]]></data>
+	<data name="ButtonText.Launch"><![CDATA[Start]]></data>
+	<data name="Confirmation.Launch"><![CDATA[Are you sure you want to start the reindexing process?]]></data>
+	<data name="Status.Running"><![CDATA[Reindex...]]></data>
+	<data name="Status.Suspended"><![CDATA[Suspended]]></data>
+	<data name="Status.Stopped"><![CDATA[Reindexing is not started]]></data>
+	<data name="ButtonText.Suspend"><![CDATA[Stop]]></data>
+	<data name="ButtonText.Resume"><![CDATA[Resume]]></data>
+	<data name="TabText.OldModules"><![CDATA[Old Modules]]></data>
+	<data name="TabTitle.OldModules"><![CDATA[Reindex Old Modules]]></data>
+	<data name="Note.OldModules"><![CDATA[Use this dialog to run the previous version of the indexing routine for modules which support it.]]></data>
+	<data name="ErrorMessage.NoSites"><![CDATA[Select at least one site.]]></data>
+	<data name="ErrorMessage.EmptyArea"><![CDATA[The reindexing area is not specified.]]></data>
+	<data name="Message.Finished"><![CDATA[Reindexing has been completed successfully]]></data>
+</resources>

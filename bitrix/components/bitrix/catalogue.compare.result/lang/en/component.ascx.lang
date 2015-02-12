@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[The component "Catalog Element Comparison List" needs to be configured.]]></data>
+	<data name="Error.IBlockIsNotFound"><![CDATA[The information block was not found.]]></data>
+	<data name="Category.StockCatalog"><![CDATA[Commercial Catalog]]></data>
+	<data name="Field.ElementID"><![CDATA[Element ID]]></data>
+	<data name="Field.ElementName"><![CDATA[Element Title]]></data>
+	<data name="Field.PreviewText"><![CDATA[Preview Text]]></data>
+	<data name="Field.PreviewImage"><![CDATA[Preview Image]]></data>
+	<data name="Field.DetailText"><![CDATA[Detailed Text]]></data>
+	<data name="Field.DetailImage"><![CDATA[Detailed Image]]></data>
+	<data name="Field.ActiveFromDate"><![CDATA[Active From]]></data>
+	<data name="Field.ActiveToDate"><![CDATA[Active Until]]></data>
+	<data name="Field.Sort"><![CDATA[Sort Index]]></data>
+	<data name="Field.UpdateDate"><![CDATA[Last Modified On]]></data>
+	<data name="Param.InfoBlockType"><![CDATA[Information Block Type]]></data>
+	<data name="Param.InfoBlockCode"><![CDATA[Information Block ID]]></data>
+	<data name="Param.SortBy"><![CDATA[Sort Field]]></data>
+	<data name="Param.SortOrder"><![CDATA[Sort Order]]></data>
+	<data name="Param.SelectedFields"><![CDATA[Show Fields ('Name' is always visible)]]></data>
+	<data name="Param.DisplayStockCatalogData"><![CDATA[Show Commercial Catalog Contents]]></data>
+	<data name="Param.PriceTypes"><![CDATA[Price Types]]></data>
+	<data name="Param.InitQuantity"><![CDATA[Initial Quantity]]></data>
+	<data name="Param.IncludeVATInPrice"><![CDATA[Include Tax in Price]]></data>
+	<data name="Param.UserCartUrlTemplate"><![CDATA[Shopping Cart Page URL]]></data>
+	<data name="Param.ElementUrlTemplate"><![CDATA[Element Details URL]]></data>
+	<data name="Param.ElementListUrlTemplate"><![CDATA[Elements List Page URL (shown for empty lists)]]></data>
+	<data name="SelectIBlockType"><![CDATA[-- select type --]]></data>
+	<data name="SelectIBlockID"><![CDATA[-- select information block --]]></data>
+	<data name="NotSelected"><![CDATA[-- none selected --]]></data>
+</resources>

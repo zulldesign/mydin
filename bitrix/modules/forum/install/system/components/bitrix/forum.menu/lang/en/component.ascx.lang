@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Forum Menu]]></data>
+	<data name="Description"><![CDATA[Shows links to forum pages.]]></data>
+	<data name="Group"><![CDATA[Forum]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="UrlTitle.Forums"><![CDATA[All Forums]]></data>
+	<data name="UrlTitle.Profile"><![CDATA[Profile]]></data>
+	<data name="UrlTitle.Search"><![CDATA[Search]]></data>
+	<data name="UrlTitle.Rules"><![CDATA[Rules]]></data>
+	<data name="UrlTitle.Help"><![CDATA[Help]]></data>
+	<data name="UrlTitle.Subscriptions"><![CDATA[Subscriptions]]></data>
+	<data name="Param.ForumIndexUrl"><![CDATA[Forums Page]]></data>
+	<data name="Param.USerProfileUrlTemplate"><![CDATA[User Profile Page]]></data>
+	<data name="Param.SearchUrl"><![CDATA[Search Page]]></data>
+	<data name="Param.ForumRulesUrl"><![CDATA[Rules Page]]></data>
+	<data name="Param.ForumHelpUrl"><![CDATA[Help Page]]></data>
+	<data name="Param.SubscriptionUrlTemplate"><![CDATA[Subscriptions Page]]></data>
+	<data name="Param.GuestMenuTextTemplate"><![CDATA[Message Template For Guests]]></data>
+	<data name="Param.UserMenuTextTemplate"><![CDATA[Message Template For Registered Users]]></data>
+	<data name="Param.GuestMenuTextTemplate.Default"><![CDATA[Welcome, guest! <a href="Auth.aspx?ReturnUrl=#ReturnUrl#">Log In</a>]]></data>
+	<data name="Param.UserMenuTextTemplate.Default"><![CDATA[Welcome, #UserDisplayName#!]]></data>
+	<data name="UrlTitle.ActiveTopics"><![CDATA[Active Topics]]></data>
+	<data name="UrlTitle.UnAnsweredTopics"><![CDATA[Unanswered Topics]]></data>
+</resources>

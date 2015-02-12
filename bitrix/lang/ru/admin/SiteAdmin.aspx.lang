@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FilterText.Title"><![CDATA[Название]]></data>
+	<data name="FilterText.Languages"><![CDATA[Языки]]></data>
+	<data name="FilterText.IsActive"><![CDATA[Активен]]></data>
+	<data name="Any"><![CDATA[(Любой)]]></data>
+	<data name="PopupTitle.Change"><![CDATA[Изменить]]></data>
+	<data name="Message.RecordsHaveBeenDeletedSuccessfully"><![CDATA[Записи успешно удалены]]></data>
+	<data name="TableTitle.sites"><![CDATA[Сайты]]></data>
+	<data name="ColumnHeaderText.IsActive"><![CDATA[Акт.]]></data>
+	<data name="ColumnHeaderText.Sort"><![CDATA[Сорт.]]></data>
+	<data name="ColumnHeaderText.Folder"><![CDATA[Папка]]></data>
+	<data name="ColumnHeaderText.Default"><![CDATA[По умолчанию]]></data>
+	<data name="Title.SiteList"><![CDATA[Список сайтов]]></data>
+	<data name="Exception.YouDontHaveRightsToDeleteThisRecord"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранный сайт?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть настройки сайта]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные сайты?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕ сайты из списка?]]></data>
+</resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Широкий: красная тема]]></data>
+	<data name="Template.Description">
+		<![CDATA[
+	<p>"Резиновый" шаблон - его ширина зависит от размера окна браузера.</p>
+	]]>
+	</data>
+	<data name="Theme.Name"><![CDATA[Красный]]></data>
+	<data name="Theme.Description"><![CDATA[Красная тема]]></data>
+</resources>

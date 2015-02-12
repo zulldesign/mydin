@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ConfirmDelete"><![CDATA[Are you sure you want to delete the selected folders?]]></data>
+	<data name="NewFolder"><![CDATA[Create]]></data>
+	<data name="Folders"><![CDATA[Folders]]></data>
+	<data name="Topics"><![CDATA[Topics]]></data>
+	<data name="Author"><![CDATA[author]]></data>
+	<data name="Guest"><![CDATA[guest ]]></data>
+	<data name="ManageFolders"><![CDATA[Manage Folders]]></data>
+	<data name="Option.DeleteTopics"><![CDATA[Delete Topics]]></data>
+	<data name="SelectAll"><![CDATA[Select All]]></data>
+	<data name="NoFoldersHere"><![CDATA[No user folders exist.]]></data>
+	<data name="Header"><![CDATA[Manage Folders]]></data>
+	<data name="Option.Edit"><![CDATA[Edit]]></data>
+	<data name="Option.Delete"><![CDATA[Delete]]></data>
+	<data name="Option.MoveUp"><![CDATA[Up]]></data>
+	<data name="Option.MoveDown"><![CDATA[Down]]></data>
+	<data name="ToolTip.NoUnreadMessages"><![CDATA[There are no unread messages.]]></data>
+	<data name="ToolTip.HaveUnreadMessages"><![CDATA[There are unread messages.]]></data>
+	<data name="LastMessage"><![CDATA[Last message]]></data>
+	<data name="Title.CreateFolder"><![CDATA[Create Folder]]></data>
+	<data name="Error.FolderNameRequired"><![CDATA[The folder name is required.]]></data>
+</resources>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="CheckBoxText.IsLocal"><![CDATA[Файловая система локальна для каждого экземпляра веб-приложения]]></data>
+</resources>

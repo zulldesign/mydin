@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[File]]></data>
+	<data name="AllowedExtensions"><![CDATA[Allowed File Extensions (comma- or space-separated, e.g. jpg,png,bmp)]]></data>
+	<data name="MaxSize"><![CDATA[Maximum File Size (bytes)]]></data>
+	<data name="TextBoxSize"><![CDATA[Input Field Size (number of characters)]]></data>
+	<data name="Error.FieldRangeInvalid"><![CDATA[The value of "{0}" must be from {1} to {2}.]]></data>
+	<data name="Error.SizeInvalid"><![CDATA[The value of "{0}" must be an integer between 0 and 2147483647.]]></data>
+	<data name="File"><![CDATA[File]]></data>
+	<data name="Size"><![CDATA[Size]]></data>
+	<data name="Loading"><![CDATA[Now uploading. Please wait...]]></data>
+	<data name="Clear"><![CDATA[Clear]]></data>
+	<data name="Error.Loading"><![CDATA[File upload error.]]></data>
+	<data name="Error.InsufficientRights"><![CDATA[Insufficient permissions.]]></data>
+	<data name="Error.NoFile"><![CDATA[File was not uploaded.]]></data>
+	<data name="Error.NoIde"><![CDATA[Control JavaScript error.]]></data>
+	<data name="Error.IllegalSize"><![CDATA[The size of file specified in "{0}" must not exceed {1} bytes.]]></data>
+	<data name="Error.IllegalExtension"><![CDATA[The "{0}" file extension must be one of: {1}]]></data>
+	<data name="Error.Required"><![CDATA[The file in "{0}" is required.]]></data>
+</resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Restart"><![CDATA[Reindex]]></data>
+	<data name="Stop"><![CDATA[Stop]]></data>
+	<data name="Resume"><![CDATA[Resume]]></data>
+	<data name="Refresh"><![CDATA[Check State]]></data>
+	<data name="IndexingInProcess"><![CDATA[Now reindexing content...]]></data>
+	<data name="IndexingFinished"><![CDATA[Reindexing has been completed.]]></data>
+	<data name="IndexingStopped"><![CDATA[Reindexing has been stopped.]]></data>
+	<data name="Finished"><![CDATA[done]]></data>
+	<data name="Indexing"><![CDATA[indexing]]></data>
+	<data name="IndexingStoppedOn"><![CDATA[stopped]]></data>
+	<data name="DropIndex"><![CDATA[Delete The Search Index Before Reindexing]]></data>
+	<data name="DropIndexWarning"><![CDATA[Attention! The search index will be deleted. Are you sure you want to continue?]]></data>
+</resources>

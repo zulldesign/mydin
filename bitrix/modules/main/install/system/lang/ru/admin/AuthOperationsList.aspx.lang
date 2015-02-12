@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Список операций]]></data>
+	<data name="FilterText.Caption"><![CDATA[Название]]></data>
+	<data name="FilterText.Module"><![CDATA[Модуль]]></data>
+	<data name="ActionText.CreateOperation"><![CDATA[Добавить операцию]]></data>
+	<data name="Message.RecordsHasBeenSuccessfullyDeleted"><![CDATA[Записи успешно удалены]]></data>
+	<data name="PopupTitle.ModifyOperation"><![CDATA[Редактировать операцию]]></data>
+	<data name="PopupTitle.DeleteOperation"><![CDATA[Удалить операцию]]></data>
+	<data name="ColumnHeaderText.OperationType"><![CDATA[Тип операции]]></data>
+	<data name="ColumnHeaderText.Comment"><![CDATA[Комментарий]]></data>
+	<data name="FilterValue.All"><![CDATA[[Все]]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteThisRecord"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="ExceptionText.DeletionIsFailed"><![CDATA[Ошибка удаления операции]]></data>
+	<data name="ExceptionText.OperationIsNotFound"><![CDATA[Операция не найдена]]></data>
+	<data name="ErrorMessage.CodeOfOperationIsNotFound"><![CDATA[Код операции не найден]]></data>
+	<data name="FilterText.Code"><![CDATA[Код]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранную операцию?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть операцию]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные операции?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕ операции из списка?]]></data>
+</resources>

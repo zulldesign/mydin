@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Text.YouMayAdjustOutputOfCatalogueItemInformation"><![CDATA[Вы можете настроить вывод подробной информации об элементе каталога.]]></data>
+	<data name="Byte"><![CDATA[Б]]></data>
+	<data name="Param.BackTitle"><![CDATA[Заголовок ссылки возврата]]></data>
+	<data name="DefaultBackTitle"><![CDATA[Вернуться к списку]]></data>
+	<data name="Param.BackUrlTemplate"><![CDATA[Шаблон ссылки возврата]]></data>
+	<data name="Vacancy"><![CDATA[Вакансия]]></data>
+</resources>

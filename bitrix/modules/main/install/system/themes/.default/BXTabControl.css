@@ -1,0 +1,79 @@
+﻿/* Edit form*/
+div.BXTabControl {margin:16px 0px 16px 0px !important;}
+
+/*table.BXTabControl td { padding: 0px !important; font-size: 11px !important; }
+table.BXTabControl td.tab-panel td { padding: 2px !important; }*/
+table.BXTabControl td.inner {background-color:#E7EAF5 !important;}
+table.BXTabControl tr.top td {border-top:1px solid #ABB6D7 !important;}
+table.BXTabControl td.left {border-left:1px solid #ABB6D7 !important;}
+table.BXTabControl td.right {border-right:1px solid #ABB6D7 !important;}
+table.BXTabControl tr.top td.left {border:0px !important; background-image:url(images/TabControl/lt.gif) !important; height:2px !important; width:2px !important;}
+table.BXTabControl tr.top td.right {border:0px !important; background-image:url(images/TabControl/rt.gif) !important; height:2px !important; width:2px !important;}
+table.BXTabControl tr.bottom td {border-bottom:1px solid #ABB6D7 !important;}
+table.BXTabControl tr.bottom td.left {border:0px !important; background-image:url(images/TabControl/lb.gif) !important; height:2px !important; width:2px !important;}
+table.BXTabControl tr.bottom td.right {border:0px !important; background-image:url(images/TabControl/rb.gif) !important; height:2px !important; width:2px !important;}
+table.BXTabControl td.content {padding:7px 2px 2px 2px !important;}
+table.BXTabControl div.buttons {margin-top:4px !important; padding:5px !important; background-color:#F8F9FC !important; background-image:url(images/TabControl/buttons_bg.gif) !important; border:1px solid #CED6EC !important;}
+
+/* Tab controls*/
+table.BXTabControl-Tabs table {font-size:11px !important; font-weight:bold !important; color:#555556 !important;}
+table.BXTabControl-Tabs td.inner {white-space:nowrap !important; border-bottom:1px solid #B8C1DD !important; padding:0px !important;}
+table.BXTabControl-Tabs td.tab-container {border:none !important; cursor:pointer !important; cursor:hand !important;}
+table.BXTabControl-Tabs td.tab-container-selected, table.BXTabControl-Tabs td.tab-container-disabled {border:none !important; cursor:default !important;}
+table.BXTabControl-Tabs td.tab-container-disabled table {color:#A2A09F !important;}
+table.BXTabControl-Tabs td.tab-indent div.empty {width:6px !important; height:21px !important;}
+table.BXTabControl-Tabs td.tab-left div.empty {width:2px !important; height:21px !important; background-image:url(images/TabControl/tab_l.gif) !important;}
+table.BXTabControl-Tabs td.tab-right div.empty {width:8px !important; height:21px !important; background-image:url(images/TabControl/tab_r.gif) !important;}
+table.BXTabControl-Tabs td.tab-right-last div.empty {width:10px !important; height:21px !important; background-image:url(images/TabControl/tab_r_last.gif) !important;}
+table.BXTabControl-Tabs td.tab {vertical-align:top !important; padding:4px 0px 0px 5px !important; height:21px !important; background-image:url(images/TabControl/tab_bg.gif) !important;}
+table.BXTabControl-Tabs td.tab-left-selected, table.BXTabControl-Tabs td.tab-selected, table.BXTabControl-Tabs td.tab-right-selected, table.BXTabControl-Tabs td.tab-right-last-selected {border:none !important;}
+table.BXTabControl-Tabs td.tab-left-selected div.empty {width:2px !important; height:22px !important; background-image:url(images/TabControl/tab_l_sel.gif) !important;}
+table.BXTabControl-Tabs td.tab-right-selected div.empty {width:8px !important; height:22px !important; background-image:url(images/TabControl/tab_r_sel.gif) !important;}
+table.BXTabControl-Tabs td.tab-right-last-selected div.empty {width:10px !important; height:22px !important; background-image:url(images/TabControl/tab_r_last_sel.gif) !important;}
+table.BXTabControl-Tabs td.tab-selected {vertical-align:top !important; padding:4px 0px 0px 5px !important; height:22px !important; background:url(images/TabControl/tab_bg_sel.gif) repeat-x top center !important;}
+table.BXTabControl-Tabs td.tab-left-hover div.empty {width:2px !important; height:21px !important; background-image:url(images/TabControl/tab_l_hov.gif) !important;}
+table.BXTabControl-Tabs td.tab-right-hover div.empty {width:8px !important; height:21px !important; background-image:url(images/TabControl/tab_r_hov.gif) !important;}
+table.BXTabControl-Tabs td.tab-right-last-hover div.empty {width:10px !important; height:21px !important; background-image:url(images/TabControl/tab_r_last_hov.gif) !important;}
+table.BXTabControl-Tabs td.tab-hover {vertical-align:top !important; padding:4px 0px 0px 5px !important; height:21px !important; background-image:url(images/TabControl/tab_bg_hov.gif) !important;}
+table.BXTabControl-Tabs td div.tab-text { font-size: 11px !important}
+table.BXTabControl-Tabs a.context-button {display:block !important; box-sizing:border-box !important; -webkit-box-sizing: border-box;-moz-box-sizing:border-box !important; background-repeat:no-repeat !important; background-position:3px 3px !important; height:18px !important; width:18px !important; border:0px !important; margin:1px !important;}
+table.BXTabControl-Tabs a.context-button:hover {width:20px !important; height:20px !important; margin:0px !important; border:1px solid #AEB6C2 !important; background-color:#DBE3F2 !important;}
+table.BXTabControl-Tabs a.down {background-image:url(images/TabControl/show.gif) !important; }
+table.BXTabControl-Tabs a.up {background-image:url(images/TabControl/hide.gif) !important; }
+
+/* Tab inside edit form */
+table.BXTabControl-Tab {border:1px solid #B8C1DD !important; border-top:none !important; width:100% !important;}
+table.BXTabControl-Tab td.tab-panel {background-color:#F8F9FC !important; padding:4px 4px 9px 4px !important;}
+
+/* Edit tab title*/
+table.BXTabControl-Tab-Title {width:100%}
+table.BXTabControl-Tab-Title td.icon {padding:5px 5px 5px 0px !important; width:32px !important; height:32px !important;}
+table.BXTabControl-Tab-Title td.title {width:100% !important; padding:5px 0px 5px 0px !important; font-size:95% !important; color:#494949 !important; font-weight:bold !important; font-family:Arial,helvetica,sans-serif !important;}
+table.BXTabControl-Tab-Title td.delimiter {padding:0px !important; height:5px !important; background-image:url(images/TabControl/title_dot.gif) !important; background-position:left top !important; background-repeat:repeat-x !important;}
+table.BXTabControl-Tab-Title td.delimiter-top {background-position:left bottom !important;}
+
+/*In dialog hack*/
+div.settings-float-form div.content div.BXTabControl td { padding: 0px; font-size: 11px;}
+div.settings-float-form div.content div.BXTabControl td.tab-panel td { padding: 2px; }
+
+
+/* Edit table */
+/*
+table.edit-table {width:100% !important;}
+table.edit-table td {font-size:70% !important; padding:4px !important;}
+table.edit-table td.field-name {color:#646465 !important; text-align:right !important;}
+table.edit-table tr.heading td {color:#525355 !important; text-align:center !important; font-weight:bold !important; background-color:#E0E4F1 !important;}
+table.edit-table table td {padding:0px !important; border:none !important;}
+table.edit-table table.edit-table td {padding:4px !important;}
+table.edit-table div {font-size:100% !important;}
+span.required {color:red !important;}
+*/
+
+/* A table inside edit table */
+/*
+table.edit-table table.internal {border-collapse:collapse !important;}
+table.edit-table table.internal td {padding:3px !important; border:1px solid #CFD6E9 !important; font-size:70% !important;}
+table.edit-table table.internal tr.heading td {text-align:center !important; background-color:#E7EAF5 !important; font-weight:normal !important; color:#525355 !important;}
+table.edit-table table.internal td.heading {color:#525355 !important; background-color:#E7EAF5 !important;}
+table.edit-table table.internal table td {padding:0px !important; border:none !important;}
+*/

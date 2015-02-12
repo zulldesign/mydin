@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="BlogGroup.Label"><![CDATA[Collaboration in]]></data>
+	<data name="BlogGroup.InGroup"><![CDATA[in group ]]></data>
+	<data name="BlogGroup.ChooseBlog"><![CDATA[- select a blog -]]></data>
+	<data name="BlogGroup.ChooseGroup"><![CDATA[- select a group -]]></data>
+	<data name="Policy.Label"><![CDATA[Policy]]></data>
+	<data name="Policy.Promotion"><![CDATA[Add to group]]></data>
+	<data name="Policy.Demotion"><![CDATA[Remove from group]]></data>
+	<data name="Log.Promotion.Title"><![CDATA[Add a user to blog group]]></data>
+	<data name="Log.Promotion.Body"><![CDATA[The user {1} ({2}) [{3}] has been added to '{4}'{5}. {6} according to verification #{0} ]]></data>
+	<data name="Log.Demotion.Title"><![CDATA[Remove a user to blog group]]></data>
+	<data name="Log.Demotion.Body"><![CDATA[The user {1} ({2}) [{3}] has been removed from '{4}'{5}. {6} according to verification #{0}]]></data>
+	<data name="Log.InBlog"><![CDATA[blog '{0}']]></data>
+</resources>

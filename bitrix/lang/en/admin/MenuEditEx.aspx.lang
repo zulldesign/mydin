@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Edit Menu]]></data>
+	<data name="MasterTitle"><![CDATA[Edit Menu]]></data>
+	<data name="TabText"><![CDATA[Menu]]></data>
+	<data name="TabTitle"><![CDATA[Menu parameters]]></data>
+	<data name="ColItems"><![CDATA[Items]]></data>
+	<data name="MenuType"><![CDATA[Menu Type]]></data>
+	<data name="Insert"><![CDATA[Insert]]></data>
+	<data name="ConditionType.None"><![CDATA[[none]]]></data>
+	<data name="ConditionType.FileOrFolder"><![CDATA[File or folder]]></data>
+	<data name="ConditionType.Group"><![CDATA[For user groups]]></data>
+	<data name="ConditionType.Time"><![CDATA[Time]]></data>
+	<data name="ConditionType.URL"><![CDATA[URL parameter]]></data>
+	<data name="Name"><![CDATA[Text]]></data>
+	<data name="Link"><![CDATA[Link]]></data>
+	<data name="Sort"><![CDATA[Sort]]></data>
+	<data name="Delete"><![CDATA[Delete]]></data>
+	<data name="ExtraLinks"><![CDATA[Also highlight on pages]]></data>
+	<data name="ConditionType"><![CDATA[Condition Type]]></data>
+	<data name="Condition"><![CDATA[Condition]]></data>
+	<data name="Params"><![CDATA[Parameters]]></data>
+	<data name="Value"><![CDATA[Value]]></data>
+	<data name="AreYouSure"><![CDATA[Are you sure you want to delete this menu?]]></data>
+	<data name="DeleteMenu"><![CDATA[Delete Menu]]></data>
+	<data name="EditAsFile"><![CDATA[Edit as File]]></data>
+	<data name="SimpleMode"><![CDATA[Simple Mode]]></data>
+	<data name="Back"><![CDATA[Catalog]]></data>
+	<data name="NoCondition"><![CDATA[<no condition>]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the current menu file?]]></data>
+</resources>

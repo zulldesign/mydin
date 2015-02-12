@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Label.Path2Dir"><![CDATA[Path to Folder]]></data>
+	<data name="ButtonText.Load"><![CDATA[Download]]></data>
+	<data name="PageTitle.FileAuthorization"><![CDATA[File Authorization]]></data>
+</resources>

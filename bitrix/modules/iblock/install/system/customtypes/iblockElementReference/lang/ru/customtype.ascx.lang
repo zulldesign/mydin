@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ValueNotSet"><![CDATA[-- не выбрано --]]></data>
+	<data name="FieldMustBeFilled"><![CDATA[Для поля "{0}" должно быть выбрано значение]]></data>
+	<data name="IncorrectValue"><![CDATA[Для поля "{0}" указано неверное значение]]></data>
+</resources>

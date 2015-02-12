@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="EditElement"><![CDATA[Edit]]></data>
+	<data name="DeleteElement"><![CDATA[Delete]]></data>
+	<data name="ElementDeletionConfirmation"><![CDATA[Are you really want to delete this element?]]></data>
+</resources>

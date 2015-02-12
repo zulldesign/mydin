@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Создание операции]]></data>
+	<data name="ActionText.Go2List"><![CDATA[Список операций]]></data>
+	<data name="ActionTitle.Go2List"><![CDATA[Перейти в список операций]]></data>
+	<data name="ActionText.AddNewOperation"><![CDATA[Новая операция]]></data>
+	<data name="ActionTitle.AddNewOperation"><![CDATA[Добавить новую операцию]]></data>
+	<data name="ActionText.DeleteOperation"><![CDATA[Удалить операцию]]></data>
+	<data name="ActionTitle.DeleteOperation"><![CDATA[Удалить текущую операцию]]></data>
+	<data name="Message.RecordHasBeenSuccessfullyChanged"><![CDATA[Запись успешно изменена]]></data>
+	<data name="TabText.OperationParams"><![CDATA[Параметры операции]]></data>
+	<data name="LegendText.Caption"><![CDATA[Название:]]></data>
+	<data name="RequiredFieldValidatorErrorMessage.OperationName"><![CDATA[Поле "Название" должно быть заполнено]]></data>
+	<data name="LegendText.Comment"><![CDATA[Комментарий:]]></data>
+	<data name="LegendText.OperationType"><![CDATA[Тип операции:]]></data>
+	<data name="LegendText.Module"><![CDATA[Модуль:]]></data>
+	<data name="FormattedPageTitle"><![CDATA[Редактирование операции №{0}]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToCreateOperation"><![CDATA[У вас недостаточно прав для создания новой операции]]></data>
+	<data name="ExceptionText.CreationHasFailed"><![CDATA[Не удалось создать операцию]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToModifyOperation"><![CDATA[У вас недостаточно прав для изменения этой операции]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteOperation"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="ExceptionText.DeletionHasFailed"><![CDATA[Ошибка удаления операции]]></data>
+	<data name="ExceptionText.OperationIsNotFound"><![CDATA[Операция не найдена]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить текущую операцию?]]></data>
+</resources>

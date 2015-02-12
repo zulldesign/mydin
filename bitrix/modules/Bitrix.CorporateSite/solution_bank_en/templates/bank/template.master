@@ -1,0 +1,338 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Master Language="C#" Inherits="Bitrix.UI.BXMasterPage"%>
+<%@ Import Namespace="Bitrix" %>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<%= BXSite.Current.LanguageId %>" lang="<%= BXSite.Current.LanguageId %>">
+<head runat="server">
+	<meta name="keywords" content="<%= Encode(Keywords["keywords"]) %>" />
+	<meta name="description" content="<%= Encode(Keywords["description"]) %>" />
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>common.css" />
+	<<%= "link" %> rel="shortcut icon" type="image/x-icon" href="<%= SitePath %>favicon.ico" />
+	
+
+	<title>Bank</title>
+
+	<<%= "link" %> rel="stylesheet" type="text/css" href="<%= TemplatePath %>themes/<%= ThemeId %>/colors.css" />
+
+	<!--[if lte IE 6]>
+	<style type="text/css">
+		
+		#support-question { 
+			background-image: none;
+			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='<%= TemplatePath %>images/question.png', sizingMethod = 'crop'); 
+		}
+		
+		#support-question { left: -9px;}
+		
+		#banner-overlay {
+			background-image: none;
+			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='<%= TemplatePath %>images/overlay.png', sizingMethod = 'crop');
+		}
+		
+	</style>
+	<![endif]-->
+</head>
+<body>
+	<script type="text/javascript">
+	    function FireDefaultButton(event, target) {
+	        if (event.keyCode == 13) {
+	            var src = event.srcElement || event.target;
+	            if (!src || (src.tagName.toLowerCase() != "textarea")) {
+	                var defaultButton = document.getElementById(target);
+	                if (defaultButton && typeof (defaultButton.click) != "undefined") {
+	                    defaultButton.click();
+	                    event.cancelBubble = true;
+
+	                    if (event.stopPropagation)
+	                        event.stopPropagation();
+
+	                    return false;
+	                }
+	            }
+	        }
+	        return true;
+	    }
+</script>
+<form id="form1" class="main-form" runat="server">
+    <bx:TemplateRequisite runat="server" ID="Requisite"/>
+    <div id="page-wrapper">
+		
+			<div id="panel"></div>
+	
+			<div id="header">
+				<table>
+					<tr>
+						<td id="logo"><a href="<%=SitePath %>" title="Home">
+												<bx:IncludeComponent 
+													id="includearea1" 
+													runat="server" 
+													componentname="bitrix:includeArea" 
+													template=".default" 
+													Mode="File" 
+													FilePath="<%$ Options:Bitrix.BankSite:TemplateLogoIncludeArea %>" 
+													FileName="" 
+													FileNameSuffix="" 
+													RecursiveFileSearch="True" 
+													AllowEditing="True" 
+												/></a>
+                        </td>
+						<td id="slogan">
+						        <bx:IncludeComponent 
+							        id="IncludeComponent1" 
+							        runat="server" 
+							        componentname="bitrix:includeArea" 
+							        template=".default" 
+							        Mode="File" 
+							        FilePath="<%$ Options:Bitrix.BankSite:TemplateSloganIncludeArea %>" 
+							        FileName="" 
+							        FileNameSuffix="" 
+							        RecursiveFileSearch="True" 
+							        AllowEditing="True" 
+						        /></td>
+					</tr>
+				</table>
+				
+                <bx:IncludeComponent 
+	                id="searchform1" 
+	                runat="server" 
+	                componentname="bitrix:search.form" 
+	                template="main" 
+	                SearchUrlTemplate="<%$ Options:Bitrix.BankSite:SearchUrl%>"
+                />
+			</div>
+			
+            <bx:IncludeComponent
+             id="IncludeComponent5"
+             runat="server"
+             componentname="bitrix:system.PublicMenu"
+             template="top"
+             Depth="1"
+             MenuName="top"
+             SubMenuName="vertical"
+             />
+			<div id="content-wrapper">
+				<div id="content">
+				    <bx:IncludeComponent 
+	                  id="breadcrumb" 
+	                  runat="server" 
+	                  componentname="bitrix:system.PublicBreadCrumb" 
+	                  template="bank_main" 
+	                  RootItemTitle="" 
+	                  ShowOnIndexPage="False" 
+                    />
+                    <% 
+						if (HttpUtility.UrlDecode(Request.Url.AbsolutePath) == SitePath + "Default.aspx")
+					   { %>
+                    <div id="banner"> 
+                        <div id="banner-image"> 
+                            <bx:IncludeComponent
+                             id="IncludeComponent7"
+                             runat="server"
+                             componentname="bitrix:includeArea"
+                             template=".default"
+                             Mode="File"
+                             FilePath="<%$ Options:Bitrix.BankSite:BannerIncludeArea%>"
+                             FileName=""
+                             FileNameSuffix=""
+                             RecursiveFileSearch="True"
+                             AllowEditing="True"
+                             /> </div>
+                          <table cellspacing="0" id="banner-text"> 	 
+
+                              <tr><td width="35%"></td><td>
+                              <a href="<%=SitePath %>services/fiz/credit/"> 
+                                <bx:IncludeComponent
+                                 id="IncludeComponent8"
+                                 runat="server"
+                                 componentname="bitrix:includeArea"
+                                 template=".default"
+                                 Mode="File"
+                                 FilePath="<%$ Options:Bitrix.BankSite:BannerTextIncludeArea%>"
+                                 FileName=""
+                                 FileNameSuffix=""
+                                 RecursiveFileSearch="True"
+                                 AllowEditing="True"
+                                 />
+                                 </a> 				 		 
+                                </td>
+                            </tr>
+                          </table>
+                         	
+                          <div id="banner-overlay"></div>
+                    </div>
+				    <%} %>
+				    <div id="workarea-wrapper">
+				    <div id="left-menu">
+						<bx:IncludeComponent 
+							id="LeftMenuIncludeArea" 
+							runat="server" 
+							componentname="bitrix:includeArea" 
+							template="left_menu" 
+							AllowEditing="True" 
+							Mode="Page" 
+							FilePath="" 
+							FileName="" 
+							FileNameSuffix="_left_menu" 
+							RecursiveFileSearch="True" 
+						/>
+                    </div>
+                    <div id="workarea"> 
+                        <div id="workarea-inner">
+                        <% if (string.Equals(Page.AppRelativeVirtualPath,  SitePath + "default.aspx", StringComparison.InvariantCultureIgnoreCase)) { %>
+								<h5>News</h5>
+                        <% } else { %>
+							<% if (!string.IsNullOrEmpty(TitleHtml))
+								{ %><h1><%= TitleHtml%></h1><% } %>
+						<% } %>
+			                <asp:ContentPlaceHolder ID="BXContent" runat="server"/>
+			            </div>
+                    </div>
+                    </div>
+                </div>
+                <div id="sidebar">
+					<div id="sidebar-inner">
+					    <div id="telephone">
+					        	<bx:IncludeComponent 
+						        	id="IncludeComponent3" 
+						        	runat="server" 
+						        	componentname="bitrix:includeArea" 
+						        	template="template1" 
+						        	Mode="File" 
+						        	FilePath="<%$ Options:Bitrix.BankSite:TemplatePhoneIncludeArea %>" 
+						        	FileName="" 
+						        	FileNameSuffix="" 
+						        	RecursiveFileSearch="True" 
+						        	AllowEditing="True" 
+					        	/>
+					    </div>
+					    <div id="schedule">
+					        <div>
+					        <bx:IncludeComponent 
+						        id="IncludeComponent2" 
+						        runat="server" 
+						        componentname="bitrix:includeArea" 
+						        template=".default" 
+						        Mode="File" 
+						        FilePath="<%$ Options:Bitrix.BankSite:TemplateScheduleIncludeArea %>" 
+						        FileName="" 
+						        FileNameSuffix="" 
+						        RecursiveFileSearch="True" 
+						        AllowEditing="True" 
+					        />
+					        </div>  
+					    </div>
+					    <div id="support">
+							<div id="support-question"></div>
+							
+							<b class="r0"></b>
+													
+							<div id="support-text"><a href="<%=SitePath %>contacts/feedback/">Feedback</a></div>	
+							
+							<b class="r0"></b>
+							
+						</div>
+						<bx:IncludeComponent 
+	                        id="catalogueelement_sidebar" 
+	                        runat="server" 
+							componentname="bitrix:includeArea" 
+							Template=".default" 
+							Mode="File" 
+							FilePath="<%$ Options:Bitrix.BankSite:TemplateSidebarIncludeArea %>" 
+							FileName="" 
+							FileNameSuffix="" 
+							RecursiveFileSearch="True" 
+							AllowEditing="True" 
+                        />
+                    <div class="information-box">
+                        <b class="r1"></b><b class="r0"></b>
+                        <div class="information-box-content">
+                        <bx:IncludeComponent 
+	                        id="catalogueelement_list1" 
+	                        runat="server" 
+	                        componentname="bitrix:catalogue.element.list" 
+	                        template="oneelement" 
+	                        IBlockTypeId="" 
+	                        IBlockId="<%$ Options:Bitrix.BankSite:ManagementIBlockId,int %>" 
+	                        SectionId="0" 
+	                        SectionCode="" 
+	                        FilterByElementCustomProperty="True" 
+	                        ElementCustomPropertyFilterSettings="p:o:1:{s:&quot;SHOWONMAIN&quot;;b:1;};" 
+	                        SortBy="ID" 
+	                        SortOrder="Desc" 
+	                        ShowSubElements="True" 
+	                        ShowAllElementsOnIndex="True" 
+	                        ActiveFilter="Active" 
+	                        ActiveDateFilter="All" 
+	                        Properties="-" 
+	                        AddAdminPanelButtons="False" 
+	                        SetPageTitle="True" 
+	                        SectionElementListUrl="list.aspx?section_id=#SECTION_ID#" 
+	                        ElementDetailUrl="<%$ Options:Bitrix.BankSite:ManagementDetailUrl %>" 
+	                        PagingAllow="True" 
+	                        PagingMode="direct" 
+	                        PagingTemplate=".default" 
+	                        PagingShowOne="False" 
+	                        PagingAllowAll="False" 
+	                        PagingRecordsPerPage="10" 
+	                        PagingTitle="Pages" 
+	                        PagingPosition="both" 
+	                        PagingMaxPages="10" 
+	                        PagingMinRecordsInverse="1" 
+	                        PagingPageID="<%$ Request:page %>" 
+	                        PagingShowAll="<%$ Request:showall %>" 
+	                        PagingIndexTemplate="" 
+	                        PagingPageTemplate="?page=#pageid#" 
+	                        PagingShowAllTemplate="?showall=y" 
+	                        CacheMode="None" 
+	                        CacheDuration="30" 
+                        />
+                         
+                        </div>
+                       <b class="r0"></b><b class="r1"></b>
+					</div>
+				    </div>
+				</div>
+            </div>
+            <div id="space-for-footer"></div>
+		</div>
+    <div id="footer">
+        <div id="copyright">
+			<bx:IncludeComponent 
+		        id="IncludeComponent4" 
+		        runat="server" 
+		        componentname="bitrix:includeArea" 
+		        template=".default" 
+		        Mode="File" 
+		        FilePath="<%$ Options:Bitrix.BankSite:TemplateCopyrightIncludeArea %>" 
+		        FileName="" 
+		        FileNameSuffix="" 
+		        RecursiveFileSearch="True" 
+		        AllowEditing="True" 
+	        />
+        </div>
+        <bx:IncludeComponent 
+            id="systempublicmenu1" 
+            runat="server" 
+            componentname="bitrix:system.PublicMenu" 
+            template="bottom" 
+            Depth="1" 
+            MenuName="bottom" 
+            SubMenuName="bottom" 
+        />
+    </div>
+  </form>
+</body>
+</html>
+<script runat="server">
+    public string TemplatePath { get; set; }
+    public string SitePath { get; set; }
+    public string RootPath { get; set; }
+	public string ThemeId { get; set; }
+    protected override void OnPreRender(EventArgs e)
+    {
+        base.OnPreRender(e);
+        TemplatePath = VirtualPathUtility.ToAbsolute(AppRelativeTemplateSourceDirectory);
+        RootPath = VirtualPathUtility.ToAbsolute("~/");
+        SitePath = Bitrix.BXSite.Current.DirectoryAbsolutePath;
+		ThemeId = Bitrix.Configuration.BXOptionManager.GetOptionString("Bitrix.BankSite", "InstalledTemplateTheme", "blue", BXSite.Current.Id);
+    }
+</script>

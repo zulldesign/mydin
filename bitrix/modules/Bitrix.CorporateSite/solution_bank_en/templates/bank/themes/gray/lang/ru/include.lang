@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[Банк : серая тема]]></data>
+  	<data name="Template.Description">
+	<![CDATA[
+	<p>Яркий шаблон с плавающей шириной.</p>
+	]]>
+	</data>
+	<data name="Theme.Name"><![CDATA[Серый]]></data>
+	<data name="Theme.Description"><![CDATA[Серая тема]]></data>
+</resources>

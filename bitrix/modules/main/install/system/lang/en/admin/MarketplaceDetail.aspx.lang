@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.GoBack"><![CDATA[Back]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to Catalog]]></data>
+	<data name="TabTitle.Main"><![CDATA[Module {0}]]></data>
+	<data name="TabText.Main"><![CDATA[Module]]></data>
+	<data name="Label.Id"><![CDATA[Module ID]]></data>
+	<data name="Label.Downloaded"><![CDATA[Downloaded]]></data>
+	<data name="Label.Title"><![CDATA[Module Name]]></data>
+	<data name="Label.Description"><![CDATA[Description]]></data>
+	<data name="Label.Image"><![CDATA[Image]]></data>
+	<data name="Label.Partner"><![CDATA[Partner]]></data>
+	<data name="Label.UpdateDate"><![CDATA[Modified On]]></data>
+	<data name="Label.CreateDate"><![CDATA[Created On]]></data>
+	<data name="Label.Category"><![CDATA[Category]]></data>
+	<data name="Label.Type"><![CDATA[Type]]></data>
+	<data name="ButtonText.DownloadAndInstall"><![CDATA[Download And Install]]></data>
+	<data name="ButtonText.Cancel"><![CDATA[Cancel]]></data>
+	<data name="Error.UnableToGetModuleInfo"><![CDATA[Cannot obtain information for the module {0}.]]></data>
+	<data name="Error.NoSuchModule"><![CDATA[The module {0} was not found in the catalog.]]></data>
+	<data name="Error.Unknown"><![CDATA[Error downloading the module. See the event log for details.]]></data>
+</resources>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Search Page]]></data>
+	<data name="Description"><![CDATA[Page with search form and search results in one]]></data>
+	<data name="MaxChars"><![CDATA[Average Length of Search Result Fragment]]></data>
+	<data name="HighlightDiameter"><![CDATA[Average count of characters outside highlighted search result]]></data>
+	<data name="ShowFilter"><![CDATA[Show Search Filter]]></data>
+	<data name="ParamSearch"><![CDATA[Search Query Parameter Name]]></data>
+	<data name="ParamPage"><![CDATA[Page Number Parameter Name]]></data>
+	<data name="ParamWhere"><![CDATA[Search Area Parameter Name]]></data>
+	<data name="Group"><![CDATA[Search]]></data>
+	<data name="Option.Everywhere"><![CDATA[(everywhere)]]></data>
+	<data name="SearchFilter"><![CDATA[Search Filter]]></data>
+	<data name="ShowFilterItems"><![CDATA[Filter Values]]></data>
+	<data name="ShowTags"><![CDATA[Show Result Tags]]></data>
+	<data name="ParamTags"><![CDATA[Variable For Tags]]></data>
+	<data name="Option.DontShow"><![CDATA[Hidden]]></data>
+	<data name="Option.Approved"><![CDATA[Allowed]]></data>
+	<data name="Option.NotRejected"><![CDATA[Unforbidden]]></data>
+	<data name="Option.All"><![CDATA[All]]></data>
+</resources>

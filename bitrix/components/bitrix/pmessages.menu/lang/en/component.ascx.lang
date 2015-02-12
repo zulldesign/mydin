@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[PM System Menu]]></data>
+	<data name="Description"><![CDATA[Displays links to PM service pages]]></data>
+	<data name="Group"><![CDATA[Personal Messages]]></data>
+	<data name="Param.ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="Param.ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="UrlTitle.Topics"><![CDATA[Topics]]></data>
+	<data name="UrlTitle.NewTopic"><![CDATA[New Topic]]></data>
+	<data name="UrlTitle.Folders"><![CDATA[Folders]]></data>
+	<data name="Param.IndexUrl"><![CDATA[Messaging List Page]]></data>
+	<data name="Param.NewTopicUrl"><![CDATA[New Message Topic Page]]></data>
+	<data name="Param.ShowFolders"><![CDATA[Show Folders]]></data>
+	<data name="Param.FolderUrlTemplate"><![CDATA[Folder View Page]]></data>
+	<data name="Param.FoldersUrl"><![CDATA[Folders Page]]></data>
+	<data name="MyTopics.Title"><![CDATA[My Topics]]></data>
+	<data name="Error.ErrorUnknown"><![CDATA[Unknown error.]]></data>
+	<data name="Error.ComponentNotExecuted"><![CDATA[The component failed to run.]]></data>
+	<data name="Error.Unauthorized"><![CDATA[Insufficient permissions to perform the operation.]]></data>
+	<data name="Error.UnauthorizedRead"><![CDATA[You do not have permission to use personal messages.]]></data>
+</resources>

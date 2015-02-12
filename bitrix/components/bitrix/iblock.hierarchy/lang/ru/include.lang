@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ParamTitle.SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="ParamTitle.SectionsPerPage"><![CDATA[Количество разделов на странице]]></data>
+	<data name="ParamTitle.FirstSortBy"><![CDATA[Поле для первой сортировки разделов]]></data>
+	<data name="ParamTitle.SecondSortBy"><![CDATA[Поле для второй сортировки разделов]]></data>
+	<data name="ParamTitle.FirstSortOrder"><![CDATA[Направление для первой сортировки разделов]]></data>
+	<data name="ParamTitle.SecondSortOrder"><![CDATA[Направление для второй сортировки разделов]]></data>
+	<data name="ParamText.SectionName"><![CDATA[Название раздела]]></data>
+	<data name="ParamText.Sort"><![CDATA[Сортировка]]></data>
+	<data name="ParamText.DateOfLastModification"><![CDATA[Дата последнего изменения]]></data>
+	<data name="ParamText.IBlockType"><![CDATA[Тип инфоблока]]></data>
+	<data name="ParamText.IBlock"><![CDATA[Инфоблок]]></data>
+	<data name="ParamText.IBlockSection"><![CDATA[Раздел инфоблока]]></data>
+	<data name="ParamText.Depth"><![CDATA[Глубина выборки]]></data>
+	<data name="ParamText.GetElements"><![CDATA[Выбирать элементы]]></data>
+	<data name="ParamText.SectionUrlTemplate"><![CDATA[Ссылка на раздел]]></data>
+	<data name="ParamText.ElementUrlTemplate"><![CDATA[Ссылка на элемент]]></data>
+	<data name="ParamText.NonStandart"><![CDATA[Нестандартные]]></data>
+	<data name="Page.Title"><![CDATA[Разделы и элементы]]></data>
+	<data name="Page.Description"><![CDATA[Выводит элементы инфоблока сгруппированные по разделам]]></data>
+	<data name="ParamText.Content"><![CDATA[Контент]]></data>
+	<data name="Group"><![CDATA[Инфоблоки]]></data>
+	<data name="ParamTitle.SectionActiveFilter"><![CDATA[Выбирать разделы по активности]]></data>
+	<data name="ParamTitle.ActiveFilter"><![CDATA[Выбирать элементы по активности]]></data>
+	<data name="ParamTitle.ActiveDateFilter"><![CDATA[Выбирать элементы по периоду активности]]></data>
+	<data name="ActiveFilter.Active"><![CDATA[только активные]]></data>
+	<data name="ActiveFilter.NotActive"><![CDATA[только неактивные]]></data>
+	<data name="ActiveFilter.All"><![CDATA[все]]></data>
+	<data name="IBlockElementName"><![CDATA[элемент]]></data>
+	<data name="AddNewElement"><![CDATA[Добавить {0}]]></data>
+	<data name="AddNewSection"><![CDATA[Добавить {0}]]></data>
+	<data name="EditElementMenuItem"><![CDATA[Редактировать {0}]]></data>
+	<data name="DeleteElementMenuItem"><![CDATA[Удалить {0}]]></data>
+	<data name="ElementDeletionConfirmation"><![CDATA[Вы действительно хотите удалить этот {0}?]]></data>
+</resources>

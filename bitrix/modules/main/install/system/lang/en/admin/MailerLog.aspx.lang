@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Event Log]]></data>
+	<data name="TableTitle.Send"><![CDATA[Mail sending log]]></data>
+	<data name="ColumnHeaderText.Status"><![CDATA[Status]]></data>
+	<data name="ColumnHeaderText.Update"><![CDATA[Changed]]></data>
+	<data name="ColumnHeaderText.Template"><![CDATA[Template]]></data>
+	<data name="ColumnHeaderText.Duplicate"><![CDATA[Copy]]></data>
+	<data name="ColumnHeaderText.Subject"><![CDATA[Subject]]></data>
+	<data name="ColumnHeaderText.To"><![CDATA[To]]></data>
+	<data name="ActionText.Send"><![CDATA[Send]]></data>
+	<data name="ActionConfirmDialogText.Confirm"><![CDATA[Are you sure you want to send the selected messages?]]></data>
+	<data name="Message.SendStatus"><![CDATA[Mail send status]]></data>
+	<data name="Option.AllSent"><![CDATA[Sent]]></data>
+	<data name="Option.SomeSent"><![CDATA[Partially sent]]></data>
+	<data name="Option.NoTemplate"><![CDATA[Template not found]]></data>
+	<data name="Option.All"><![CDATA[All]]></data>
+	<data name="Y"><![CDATA[Sent]]></data>
+	<data name="N"><![CDATA[Not Sent]]></data>
+	<data name="F"><![CDATA[Failure]]></data>
+	<data name="P"><![CDATA[Partially sent]]></data>
+	<data name="O"><![CDATA[Template not found]]></data>
+</resources>

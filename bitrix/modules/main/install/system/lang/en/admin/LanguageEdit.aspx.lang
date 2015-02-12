@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="EditTitle"><![CDATA[System Language Parameters]]></data>
+	<data name="EditPageTitle"><![CDATA[Edit "{0}" Language]]></data>
+	<data name="CreatePageTitle"><![CDATA[New Language]]></data>
+	<data name="TabTitle"><![CDATA[System Language Parameters]]></data>
+	<data name="Parameters"><![CDATA[Parameters]]></data>
+	<data name="List"><![CDATA[Languages]]></data>
+	<data name="ListDesc"><![CDATA[View list of languages]]></data>
+	<data name="Add"><![CDATA[Add Language]]></data>
+	<data name="AddDesc"><![CDATA[Adds a new language]]></data>
+	<data name="Copy"><![CDATA[Add Copy]]></data>
+	<data name="CopyDesc"><![CDATA[Duplicates language and all its attributes]]></data>
+	<data name="Delete"><![CDATA[Delete]]></data>
+	<data name="DeleteDesc"><![CDATA[Deletes language]]></data>
+	<data name="EdID"><![CDATA[ID]]></data>
+	<data name="EdActive"><![CDATA[Active]]></data>
+	<data name="EdName"><![CDATA[Title]]></data>
+	<data name="EdDefault"><![CDATA[Default]]></data>
+	<data name="EdSort"><![CDATA[Sort]]></data>
+	<data name="EdFormatDate"><![CDATA[Date Format]]></data>
+	<data name="EdFormatDate2"><![CDATA[(ex.: DD.MM.YYYY)]]></data>
+	<data name="EdFormatDateTime"><![CDATA[Date and Time Format]]></data>
+	<data name="EdFormatDateTime2"><![CDATA[(ex.: DD.MM.YYYY HH:MI:SS)]]></data>
+	<data name="EdEncoding"><![CDATA[Encoding]]></data>
+	<data name="EdDirection"><![CDATA[Direction]]></data>
+	<data name="LeftToRight"><![CDATA[Left-to-right]]></data>
+	<data name="RightToLeft"><![CDATA[Right-to-left]]></data>
+	<data name="ErrorID"><![CDATA[The language ID must contain 2 characters.]]></data>
+	<data name="ErrorSort"><![CDATA[The "Sort" parameter is missing.]]></data>
+	<data name="ErrorFormatDate"><![CDATA[The "Date Format" parameter is missing.]]></data>
+	<data name="ErrorFormatDateTime"><![CDATA[The "Date and Time Format" parameter is missing.]]></data>
+	<data name="ErrorEncoding"><![CDATA[The "Encoding" parameter is missing.]]></data>
+	<data name="ErrorDuplicate"><![CDATA[The specified language ID is already in use.]]></data>
+	<data name="ErrorName"><![CDATA[The "Language Name" parameter is missing.]]></data>
+	<data name="Error"><![CDATA[An error occurred while saving parameters.]]></data>
+	<data name="Edit"><![CDATA[Edit]]></data>
+	<data name="EditDesc"><![CDATA[Edit language]]></data>
+	<data name="Legend.Culture"><![CDATA[Language Culture:]]></data>
+	<data name="Exception.YouDontHaveRightsToPerformThisOperation"><![CDATA[You do not have permission to perform this operation.]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the current language?]]></data>
+</resources>

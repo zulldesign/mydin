@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Param.RootTitle"><![CDATA[Заголовок ссылки корневого раздела]]></data>
+	<data name="Param.RootUrl"><![CDATA[Ссылка на корневой раздел]]></data>
+	<data name="Goods"><![CDATA[Наша продукция]]></data>
+</resources>

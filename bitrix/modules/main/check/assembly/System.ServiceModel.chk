@@ -1,0 +1,8 @@
+﻿<%@ Control Language="C#" AutoEventWireup="false" ClassName="SystemServiceModel" %>
+<script runat="server">
+    protected override void OnInit(EventArgs e)
+    {
+        base.OnInit(e);
+        System.ServiceModel.FaultException exc = new System.ServiceModel.FaultException();
+    } 
+</script>

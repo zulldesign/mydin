@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Category.TagCloud"><![CDATA[Tag Cloud Parameters]]></data>
+	<data name="Param.NarrowSearch"><![CDATA[Narrow Search Area]]></data>
+	<data name="Param.PagingRecordsPerPage"><![CDATA[Tags Per Page]]></data>
+	<data name="Param.SizeDistribution"><![CDATA[Size Variation]]></data>
+	<data name="Param.SizeMin"><![CDATA[Smallest Size (pixels)]]></data>
+	<data name="Param.SizeMax"><![CDATA[Largest Size (pixels)]]></data>
+	<data name="Param.ColorDistribution"><![CDATA[Color Variation]]></data>
+	<data name="Param.ColorMin"><![CDATA[Starting Gradient Color]]></data>
+	<data name="Param.ColorMax"><![CDATA[Ending Gradient Color]]></data>
+	<data name="Option.DontUse"><![CDATA[Don't Use]]></data>
+	<data name="Option.Linear"><![CDATA[Linear]]></data>
+	<data name="Option.Exponential"><![CDATA[Exponential]]></data>
+	<data name="Option.Logarithmic"><![CDATA[Logarithmic]]></data>
+	<data name="LimitByTags"><![CDATA[Restrict To Tags]]></data>
+	<data name="Tags"><![CDATA[Tags]]></data>
+</resources>

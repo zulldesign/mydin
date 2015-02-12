@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="QuestionText.AboutNewImageUploading"><![CDATA[Upload new image?]]></data>
+	<data name="LegendText.Description"><![CDATA[Description:]]></data>
+	<data name="AnchorTitle.Img"><![CDATA[Enlarge]]></data>
+	<data name="ImageAlternateText.ImageDisplay"><![CDATA[Image]]></data>
+	<data name="CheckBoxText.Del"><![CDATA[Delete Image]]></data>
+	<data name="LiteralTextPartFile.ImageParameters"><![CDATA[File]]></data>
+	<data name="LiteralTextPartWidth.ImageParameters"><![CDATA[Width]]></data>
+	<data name="LiteralTextPartHeight.ImageParameters"><![CDATA[Height]]></data>
+	<data name="LiteralTextPartSize.ImageParameters"><![CDATA[Size]]></data>
+	<data name="LiteralTextPartIsNotImage.ImageParameters"><![CDATA[The uploaded file is not an image.]]></data>
+</resources>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Список пользователей]]></data>
+	<data name="Description"><![CDATA[Отображение списка пользователей сайта]]></data>
+	<data name="Category"><![CDATA[Пользователь]]></data>
+	<data name="Param.SortBy"><![CDATA[Сортировка по свойству]]></data>
+	<data name="Param.SortBy.NameToShowUp"><![CDATA[Отображаемое имя]]></data>
+	<data name="Param.SortBy.DateOfRegistration"><![CDATA[Дата регистрации]]></data>
+	<data name="Param.SortDirection"><![CDATA[Направление сортировки]]></data>
+	<data name="Param.SortDirection.Asc"><![CDATA[по возрастанию]]></data>
+	<data name="Param.SortDirection.Desc"><![CDATA[по убыванию]]></data>
+	<data name="Param.FilterByGender"><![CDATA[Фильтровать по полу]]></data>
+	<data name="Param.FilterByGender.None"><![CDATA[[без фильтрации]]]></data>
+	<data name="Param.FilterByGender.Male"><![CDATA[мужской]]></data>
+	<data name="Param.FilterByGender.Female"><![CDATA[женский]]></data>
+	<data name="Param.FilterByNameToShowUp"><![CDATA[Фильтровать по отображаемому имени]]></data>
+	<data name="Param.FilterByDayOfBirth"><![CDATA[Фильтровать по дню даты рождения]]></data>
+	<data name="Param.FilterByMonthOfBirth"><![CDATA[Фильтровать по месяцу даты рождения]]></data>
+	<data name="Param.ProhibitedUserIds"><![CDATA[Скрывать указанных пользователей (ИД пользователей через запятую)]]></data>
+	<data name="Param.UserProfileUrlTemplate"><![CDATA[Шаблон ссылки на профиль пользователя]]></data>
+	<data name="Error.General"><![CDATA[Общая ошибка]]></data>
+	<data name="Error.PageDoesNotExist"><![CDATA[Страница не найдена]]></data>
+	<data name="Error.DataReadingFailed"><![CDATA[Ошибка при чтении данных]]></data>
+	<data name="Param.FilterByUserCustomProperty"><![CDATA[Фильтровать по набираемым свойствам пользователей]]></data>
+	<data name="Param.UserCustomPropertyFilterSettings"><![CDATA[Набираемые свойства пользователей]]></data>
+	<data name="Category.Rating"><![CDATA[Рейтинги]]></data>
+	<data name="Param.EnableSortingByRating"><![CDATA[Включить сортировку по рейтингам]]></data>
+	<data name="Param.SortByRatingId"><![CDATA[Сортировка по рейтингу]]></data>
+	<data name="TotalValueCustomFieldEditFormLabel"><![CDATA[Результат голосования]]></data>
+	<data name="TotalVotesCustomFieldEditFormLabel"><![CDATA[Общее количество голосов]]></data>
+</resources>

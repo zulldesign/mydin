@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Integer]]></data>
+	<data name="DefaultValue"><![CDATA[Default Value]]></data>
+	<data name="MaxValue"><![CDATA[Maximum value (empty means no validation)]]></data>
+	<data name="MinValue"><![CDATA[Minimum value (empty means no validation)]]></data>
+	<data name="RowsCount"><![CDATA[Input Field Rows]]></data>
+	<data name="TextBoxSize"><![CDATA[Input Field Size (number of characters)]]></data>
+	<data name="Error.FieldRangeInvalid"><![CDATA[The value of "{0}" must be from {1} to {2}.]]></data>
+	<data name="Error.FieldIsNotInt"><![CDATA[The value of "{0}" must be an integer value.]]></data>
+	<data name="Error.DefaultRangeInvalid"><![CDATA[The value of "{0}" must be within the specified limits.]]></data>
+	<data name="Error.Required"><![CDATA[The field "{0}" is required.]]></data>
+</resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <data name="PageTitle"><![CDATA[Заголовок страницы]]></data>
+  <data name="MasterTitle"><![CDATA[Название страницы]]></data>
+  <data name="TabText.Tab1"><![CDATA[Заголовок закладки]]></data>
+  <data name="TabTitle.Tab1"><![CDATA[Название закладки]]></data>
+  <data name="ActionText.Action1"><![CDATA[Заголовок действия]]></data>
+  <data name="ActionTitle.Action1"><![CDATA[Описание действия]]></data>
+  <data name="Message.OperationSuccessful"><![CDATA[Операция прошла успешно]]></data>
+  <data name="Message.OperationErrors"><![CDATA[Операция прошла c ошибками]]></data>
+</resources>

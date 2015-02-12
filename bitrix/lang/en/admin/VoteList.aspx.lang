@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Standard.PageTitle"><![CDATA[All Votes]]></data>
+	<data name="StaticFilter.All.PageTitle"><![CDATA[All Votes In Voting #{0}]]></data>
+	<data name="StaticFilter.Y.PageTitle"><![CDATA[Ayes In Voting #{0}]]></data>
+	<data name="StaticFilter.N.PageTitle"><![CDATA[Noes In Voting #{0}]]></data>
+	<data name="MenuToolbarText.Go2ListAll"><![CDATA[All Votes]]></data>
+	<data name="MenuToolbarText.Go2List"><![CDATA[All Votes In Voting]]></data>
+	<data name="MenuToolbarText.Go2YList"><![CDATA[Ayes In Voting]]></data>
+	<data name="MenuToolbarText.Go2NList"><![CDATA[Noes In Voting]]></data>
+	<data name="MenuToolbarTitle.Go2ListAll"><![CDATA[View all votes]]></data>
+	<data name="MenuToolbarTitle.Go2List"><![CDATA[View all votes in voting]]></data>
+	<data name="MenuToolbarTitle.Go2YList"><![CDATA[View ayes in this voting]]></data>
+	<data name="MenuToolbarTitle.Go2NList"><![CDATA[View noes in this voting]]></data>
+	<data name="ColumnHeaderText.Id"><![CDATA[ID]]></data>
+	<data name="ColumnHeaderText.VotingSubject"><![CDATA[<a name="Go2Legend" href="#VotingSubjectLegend">Voting Subject</a>]]></data>
+	<data name="ColumnHeaderText.VotingId"><![CDATA[Voting ID]]></data>
+	<data name="ColumnHeaderText.VoteValue"><![CDATA[<a name="Go2Legend" href="#VoteValue">Value</a>]]></data>
+	<data name="ColumnHeaderText.User"><![CDATA[<a name="Go2Legend" href="#User">Author</a>]]></data>
+	<data name="ColumnHeaderText.CreatedUtc"><![CDATA[<a name="Go2Legend" href="#CreatedUtc">Created</a>]]></data>
+	<data name="VotingEntityType.USER"><![CDATA[User]]></data>
+	<data name="VotingEntityType.FORUMTOPIC"><![CDATA[Forum Topic]]></data>
+	<data name="VotingEntityType.FORUMPOST"><![CDATA[Forum Post]]></data>
+	<data name="VotingEntityType.IBLOCKELEMENT"><![CDATA[Information Block Element]]></data>
+	<data name="VotingEntityType.BLOGPOST"><![CDATA[Blog Post]]></data>
+	<data name="VotingEntityType.BLOGCOMMENT"><![CDATA[Blog Comment]]></data>
+	<data name="PopupText.Edit"><![CDATA[Edit Vote]]></data>
+	<data name="PopupText.Delete"><![CDATA[Delete Vote]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Delete Vote]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this vote?]]></data>
+	<data name="TableTitle"><![CDATA[All Votes]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the selected votings?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Are you sure you want to delete all the votes?]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete Vote]]></data>
+	<data name="Error.DeleteFailture"><![CDATA[Cannot delete the vote.]]></data>
+	<data name="FilterText.CreatedUtc"><![CDATA[Created On]]></data>
+	<data name="FilterText.VoteValue"><![CDATA[Vote Value]]></data>
+	<data name="FilterText.VotingId"><![CDATA[Voting ID]]></data>
+	<data name="FilterText.User"><![CDATA[Vote Author]]></data>
+	<data name="FieldHint"><![CDATA[Click the column header to view <a name="Go2Legend" href="#VotingSubjectLegend">help on column</a>.]]></data>
+	<data name="FieldLegend"><![CDATA[<a name="VotingSubjectLegend" href="#Go2Legend">Voting Subject</a> is description of the voting object. If the object is added to the search module index, the description is a link.</p>
+<p><a name="VoteValue" href="#Go2Legend">Value</a> is the vote value.<p/>
+<p><a name="User" href="#Go2Legend">Author</a> is the person who gave the vote.<p/>
+<p><a name="CreatedUtc" href="#Go2Legend">Created On</a> the date and time the vote occurred.<p/>]]></data>
+</resources>

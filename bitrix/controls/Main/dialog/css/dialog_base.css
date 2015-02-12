@@ -1,0 +1,139 @@
+﻿div.bx-dialog-container-wrapper
+{
+	width:600px;
+	display:block;
+	position:absolute;
+	z-index:1000;
+	overflow:hidden;
+	zoom:1;
+	background-color: #DDDBD4;
+	border:none 0; 
+	padding:0;
+	top:300px;
+	left:300px;
+}
+div.bx-dialog-container-wrapper, div.bx-dialog-container-wrapper td {color: #000;}
+div.bx-dialog-container
+{
+	display:block;
+	border:solid 1px #5D5D5D;
+	padding:8px;
+	text-align: left;
+}
+div.bx-dialog-clear
+{
+	clear:both;
+	font-size:0;
+	height:0;
+	width:0;
+	margin:0;
+	padding:0;
+	border: none 0;
+}
+div.bx-dialog-titlebar-wrapper
+{
+}
+div.bx-dialog-titlebar
+{
+	background-color:#F4F3F1;
+	padding:8px;
+	position:relative;
+	overflow:hidden;
+	zoom:1;
+}
+/*
+div.bx-dialog-title-wrapper
+{
+	float:left;	
+	overflow:hidden;
+	zoom:1;
+}
+*/
+div.bx-dialog-title-text
+{
+	color:#000000;
+	font:normal normal bold 12pt Arial,Sans-serif;  
+	margin: 0 30px 0 0;
+	padding:0;
+	white-space:nowrap;
+	overflow:hidden;
+	cursor:default;
+	zoom:1;	
+}
+div.bx-dialog-title-close-container
+{
+	cursor:pointer;
+	position:absolute;
+	top:8px;
+	right:8px;
+	overflow:hidden;
+	zoom:1;	
+}
+div.bx-dialog-title-close
+{
+	width:15px;
+	height:15px;
+	background-image:url(../images/x.gif);
+	background-position:0 0;
+	background-repeat:no-repeat;	
+	display:inline-block;
+}
+div.bx-dialog-error-container
+{
+	color:Red;
+	font:normal normal normal 12px Arial,Sans-serif;
+	display:block;
+	border:0 none;
+	overflow:auto;
+	padding: 8px 8px 0;
+	background-color:#FFFFFF;	
+}
+div.bx-dialog-error-content
+{
+	border:0 none;
+	padding: 0;	
+	margin:0;
+}
+div.bx-dialog-content-container
+{
+	font:normal normal normal 12px Arial,Sans-serif;
+	display:block;
+	border:0 none;
+	overflow:auto;
+	padding: 8px;
+	background-color:#FFFFFF;
+}
+div.bx-dialog-button-pane
+{
+	display:block;
+	background-color: #FFFFFF;
+	border: none 0; 
+	margin:0;
+	padding:0;
+	zoom:1;	
+}
+div.bx-dialog-button-container
+{
+	height:2em;
+	border: none 0; 
+	margin:0;
+	padding: 0 0.4em 0.4em 0;
+	zoom:1;	
+}
+
+div.bx-dialog-button-container div.bx-dialog-button-wrapper
+{
+	border: none 0; 
+	margin:0;
+	padding: 0;
+	zoom:1;	
+	float:right;		
+}
+
+button.bx-dialog-button
+{
+	float:left;
+	cursor:pointer;
+	line-height:1.5em;
+	margin:0 0 0 0.3em;
+}

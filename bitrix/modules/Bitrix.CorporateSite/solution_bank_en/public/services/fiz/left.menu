@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menuitem>
+		<title>Bank Cards</title>
+		<sort>10</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/fiz/cards/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Personal Loan</title>
+		<sort>20</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/fiz/credit/</link>
+		</links>
+	</menuitem>
+</menu>

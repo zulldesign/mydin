@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="SystemPasswordRecoveryAltCode.Title"><![CDATA[Password Recovery with Check Word]]></data>
+	<data name="SystemPasswordRecoveryAltCode.Description"><![CDATA[Recovers user password using check word]]></data>
+	<data name="Security"><![CDATA[Security]]></data>
+	<data name="PathToAuthorizationScript"><![CDATA[Path To Authorization Script]]></data>
+	<data name="Error.AnErrorHasOccurredWhileChangingPassword"><![CDATA[Password change error: ]]></data>
+	<data name="Error.ControlStringIsIncorrect"><![CDATA[The check word is incorrect.]]></data>
+	<data name="Error.PasswordIsInvalid"><![CDATA[The password is incorrect: ]]></data>
+	<data name="Error.ProviderError"><![CDATA[Provider error: ]]></data>
+	<data name="Error.GereralError"><![CDATA[Error: ]]></data>
+	<data name="Error.UserIsNotFound"><![CDATA[User was not found.]]></data>
+	<data name="Error.PasswordAndItsConfirmationDontMatch"><![CDATA[The password does not match the confirmation.]]></data>
+	<data name="UseCaptcha"><![CDATA[Use CAPTCHA]]></data>
+</resources>

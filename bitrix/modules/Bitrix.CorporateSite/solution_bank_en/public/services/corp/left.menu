@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+	<menuitem>
+		<title>Trade Services</title>
+		<sort>10</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/corp/trade/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Card Solution</title>
+		<sort>20</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/corp/card/</link>
+		</links>
+	</menuitem>
+	<menuitem>
+		<title>Merchant Services</title>
+		<sort>30</sort>
+		<condition type="None" value="" />
+		<links>
+			<link>bank/services/corp/merchant/</link>
+		</links>
+	</menuitem>
+</menu>

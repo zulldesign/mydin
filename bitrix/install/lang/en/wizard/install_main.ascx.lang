@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[System Installation]]></data>
+	<data name="SubTitle.Database"><![CDATA[Installing the kernel database]]></data>
+	<data name="SubTitle.Files"><![CDATA[Installing the kernel files]]></data>
+	<data name="SubTitle.AppConfiguration"><![CDATA[Configuring the web application parameters]]></data>
+	<data name="SubTitle.Restart"><![CDATA[Restarting the web application]]></data>
+	<data name="SubTitle.Configuration"><![CDATA[Performing the kernel configuration]]></data>
+</resources>

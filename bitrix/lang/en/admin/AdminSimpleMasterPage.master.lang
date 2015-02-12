@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="MessageHideMenu"><![CDATA[Hide menu]]></data>
+	<data name="MessageShowMenu"><![CDATA[Show menu]]></data>
+	<data name="MessageHideButtons"><![CDATA[Minimize buttons]]></data>
+	<data name="MessageShowButtons"><![CDATA[Maximize buttons]]></data>
+	<data name="MessageFilterInactive"><![CDATA[Filter is inactive, showing all records]]></data>
+	<data name="MessageFilterActive"><![CDATA[Filter is active, showing only matching records]]></data>
+	<data name="MessageFilterLess"><![CDATA[Hide Filter]]></data>
+	<data name="MessageLoading"><![CDATA[Loading...]]></data>
+	<data name="MessageMenuLoading"><![CDATA[Loading...]]></data>
+	<data name="MessageNoData"><![CDATA[- No data -]]></data>
+	<data name="MessageExpandTabs"><![CDATA[Expand Tabs]]></data>
+	<data name="MessageCollapseTabs"><![CDATA[Collapse Tabs]]></data>
+	<data name="MessagePanelFixOn"><![CDATA[Pin bar]]></data>
+	<data name="MessagePanelFixOff"><![CDATA[Unpin bar]]></data>
+</resources>

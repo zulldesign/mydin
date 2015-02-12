@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<forum 
+			xmlid="Bitrix.CommunitySite.Forum.#SiteId#.general" 
+			name="General Forum"
+			sort="10"
+			active="true" 
+			allowbbcode="true"
+			allowsmiles="true"
+			indexcontent="true">
+		<description><![CDATA[Forum for discussions on general topics]]></description>
+	</forum>
+
+
+	<forum
+			xmlid="Bitrix.CommunitySite.Forum.#SiteId#.about"
+			name="About Our Site"
+			sort="20"
+			active="true"
+			allowbbcode="true"
+			allowsmiles="true"
+			indexcontent="true">
+		<description><![CDATA[Questions and suggestions for the site authors]]></description>
+	</forum>	
+	
+</data>

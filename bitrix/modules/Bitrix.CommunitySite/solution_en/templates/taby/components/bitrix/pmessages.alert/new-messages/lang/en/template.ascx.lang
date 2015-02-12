@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title.NewMessagesCount"><![CDATA[({0} new)]]></data>
+	<data name="Title.PrivateMessages"><![CDATA[Personal Messages]]></data>
+	<data name="Title.NoNewMessages"><![CDATA[There are no new messages]]></data>
+	<data name="ThereAreNewMessages"><![CDATA[You have new messages]]></data>
+	<data name="NextMessage"><![CDATA[Next >]]></data>
+	<data name="PrevMessage"><![CDATA[< Prev]]></data>
+	<data name="InTopic"><![CDATA[Topic]]></data>
+	<data name="SentDate"><![CDATA[Sent]]></data>
+	<data name="UserName"><![CDATA[User]]></data>
+	<data name="ReadMessage"><![CDATA[Read Message]]></data>
+	<data name="UserWantToStartConv"><![CDATA[{0} wants to start a conversation with you]]></data>
+	<data name="UserUnswered"><![CDATA[{0} replied in private conversation]]></data>
+	<data name="UnswersCount"><![CDATA[Replies]]></data>
+	<data name="Ignore"><![CDATA[Ignore]]></data>
+	<data name="Of"><![CDATA[of]]></data>
+	<data name="Message"><![CDATA[Message]]></data>
+</resources>

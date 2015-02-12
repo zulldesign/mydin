@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ForumVotingSubjectLabel.ascx.cs" Inherits="bitrix_admin_controls_ForumVotingSubjectLabel" %>
+<asp:Label ID="VotingSubject" runat="server"></asp:Label>

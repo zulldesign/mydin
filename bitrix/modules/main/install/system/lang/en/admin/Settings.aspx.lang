@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.GlobalSettings"><![CDATA[Module Settings]]></data>
+	<data name="MasterTitle.GlobalSettings"><![CDATA[{0}: Module Settings]]></data>
+</resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="InformationBlock"><![CDATA[Информационный блок]]></data>
+	<data name="StepDuration"><![CDATA[Длительность шага в секундах (0 - выполнять экспорт за один шаг)]]></data>
+	<data name="Sections"><![CDATA[Разделы]]></data>
+	<data name="Elements"><![CDATA[Элементы]]></data>
+	<data name="EditPageTitle"><![CDATA[Экспорт в XML]]></data>
+	<data name="EditTitle"><![CDATA[Настройка параметров экспорта в XML]]></data>
+	<data name="PageTitle"><![CDATA[Настройки экспорта в XML]]></data>
+	<data name="MasterTitle"><![CDATA[Настройки экспорта в XML]]></data>
+	<data name="Parameters"><![CDATA[Параметры]]></data>
+	<data name="SelectItem.IBlockType"><![CDATA[Выберите тип информационного блока]]></data>
+	<data name="SelectItem.IBlock"><![CDATA[Выберите информационный блок]]></data>
+	<data name="SelectItem.ExportActive"><![CDATA[выгружать только активные]]></data>
+	<data name="SelectItem.ExportAll"><![CDATA[выгружать все]]></data>
+	<data name="SelectItem.ExportNone"><![CDATA[не выгружать]]></data>
+	<data name="SaveFileAs"><![CDATA[Сохранить файл данных как...]]></data>
+	<data name="DestinationFile"><![CDATA[Имя файла данных относительно корня сайта]]></data>
+	<data name="DestinationFileWarning"><![CDATA[Если такой файл существует, то он будет перезаписан]]></data>
+	<data name="StartExport"><![CDATA[Начать экспорт]]></data>
+	<data name="StopExport"><![CDATA[Прекратить экспорт]]></data>
+	<data name="Progress.Section"><![CDATA[Разделов экспортировано]]></data>
+	<data name="Progress.Elements"><![CDATA[Элементов экспортировано]]></data>
+	<data name="Progress.Total"><![CDATA[Всего экспортировано]]></data>
+</resources>

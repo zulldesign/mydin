@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <menuitem>
+    <title>Feedback</title>
+    <sort>50</sort>
+    <condition type="None" value="" />
+    <links>
+      <link>bank/contacts/feedback/</link>
+    </links>
+  </menuitem>	
+</menu>

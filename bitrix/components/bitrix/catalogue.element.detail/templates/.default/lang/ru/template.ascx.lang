@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Text.YouMayAdjustOutputOfCatalogueItemInformation"><![CDATA[Вы можете настроить вывод подробной информации об элементе каталога.]]></data>
+	<data name="Byte"><![CDATA[Б]]></data>
+	<data name="Param.BackTitle"><![CDATA[Заголовок ссылки возврата]]></data>
+	<data name="DefaultBackTitle"><![CDATA[Вернуться к списку]]></data>
+	<data name="Param.BackUrlTemplate"><![CDATA[Шаблон ссылки возврата]]></data>
+	<data name="PriceVATIncl"><![CDATA[в том числе НДС]]></data>
+	<data name="PriceVATExcl"><![CDATA[НДС]]></data>
+	<data name="FromQuantity"><![CDATA[от {0}]]></data>
+	<data name="Add2CartBtnText"><![CDATA[В корзину]]></data>
+	<data name="BuyBtnText"><![CDATA[Купить]]></data>
+	<data name="Quantity"><![CDATA[Количество]]></data>
+	<data name="YourPrice"><![CDATA[Ваша цена]]></data>
+	<data name="YourQuantity"><![CDATA[Количество]]></data>
+	<data name="AlreadyInCart"><![CDATA[Уже в корзине]]></data>
+	<data name="AlreadyInCartWithQty"><![CDATA[В вашей корзине {0} ед.]]></data>
+	<data name="SkuLegend"><![CDATA[Пожалуйста, выберите нужный вариант этого товара]]></data>
+	<data name="Product.Unavailable"><![CDATA[Нет в наличии]]></data>
+</resources>

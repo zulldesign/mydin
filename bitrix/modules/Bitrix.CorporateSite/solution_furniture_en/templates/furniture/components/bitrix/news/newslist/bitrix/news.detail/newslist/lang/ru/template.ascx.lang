@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Новость детально" необходимо настроить]]></data>
+	<data name="BackToNews"><![CDATA[Назад к списку новостей]]></data>
+</resources>

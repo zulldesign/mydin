@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="BackButtonText"><![CDATA[Список категорий]]></data>
+	<data name="BackButtonTitle"><![CDATA[Вернуться к списку категорий]]></data>
+	<data name="NewButtonTitle"><![CDATA[Добавить новую категорию форумов]]></data>
+	<data name="DeleteButtonTitle"><![CDATA[Удалить категорию]]></data>
+	<data name="DeleteConfirmText"><![CDATA[Вы действительно хотите удалить данную категорию?]]></data>
+	<data name="BaseSettingsTabText"><![CDATA[Категория форумов]]></data>
+	<data name="BaseSettingsTabTitle"><![CDATA[Настройки категории форумов]]></data>
+	<data name="Category.Name"><![CDATA[Название]]></data>
+	<data name="Error.EmptyCategoryName"><![CDATA[Введите название категории]]></data>
+	<data name="Category.Sort"><![CDATA[Сортировка]]></data>
+	<data name="Category.XmlId"><![CDATA[Внешний ключ]]></data>
+	<data name="Error.CategoryNotFound"><![CDATA[Категория не найдена]]></data>
+	<data name="EditPageTitle"><![CDATA[Редактирование категории "{0}"]]></data>
+	<data name="CreatePageTitle"><![CDATA[Создание категории]]></data>
+</resources>

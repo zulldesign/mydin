@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Information"><![CDATA[
+		
+<div class="blog-metaweblog-description">
+
+<p>To make posting to blogs easier, you can use any text editor supporting <a href="http://en.wikipedia.org/wiki/MetaWeblog">MetaWeblog API</a> (MWA). MWA is the programming interface allowing the platform applications to manage blog posts.</p>
+
+<p>As an example, we are going to install and configure Windows Live Writer  for using with your blog.</p>
+
+<ul>
+<li>Download and install Windows Live Writer (<a href="http://download.live.com/writer" title="Download and install Windows Live Writer">http://download.live.com/writer</a>).</li>
+<li>Run Windows Live Writer. The welcome screen will bring up.</li>
+</ul>
+
+<p>Click <b>Next</b> to open the blog service selection page. Select <b>Other blog service</b> here.</p>
+
+<p align="center"><img src="{0}images/en/2.png" alt="Selecting the blog service"/><br /><i>Selecting the blog service</i></p>
+
+<p>Click <b>Next</b> to open the parameters window.</p>
+
+<p align="center"><img src="{0}images/en/3.png" alt="Blog parameters window" /><br /><i>Blog parameters window</i></p>
+
+<p>Provide here:</p>
+
+<ul>
+	<li>the blog Web address <a href="{1}" title="Blog Web address">{1}</a></li>
+	<li>the Username</li>
+	<li>the Password</li>
+</ul>
+
+
+<p><b>Note</b>: checking the <b>Remember my password</b> box will save you from entering your password again and again when running Windows Live Writer next time.</p>
+<p><b>Note</b>: you can connect to post to your blog using proxy if required. Click <b>Set proxy</b> to proceed to the proxy server configuration dialog.</p>
+
+<p>Click <b>Next</b>. The program will attempt to connect to your site. However, Windows Live Writer will not connect to your blog automatically since it is not still aware of the type of your blog. Thus, the blog type selection window will bring up.</p>
+
+<p align="center"><img src="{0}images/en/5.png" alt="Setting up the blog type"/><br /><i>Setting up the blog type</i></p>
+
+<p>Select <b>MetaWeblog API</b> as the blog type.<br/>
+Type <a href="{2}">{2}</a> in <b>Remote posting URL for your blog</b> field. 
+<br />Click <b>Next</b>. The program will connect to your blog and prompt for permission to create a temporary post in order to acquire the page design.</p>
+
+<p>After you confirm or decline the temporary post, Windows Live Writer will start.</p>
+
+</div>	
+
+]]></data>
+</resources>

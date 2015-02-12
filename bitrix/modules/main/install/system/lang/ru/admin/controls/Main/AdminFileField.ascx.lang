@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="QuestionText.AboutNewImageUploading"><![CDATA[Загрузить новый файл?]]></data>
+	<data name="LegendText.Description"><![CDATA[Описание:]]></data>
+	<data name="AnchorTitle.Img"><![CDATA[Увеличить]]></data>
+	<data name="ImageAlternateText.ImageDisplay"><![CDATA[Изображение]]></data>
+	<data name="CheckBoxText.Del"><![CDATA[Удалить файл]]></data>
+	<data name="LiteralTextPartFile.ImageParameters"><![CDATA[Файл]]></data>
+	<data name="LiteralTextPartWidth.ImageParameters"><![CDATA[Ширина]]></data>
+	<data name="LiteralTextPartHeight.ImageParameters"><![CDATA[Высота]]></data>
+	<data name="LiteralTextPartSize.ImageParameters"><![CDATA[Размер]]></data>
+	<data name="ButtonCaption.Clear"><![CDATA[Очистить]]></data>
+	<data name="QuestionText.AboutXapUploading"><![CDATA[Загрузить новый .XAP файл?]]></data>
+</resources>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="CheckBoxText.IsLocal"><![CDATA[Local file system for each application instance]]></data>
+</resources>

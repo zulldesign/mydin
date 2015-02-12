@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TypeName.BlogPost"><![CDATA[Blog Post]]></data>
+	<data name="TypeName.BlogComment"><![CDATA[Blog Comment]]></data>
+</resources>

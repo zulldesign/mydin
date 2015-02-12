@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PostsNotFound"><![CDATA[В блогах пока нет записей.]]></data>
+	<data name="CommentLinkTitle"><![CDATA[Ссылка на комментарий]]></data>
+	<data name="DatePublishedTitle"><![CDATA[Время публикации]]></data>
+	<data name="Title"><![CDATA[Шаблон для главной страницы]]></data>
+</resources>

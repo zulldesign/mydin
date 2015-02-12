@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TemplateTitle"><![CDATA[список воспроизведения с проигрывателем]]></data>
+	<data name="MediaGalleryElementListComponentErrIBlockIsNotFound"><![CDATA[Не найден информационный блок]]></data>
+	<data name="MediaGalleryElementListComponentErrIBlockSectionIsNotFound"><![CDATA[Не найдена секция информационного блока]]></data>
+</resources>

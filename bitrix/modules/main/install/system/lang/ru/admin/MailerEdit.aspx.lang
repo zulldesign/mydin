@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Настройка почтовых шаблонов]]></data>
+	<data name="MasterTitle"><![CDATA[Редактирование почтового шаблона]]></data>
+	<data name="TabText.Template"><![CDATA[Параметры]]></data>
+	<data name="TabTitle.Template"><![CDATA[Параметры почтового шаблона]]></data>
+	<data name="EdUpdated"><![CDATA[Последнее обновление]]></data>
+	<data name="EdActive"><![CDATA[Активен]]></data>
+	<data name="EventTypes.PageTitle"><![CDATA[Типы почтовых событий]]></data>
+	<data name="EventTypes.MasterTitle"><![CDATA[Типы почтовых событий]]></data>
+	<data name="EventTypes.TableTitle"><![CDATA[Типы событий]]></data>
+	<data name="EventTypes.ColumnId"><![CDATA[Идентификатор типа]]></data>
+	<data name="EventTypes.ColumnName"><![CDATA[Название]]></data>
+	<data name="FromLabel"><![CDATA[Отправитель]]></data>
+	<data name="ToLabel"><![CDATA[Адресат]]></data>
+	<data name="SubjectLabel"><![CDATA[Тема]]></data>
+	<data name="BodyTypeLabel"><![CDATA[Тип тела письма]]></data>
+	<data name="BccLabel"><![CDATA[Скрытая копия]]></data>
+	<data name="SiteLabel"><![CDATA[Сайты]]></data>
+	<data name="TextLabel"><![CDATA[Текст]]></data>
+	<data name="HtmlLabel"><![CDATA[HTML]]></data>
+	<data name="Body"><![CDATA[Тело сообщения]]></data>
+	<data name="AvailableFields"><![CDATA[Доступные поля]]></data>
+	<data name="MailEventType"><![CDATA[Тип почтового события]]></data>
+	<data name="ActionText.Templates"><![CDATA[Список шаблонов]]></data>
+	<data name="ActionTitle.Templates"><![CDATA[Перейти в список шаблонов]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новый почтовый шаблон]]></data>
+	<data name="ActionTitle.Copy"><![CDATA[Создать копию текущего почтового шаблона]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить текущий почтовый шаблон]]></data>
+	<data name="Message.OperationSuccessful"><![CDATA[Операция прошла успешно]]></data>
+	<data name="Message.OperationErrors"><![CDATA[Операция прошла c ошибками]]></data>
+	<data name="Message.FieldIsEmpty"><![CDATA[Поле "{0}" не заполнено]]></data>
+	<data name="ImageToolTip.EventType"><![CDATA[Выберите тип почтового шаблона]]></data>
+	<data name="ImageToolTip.From"><![CDATA[Введите E-Mail отправителя]]></data>
+	<data name="ImageToolTip.To"><![CDATA[Введите E-Mail получателя]]></data>
+	<data name="ImageToolTip.Sites"><![CDATA[Выберите хотя бы один сайт]]></data>
+	<data name="DefaultEmail"><![CDATA[E-Mail адрес по умолчанию]]></data>
+	<data name="SiteName"><![CDATA[Название сайта]]></data>
+	<data name="ServerUrl"><![CDATA[URL сервера]]></data>
+	<data name="ApplicationPath"><![CDATA[Путь к веб-приложению, например "/BitDotNet" (без '/' на конце)]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы действительно желаете удалить текущий шаблон почтового сообщения?]]></data>
+</resources>

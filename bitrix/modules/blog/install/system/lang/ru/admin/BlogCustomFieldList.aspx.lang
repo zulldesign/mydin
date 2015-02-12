@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Пользовательские поля]]></data>
+	<data name="ColumnFieldName"><![CDATA[Название поля]]></data>
+	<data name="ColumnId"><![CDATA[ID]]></data>
+	<data name="ColumnSort"><![CDATA[Сорт.]]></data>
+	<data name="ColumnType"><![CDATA[Тип данных]]></data>
+	<data name="ColumnContext"><![CDATA[Контекст]]></data>
+	<data name="OptionText.All"><![CDATA[(все)]]></data>
+	<data name="FilterText.Multiple"><![CDATA[Множественное]]></data>
+	<data name="FilterText.Required"><![CDATA[Обязательное]]></data>
+	<data name="FilterText.Filter"><![CDATA[Фильтр]]></data>
+	<data name="OptionText.Any"><![CDATA[(любой)]]></data>
+	<data name="FilterText.DisplayInList"><![CDATA[Показывать в списке]]></data>
+	<data name="FilterText.AllowModification"><![CDATA[Разрешать редактирование]]></data>
+	<data name="FilterText.TakePartInSearch"><![CDATA[Участвует в поиске]]></data>
+	<data name="FilterText.Undefined"><![CDATA[Не определено]]></data>
+	<data name="FilterText.DontDisplay"><![CDATA[Не показывать]]></data>
+	<data name="FilterText.ExactFit"><![CDATA[Точное совпадение]]></data>
+	<data name="FilterText.MaskSearch"><![CDATA[Поиск по маске]]></data>
+	<data name="FilterText.SubstringSearch"><![CDATA[Поиск по подстроке]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранное пользовательское поле?]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные пользовательские поля?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕ пользовательские поля из списка?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть пользовательское поле]]></data>
+	<data name="InsufficientRightsToDeleteCustomFields"><![CDATA[Недостаточно прав для удаления пользовательских полей]]></data>
+	<data name="Context.Post"><![CDATA[Сообщение]]></data>
+	<data name="Context.Blog"><![CDATA[Блог]]></data>
+	<data name="Context.Unknown"><![CDATA[<неизвестный>]]></data>
+	<data name="ButtonCaption.AddCustomFieldForPost"><![CDATA[Добавить для сообщения]]></data>
+	<data name="ButtonCaption.AddCustomFieldForBlog"><![CDATA[Добавить для блога]]></data>
+</resources>

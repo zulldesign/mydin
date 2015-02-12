@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title.AddFolder"><![CDATA[Add]]></data>
+	<data name="Label.NewFolder"><![CDATA[New Folder]]></data>
+</resources>

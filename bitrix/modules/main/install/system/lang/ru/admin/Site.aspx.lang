@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Список сайтов]]></data>
+	<data name="MasterTitle"><![CDATA[Список сайтов]]></data>
+	<data name="TableTitle"><![CDATA[Сайты]]></data>
+	<data name="ID"><![CDATA[ID]]></data>
+	<data name="Name"><![CDATA[Название]]></data>
+	<data name="Active"><![CDATA[Акт.]]></data>
+	<data name="Sort"><![CDATA[Сортировка]]></data>
+	<data name="Directory"><![CDATA[Папка]]></data>
+	<data name="default"><![CDATA[По умолчанию]]></data>
+	<data name="Edit"><![CDATA[Изменить]]></data>
+	<data name="EditDesc"><![CDATA[Изменить]]></data>
+	<data name="Copy"><![CDATA[Копировать]]></data>
+	<data name="CopyDesc"><![CDATA[Копировать]]></data>
+	<data name="Delete"><![CDATA[Удалить]]></data>
+	<data name="DeleteDesc"><![CDATA[Удалить]]></data>
+</resources>

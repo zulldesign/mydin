@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="BlogGroup.Label"><![CDATA[Участие]]></data>
+	<data name="BlogGroup.InGroup"><![CDATA[в группе ]]></data>
+	<data name="BlogGroup.ChooseBlog"><![CDATA[- выберите блог -]]></data>
+	<data name="BlogGroup.ChooseGroup"><![CDATA[- выберите группу -]]></data>
+	<data name="Policy.Label"><![CDATA[Политика]]></data>
+	<data name="Policy.Promotion"><![CDATA[Добавление в группу (прямое действие)]]></data>
+	<data name="Policy.Demotion"><![CDATA[Удаление из группы (обратное действие)]]></data>
+	<data name="Log.Promotion.Title"><![CDATA[Включение пользователя в группу блога]]></data>
+	<data name="Log.Promotion.Body"><![CDATA[На основании проверки #{0} пользователь {1} ({2}) [{3}] был включен в группу '{4}'{5}. {6}]]></data>
+	<data name="Log.Demotion.Title"><![CDATA[Исключение пользователя из группы блога]]></data>
+	<data name="Log.Demotion.Body"><![CDATA[На основании проверки #{0} пользователь {1} ({2}) [{3}] был исключен из группы '{4}'{5}. {6}]]></data>
+	<data name="Log.InBlog"><![CDATA[блога '{0}']]></data>
+</resources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="AuthorizationError"><![CDATA[Authorization error]]></data>
+	<data name="Legend.Login"><![CDATA[Login:]]></data>
+	<data name="Message.LoginIsRequired"><![CDATA[The "Login" field is required.]]></data>
+	<data name="Legend.Password"><![CDATA[Password:]]></data>
+	<data name="Message.PasswordIsRequired"><![CDATA[The "Password" field is required.]]></data>
+	<data name="CheckBoxText.RememberMe"><![CDATA[Remember Me]]></data>
+	<data name="ButtonText.Login"><![CDATA[Log In]]></data>
+	<data name="DoYouForgetYourRassword"><![CDATA[Forgot password?]]></data>
+	<data name="Close"><![CDATA[Close]]></data>
+	<data name="Registration"><![CDATA[Registration]]></data>
+	<data name="Profile"><![CDATA[Profile]]></data>
+	<data name="MessageText.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="MessageToolTip.CaptchaCodeMustBeSpecified"><![CDATA[The CAPTCHA code is required.]]></data>
+	<data name="CaptchaPrompt.EnterTheCodeDisplayedOnPicture"><![CDATA[Confirmation code:]]></data>
+	<data name="CaptchaPrompt.CaptchaCodeIsInvalid"><![CDATA[The code you have typed does not match the image.]]></data>
+	<data name="MessageToolTip.OpenIdLoginMustBeSpecified"><![CDATA[The "OpenID" field is required.]]></data>
+	<data name="MessageText.OpenIdLoginMustBeSpecified"><![CDATA[The "OpenID" field is required.]]></data>
+	<data name="Legend.OpenId"><![CDATA[OpenID:]]></data>
+	<data name="ButtonText.LiveID"><![CDATA[Windows Live ID:]]></data>
+	<data name="ConfirmationRequestWasSent"><![CDATA[An email has been sent to {0} with details on how to activate your account. To complete your registration, please click the link in the e-mail message.]]></data>
+</resources>

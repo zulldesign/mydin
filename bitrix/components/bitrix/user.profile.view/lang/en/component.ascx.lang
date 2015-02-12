@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Message.UserNotFound"><![CDATA[The user was not found.]]></data>
+	<data name="Title"><![CDATA[View Profile]]></data>
+	<data name="Description"><![CDATA[Allows to view a user profile.]]></data>
+	<data name="Category"><![CDATA[User]]></data>
+	<data name="Param.UserId"><![CDATA[User ID (0 - current)]]></data>
+	<data name="Param.Fields"><![CDATA[Show Fields]]></data>
+	<data name="Param.EditProfileTitle"><![CDATA[Text for The User Profile Editor Page]]></data>
+	<data name="Param.EditProfileUrlTemplate"><![CDATA[User Profile Editor Page URL Template]]></data>
+	<data name="Param.Fields.ButtonTitle"><![CDATA[Group]]></data>
+	<data name="Param.Fields.Prompt"><![CDATA[Type the group name]]></data>
+	<data name="Param.Fields.DefaultName"><![CDATA[New Group]]></data>
+	<data name="GenderMale"><![CDATA[Male]]></data>
+	<data name="GenderFemale"><![CDATA[Female]]></data>
+	<data name="Field.LastName"><![CDATA[Last Name]]></data>
+	<data name="Field.FirstName"><![CDATA[First Name]]></data>
+	<data name="Field.SecondName"><![CDATA[Second Name]]></data>
+	<data name="Field.Gender"><![CDATA[Sex]]></data>
+	<data name="Field.BirthdayDate"><![CDATA[Date of Birth]]></data>
+	<data name="Field.DisplayName"><![CDATA[Display Name]]></data>
+	<data name="Field.Image"><![CDATA[Avatar]]></data>
+	<data name="Param.EnableVoting"><![CDATA[Enable Voting For User]]></data>
+	<data name="Param.RolesAuthorizedToVote"><![CDATA[Roles of Users Authorized to Vote]]></data>
+	<data name="Param.RatingIdsForShow"><![CDATA[Show Ratings]]></data>
+	<data name="Category.Voting"><![CDATA[Voting]]></data>
+	<data name="Category.Rating"><![CDATA[Ratings]]></data>
+</resources>

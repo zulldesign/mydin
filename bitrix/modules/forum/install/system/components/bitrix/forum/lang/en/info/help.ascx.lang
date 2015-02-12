@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Content"><![CDATA[
+	
+<p>	
+<b>How do I create a new topic in a forum?</b>
+<br/>
+Click on the corresponding button or link in the window with the list of forum topics or the particular topic.  You may have to register before you send your message.  
+</p>
+<p>
+<b>Can I use HTML</b>
+<br/>
+Presently, HTML is not supported in forums, however, you can format messages using BBCode tags. 
+</p>
+<p>
+<b>How do I format text messages?</b>
+<br/>
+The following tags can be used:<br/>
+<table class="forum-main">
+	<tbody>
+		<tr>
+			<th>
+				<b>Tag</b>
+			</th>
+			<th>
+				<b>Description</b>
+			</th>
+			<th>
+				<b>Notes</b>
+			</th>
+		</tr>
+		<tr>
+			<td>
+				[url]link[/url]<br />
+				[url=<i>link</i>]</td>
+			<td>
+				link</td>
+			<td>&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td>
+				[b], [u], [i]</td>
+			<td>
+				bold, underlined, or italic text.</td>
+			<td>
+				A closing tag [/b], [/u], [/i] must be included</td>
+		</tr>
+		<tr>
+			<td>
+				[img]address[/img]</td>
+			<td>
+				Image</td>
+			<td>
+				Where address is the complete file path to the image file on any public site</td>
+		</tr>
+		<tr>
+			<td>
+				[list], [*]</td>
+			<td>
+				List</td>
+			<td>
+				A list is opens and closes with the [list] and [/list] tags. Each point in the list starts with the [*]
+			</td>
+		</tr>
+		<tr>
+			<td>
+				[quote]</td>
+			<td>
+				specialized tag to indicate a quotation</td>
+			<td>
+				The corresponding closing tag, [/quote], must be included</td>
+		</tr>
+		<tr>
+			<td>
+				[code]</td>
+			<td>
+				specialized tag for indicating code</td>
+			<td>
+				The corresponding closing tag, [/code], must be included</td>
+		</tr>
+		<tr>
+			<td>
+				[color=<i>color</i>], [size=<i>size</i>]</td>
+			<td>
+				change of color and text size</td>
+			<td>
+				A corresponding tag, [/color] or [/size] must be included</td>
+		</tr>
+	</tbody>
+</table>
+</p>
+<p>
+<b>Can I insert pictures?</b>
+<br/>
+Images can be included in messages.  Forums do not yet support pictures.  To include an image, indicate the link of the image on the server, for example:  [img]http://www.bitrix.ru/images/logo_bitrix.gif[/img].
+</p>
+<p>
+<b>Why do I need to register?</b>
+<br/>
+Whether registration is mandatory or not is decided by the local administrator.  Each forum may be set to require registration or not.  
+</p>
+	]]></data>
+</resources>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ActionText.GoBack"><![CDATA[All Categories]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to the blog categories]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Add new blog category]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete blog category]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this blog category?]]></data>
+	<data name="TabText.Category"><![CDATA[Category]]></data>
+	<data name="TabTitle.Category"><![CDATA[Blog category parameters]]></data>
+	<data name="FieldTooltip.CategoryName"><![CDATA[Blog category name]]></data>
+	<data name="FieldLabel.CategoryName"><![CDATA[Name]]></data>
+	<data name="Message.CategoryNameIsNotSpecified"><![CDATA[The blog category name is required.]]></data>
+	<data name="FieldTooltip.CategorySites"><![CDATA[Blog category sites]]></data>
+	<data name="FieldLabel.CategorySites"><![CDATA[Sites]]></data>
+	<data name="FieldTooltip.Sort"><![CDATA[Sort Index]]></data>
+	<data name="FieldLabel.Sort"><![CDATA[Sort]]></data>
+	<data name="Message.IncorrectSortIndex"><![CDATA[The sort index is incorrect.]]></data>
+	<data name="FieldTooltip.XmlId"><![CDATA[External ID]]></data>
+	<data name="FieldLabel.XmlId"><![CDATA[External ID]]></data>
+	<data name="PageTitle.EditCategory"><![CDATA[Edit Blog Category "{0}"]]></data>
+	<data name="PageTitle.CreateCategory"><![CDATA[New Blog Category]]></data>
+	<data name="Error.UnableToFindCategory"><![CDATA[The blog category '{0}' was not found. Please ensure the ID is correct.]]></data>
+	<data name="Remark.ReindexRequired"><![CDATA[Changing the sites list may require that you <a href="{0}">reindex</a> the blogs.]]></data>
+</resources>

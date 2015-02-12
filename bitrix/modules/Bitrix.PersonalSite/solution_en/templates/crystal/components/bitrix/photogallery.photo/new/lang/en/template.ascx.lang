@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Delete"><![CDATA[Delete]]></data>
+	<data name="PhotoHasBeenLoaded.User"><![CDATA[Uploaded By]]></data>
+	<data name="PhotoHasBeenLoaded.Date"><![CDATA[Upload Date]]></data>
+	<data name="PhotoHasBeenShown.Times"><![CDATA[Views:]]></data>
+	<data name="DoYouReallyWantRemoveThisPhoto"><![CDATA[Delete image?]]></data>
+	<data name="PhotoNotFound"><![CDATA[The photo was not found.]]></data>
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Welcome to Bitrix .NET Forge CMS Setup Wizard]]></data>
+	<data name="Navigation.Welcome"><![CDATA[Starting The Installation]]></data>
+	<data name="Navigation.Agreement"><![CDATA[License Agreement]]></data>
+	<data name="Navigation.LicenseKey"><![CDATA[License Key]]></data>
+	<data name="Navigation.Requirements"><![CDATA[Preliminary Check]]></data>
+	<data name="Navigation.DBSettings"><![CDATA[Database Creation]]></data>
+	<data name="Navigation.Install"><![CDATA[System Installation]]></data>
+	<data name="Navigation.Administrator"><![CDATA[Create Administrator]]></data>
+	<data name="Navigation.Mail"><![CDATA[E-Mail Configuration]]></data>
+	<data name="Navigation.Finish"><![CDATA[Finishing The Installation]]></data>
+</resources>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="InfoBlockType"><![CDATA[Тип информационного блока]]></data>
+	<data name="InfoBlockCode"><![CDATA[Информационный блок]]></data>
+	<data name="SectionID"><![CDATA[Раздел]]></data>
+	<data name="SectionMnemonicCode"><![CDATA[Символический код раздела]]></data>
+	<data name="IBlockElementPropertyForFilePath"><![CDATA[Свойство, содержащее URL файла для воспроизведения]]></data>
+	<data name="IBlockElementPropertyForPlaylistPreviewImageFilePath"><![CDATA[Свойство, содержащее URL изображения для предв. просмотра в списке]]></data>
+	<data name="IBlockElementPropertyForPlayerPreviewImageFilePath"><![CDATA[Свойство, содержащее URL изображения для предв. просмотра в проигрывателе]]></data>
+	<data name="SortBy"><![CDATA[Сортируем по полю]]></data>
+	<data name="SortOrder"><![CDATA[Направление сортировки]]></data>
+	<data name="ShowAllElementsOnIndex"><![CDATA[Выводить все эл-ты инф. блока, если не указан раздел]]></data>
+	<data name="Properties"><![CDATA[Свойства]]></data>
+	<data name="Section"><![CDATA[Раздел]]></data>
+	<data name="DetailedInfo"><![CDATA[Детальная информация]]></data>
+	<data name="DisplaySubsectionElements"><![CDATA[Показывать элементы подразделов раздела]]></data>
+	<data name="ElementName"><![CDATA[Название элемента]]></data>
+	<data name="ElementID"><![CDATA[Идентификатор элемента]]></data>
+	<data name="DateOfModification"><![CDATA[Дата изменения]]></data>
+	<data name="SortIndex"><![CDATA[Индекс сортировки]]></data>
+	<data name="ActiveFromDate"><![CDATA[Дата активности (с)]]></data>
+	<data name="ActiveUntilDate"><![CDATA[Дата активности (по)]]></data>
+	<data name="WrongIBlockCode"><![CDATA[Задан неверный идентификатор информационного блока.]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Список элементов медиа-галереи" необходимо настроить]]></data>
+	<data name="SectionNotFound"><![CDATA[Указанный раздел не найден]]></data>
+	<data name="SelectIBlockType"><![CDATA[-- выберите тип --]]></data>
+	<data name="SelectIBlockID"><![CDATA[-- выберите информационный блок --]]></data>
+	<data name="NotSelected"><![CDATA[-- не выбрано --]]></data>
+	<data name="NotSelected2"><![CDATA[-- не выбран --]]></data>
+	<data name="AddNewElement"><![CDATA[Добавить {0}]]></data>
+	<data name="IBlockElementName"><![CDATA[элемент]]></data>
+	<data name="AddButtonsForThisComponentToAdminPanel"><![CDATA[Добавлять в админ. панель кнопки для данного компонента]]></data>
+	<data name="SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="PlayerWidth"><![CDATA[Ширина проигрывателя]]></data>
+	<data name="PlayerHeight"><![CDATA[Высота проигрывателя]]></data>
+	<data name="PlayerStretching"><![CDATA[Подстроить размер изображения/видео под размер проигрывателя]]></data>
+	<data name="PlayerControlPanelBackgroundColor"><![CDATA[Цвет фона панели управления]]></data>
+	<data name="PlayerControlsColor"><![CDATA[Цвет элементов управления]]></data>
+	<data name="PlayerControlsOverColor"><![CDATA[Цвет элементов управления при наведении указателя мыши]]></data>
+	<data name="PlayerScreenColor"><![CDATA[Цвет экрана]]></data>
+	<data name="EditElementMenuItem"><![CDATA[Редактировать {0}]]></data>
+	<data name="DeleteElementMenuItem"><![CDATA[Удалить {0}]]></data>
+	<data name="ElementDeletionConfirmation"><![CDATA[Вы действительно хотите удалить этот {0}?]]></data>
+</resources>

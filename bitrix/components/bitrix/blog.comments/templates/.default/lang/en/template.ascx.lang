@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PostsNotFound"><![CDATA[No posts exist so far.]]></data>
+	<data name="CommentLinkTitle"><![CDATA[Comment Link]]></data>
+	<data name="DatePublishedTitle"><![CDATA[Published]]></data>
+</resources>

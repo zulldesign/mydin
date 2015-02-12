@@ -1,0 +1,33 @@
+﻿div.BXAdminFilter {margin:16px 0px 16px 0px;}
+table.BXAdminFilter td {background-color:#F9FAFD; font-size:8pt;}
+table.BXAdminFilter tr.top td {border-top:1px solid #BDC6E0; border-bottom:1px solid #BDC6E0; background-color:#E7EAF5; height:25px; background-image:url(images/filter/header_bg.gif)}
+table.BXAdminFilter tr td.left {border-left:1px solid #BDC6E0;}
+table.BXAdminFilter tr td.right {border-right:1px solid #BDC6E0;}
+table.BXAdminFilter tr.top td.left {border-top:0px; border-left:0px; width:2px; background-image:url(images/filter/lt.gif); background-position:left top; background-repeat:no-repeat;}
+table.BXAdminFilter tr.top td.right {border-top:0px; border-right:0px; width:2px; background-image:url(images/filter/rt.gif); background-position:right top; background-repeat:no-repeat;}
+table.BXAdminFilter tr.bottom td {border-bottom:1px solid #BDC6E0;}
+table.BXAdminFilter tr.bottom td.left {border:0px; width:2px; background-image:url(images/filter/lb.gif); background-position:left bottom; background-repeat:no-repeat;}
+table.BXAdminFilter tr.bottom td.right {border:0px; width:2px; background-image:url(images/filter/rb.gif); background-position:right bottom; background-repeat:no-repeat;}
+table.BXAdminFilter td.content {padding:0px 7px 0px 7px;}
+table.BXAdminFilter table.filtercontent td {padding:5px 7px 5px 0px;}
+table.BXAdminFilter table.filtercontent td.filterless {padding:5px 0px 5px 0px; width:20px}
+table.BXAdminFilter table.filtercontent td.delimiter {padding:0px; background-image:url(images/filter/filter_dot.gif); background-position:bottom; background-repeat:repeat-x;}
+table.BXAdminFilter tr.top td table td {border:0px; padding:0px; background-color:transparent; height:auto; background-image:none;}
+table.BXAdminFilter div {box-sizing:border-box; -webkit-box-sizing: border-box;-moz-box-sizing:border-box; background-repeat:no-repeat;}
+table.BXAdminFilter div.section-separator {width:3px; height:15px; border-left:1px solid #A6B2D5; border-right:1px solid #A6B2D5; margin:1px 6px 0px 6px; overflow:hidden;}
+table.BXAdminFilter div.separator {width:1px; height:15px; border-left:1px solid #A6B2D5; margin:1px 6px 0px 6px; overflow:hidden;}
+table.BXAdminFilter a.context-button {display:block; box-sizing:border-box; -webkit-box-sizing: border-box;-moz-box-sizing:border-box; background-repeat:no-repeat; padding:3px; padding-top:3px; border:0px; margin:1px; white-space:nowrap;}
+table.BXAdminFilter a.context-button:hover {height:21px; margin:0px; border:1px solid #AEB6C2; background-color:#DBE3F2; color:black;}
+table.BXAdminFilter a.icon {height:19px; padding-left:21px; background-repeat:no-repeat; background-position:3px 3px;}
+table.BXAdminFilter a.pressed {height:21px; margin:0px; border:1px solid #A6A6A6; background-color:#F1F2FA;}
+table.BXAdminFilter a, table.BXAdminFilter a:visited, table.BXAdminFilter a:active {color:#5556AB; text-decoration:none;}
+table.BXAdminFilter a:hover {color:black;}
+table.BXAdminFilter img.arrow {border:0px; margin:0px 0px 2px 4px;}
+table.BXAdminFilter div.buttons {margin:7px 0px 7px 0px;}
+
+table.BXAdminFilter div.active {margin:1px 5px 0px 5px; width:12px; height:12px; background-image:url(images/filter/active.gif); }
+table.BXAdminFilter div.inactive {margin:1px 5px 0px 5px; width:12px; height:12px; background-image:url(images/filter/inactive.gif); }
+table.BXAdminFilter a.filtermore {background-image:url(images/filter/more.gif); padding-right:7px }
+table.BXAdminFilter a.filtershow {background-image:url(images/filter/show.gif); padding-left:15px;}
+table.BXAdminFilter a.filterhide {background-image:url(images/filter/hide.gif); padding-left:15px;}
+table.BXAdminFilter a.filterless {background-image:url(images/filter/less.gif); padding-left:14px; background-position:2px 2px;}

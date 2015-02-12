@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Select Solution To Install]]></data>
+	<data name="Navigation.SetupSolutions"><![CDATA[Configure Solution]]></data>
+	<data name="Navigation.SetupFinalization"><![CDATA[Finish Configuration]]></data>
+	<data name="Error.SelectSolution"><![CDATA[Select a solution from the list.]]></data>
+	<data name="Error.InvalidSolution"><![CDATA[The selected solution is not available.]]></data>
+	<data name="NoSolution.Title"><![CDATA[Don't Install Solution]]></data>
+	<data name="NoSolution.Description"><![CDATA[Finish wizard without installing a solution]]></data>
+</resources>

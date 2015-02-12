@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title.IBlockFormSettings"><![CDATA[Configure The Add/Create Form]]></data>
+	<data name="Title.SelectFields"><![CDATA[Use Selected Fields]]></data>
+	<data name="Title.SelectTab"><![CDATA[Use Selected Tabs And Fields]]></data>
+	<data name="Label.Up"><![CDATA[Up]]></data>
+	<data name="Label.Down"><![CDATA[Down]]></data>
+	<data name="Title.MoveFieldUp"><![CDATA[Move Fields Higher]]></data>
+	<data name="Title.MoveFieldDown"><![CDATA[Move Fields Lower]]></data>
+	<data name="Title.MoveTabUp"><![CDATA[Move Columns Higher]]></data>
+	<data name="Title.MoveTabDown"><![CDATA[Move Columns Down]]></data>
+	<data name="Label.Edit"><![CDATA[Edit]]></data>
+	<data name="Title.EditTabTitle"><![CDATA[Edit Tab Text]]></data>
+	<data name="Title.EditField"><![CDATA[Edit Field Title]]></data>
+	<data name="Title.AddTab"><![CDATA[Add a new tab]]></data>
+	<data name="Title.DeleteTab"><![CDATA[Delete Tab]]></data>
+	<data name="Title.AddSection"><![CDATA[Add A New Section]]></data>
+	<data name="Label.Add"><![CDATA[Add]]></data>
+	<data name="Label.Delete"><![CDATA[Delete]]></data>
+	<data name="Label.AvailableTabs"><![CDATA[Available Tabs]]></data>
+	<data name="Label.Tabs"><![CDATA[Selected Tabs]]></data>
+	<data name="Label.AvailableFields"><![CDATA[Available Fields]]></data>
+	<data name="Label.SelectedFields"><![CDATA[Selected Fields]]></data>
+	<data name="Save"><![CDATA[Save]]></data>
+	<data name="Cancel"><![CDATA[Cancel]]></data>
+	<data name="Reset"><![CDATA[Reset]]></data>
+	<data name="Message.DoYouWantToResetSettings"><![CDATA[Are you sure you want to reset parameters?]]></data>
+	<data name="Message.DataIsSaved"><![CDATA[Information has been saved successfully.]]></data>
+	<data name="Message.EnterNewSectionName"><![CDATA[Enter the name of a new section]]></data>
+	<data name="Message.EnterNewTabName"><![CDATA[Enter the name of a new tab]]></data>
+	<data name="Message.EditName"><![CDATA[Edit Name]]></data>
+	<data name="Error.RequiredFieldMustBeSelected"><![CDATA[Required fields must be selected:]]></data>
+	<data name="Error.IBlockOrUserIsNotFound"><![CDATA[Error saving data. The specified information block was not found, or the user is not authorized.]]></data>
+	<data name="Label.SetDefaultSettingsToAll"><![CDATA[Apply as the default settings for all users]]></data>
+	<data name="Label.ResetSettings"><![CDATA[Reset Settings]]></data>
+	<data name="Title.ResetSettings"><![CDATA[Delete current user preferences and revert to default settings]]></data>
+	<data name="Title.SetDefaultSettingsToAll"><![CDATA[The specified parameters will be applied to all users as the default settings]]></data>
+</resources>

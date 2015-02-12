@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitleNewSection"><![CDATA[New Section]]></data>
+	<data name="ActionText.SectionList"><![CDATA[Sections]]></data>
+	<data name="ActionTitle.Go2SectionList"><![CDATA[View sections]]></data>
+	<data name="ActionTitle.AddNewSection"><![CDATA[Adds a new section]]></data>
+	<data name="ActionText.DeleteCurrentSection"><![CDATA[Delete Section]]></data>
+	<data name="ActionTitle.DeleteCurrentSection"><![CDATA[Deletes current section]]></data>
+	<data name="Message.RecordHasBeenModifiedSuccessfully"><![CDATA[The record has been changed successfully.]]></data>
+	<data name="TabText.Groups"><![CDATA[Groups]]></data>
+	<data name="Legend.DateOfModification"><![CDATA[Modified:]]></data>
+	<data name="Legend.IsActive"><![CDATA[Active:]]></data>
+	<data name="Legend.ParentSection"><![CDATA[Parent Section:]]></data>
+	<data name="Legend.Title"><![CDATA[Title:]]></data>
+	<data name="ErrorMessage.TitleIsRequired"><![CDATA[The "Title" field must not be empty.]]></data>
+	<data name="Legend.Description"><![CDATA[Description:]]></data>
+	<data name="Legend.Image"><![CDATA[Image:]]></data>
+	<data name="Legend.Text"><![CDATA[Text]]></data>
+	<data name="TabText.AdditionalParams"><![CDATA[More]]></data>
+	<data name="TabTitle.AdditionalParams"><![CDATA[Additional parameters]]></data>
+	<data name="Legend.SortIndex"><![CDATA[Sort Index:]]></data>
+	<data name="Legend.Code"><![CDATA[Symbolic Code:]]></data>
+	<data name="Legend.ExternalKey"><![CDATA[External ID:]]></data>
+	<data name="Legend.DetailImage"><![CDATA[Detail Image:]]></data>
+	<data name="TabText.AdditionalProperties"><![CDATA[Extra Properties]]></data>
+	<data name="TabTitle.AdditionalProperties"><![CDATA[Additional properties]]></data>
+	<data name="TopLevel"><![CDATA[Top Level]]></data>
+	<data name="FormatPageTitle.ModificationOfSection"><![CDATA[Edit Section #{0}]]></data>
+	<data name="Error.InvalidType"><![CDATA[Invalid type]]></data>
+	<data name="Error.Invalid.Extension"><![CDATA[Invalid extension]]></data>
+	<data name="Error.InvalidImage"><![CDATA[Invalid image]]></data>
+	<data name="Exception.YouDontHaveRightsToCreateNewSection"><![CDATA[You do not have permission to create new sections.]]></data>
+	<data name="Exception.SectionCreationFailed"><![CDATA[Section creation has failed.]]></data>
+	<data name="Exception.YouDontHaveRightsToModifySection"><![CDATA[You do not have permission to edit this section.]]></data>
+	<data name="Exception.YouDontHaveRightsToDeleteThisRecord"><![CDATA[You do not have permission to delete this record.]]></data>
+	<data name="Exception.AnErrorHasOccurredWhileDeletingSection"><![CDATA[An error occurred while deleting the section.]]></data>
+	<data name="Exception.SectionIsNotFound"><![CDATA[Section was not found.]]></data>
+	<data name="ActionConfirmDialogText."><![CDATA[Are you sure you want to delete the current information block section?]]></data>
+	<data name="Legend.Properties"><![CDATA[Properties]]></data>
+</resources>

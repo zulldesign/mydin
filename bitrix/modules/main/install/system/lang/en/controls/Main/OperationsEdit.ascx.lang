@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Legend.Allow"><![CDATA[allow]]></data>
+	<data name="Legend.Deny"><![CDATA[deny]]></data>
+	<data name="Legend.InheritAllow"><![CDATA[inherit "Allow" state]]></data>
+	<data name="Legend.InheritDeny"><![CDATA[inherit "Deny" state]]></data>
+	<data name="Legend.DontModify"><![CDATA[don't change state (for multiple elements with different states)]]></data>
+	<data name="RolesDropDownInvitation"><![CDATA[Type role name here...]]></data>
+	<data name="CheckTooltip.Allow"><![CDATA[Allow operation]]></data>
+	<data name="CheckTooltip.Deny"><![CDATA[Deny operation]]></data>
+	<data name="CheckTooltip.InheritAllow"><![CDATA[Inherit: Allow operation]]></data>
+	<data name="CheckTooltip.InheritDeny"><![CDATA[Inherit: Deny operation]]></data>
+	<data name="CheckTooltip.DontModify"><![CDATA[Don't change operation state]]></data>
+	<data name="ButtonToolTip.DeleteRole"><![CDATA[Deletes role from list]]></data>
+	<data name="Confirmation.DeleteRole"><![CDATA[Are you sure you want to delete the role "#ROLE#" from the list?]]></data>
+	<data name="PredefinedRoleTitle.Guest"><![CDATA[All Users]]></data>
+	<data name="PredefinedRoleTitle.User"><![CDATA[Registered Users]]></data>
+	<data name="PredefinedRoleTitle.Admin"><![CDATA[Administrators]]></data>
+	<data name="RoleDescription.SystemRole"><![CDATA[System Role]]></data>
+	<data name="RoleDescription.CustomRole"><![CDATA[Custom Role]]></data>
+</resources>

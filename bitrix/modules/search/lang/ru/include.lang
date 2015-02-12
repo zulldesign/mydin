@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Поиск]]></data>
+	<data name="Module.Description"><![CDATA[Модуль поиска позволяет различным модулям реализовывать полнотекстовый поиск контента с индексацией]]></data>
+	<data name="Filter.Everywhere"><![CDATA[(везде)]]></data>
+	<data name="Menu.Search"><![CDATA[Поиск]]></data>
+	<data name="Menu.Search.Reindex"><![CDATA[Переиндексация]]></data>
+	<data name="Menu.Search.Tags"><![CDATA[Теги]]></data>
+	<data name="IndexerTitle"><![CDATA[Статические файлы]]></data>
+	<data name="Status.NotStarted"><![CDATA[Переиндексация не началась]]></data>
+	<data name="Status.Deleting"><![CDATA[Удаление старого контента...]]></data>
+	<data name="Status.Reindexing"><![CDATA[Переиндексация...]]></data>
+	<data name="Status.ReindexingFolder"><![CDATA[Переиндексация папки "{0}"...]]></data>
+	<data name="Status.Suspended"><![CDATA[Переиндексация приостановлена]]></data>
+	<data name="Status.SuspendedFolder"><![CDATA[Переиндексация приостановлена на папке "{0}"]]></data>
+	<data name="Status.DeleteMissing"><![CDATA[Удаление отсутствующего контента...]]></data>
+	<data name="Status.Finished"><![CDATA[Переиндексация завершена]]></data>
+	<data name="Status.Error"><![CDATA[Ошибка переиндексации: {0}<br/>{1}]]></data>
+	<data name="Label.Folders"><![CDATA[Папки]]></data>
+	<data name="Hint.FolderExample"><![CDATA[например, ~/content/;~/examples/]]></data>
+</resources>

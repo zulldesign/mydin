@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Template.Name"><![CDATA[По умолчанию]]></data>
+	<data name="Template.Description"><![CDATA[Пустой шаблон для сайтов по умолчанию]]></data>
+</resources>

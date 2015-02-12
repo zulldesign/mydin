@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Module.Name"><![CDATA[Site Starter: Bitrix Personal Site]]></data>
+	<data name="Module.Description"><![CDATA[Personal site wizard]]></data>
+</resources>

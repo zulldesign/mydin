@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[GoogleMap With Search Form]]></data>
+	<data name="Description"><![CDATA[GoogleMap with address search form]]></data>
+	<data name="Group"><![CDATA[Google Maps]]></data>
+</resources>

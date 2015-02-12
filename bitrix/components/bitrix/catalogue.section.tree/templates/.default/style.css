@@ -1,0 +1,11 @@
+﻿.catalogue-section-tree ul
+{
+	margin:0; 
+	padding:0; 
+	list-style:none outside url(images/dash.gif);
+}
+.catalogue-section-tree ul li
+{
+	margin:2px 0 0 20px; 
+	padding:0;
+}

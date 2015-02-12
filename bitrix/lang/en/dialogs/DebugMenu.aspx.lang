@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Menu debugging]]></data>
+	<data name="Description.Standard"><![CDATA[Mode: "Menu tree"]]></data>
+	<data name="Description.SiteMap"><![CDATA[Mode: "Site map"]]></data>
+	<data name="ButtonText.Continue"><![CDATA[Continue]]></data>
+</resources>

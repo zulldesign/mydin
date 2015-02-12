@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Sites]]></data>
+	<data name="MasterTitle"><![CDATA[Sites]]></data>
+	<data name="TableTitle"><![CDATA[Sites]]></data>
+	<data name="ID"><![CDATA[ID]]></data>
+	<data name="Name"><![CDATA[Name]]></data>
+	<data name="Active"><![CDATA[Active]]></data>
+	<data name="Sort"><![CDATA[Sort]]></data>
+	<data name="Directory"><![CDATA[Folder]]></data>
+	<data name="default"><![CDATA[Default]]></data>
+	<data name="Edit"><![CDATA[Edit]]></data>
+	<data name="EditDesc"><![CDATA[Edit]]></data>
+	<data name="Copy"><![CDATA[Copy]]></data>
+	<data name="CopyDesc"><![CDATA[Copy]]></data>
+	<data name="Delete"><![CDATA[Delete]]></data>
+	<data name="DeleteDesc"><![CDATA[Delete]]></data>
+</resources>

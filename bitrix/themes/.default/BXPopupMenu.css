@@ -1,0 +1,49 @@
+﻿/* Popup menu */
+td.BXPopupMenu {border:1px solid #B6B6B6; padding:1px; background-color:#FCFCFC; background-image:url(images/menu_gutter.gif); background-repeat:repeat-y;}
+td.BXPopupMenu div.popupitem {margin:1px; cursor:default;}
+td.BXPopupMenu div.popupitemover {margin:0px; border:1px solid #AEB6C2; background-color:#CEDAEE;}
+td.BXPopupMenu div.popupitem td.gutter {width:20px;}
+td.BXPopupMenu div.popupitem td.item {padding:3px 5px 3px 9px; font-size:70%; white-space:nowrap;}
+td.BXPopupMenu div.popupitem td.default {font-weight:bold;}
+td.BXPopupMenu div.popupitem td.disabled {color:#939393;}
+td.BXPopupMenu div.popupseparator {margin:1px 0px 1px 30px; background-color:#B6B6B6; height:1px; overflow:hidden;}
+
+/*Common actions icons */
+/*
+td.BXPopupMenu div.popupitem div.icon {width:20px; height:16px; background-position:center; background-repeat:no-repeat;}
+td.BXPopupMenu div.popupitem div.edit {background-image:url(images/popup/edit.gif);}
+td.BXPopupMenu div.popupitem div.copy {background-image:url(images/popup/copy.gif);}
+td.BXPopupMenu div.popupitem div.delete {background-image:url(images/popup/delete.gif);}
+td.BXPopupMenu div.popupitem div.view {background-image:url(images/popup/view.gif);}
+td.BXPopupMenu div.popupitem div.checked {background-image:url(images/checkbox.gif);}
+td.BXPopupMenu div.popupitem div.list {background-image:url(images/buttons/list.gif);}
+td.BXPopupMenu div.popupitem div.new {background-image:url(images/buttons/new.gif);}
+td.BXPopupMenu div.popupitem div.add {background-image:url(images/buttons/new.gif);}
+td.BXPopupMenu div.popupitem div.favorites {background-image:url(images/popup/favorite.gif);}
+*/
+td.BXPopupMenu div.popupitem div.icon {width:20px; height:16px; background-position:center; background-repeat:no-repeat;}
+td.BXPopupMenu div.popupitem div.edit {background-image:url(images/popup/edit.gif);}
+td.BXPopupMenu div.popupitem div.copy {background-image:url(images/popup/copy.gif);}
+td.BXPopupMenu div.popupitem div.delete {background-image:url(images/popup/delete.gif);}
+td.BXPopupMenu div.popupitem div.view {background-image:url(images/popup/view.gif);}
+td.BXPopupMenu div.popupitem div.checked {background-image:url(images/checkbox.gif);}
+td.BXPopupMenu div.popupitem div.list {background-image:url(images/buttons/list.gif);}
+td.BXPopupMenu div.popupitem div.new {background-image:url(images/buttons/new.gif);}
+td.BXPopupMenu div.popupitem div.add {background-image:url(images/buttons/new.gif);}
+td.BXPopupMenu div.popupitem div.favorites {background-image:url(images/popup/favorite.gif);}
+td.BXPopupMenu div.popupitem div.settings {background-image:url(images/popup/settings.gif);}
+td.BXPopupMenu div.popupitem div.access {background-image:url(images/popup/access.gif);}
+
+
+
+.popupmenu{border:1px solid #B6B6B6; padding:1px; background-color:#FCFCFC; background-image:url(images/menu_gutter.gif); background-repeat:repeat-y;}
+.popupmenu table.popupitem {width: 100%; margin:1px 1px 1px 1px; cursor:default; }
+.popupmenu table.popupitemover {border:1px solid #AEB6C2; margin:0px; background-color:#CEDAEE;}
+.popupmenu table.popupitem td.gutter {width: 20px;}
+.popupmenu table.popupitem td.arrow {width:5px; background-position:0 5px; background-image: url(images/menu_arrow.gif); background-repeat: no-repeat; padding-right:3px}
+.popupmenu table.popupitemover td.arrow{padding-right:expression(BXIsIE() ? '1px' : '3px')}
+.popupmenu table.popupitem td.gutter div{width:20px; height:100%; background-position:0 0;}
+.popupmenu table.popupitem td.item {padding:3px 5px 3px 9px; font-size:70%; white-space: nowrap;}
+.popupmenu table.popupitem td.default {font-weight:bold;}
+.popupmenu table.popupitem td.disabled {color:#939393;}
+.popupmenu div.popupseparator {margin:1px 0px 1px 30px; background-color:#B6B6B6; height:1px; overflow:hidden;}

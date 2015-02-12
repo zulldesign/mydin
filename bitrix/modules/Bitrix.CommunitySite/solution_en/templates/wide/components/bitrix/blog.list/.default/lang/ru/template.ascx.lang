@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="NoItems"><![CDATA[Нет блогов]]></data>
+	<data name="NoItemsInCategory"><![CDATA[В данной категории нет блогов]]></data>
+	<data name="CategoryIsNotFound"><![CDATA[Категория '{0}' не найдена!]]></data>
+	<data name="BlogCreated"><![CDATA[создан]]></data>
+  <data name="Rating"><![CDATA[Рейтинг]]></data>
+</resources>

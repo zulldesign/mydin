@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[Настройка почтовых шаблонов]]></data>
+	<data name="MasterTitle"><![CDATA[Почтовые шаблоны]]></data>
+	<data name="TableTitle"><![CDATA[Почтовые шаблоны]]></data>
+	<data name="IdColumnHeader"><![CDATA[ID]]></data>
+	<data name="LastUpdatedColumnHeader"><![CDATA[Обновлен]]></data>
+	<data name="ActiveColumnHeader"><![CDATA[Активен]]></data>
+	<data name="NameColumnHeader"><![CDATA[Имя шаблона]]></data>
+	<data name="SubjectColumnHeader"><![CDATA[Тема письма]]></data>
+	<data name="SitesColumnHeader"><![CDATA[Список сайтов]]></data>
+	<data name="PopupText.Copy"><![CDATA[Добавить копию]]></data>
+	<data name="PopupTitle.Edit"><![CDATA[Изменить почтовый шаблон]]></data>
+	<data name="PopupTitle.Copy"><![CDATA[Добавить копию выбранного почтового шаблона]]></data>
+	<data name="PopupTitle.Delete"><![CDATA[Удалить почтовый шаблон]]></data>
+	<data name="ActionTitle.Edit"><![CDATA[Редактировать выбранные почтовые шаблоны]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Удалить выбранные почтовые шаблоны]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Добавить новый почтовый шаблон]]></data>
+	<data name="Option.Subject"><![CDATA[Тема]]></data>
+	<data name="Option.Sender"><![CDATA[Отправитель]]></data>
+	<data name="Option.Addressee"><![CDATA[Получатель]]></data>
+	<data name="Option.Message"><![CDATA[Содержимое шаблона]]></data>
+	<data name="FilterText.EventType"><![CDATA[Тип почтового события]]></data>
+	<data name="Option.All"><![CDATA[(все)]]></data>
+	<data name="FilterText.DateOfModification"><![CDATA[Дата изменения (DD.MM.YYYY)]]></data>
+	<data name="FilterText.Site"><![CDATA[Сайт]]></data>
+	<data name="FilterText.Activity"><![CDATA[Активность]]></data>
+	<data name="FilterText.Sender"><![CDATA[От кого]]></data>
+	<data name="FilterText.Addressee"><![CDATA[Кому]]></data>
+	<data name="FilterText.Bcc"><![CDATA[Скрытая копия (BCC)]]></data>
+	<data name="FilterText.MessageType"><![CDATA[Тип тела сообщения]]></data>
+	<data name="Option.Text"><![CDATA[Текст]]></data>
+	<data name="FilterText.Message"><![CDATA[Тело сообщения]]></data>
+	<data name="PopupConfirmDialogText.Delete"><![CDATA[Вы действительно хотите удалить выбранный шаблон почтового сообщения?]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Вы уверены, что хотите удалить отмеченные почтовые шаблоны?]]></data>
+	<data name="ActionConfirmDialogTextAll.Delete"><![CDATA[Вы уверены, что хотите удалить ВСЕ почтовые шаблоны из списка?]]></data>
+	<data name="PopupTitle.View"><![CDATA[Просмотреть почтовый шаблон]]></data>
+</resources>

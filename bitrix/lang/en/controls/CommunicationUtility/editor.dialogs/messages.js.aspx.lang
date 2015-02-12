@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ImagePasteDialog$msg$uploadGeneralError"><![CDATA[The file could not be uploaded due to a server error. The file can be damaged or its size exceeds the maximum defined in the server preferences. Please contact the site administrator.]]></data>
+	<data name="ImagePasteDialog$msg$fileLabel"><![CDATA[from file]]></data>
+	<data name="ImagePasteDialog$msg$fileLegend"><![CDATA[Select a JPEG, PNG or GIF file]]></data>
+	<data name="ImagePasteDialog$msg$thumbLabel"><![CDATA[uploaded]]></data>
+	<data name="ImagePasteDialog$msg$fileUrlLabel"><![CDATA[URL]]></data>
+	<data name="ImagePasteDialog$msg$fileUrlLegend"><![CDATA[Specify the full address of a JPEG, PNG or GIF file]]></data>
+	<data name="ImagePasteDialog$msg$waitForFileLoadingCompletion"><![CDATA[Please wait while the file is being uploaded.]]></data>
+	<data name="AudioPasteDialog$msg$fileUrlLabel"><![CDATA[link]]></data>
+	<data name="AudioPasteDialog$msg$previewButton"><![CDATA[Listen]]></data>
+	<data name="AudioPasteDialog$msg$resetButton"><![CDATA[Reset]]></data>
+	<data name="AudioPasteDialog$msg$fileUrlLegend"><![CDATA[Specify the full address of an audio file]]></data>
+	<data name="LinkPasteDialog$msg$urlLabel"><![CDATA[URL]]></data>
+	<data name="LinkPasteDialog$msg$urlLegend"><![CDATA[Specify the full address of an Internet resource]]></data>
+	<data name="LinkPasteDialog$msg$textLabel"><![CDATA[text]]></data>
+	<data name="MoviePasteDialog$msg$fileUrlLabel"><![CDATA[link]]></data>
+	<data name="MoviePasteDialog$msg$previewButton"><![CDATA[View]]></data>
+	<data name="MoviePasteDialog$msg$resetButton"><![CDATA[Reset]]></data>
+	<data name="MoviePasteDialog$msg$fileUrlLegend"><![CDATA[Specify the full address of a FLV or WMV file, or the media URL at youtube.com or rutube.ru.]]></data>
+	<data name="MoviePasteDialog$msg$videoWidthLabel"><![CDATA[width, px]]></data>
+	<data name="MoviePasteDialog$msg$videoHeightLabel"><![CDATA[height, px]]></data>
+	<data name="CodePasteDialog$msg$langLabel"><![CDATA[language]]></data>
+</resources>

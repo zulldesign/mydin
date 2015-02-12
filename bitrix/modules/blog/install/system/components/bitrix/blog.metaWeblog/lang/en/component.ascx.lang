@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Blog]]></data>
+	<data name="Param.MaximalFileSizeInKBytes"><![CDATA[Max. File Size, KB]]></data>
+	<data name="Param.MaximalAllFilesSizeInKBytes"><![CDATA[Max. Size of All Files, KB]]></data>
+	<data name="Param.MaximalImageWidthInPixels"><![CDATA[Max. Image Width (pixels)]]></data>
+	<data name="Param.MaximalImageHeightInPixels"><![CDATA[Max. Image Height (pixels)]]></data>
+	<data name="Param.EnableExtendedEntries"><![CDATA[Enable Post Content Extensions (cuts)]]></data>
+	<data name="Title"><![CDATA[MetaWeblog Service]]></data>
+	<data name="Description"><![CDATA[Enables publishing to blogs from client software supporting MetaWeblog API]]></data>
+	<data name="PageTitle"><![CDATA[Blog publication using a client program]]></data>
+	<data name="Param.BlogSlug"><![CDATA[Blog Master Slug]]></data>
+	<data name="Param.BlogUrlTemplate"><![CDATA[Blog URL Template]]></data>
+	<data name="Param.PostViewUrlTemplate"><![CDATA[Post URL Template]]></data>
+	<data name="Param.SetPageTitle"><![CDATA[Set Page Title]]></data>
+	<data name="Error.IncorrectPostId"><![CDATA[Incorrect post ID]]></data>
+	<data name="Error.BlogNotFound"><![CDATA[Blog was not found.]]></data>
+	<data name="Error.InsufficientPermissions"><![CDATA[You do not have enough permission.]]></data>
+	<data name="Error.PostNotFound"><![CDATA[The record was not found.]]></data>
+	<data name="Error.IncorrectBlogId"><![CDATA[Incorrect blog ID]]></data>
+	<data name="Error.FileNoExtension"><![CDATA[The file has no extension.]]></data>
+	<data name="Error.FileInvalidExtension"><![CDATA[The file's extension is not permitted (only jpg, jpeg, gif or png are possible).]]></data>
+	<data name="Error.FileInvalidMimeType"><![CDATA[The file type is incorrect.]]></data>
+	<data name="Error.FileSizeExceeded"><![CDATA[The file exceeds the maximum size: {0} KB, but only max. {1} KB is allowed.]]></data>
+	<data name="Error.FileTotalSizeExceeded"><![CDATA[The total file size {0} KB exceeds the maximum of {1} KB.]]></data>
+	<data name="Error.Unknown"><![CDATA[An unknown error occurred.]]></data>
+</resources>

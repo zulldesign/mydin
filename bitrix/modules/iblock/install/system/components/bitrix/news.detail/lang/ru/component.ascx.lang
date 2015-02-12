@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="FormatModifyNews"><![CDATA[Редактировать новость "{0}"]]></data>
+	<data name="YouDontHaveRightsToBrowsingFullContent"><![CDATA[У Вас нет прав на просмотр полного текста]]></data>
+	<data name="InfoBlockType"><![CDATA[Тип информационного блока (используется только для проверки)]]></data>
+	<data name="InfoBlockCode"><![CDATA[Код информационного блока]]></data>
+	<data name="NewsID"><![CDATA[ID новости]]></data>
+	<data name="Properties"><![CDATA[Свойства]]></data>
+	<data name="ElementListBrowsingUrl"><![CDATA[URL страницы просмотра списка элементов]]></data>
+	<data name="AddButtonsForThisComponentToAdminPanel"><![CDATA[Добавлять в админ. панель кнопки для данного компонента]]></data>
+	<data name="SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="DisplayPageTitle"><![CDATA[Показывать заголовок новости]]></data>
+	<data name="AddSectionToNavigationalChain"><![CDATA[Включать раздел в цепочку навигации]]></data>
+	<data name="DateDisplayFormat"><![CDATA[Формат показа даты]]></data>
+	<data name="UsePermissions"><![CDATA[Использовать дополнительное ограничение доступа]]></data>
+	<data name="GroupPermissions"><![CDATA[Роли пользователей, имеющие доступ к детальной информации]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Новость детально" необходимо настроить]]></data>
+	<data name="EmptyIBlockCode"><![CDATA[Не указан идентификатор информационного блока.]]></data>
+	<data name="ElementNotFound"><![CDATA[Элемент не найден.]]></data>
+	<data name="WrongIBlockCode"><![CDATA[Указанный информационный блок не найден.]]></data>
+	<data name="EditElementMenuItem"><![CDATA[Редактировать {0}]]></data>
+	<data name="IBlockElementName"><![CDATA[элемент]]></data>
+	<data name="CreateElementMenuItem"><![CDATA[Добавить {0}]]></data>
+	<data name="ShowDetailPicture"><![CDATA[Выводить детальное изображение]]></data>
+	<data name="ShowPreviewText"><![CDATA[Выводить текст анонса]]></data>
+	<data name="ShowPreviewPicture"><![CDATA[Выводить изображение для анонса]]></data>
+	<data name="ShowActiveElements"><![CDATA[Показывать только активные на данный момент элементы]]></data>
+	<data name="ShowElementDate"><![CDATA[Показывать дату элемента]]></data>
+	<data name="LinkNameToElementsList"><![CDATA[Название ссылки просмотра списка элементов]]></data>
+	<data name="BackToNewsList"><![CDATA[Вернуться в список новостей]]></data>
+</resources>

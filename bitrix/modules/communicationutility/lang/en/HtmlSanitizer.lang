@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="UnexpectedClosingTag"><![CDATA[Unexpected closing tag {0}]]></data>
+	<data name="InvalidClosingTag"><![CDATA[Invalid closing tag {0}. Expected: {1}]]></data>
+	<data name="InvalidAttributeValue"><![CDATA[Invalid tag attribute: {0} {1}={2}: {3}]]></data>
+	<data name="IntegerExpected"><![CDATA[Integer expected]]></data>
+	<data name="ValueShouldNotBeLessThan"><![CDATA[The value cannot be less than {0}]]></data>
+	<data name="ValueShouldNotBeGreaterThan"><![CDATA[The value must not be greater than {0}]]></data>
+	<data name="IncorrectSize"><![CDATA[The size is incorrect.]]></data>
+	<data name="IncorrectColor"><![CDATA[The color is incorrect.]]></data>
+	<data name="JavascriptInUrl"><![CDATA[As attempt to add JavaScript to URI detected]]></data>
+	<data name="UrlFirstSymbolAlphanumeric"><![CDATA[URI: the first character in the address must be an alphanumeric character.]]></data>
+	<data name="JavascriptInImg"><![CDATA[As attempt to add JavaScript to the image path detected.]]></data>
+	<data name="InvalidValue"><![CDATA[Invalid parameter value.]]></data>
+	<data name="StyleIsEmpty"><![CDATA[Style description must not be empty]]></data>
+</resources>

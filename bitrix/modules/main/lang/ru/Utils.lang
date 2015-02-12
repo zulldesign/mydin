@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="SqlStatistics.QueryInfo"><![CDATA[<b>Запрос #{0} {1}</b>:
+<br/>
+{2}
+<br/>
+<br/>
+<b>Суммарное время выполнения:</b> {3} сек.]]></data>
+	<data name="SqlStatistics.CallsCount"><![CDATA[(вызовов - {0})]]></data>
+	<data name="SqlStatistics.Summary"><![CDATA[Путь к файлу: {0} <br/>
+Время генерации: {4} <br/>
+Всего запросов: {1}, уникальных {2}, время: {3} сек. ({5:P})]]></data>
+	<data name="SqlStatistics.Label.TotalQueries"><![CDATA[Всего SQL запросов]]></data>
+	<data name="SqlStatistics.Label.TotalQueriesTime"><![CDATA[Время исполнения запросов]]></data>
+	<data name="SqlStatistics.Label.ShowDetailStatistics"><![CDATA[Посмотреть подробную статистику по запросам]]></data>
+	<data name="SqlStatistics.Label.SqlQueryStatistics"><![CDATA[Статистика SQL-запросов]]></data>
+	<data name="SqlStatistics.Label.Seconds"><![CDATA[сек.]]></data>
+	<data name="SqlStatistics.Label.PageExecutionTime"><![CDATA[Время исполнения страницы]]></data>
+	<data name="SqlStatistics.Label.Unique"><![CDATA[уникальных]]></data>
+</resources>

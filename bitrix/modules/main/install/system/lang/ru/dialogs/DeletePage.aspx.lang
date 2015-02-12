@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TITLE"><![CDATA[Подтверждение удаления страницы]]></data>
+	<data name="INSUFFICIENT_RIGHTS"><![CDATA[У вас недостаточно прав для удаления страницы!]]></data>
+	<data name="COULD_NOT_PARSE_DIR_AND_FILE_NAME_IN_PATH"><![CDATA[Не удалось разобрать директорию и имя файла]]></data>
+	<data name="DO_YOU_REALLY_WANT_DELETE_PAGE"><![CDATA[Вы действительно хотите удалить страницу]]></data>
+	<data name="DELETION_OF_DAFAULT_PAGE_ALERT"><![CDATA[Внимание! Удаление страницы по умолчанию может привести к недоступности раздела.]]></data>
+	<data name="PATH_IS_NOT_SPECIFIED"><![CDATA[Не задан путь к файлу!]]></data>
+	<data name="PATH_IS_NOT_EXISTS"><![CDATA[Путь не существует!]]></data>
+	<data name="FILE_HAS_INVALID_EXTENSION"><![CDATA[Файл имеет недопустимое расширение! Допускается только расширение "aspx".]]></data>
+	<data name="OPERATION_IS_COMPLETED_SUCCESSFULLY"><![CDATA[Операция успешно завершена...]]></data>
+	<data name="FILE_NAME_IS_NOT_SPECIFIED_IN_PATH"><![CDATA[Не определено имя файла]]></data>
+	<data name="DIRECTORY_IS_NOT_SPECIFIED_IN_PATH"><![CDATA[Не определена директория]]></data>
+	<data name="CheckBoxText.DeletePageFromMenus"><![CDATA[Удалить страницу из меню]]></data>
+	<data name="ButtonText.YesDelete"><![CDATA[Да, удалить]]></data>
+	<data name="ButtonText.DontDelete"><![CDATA[Не удалять]]></data>
+	<data name="PATH_IS_NOT_VALID"><![CDATA[Задан неверный путь!]]></data>
+	<data name="OPERATION_IS_COMPLETED_SUCCESSFULLY_UNDO"><![CDATA[Операция успешно завершена. <a title="Отменить удаление страницы" onclick="{0}" href="{1}">Отменить</a>]]></data>
+</resources>

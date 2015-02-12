@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Каталог]]></data>
+	<data name="Description"><![CDATA[Комплексный компонент. Полный каталог]]></data>
+	<data name="Group"><![CDATA[Каталог]]></data>
+</resources>

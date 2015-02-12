@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="EmptyIBlockCode"><![CDATA[Не указан идентификатор информационного блока.]]></data>
+	<data name="ElementNotFound"><![CDATA[Элемент не найден.]]></data>
+	<data name="WrongIBlockCode"><![CDATA[Указанный информационный блок не найден.]]></data>
+	<data name="YouHaveToAdjustTheComponent"><![CDATA[Компонент "Элемент медиа-галереи детально" необходимо настроить]]></data>
+	<data name="InfoBlockType"><![CDATA[Тип информационного блока]]></data>
+	<data name="InfoBlockCode"><![CDATA[Информационный блок]]></data>
+	<data name="ElementID_1"><![CDATA[ID элемента]]></data>
+	<data name="ElementCode"><![CDATA[Символическое имя элемента]]></data>
+	<data name="Properties"><![CDATA[Выводить свойства]]></data>
+	<data name="SetPageKeywordsFromProperty"><![CDATA[Установить ключевые слова страницы из свойства]]></data>
+	<data name="SetPageDescriptionFromProperty"><![CDATA[Установить описание страницы из свойства]]></data>
+	<data name="SetPageTitle"><![CDATA[Устанавливать заголовок страницы]]></data>
+	<data name="SelectIBlockType"><![CDATA[-- выберите тип --]]></data>
+	<data name="SelectIBlockID"><![CDATA[-- выберите информационный блок --]]></data>
+	<data name="NotSelected"><![CDATA[-- не выбрано --]]></data>
+	<data name="IBlockElementPropertyForFilePath"><![CDATA[Свойство, содержащее URL файла для воспроизведения]]></data>
+	<data name="IBlockElementPropertyForPlayerPreviewImageFilePath"><![CDATA[Свойство, содержащее URL изображения для предв. просмотра]]></data>
+	<data name="EditElementMenuItem"><![CDATA[Редактировать {0}]]></data>
+	<data name="IBlockElementName"><![CDATA[элемент]]></data>
+	<data name="CreateElementMenuItem"><![CDATA[Добавить {0}]]></data>
+	<data name="AddButtonsForThisComponentToAdminPanel"><![CDATA[Добавлять в админ. панель кнопки для данного компонента]]></data>
+	<data name="PlayerWidth"><![CDATA[Ширина проигрывателя]]></data>
+	<data name="PlayerHeight"><![CDATA[Высота проигрывателя]]></data>
+	<data name="PlayerStretching"><![CDATA[Подстроить размер изображения/видео под размер проигрывателя]]></data>
+	<data name="PlayerBufferLengthInSeconds"><![CDATA[Размер буфера в секундах]]></data>
+	<data name="PlayerControlPanelBackgroundColor"><![CDATA[Цвет фона панели управления]]></data>
+	<data name="PlayerControlsColor"><![CDATA[Цвет элементов управления]]></data>
+	<data name="PlayerControlsOverColor"><![CDATA[Цвет элементов управления при наведении указателя мыши]]></data>
+	<data name="PlayerScreenColor"><![CDATA[Цвет экрана]]></data>
+	<data name="PlayerEnableDownloading"><![CDATA[Разрешить скачивание]]></data>
+	<data name="PlayerDownloadingLinkTargetWindow"><![CDATA[Открывать ссылку для скачивания в]]></data>
+	<data name="IBlockElementPropertyForDownloadingFilePath"><![CDATA[Свойство, содержащее URL файла для скачивания]]></data>
+	<data name="PlayerDownloadingLinkTargetWindowSelf"><![CDATA[текущем окне браузера]]></data>
+	<data name="PlayerDownloadingLinkTargetWindowBlank"><![CDATA[новом окне браузера]]></data>
+	<data name="PlayerShowControlPanel"><![CDATA[Отображать панель управления]]></data>
+	<data name="PlayerEnableFullScreenModeSwitch"><![CDATA[Разрешить полноэкранный режим]]></data>
+	<data name="PlayerVolumeLevelInPercents"><![CDATA[Уровень громкости в процентах от максимального]]></data>
+	<data name="PlayerEnableAutoStart"><![CDATA[Автоматически начать проигрывать]]></data>
+	<data name="PlayerEnableRepeatMode"><![CDATA[Повторять композицию]]></data>
+	<data name="LinkNameToElementsList"><![CDATA[Название ссылки просмотра списка элементов]]></data>
+	<data name="BackToNewsList"><![CDATA[Вернуться в список элементов]]></data>
+	<data name="ElementListBrowsingUrl"><![CDATA[URL страницы просмотра списка элементов]]></data>
+</resources>

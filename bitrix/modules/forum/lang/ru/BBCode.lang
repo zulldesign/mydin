@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Header.Quote"><![CDATA[Цитата]]></data>
+	<data name="Header.Code"><![CDATA[Код]]></data>
+	<data name="Image.Text"><![CDATA[картинка]]></data>
+	<data name="Media.audio.Text"><![CDATA[аудио]]></data>
+	<data name="Media.video.Text"><![CDATA[видео]]></data>
+</resources>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Google Map]]></data>
+	<data name="Description"><![CDATA[Renderd Google Map and markers]]></data>
+	<data name="Group"><![CDATA[Google Maps]]></data>
+</resources>

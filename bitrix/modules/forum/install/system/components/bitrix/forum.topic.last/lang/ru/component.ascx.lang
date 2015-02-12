@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Темы (список внешний)]]></data>
+	<data name="Description"><![CDATA[Список тем (для использования вне форума)]]></data>
+	<data name="Group"><![CDATA[Форум]]></data>
+	<data name="Param.Forums"><![CDATA[Форумы]]></data>
+	<data name="Param.SortBy"><![CDATA[Сортировать по полю темы]]></data>
+	<data name="Param.SortBy.ID"><![CDATA[по идентификатору]]></data>
+	<data name="Param.SortBy.LastPostId"><![CDATA[по последнему сообщению]]></data>
+	<data name="Param.SortBy.Name"><![CDATA[по названию]]></data>
+	<data name="Param.SortDirection"><![CDATA[Направление сортировки]]></data>
+	<data name="Param.SortDirection.Asc"><![CDATA[по возрастанию]]></data>
+	<data name="Param.SortDirection.Desc"><![CDATA[по убыванию]]></data>
+	<data name="Param.TopicReadUrlTemplate"><![CDATA[Шаблон страницы чтения темы]]></data>
+	<data name="Param.ForumReadUrlTemplate"><![CDATA[Шаблон страницы чтения форума]]></data>
+	<data name="Param.AuthorProfileUrlTemplate"><![CDATA[Шаблон страницы профиля автора сообщения]]></data>
+	<data name="Param.MaxWordLength"><![CDATA[Максимальная длина слова]]></data>
+	<data name="Error.General"><![CDATA[Общая ошибка]]></data>
+	<data name="Error.UnauthorizedReadAll"><![CDATA[Отсутствует право на чтение форумов]]></data>
+	<data name="Error.PageDoesNotExist"><![CDATA[Страница не найдена]]></data>
+	<data name="Error.DataReadingFailed"><![CDATA[Ошибка при чтении данных]]></data>
+</resources>

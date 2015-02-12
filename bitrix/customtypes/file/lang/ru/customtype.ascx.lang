@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Error.FileSizeExceeded"><![CDATA[Размер файла {0} превышает {1}]]></data>
+	<data name="Error.InvalidFileExtension"><![CDATA[Тип загружаемого файла {0} не является допустимым ({1})]]></data>
+	<data name="Error.InsufficientRightsToUpload"><![CDATA[Недостаточно прав для загрузки файла {0}]]></data>
+	<data name="Error.FieldIsRequired"><![CDATA[Не заполнено поле "{0}"]]></data>
+</resources>

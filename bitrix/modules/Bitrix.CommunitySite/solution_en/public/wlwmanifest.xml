@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns="http://schemas.microsoft.com/wlw/manifest/weblog">
+	<options>
+		<clientType>Metaweblog</clientType>
+		<supportsEmptyTitles>No</supportsEmptyTitles>
+		<requiresXHTML>Yes</requiresXHTML>
+	
+		<supportsEmbeds>No</supportsEmbeds>
+		<supportsScripts>No</supportsScripts>
+
+		<supportsExtendedEntries>Yes</supportsExtendedEntries>
+		
+		<maxCategoryNameLength>64</maxCategoryNameLength>
+		<supportsNewCategories>Yes</supportsNewCategories>
+		<supportsNewCategoriesInline>Yes</supportsNewCategoriesInline>
+		
+		<supportsAutoUpdate>Yes</supportsAutoUpdate>
+	</options>
+</manifest>

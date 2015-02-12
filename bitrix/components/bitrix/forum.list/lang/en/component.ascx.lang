@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Title"><![CDATA[Forums]]></data>
+	<data name="Description"><![CDATA[Shows forums grouped by categories.]]></data>
+	<data name="Group"><![CDATA[Forum]]></data>
+	<data name="MaxWordLength"><![CDATA[Maximum Word Length]]></data>
+	<data name="ForumListTitle"><![CDATA[Forums Title]]></data>
+	<data name="ForumListTitleDefault"><![CDATA[Forums]]></data>
+	<data name="TopicListUrl"><![CDATA[Topics Page]]></data>
+	<data name="PostReadUrl"><![CDATA[Post View Page]]></data>
+	<data name="ThemeCssFilePath"><![CDATA[Path to Theme CSS File]]></data>
+	<data name="ColorCssFilePath"><![CDATA[Path to Color Scheme CSS File]]></data>
+	<data name="Param.AvailableForums"><![CDATA[Available Forums]]></data>
+</resources>

@@ -1,0 +1,62 @@
+/*Menu icon*/
+#fileman_menu_icon {background-image:url(icons/fileman/mnu_fileman.gif);}
+#fileman_page_icon {background-image:url(icons/fileman/title.gif);}
+#fileman_menu_icon_sections {background-image:url(icons/fileman/mnu_folder.gif);}
+#fileman_menu_page_icon_sections {background-image:url(icons/fileman/title_folder.gif);}
+
+/*Toolbar*/
+#btn_new_folder {background-image:url(icons/fileman/new_folder.gif);}
+#btn_new_file {background-image:url(icons/fileman/new_file.gif);}
+#btn_new_menu {background-image:url(icons/fileman/new_menu.gif);}
+#btn_upload {background-image:url(icons/fileman/upload.gif);}
+#btn_download {background-image:url(icons/fileman/download.gif);}
+#btn_folder_prop {background-image:url(icons/fileman/folder_prop.gif);}
+#btn_rename {background-image:url(images/popup/rename.gif);}
+#btn_edit {background-image:url(images/popup/edit.gif);}
+
+/*Medialib*/
+#btn_ml_add_element {background-image:url(icons/fileman/ml_add_element.gif);}
+#btn_ml_add_elements {background-image:url(icons/fileman/ml_add_elements.gif);}
+
+td.popupmenu div.popupitem div.btn_fileman_html {background-image:url(icons/fileman/html.gif);}
+td.popupmenu div.popupitem div.btn_fileman_galka {background-image:url(icons/fileman/galka.gif);}
+td.popupmenu div.popupitem div.btn_fileman_php {background-image:url(icons/fileman/php.gif);}
+td.popupmenu div.popupitem div.btn_fileman_text {background-image:url(icons/fileman/text.gif);}
+td.popupmenu div.popupitem div.btn_fileman_view {background-image:url(icons/fileman/view.gif);}
+td.popupmenu div.popupitem div.btn_fileman_prop {background-image:url(icons/fileman/folder_prop.gif);}
+td.popupmenu div.popupitem div.access {background-image:url(images/popup/access.gif);}
+td.popupmenu div.popupitem div.rename {background-image:url(images/popup/rename.gif);}
+
+/*Common actions icons */
+td.popupmenu div.popupitem div.edit {background-image:url(images/popup/edit.gif);}
+td.popupmenu div.popupitem div.copy {background-image:url(images/popup/copy.gif);}
+td.popupmenu div.popupitem div.delete {background-image:url(images/popup/delete.gif);}
+td.popupmenu div.popupitem div.view {background-image:url(images/popup/view.gif);}
+td.popupmenu div.popupitem div.checked {background-image:url(images/checkbox.gif);}
+td.popupmenu div.popupitem div.list {background-image:url(images/buttons/list.gif);}
+td.popupmenu div.popupitem div.new {background-image:url(images/buttons/new.gif);}
+td.popupmenu div.popupitem div.add {background-image:url(images/buttons/new.gif);}
+td.popupmenu div.popupitem div.favorites {background-image:url(images/popup/favorite.gif);}
+
+.jserror {color:#FF0000; font-weight:bold;}
+
+/*Calendar float form*/
+div.editor_dialog {
+	width:200px; 
+	background-color:#F4F4F4; 
+	border:1px solid #A9A9A9;
+}
+div.editor_dialog td {padding:0px; font-size:70%;}
+div.editor_dialog div.content {height:100%; overflow:hidden;}
+
+/*title*/
+div.editor_dialog div.title {background-color:#23468A; background-image:url(images/fileman/editor_dialog/title_bg.gif); background-repeat:repeat-x; background-position:left top; border-bottom:1px solid #A9A9A9;}
+div.editor_dialog div.title td.title-text {font-size:70%; font-weight:bold; color:#EEF1F7; padding:3px; cursor:move; vertical-align:top;}
+div.editor_dialog a.close {display:block; width:13px; height:13px; background-image:url(images/fileman/editor_dialog/close.gif); overflow:hidden; margin:3px; background-repeat:no-repeat; background-position:center;}
+
+tr.heading_dialog td {color:#525355; text-align:center; font-weight:bold; background-color:#E0E4F1;}
+
+table.dialogprops tr td
+{
+	padding: 5px 0px 5px 0px;
+}

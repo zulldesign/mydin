@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="UrlTitle.Edit"><![CDATA[Изменить]]></data>
+	<data name="PostList.PostFilter.DateFrom"><![CDATA[Дата сообщения с]]></data>
+	<data name="PostList.PostFilter.DateTo"><![CDATA[по]]></data>
+	<data name="PostList.PostFilter.Show"><![CDATA[Показать]]></data>
+	<data name="PostList.PostFilter.Forum"><![CDATA[Форум]]></data>
+	<data name="PostList.PostFilter.Enum.ShowMode.AllPosts"><![CDATA[Все сообщения]]></data>
+	<data name="PostList.PostFilter.Title"><![CDATA[Сообщения пользователя {0}]]></data>
+	<data name="PostList.PostFilter.Enum.ShowMode.AllTopicsCreated"><![CDATA[Все темы пользователя]]></data>
+	<data name="PostList.PostFilter.Enum.ShowMode.AllTopicsParticipated"><![CDATA[Все темы с участием пользователя]]></data>
+	<data name="PostList.PostFilter.ShowMode"><![CDATA[Выводить]]></data>
+	<data name="PostList.PostFilter.Enum.GroupingOption.GroupByTopic"><![CDATA[По теме]]></data>
+	<data name="PostList.PostFilter.Enum.GroupingOption.None"><![CDATA[Не группировать]]></data>
+	<data name="PostList.PostFilter.GroupingOption"><![CDATA[Группировать по теме]]></data>
+	<data name="PostList.PostFilter.AllForums"><![CDATA[Все форумы]]></data>
+	<data name="DefaultCategoryTitle"><![CDATA[Без категории]]></data>
+	<data name="SearchFilter.ButtonText.Find"><![CDATA[Найти]]></data>
+	<data name="SearchFilter.Text.Period"><![CDATA[За период]]></data>
+	<data name="Search.DateInterval.SelectText.Any"><![CDATA[за все время]]></data>
+	<data name="Search.DateInterval.SelectText.Day"><![CDATA[1 день]]></data>
+	<data name="Search.DateInterval.SelectText.ThreeDays"><![CDATA[3 дня]]></data>
+	<data name="Search.DateInterval.SelectText.Week"><![CDATA[7 дней]]></data>
+	<data name="Search.DateInterval.SelectText.Month"><![CDATA[30 дней]]></data>
+	<data name="SearchFilter.Text.SearchString"><![CDATA[Искать]]></data>
+	<data name="SearchFilter.Text.Sorting"><![CDATA[Упорядочить]]></data>
+	<data name="SearchFilter.Text.Forums"><![CDATA[Форумы]]></data>
+	<data name="Search.Sorting.SelectText.Relevance"><![CDATA[по релевантности]]></data>
+	<data name="Search.Sorting.SelectText.Date"><![CDATA[по дате]]></data>
+	<data name="Search.Sorting.SelectText.Topic"><![CDATA[по темам]]></data>
+	<data name="Breadcrumb.Subscription.Name"><![CDATA[Управление подпиской]]></data>
+	<data name="Breadcrumb.Search.Name"><![CDATA[Поиск]]></data>
+	<data name="Breadcrumb.ActiveTopics.Name"><![CDATA[Активные темы]]></data>
+	<data name="Breadcrumb.UnansweredTopics.Name"><![CDATA[Темы без ответов]]></data>
+</resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Component.Title"><![CDATA[Случайные элементы инфоблоков]]></data>
+	<data name="Component.Description"><![CDATA[Выводит список случайных элементов указанных инфоблоков]]></data>
+	<data name="Group"><![CDATA[Инфоблоки]]></data>
+	<data name="Error.ErrorSelectingElement"><![CDATA[Ошибка выборки элемента. Возможно, указанные в параметрах компонента набираемые свойства существуют не во всех выбранных инфоблоках]]></data>
+	<data name="Param.FilterCode"><![CDATA[Код свойства-фильтра (свойство должно иметь тип "Да/Нет")]]></data>
+	<data name="Param.PhotoCode"><![CDATA[Код свойства "Фотография" (свойство должно иметь тип "Файл")]]></data>
+	<data name="Param.IBlockElementUrlTemplate"><![CDATA[Ссылка на страницу детального просмотра элемента инфоблока]]></data>
+	<data name="Param.IBlockIds"><![CDATA[Инфоблоки, из которых будет выбран случайный элемент]]></data>
+	<data name="Param.ElementsCount"><![CDATA[Количество выбираемых элементов]]></data>
+	<data name="Param.PriceType"><![CDATA[Тип выводимой цены товара (для элементов каталога)]]></data>
+</resources>

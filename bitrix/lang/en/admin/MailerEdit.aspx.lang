@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle"><![CDATA[E-Mail Template Customization]]></data>
+	<data name="MasterTitle"><![CDATA[Edit E-mail Template]]></data>
+	<data name="TabText.Template"><![CDATA[Parameters]]></data>
+	<data name="TabTitle.Template"><![CDATA[E-mail template parameters]]></data>
+	<data name="EdUpdated"><![CDATA[Updated]]></data>
+	<data name="EdActive"><![CDATA[Active]]></data>
+	<data name="EventTypes.PageTitle"><![CDATA[E-mail Event Types]]></data>
+	<data name="EventTypes.MasterTitle"><![CDATA[E-mail Event Types]]></data>
+	<data name="EventTypes.TableTitle"><![CDATA[Event Types]]></data>
+	<data name="EventTypes.ColumnId"><![CDATA[ID]]></data>
+	<data name="EventTypes.ColumnName"><![CDATA[Name]]></data>
+	<data name="FromLabel"><![CDATA[Sender (From)]]></data>
+	<data name="ToLabel"><![CDATA[Recipient (To)]]></data>
+	<data name="SubjectLabel"><![CDATA[Subject]]></data>
+	<data name="BodyTypeLabel"><![CDATA[Message Format]]></data>
+	<data name="BccLabel"><![CDATA[BCC]]></data>
+	<data name="SiteLabel"><![CDATA[Sites]]></data>
+	<data name="TextLabel"><![CDATA[Text]]></data>
+	<data name="HtmlLabel"><![CDATA[HTML]]></data>
+	<data name="Body"><![CDATA[Message Body]]></data>
+	<data name="AvailableFields"><![CDATA[Available Fields]]></data>
+	<data name="MailEventType"><![CDATA[E-mail Event Type]]></data>
+	<data name="ActionText.Templates"><![CDATA[Templates]]></data>
+	<data name="ActionTitle.Templates"><![CDATA[View templates]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Adds a new e-mail template]]></data>
+	<data name="ActionTitle.Copy"><![CDATA[Duplicates current e-mail template]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Deletes current e-mail template]]></data>
+	<data name="Message.OperationSuccessful"><![CDATA[Operation has completed successfully.]]></data>
+	<data name="Message.OperationErrors"><![CDATA[Operation has not completed successfully.]]></data>
+	<data name="Message.FieldIsEmpty"><![CDATA[The "{0}" field is required.]]></data>
+	<data name="ImageToolTip.EventType"><![CDATA[Select type of e-mail template]]></data>
+	<data name="ImageToolTip.From"><![CDATA[Enter sender e-mail address]]></data>
+	<data name="ImageToolTip.To"><![CDATA[Enter recipient e-mail address]]></data>
+	<data name="ImageToolTip.Sites"><![CDATA[Select one or more site(s)]]></data>
+	<data name="DefaultEmail"><![CDATA[Default E-Mail Address]]></data>
+	<data name="SiteName"><![CDATA[Site Name]]></data>
+	<data name="ServerUrl"><![CDATA[Server URL]]></data>
+	<data name="ApplicationPath"><![CDATA[Application Path, e.g. "/BitDotNet" (without '/' at the end)]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete the current e-mail template?]]></data>
+</resources>

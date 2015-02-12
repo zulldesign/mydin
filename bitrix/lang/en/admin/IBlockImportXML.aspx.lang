@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="EditPageTitle"><![CDATA[XML Import]]></data>
+	<data name="EditTitle"><![CDATA[XML Import Parameters]]></data>
+	<data name="PageTitle"><![CDATA[XML Import Settings]]></data>
+	<data name="MasterTitle"><![CDATA[XML Import Settings]]></data>
+	<data name="Parameters"><![CDATA[Parameters]]></data>
+	<data name="Button.StartImport"><![CDATA[Start Import]]></data>
+	<data name="Button.StopImport"><![CDATA[Stop Import]]></data>
+	<data name="Combo.SelectIBlockType"><![CDATA[-- create if required --]]></data>
+	<data name="Param.SourceFile"><![CDATA[Source file]]></data>
+	<data name="Param.InfoBlockType"><![CDATA[Information block type]]></data>
+	<data name="Param.Sites"><![CDATA[Bind new information blocks to sites]]></data>
+	<data name="Param.EnableCreationOfPreviewImage"><![CDATA[Create thumbnail image from full image]]></data>
+	<data name="Param.PreviewImageMaxWidth"><![CDATA[Maximum thumbnail width, pix.]]></data>
+	<data name="Param.PreviewImageMaxHeight"><![CDATA[Maximum thumbnail height, pix.]]></data>
+	<data name="Param.EnableDetailImageResize"><![CDATA[Resize full image]]></data>
+	<data name="Param.DetailImageMaxWidth"><![CDATA[Maximum full image width, pix.]]></data>
+	<data name="Param.DetailImageMaxHeight"><![CDATA[Maximum full image height, pix.]]></data>
+	<data name="Param.FileChunkMaxSize"><![CDATA[File chunk size, bytes]]></data>
+	<data name="Param.ElementAction"><![CDATA[Action on elements not existing in import file]]></data>
+	<data name="Param.SectionAction"><![CDATA[Action on sections not existing in import file]]></data>
+	<data name="Param.EnableIterativeProcessing"><![CDATA[Stepwise processing (for products and offers)]]></data>
+	<data name="Param.IterationLength"><![CDATA[Elements per step]]></data>
+	<data name="Error.UserIsNotAuthentificated"><![CDATA[Authorization error: login or password is incorrect.]]></data>
+	<data name="Error.UserIsNotAuthorized"><![CDATA[Authorization error. User '{0}' is not authorized to exchange data.]]></data>
+	<data name="Error.PermissionDenied"><![CDATA[You do not have permission to import the catalog.]]></data>
+	<data name="Error.TempDirectory"><![CDATA[Error preparing the temporary folder. See the event log for details (source: "Catalog.Import.1C")]]></data>
+	<data name="Error.FileNameIsNotFound"><![CDATA[The file name was not found.]]></data>
+	<data name="Error.FileUploadingFailed"><![CDATA[Cannot save the file or part thereof: {0}. See the event log for details (source: "Catalog.Import.1C").]]></data>
+	<data name="Error.FileImportFailed"><![CDATA[Cannot import {0}. See the event log for details (source: "Catalog.Import.1C").]]></data>
+	<data name="Error.GeneralError"><![CDATA[Generic import error. See the event log for details (source: "Catalog.Import.1C").]]></data>
+	<data name="Option.NoAction"><![CDATA[None]]></data>
+	<data name="Option.Deactivate"><![CDATA[Deactivate]]></data>
+	<data name="Option.Delete"><![CDATA[Delete]]></data>
+	<data name="Message.ImportSuccessfullyCompleted"><![CDATA[Import has completed successfully.]]></data>
+	<data name="MessageTitle.Authentification"><![CDATA[User Authentication]]></data>
+	<data name="Message.AuthentificationFailed"><![CDATA[The provider '{0}' failed to authenticate the user '{1}'.]]></data>
+	<data name="Message.AuthentificationSuccessfull"><![CDATA[The user '{0}' has been authenticated successfully.]]></data>
+	<data name="Message.AuthentificationFailedNoData"><![CDATA[Authentication data was not found (authentication header: {0})]]></data>
+	<data name="Progress.Section"><![CDATA[Sections imported]]></data>
+	<data name="Progress.Elements"><![CDATA[Elements imported]]></data>
+	<data name="Progress.Total"><![CDATA[Total imported]]></data>
+</resources>

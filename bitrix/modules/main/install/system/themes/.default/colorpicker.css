@@ -1,0 +1,19 @@
+﻿/*colorpicker*/
+div.bx-colorpicker-container{position: absolute; border: 1px solid #808080; background-color: #E4E2DC; display: none; width: 322px; top: -1000px; left: -1000px;}
+table.bx-colorpicker-table{border-collapse: separate !important;}
+table.bx-colorpicker-table td 
+{
+	margin: 0px !important; 
+	padding: 0px !important; 
+	border-spacing: 0px !important; 
+	text-decoration: none !important; 
+	text-indent: 0px !important; 
+	line-height: normal !important; 
+	letter-spacing: normal !important;
+}
+table.bx-colorpicker-table td.bx-colorpicker-cell{width: 16px; height: 16px; border: 1px solid #808080; font-size: 5px !important;}
+table.bx-colorpicker-table td.bx-colorpicker-cell-over{border: 1px solid #FFC678 !important;}
+
+td.bx-colorpicker-preview-cell {height: 25px;}
+span.bx-colorpicker-default-button{background-color: #E4E2DC;border: 1px solid #808080;display: block;margin: 1px;font-size: 12px !important; padding: 3px; text-align: center !important; vertical-align: middle !important;}
+span.bx-colorpicker-default-button-over{background-color: #FFC678; border: 1px solid #4B4B6F;}

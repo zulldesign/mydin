@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="Group"><![CDATA[Пользователь]]></data>
+	<data name="SystemAuth.Title"><![CDATA[Аутентификация]]></data>
+	<data name="SystemAuth.Description"><![CDATA[Комплексный компонент аутентификация]]></data>
+	<data name="UserProfilePath"><![CDATA[Путь к профилю пользователя]]></data>
+	<data name="RegistrationDoAuthentication"><![CDATA[Выполнять аутентификацию после регистрации пользователя]]></data>
+	<data name="RegistrationRedirectUrl"><![CDATA[URL для перенаправления после регистрации пользователя]]></data>
+	<data name="Field.Hide"><![CDATA[Скрыть]]></data>
+	<data name="Field.Show"><![CDATA[Показать]]></data>
+	<data name="Field.Require"><![CDATA[Требовать]]></data>
+	<data name="FirstNameFieldMode"><![CDATA[Имя]]></data>
+	<data name="LastNameFieldMode"><![CDATA[Фамилия]]></data>
+	<data name="DisplayNameFieldMode"><![CDATA[Псевдоним]]></data>
+	<data name="FieldSettings"><![CDATA[Настройка полей]]></data>
+	<data name="RegistrationAllow"><![CDATA[Разрешить регистрацию пользователей]]></data>
+	<data name="ActionVariable"><![CDATA[Идентификатор операции]]></data>
+	<data name="RegisterTemplate"><![CDATA[Страница регистрации]]></data>
+	<data name="ConfirmationTemplate"><![CDATA[Страница подтверждения регистрации]]></data>
+	<data name="PasswordRecoveryTemplate"><![CDATA[Страница восстановления пароля]]></data>
+	<data name="PasswordResetTemplate"><![CDATA[Страница сброса пароля]]></data>
+	<data name="SendConfirmationRequest"><![CDATA[Запрашивать подверждение регистрации по E-mail]]></data>
+	<data name="UseCaptcha"><![CDATA[Использовать captcha]]></data>
+	<data name="EditFields"><![CDATA[Свойства, доступные для редактирования в форме регистрации]]></data>
+	<data name="UrlToConfirmationPage"><![CDATA[Ссылка на страницу подтверждения регистрации]]></data>
+	<data name="UseOpenIdAuth"><![CDATA[Использовать OpenID аутентификацию]]></data>
+	<data name="UseLiveIdAuth"><![CDATA[Использовать LiveID аутентификацию]]></data>
+	<data name="TryRegisterNewExternalUser"><![CDATA[Выполнять автоматическую регистрацию пользователя OpenID при наличии необходимых данных]]></data>
+	<data name="AddToRoles"><![CDATA[После регистрации добавить пользователя к ролям]]></data>
+</resources>

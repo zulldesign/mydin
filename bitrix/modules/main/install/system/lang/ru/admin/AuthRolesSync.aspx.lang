@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.SynchronizationOfRoleList"><![CDATA[Синхронизация ролей]]></data>
+	<data name="ActionText.RolesList"><![CDATA[Список ролей]]></data>
+	<data name="ActionTitle.Go2RoleList"><![CDATA[Перейти в список ролей]]></data>
+	<data name="Message.RoleListHasBeenSynchronizedSuccessfully"><![CDATA[Роли успешно синхронизированы]]></data>
+	<data name="TabText.Synchronization"><![CDATA[Синхронизация]]></data>
+	<data name="LegendText.SynchronizationProviders"><![CDATA[Провайдеры авторизации:]]></data>
+	<data name="ExceptionText.YouDontHaveRightsToDeleteThisRecord"><![CDATA[У вас недостаточно прав для удаления этой записи]]></data>
+	<data name="Message.AuthorizationProvidersAreNotDefined"><![CDATA[не определены]]></data>
+</resources>

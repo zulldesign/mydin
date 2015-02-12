@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="ButtonTitle.Next"><![CDATA[Далее]]></data>
+	<data name="ButtonTitle.Prev"><![CDATA[Назад]]></data>
+	<data name="ButtonTitle.Finish"><![CDATA[Готово]]></data>
+	<data name="ButtonTitle.Cancel"><![CDATA[Отмена]]></data>
+	<data name="ButtonTitle.Retry"><![CDATA[Повторить]]></data>
+	<data name="ButtonTitle.Restart"><![CDATA[Перезапуск]]></data>
+	<data name="Error.NavigationFailed"><![CDATA[Невозможно совершить переход {0} с шага {1}]]></data>
+	<data name="Error.Title"><![CDATA[Ошибка работы мастера]]></data>
+	<data name="Error.Desync"><![CDATA[Рассинхронизация шагов, попробуйте обновить страницу]]></data>
+	<data name="Finish.Title"><![CDATA[Завершение]]></data>
+	<data name="Finish.Body"><![CDATA[Работа мастера успешно завершена]]></data>
+</resources>

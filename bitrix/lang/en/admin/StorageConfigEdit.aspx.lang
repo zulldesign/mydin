@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="PageTitle.Creation"><![CDATA[New cloud storage connection]]></data>
+	<data name="PageTitle.Modification"><![CDATA[Edit cloud storage connection]]></data>
+	<data name="ActionText.GoBack"><![CDATA[Connections]]></data>
+	<data name="ActionTitle.GoBack"><![CDATA[Back to connections]]></data>
+	<data name="ActionTitle.Add"><![CDATA[Add new connection]]></data>
+	<data name="ActionTitle.Delete"><![CDATA[Delete connection]]></data>
+	<data name="ActionConfirmDialogText.Delete"><![CDATA[Are you sure you want to delete this connection?]]></data>
+	<data name="Message.EntityIsNotFound"><![CDATA[The connection was not found.]]></data>
+	<data name="TabText.StorageConfig"><![CDATA[Connection]]></data>
+	<data name="TabTitle.StorageConfig"><![CDATA[Configures cloud storage connection parameters]]></data>
+	<data name="TabText.Bindings"><![CDATA[Rules]]></data>
+	<data name="TabTitle.Bindings"><![CDATA[Sets file selection rules for the cloud storage]]></data>
+	<data name="FieldTooltip.Active"><![CDATA[Connection active status ]]></data>
+	<data name="FieldLabel.Active"><![CDATA[Active]]></data>
+	<data name="FieldTooltip.Sort"><![CDATA[Sort index]]></data>
+	<data name="FieldLabel.Sort"><![CDATA[Sort]]></data>
+	<data name="FieldTooltip.Provider"><![CDATA[Data storage provider]]></data>
+	<data name="FieldLabel.Provider"><![CDATA[Provider]]></data>
+	<data name="ModuleList"><![CDATA[Modules]]></data>
+	<data name="ExtensionList"><![CDATA[Extensions]]></data>
+	<data name="SizeList"><![CDATA[Sizes]]></data>
+	<data name="AddNewRule"><![CDATA[Add new rule]]></data>
+	<data name="Note">
+		<![CDATA[<p>The rule triggers only if a file satisfies all the rule conditions. If a file doesn't match at least one rule, it will not be put in the cloud.</p>
+<span class="required">1</span> Module identifiers. Example: iblock, advertising. Empty module list matches all files of all modules.
+<br/>
+<span class="required">2</span> Extensions of files that can be stored in the cloud. Example: gif, png, jpeg, jpg. Empty extension list matches any file. This list is case-insensitive.
+<br/>
+<span class="required">3</span>File sizes. Use the file size suffixes to denote the file size: K, M or G. Size ranges are possible, for example: 1K-1M, 2.3M-. If this field is empty, any file size will match.
+<br/>]]>
+	</data>
+</resources>

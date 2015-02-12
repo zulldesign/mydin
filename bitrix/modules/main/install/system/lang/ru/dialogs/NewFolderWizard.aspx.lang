@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TITLE"><![CDATA[Мастер создания нового раздела]]></data>
+	<data name="ACCESS_DENIED"><![CDATA[У вас недостаточно прав для создания раздела]]></data>
+	<data name="DEFAULT_TITLE"><![CDATA[Новый раздел]]></data>
+	<data name="INVALID_PATH"><![CDATA[Определён недействительный путь]]></data>
+	<data name="FILE_ALREADY_EXISTS"><![CDATA[Невозможно создать раздел, т.к. уже существует файл с таким именем.]]></data>
+	<data name="FS_ENTITY_ALREADY_EXISTS"><![CDATA[Невозможно создать раздел, т.к. уже существует директория или файл с таким именем]]></data>
+	<data name="COULD_NOT_FIND_PARENT_DIR"><![CDATA[Не удалось найти родительскую директорию]]></data>
+	<data name="NEW_FOLDER_CREATION_IN"><![CDATA[Создание нового раздела в папке]]></data>
+	<data name="CREATE_FOLDER_IN_CONTROL_PANEL"><![CDATA[Создать новый раздел в Панели управления]]></data>
+	<data name="ILLEGAL_CHARACTERS_IS_DETECTED_IN_FOLDER_NAME"><![CDATA[Пожалуйста, используйте только латинские буквы, цифры и следующие символы: ! ( ) [ ] { } - . _ ~]]></data>
+	<data name="EMPTY_FOLDER_NAME"><![CDATA[Пожалуйста, введите имя раздела]]></data>
+	<data name="LAST_MENU_ITEM"><![CDATA[(последний пункт)]]></data>
+	<data name="CREATION_OF_DEFAULT_PAGE_IS_FILED"><![CDATA[Не удалось создать страницу по умолчанию!]]></data>
+	<data name="NEW_FOLDER_IS_SUCCESSFULLY_CREATED_REDIRECTION"><![CDATA[Новый раздел успешно создан.]]></data>
+	<data name="NEW_FOLDER_IS_SUCCESSFULLY_CREATED_LOADING_EDITOR"><![CDATA[Новый раздел успешно создан. Загрузка стр. по умолчанию в редактор...]]></data>
+	<data name="NewFolderIsSuccessfullyCreated"><![CDATA[Новый раздел успешно создан. <a title="Отменить создание раздела" onclick="{0}" href="{1}">Отменить</a>]]></data>
+	<data name="Legend.FolderName"><![CDATA[Имя папки:]]></data>
+	<data name="Legend.SectionTitle"><![CDATA[Заголовок раздела:]]></data>
+	<data name="CheckBoxText.Go2ModificationOfIndexPage"><![CDATA[ перейти к редактированию индексной страницы]]></data>
+	<data name="CheckBoxText.AddToMenu"><![CDATA[ добавить пункт меню]]></data>
+	<data name="Legend.MenuItemName"><![CDATA[Имя нового пункта:]]></data>
+	<data name="Legend.MenuType"><![CDATA[Тип меню:]]></data>
+	<data name="Legend.InsertIntoMenuBeforeItem"><![CDATA[Вставить перед пунктом:]]></data>
+	<data name="Legend.CreateMenu"><![CDATA[Создать меню в текущем разделе]]></data>
+	<data name="CheckBoxToolTip.ThisUserAccountDontHasTheRightToModifyMenu"><![CDATA[Текущая учётная запись не обладает правом редактирования меню]]></data>
+	<data name="CheckBoxToolTip.FormatThereAreNoMenuTypesForThisSite"><![CDATA[Для сайта '{0}' не определено ни одного типа меню]]></data>
+	<data name="Error.YourAccountDontHasTheRightToModifyMenu"><![CDATA[Ваша учётная запись не обладает правом редактирования меню]]></data>
+	<data name="Legend.FolderProperties"><![CDATA[Свойства раздела]]></data>
+	<data name="SectionPropsHint"><![CDATA[<b>Свойства раздела</b> - определяют дополнительные характеристики раздела. Например, значения свойства "Ключевые слова" используются в качестве ключевых слов для всех страниц данного раздела (в мета-теге keywords).]]></data>
+	<data name="InheritedFolderProperty.Modify"><![CDATA[Свойство наследуется из вышележащего раздела,для его изменения кликните по полю]]></data>
+</resources>

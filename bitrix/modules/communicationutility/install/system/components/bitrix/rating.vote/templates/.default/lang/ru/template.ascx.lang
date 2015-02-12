@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="TitleTemplate.Standard"><![CDATA[голосов – {0} ({1} за, {2} против)]]></data>
+	<data name="TitleTemplate.NoVotes"><![CDATA[нет голосов]]></data>
+	<data name="TitleTemplate.Love"><![CDATA[Нравится]]></data>
+	<data name="TitleTemplate.Hate"><![CDATA[Не нравится]]></data>
+</resources>

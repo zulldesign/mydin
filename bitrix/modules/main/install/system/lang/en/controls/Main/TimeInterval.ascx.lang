@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<data name="LinkTitle.Calendar"><![CDATA[Calendar]]></data>
+	<data name="ImageAlt.Calendar"><![CDATA[Calendar]]></data>
+</resources>
