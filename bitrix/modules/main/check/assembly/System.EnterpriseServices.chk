@@ -1,8 +1,0 @@
-﻿<%@ Control Language="C#" ClassName="SystemEnterpriseServices" AutoEventWireup="false" %>
-<script runat="server">
-    protected override void OnInit(EventArgs e)
-    {
-        base.OnInit(e);        
-        System.EnterpriseServices.RegistrationException exc = new System.EnterpriseServices.RegistrationException();       
-    } 
-</script>

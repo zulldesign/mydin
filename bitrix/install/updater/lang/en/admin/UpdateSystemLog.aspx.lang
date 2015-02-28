@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="ActionText.Go2UpdateSystem"><![CDATA[Open Update System]]></data>
-	<data name="ActionText.ChangeSettings"><![CDATA[Change Settings]]></data>
-</resources>

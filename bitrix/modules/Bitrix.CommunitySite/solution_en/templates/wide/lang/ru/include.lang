@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Template.Name"><![CDATA[Широкий]]></data>
-	<data name="Template.Description">
-	<![CDATA[
-	<p>"Резиновый" шаблон - его ширина зависит от размера окна браузера.</p>
-	]]>
-	</data>
-</resources>

@@ -1,8 +1,0 @@
-﻿div.registrationIsCompleted div.content
-{
-	margin:0px 0px 0px 105px;
-}
-
-div.errorSummary {font-size:100%; font-weight:bold; margin:16px 5px 16px 5px; padding-left:40px; border:solid 2px #FF0000; color:#FF0000; background-image:url(images/icon_error.gif); background-repeat:no-repeat; background-position:left center;}
-div.errorSummary ul {margin-top:5px;}
-div.errorSummary li {font-size:100%; font-weight:normal; }

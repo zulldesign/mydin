@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="FieldMustBeFilled"><![CDATA[Поле "{0}" должно быть заполнено]]></data>
-	<data name="ValueMustBeDate"><![CDATA[Значение поля "{0}" должно быть датой]]></data>
-</resources>

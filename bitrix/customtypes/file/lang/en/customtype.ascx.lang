@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Error.FileSizeExceeded"><![CDATA[The size of file {0} exceeds {1}]]></data>
-	<data name="Error.InvalidFileExtension"><![CDATA[The type of file {0} is invalid ({1})]]></data>
-	<data name="Error.InsufficientRightsToUpload"><![CDATA[You do not have permission to upload {0}]]></data>
-	<data name="Error.FieldIsRequired"><![CDATA[The field "{0}" is empty.]]></data>
-</resources>

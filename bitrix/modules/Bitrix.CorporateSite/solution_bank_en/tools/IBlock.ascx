@@ -1,1 +1,0 @@
-﻿<%@ Control Language="C#" AutoEventWireup="false" CodeFile="IBlock.ascx.cs" Inherits="Bitrix.Install.Internal.IBlockXmlImporterDummy" %>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="TemplateTitle"><![CDATA[List]]></data>
-	<data name="Title"><![CDATA[Vacancies]]></data>
-	<data name="NoVacancies"><![CDATA[Sorry, we have no job openings at this time.]]></data>
-	<data name="Content"><![CDATA[<p>We seek officers who will counsel customers on the various mortgage loan program options and assume overall responsibility for the loan from application to closing. Officers will also be expected to develop referral contacts (realtors, builders, professional and personal). Self sourced marketing will be compensated more competitively.</p>]]></data>
-	<data name="WeRequire"><![CDATA[Current Job Openings]]></data>
-</resources>

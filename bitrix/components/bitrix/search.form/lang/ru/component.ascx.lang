@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Форма поиска]]></data>
-	<data name="Description"><![CDATA[Включаемая в дизайн сайта форма поиска по сайту]]></data>
-	<data name="SearchUrlTemplate"><![CDATA[Шаблон ссылки на результаты поиска]]></data>
-	<data name="Group"><![CDATA[Поиск]]></data>
-</resources>

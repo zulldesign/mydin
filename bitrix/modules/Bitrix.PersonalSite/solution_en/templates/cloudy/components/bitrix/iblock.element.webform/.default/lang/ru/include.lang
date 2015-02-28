@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Param.UserCssClass"><![CDATA[CSS-класс шаблона]]></data>
-	<data name="Param.ShowAsterisk"><![CDATA[Показывать звездочку для обязательных полей]]></data>
-</resources>

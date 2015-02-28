@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="AddUserTextBox.Text"><![CDATA[To add a user to the group, enter the user name or login.]]></data>
-	<data name="CreatedAutomatically"><![CDATA[Created automatically]]></data>
-</resources>

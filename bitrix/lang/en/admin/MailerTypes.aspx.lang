@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="EventTypes.PageTitle"><![CDATA[E-mail Event Types]]></data>
-	<data name="EventTypes.MasterTitle"><![CDATA[E-mail Event Types]]></data>
-	<data name="EventTypes.TableTitle"><![CDATA[Event Types]]></data>
-	<data name="EventTypes.ColumnId"><![CDATA[ID]]></data>
-	<data name="EventTypes.ColumnName"><![CDATA[Name]]></data>
-</resources>

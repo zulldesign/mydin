@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Date/Time]]></data>
-	<data name="DefaultValue"><![CDATA[Default Value]]></data>
-	<data name="No"><![CDATA[no]]></data>
-	<data name="CurrentTime"><![CDATA[current time]]></data>
-	<data name="Error"><![CDATA[Please enter correct date and/or time.]]></data>
-</resources>

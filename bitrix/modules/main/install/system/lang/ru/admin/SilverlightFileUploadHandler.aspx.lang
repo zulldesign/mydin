@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="File"><![CDATA[Файл]]></data>
-	<data name="Size"><![CDATA[Размер]]></data>
-	<data name="Error.NoFile"><![CDATA[Отсутствует файл для загрузки!]]></data>
-	<data name="Error.IncorrectFileExtension"><![CDATA[Недопустимое расширение файла!]]></data>
-	<data name="Error.InsufficientRights"><![CDATA[Недостаточно прав для выполнения операции!]]></data>
-	<data name="Error.Loading"><![CDATA[Ошибка загрузки файла. Ошибка сервера.]]></data>
-</resources>

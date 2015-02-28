@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="EditElement"><![CDATA[Редактировать]]></data>
-	<data name="DeleteElement"><![CDATA[Удалить]]></data>
-	<data name="ElementDeletionConfirmation"><![CDATA[Вы действительно желаете удалить этот элемент?]]></data>
-</resources>

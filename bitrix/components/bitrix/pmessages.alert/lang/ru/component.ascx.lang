@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Информация о новых личных сообщениях]]></data>
-	<data name="Description"><![CDATA[Отображает информацию о новых личных сообщениях]]></data>
-	<data name="Param.MessagesReadUrl"><![CDATA[Ссылка на страницу просмотра личных сообщений]]></data>
-	<data name="Group"><![CDATA[Личные сообщения]]></data>
-	<data name="Param.MessageReadUrlTemplate"><![CDATA[Шаблон ссылки на страницу чтения сообщения]]></data>
-</resources>

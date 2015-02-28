@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="PostsNotFound"><![CDATA[No posts exist so far.]]></data>
-	<data name="CutDefaultTitle"><![CDATA[Details...]]></data>
-	<data name="CommentsLinkTitle"><![CDATA[Comments]]></data>
-	<data name="ViewsLinkTitle"><![CDATA[Views]]></data>
-	<data name="EditLinkTitle"><![CDATA[Edit]]></data>
-	<data name="Tags"><![CDATA[Tags]]></data>
-</resources>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Template.Name"><![CDATA[Company: Grey Theme]]></data>
-	<data name="Template.Description"><![CDATA[<p>Vivid fixed width template.</p>]]></data>
-	<data name="Theme.Name"><![CDATA[Grey]]></data>
-	<data name="Theme.Description"><![CDATA[Grey theme]]></data>
-</resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Bitrix .NET Forge CMS Installation]]></data>
-	<data name="Navigation.Solution"><![CDATA[Select Solution]]></data>
-	<data name="Navigation.Template"><![CDATA[Select Template]]></data>
-	<data name="Navigation.ColorScheme"><![CDATA[Select Color Theme]]></data>
-	<data name="Navigation.Install"><![CDATA[Solution Installation]]></data>
-	<data name="Navigation.Finish"><![CDATA[Finishing The Installation]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Список сравниваемых элементов каталога]]></data>
-	<data name="Description"><![CDATA[Выводит список сравниваемых элементов каталога]]></data>
-	<data name="Group"><![CDATA[Каталог]]></data>
-</resources>

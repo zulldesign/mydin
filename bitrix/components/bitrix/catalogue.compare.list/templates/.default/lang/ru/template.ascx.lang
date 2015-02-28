@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="LinkText.DeleteItemFromList"><![CDATA[Убрать]]></data>
-	<data name="LinkHint.DeleteItemFromList"><![CDATA[Удалить элемент из списка]]></data>
-	<data name="ButtonText.Compare"><![CDATA[Сравнить]]></data>
-</resources>

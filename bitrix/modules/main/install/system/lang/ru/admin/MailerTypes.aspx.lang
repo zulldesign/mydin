@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="EventTypes.PageTitle"><![CDATA[Типы почтовых событий]]></data>
-	<data name="EventTypes.MasterTitle"><![CDATA[Типы почтовых событий]]></data>
-	<data name="EventTypes.TableTitle"><![CDATA[Типы событий]]></data>
-	<data name="EventTypes.ColumnId"><![CDATA[Идентификатор типа]]></data>
-	<data name="EventTypes.ColumnName"><![CDATA[Название]]></data>
-</resources>

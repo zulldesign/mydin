@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Partner Module Update System]]></data>
-	<data name="Content"><![CDATA[The system kernel must be updated to version 5.0.3 to support partner module updates.]]></data>
-</resources>

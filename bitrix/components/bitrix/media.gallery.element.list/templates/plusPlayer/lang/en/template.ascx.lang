@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="TemplateTitle"><![CDATA[playlist and player]]></data>
-	<data name="MediaGalleryElementListComponentErrIBlockIsNotFound"><![CDATA[Information Block Isn't Found]]></data>
-	<data name="MediaGalleryElementListComponentErrIBlockSectionIsNotFound"><![CDATA[Information Block Section Isn't Found]]></data>
-</resources>

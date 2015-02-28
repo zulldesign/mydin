@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[User Profile]]></data>
-	<data name="EditProfile"><![CDATA[Edit Profile]]></data>
-	<data name="Registered"><![CDATA[Registered]]></data>
-	<data name="RegisteredDateAndTime"><![CDATA[{0} at {1}]]></data>
-</resources>

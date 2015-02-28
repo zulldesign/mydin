@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Select Solution Template]]></data>
-	<data name="Navigation.Template"><![CDATA[Select Template]]></data>
-	<data name="Error.SelectTemplate"><![CDATA[Select one of the existing templates]]></data>
-</resources>

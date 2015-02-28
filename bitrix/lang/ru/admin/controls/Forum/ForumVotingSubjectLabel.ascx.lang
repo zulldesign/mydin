@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="TypeName.ForumTopic"><![CDATA[Тема на форуме]]></data>
-	<data name="TypeName.ForumPost"><![CDATA[Соообщение на форуме]]></data>
-</resources>

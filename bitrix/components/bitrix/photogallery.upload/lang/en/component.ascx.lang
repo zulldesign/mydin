@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="PhotoUpload.Title"><![CDATA[Photo Upload]]></data>
-	<data name="PhotoUpload.Description"><![CDATA[Uploads photos]]></data>
-	<data name="Exception.AnErrorHasOccurredWhileCreationElement"><![CDATA[Element creation has failed.]]></data>
-	<data name="Error.InvalidType"><![CDATA[Invalid type]]></data>
-	<data name="Error.Inavlid.extension"><![CDATA[Invalid extension]]></data>
-	<data name="Error.InvalidImage"><![CDATA[Invalid image]]></data>
-</resources>

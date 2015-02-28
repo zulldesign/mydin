@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Component.Title"><![CDATA[Site Switcher]]></data>
-	<data name="Component.Description"><![CDATA[Site Switcher for use in site templates]]></data>
-	<data name="Group"><![CDATA[Navigation]]></data>
-</resources>

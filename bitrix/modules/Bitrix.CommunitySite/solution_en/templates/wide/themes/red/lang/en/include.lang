@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Template.Name"><![CDATA[Wide: Red Theme]]></data>
-	<data name="Template.Description"><![CDATA[<p>A rubber template changing the width of the presentation area according to the web browser window size.</p>]]></data>
-	<data name="Theme.Name"><![CDATA[Red]]></data>
-	<data name="Theme.Description"><![CDATA[Red theme]]></data>
-</resources>

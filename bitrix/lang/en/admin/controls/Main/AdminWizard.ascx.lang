@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Bitrix .NET Forge CMS 6.0 Installation]]></data>
-	<data name="Placeholder.Box"><![CDATA[<img alt="" src="{0}/bitrix/admin/controls/Main/images/en/box.jpg" />]]></data>
-	<data name="Placeholder.Logo"><![CDATA[<img alt="" src="{0}/bitrix/admin/controls/Main/images/en/logo.gif" />]]></data>
-	<data name="Placeholder.Copyright"><![CDATA[© 2007-2011 «Bitrix, Inc.»]]></data>
-	<data name="Placeholder.Links"><![CDATA[<a href="http://www.bitrix.net/" target="_blank">www.bitrix.net</a> | <a href="http://www.bitrixsoft.com/support/?referer1=bdn5&amp;referer2=solution_wizard" target="_blank">Technical Support</a>]]></data>
-	<data name="Placeholder.NoScript"><![CDATA[The wizard requires that JavaScript is enabled on your system. JavaScript is disabled or not supported by your browser. Please alter the browser settings and <a href="">try again</a>.]]></data>
-</resources>

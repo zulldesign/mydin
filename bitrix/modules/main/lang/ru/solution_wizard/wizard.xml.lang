@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Установка продукта "1С-Битрикс: .NET Forge"]]></data>
-	<data name="Navigation.Solution"><![CDATA[Выбор решения]]></data>
-	<data name="Navigation.Template"><![CDATA[Выбор шаблона]]></data>
-	<data name="Navigation.ColorScheme"><![CDATA[Выбор цветовой схемы]]></data>
-	<data name="Navigation.Install"><![CDATA[Установка решения]]></data>
-	<data name="Navigation.Finish"><![CDATA[Завершение установки]]></data>
-</resources>

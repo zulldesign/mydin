@@ -1,6 +1,0 @@
-﻿table.ComponentSettings td {font-size:70%;}
-table.ComponentSettings td.delimiter {padding:0px; height:5px; background-image:url(images/TabControl/title_dot.gif); background-position:left bottom; background-repeat:repeat-x;} 
-table.ComponentSettings tr.section td {background-image:none; background-color:#E8E7E6; padding:3px;}
-table.ComponentSettings td {font-size:11px;padding:3px 3px 4px 0px;}
-table.ComponentSettings td.line {background-image:url(public/dot_hor.gif); background-position:left bottom; background-repeat:repeat-x;}
-table.ComponentSettings td.label {text-align:right;}

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Breadcrumbs]]></data>
-	<data name="Description"><![CDATA[Standard breadcrumbs component]]></data>
-	<data name="Group"><![CDATA[Navigation]]></data>
-	<data name="Component.Parameter.Title.RootItemTitle"><![CDATA[First item title]]></data>
-	<data name="Component.Parameter.Title.ShowOnIndexPage"><![CDATA[Show navigation breadcrumbs on the index page]]></data>
-</resources>

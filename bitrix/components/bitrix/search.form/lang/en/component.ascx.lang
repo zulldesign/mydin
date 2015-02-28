@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Search Form]]></data>
-	<data name="Description"><![CDATA[Embeds a built-in site search form]]></data>
-	<data name="SearchUrlTemplate"><![CDATA[Search Result URL Template]]></data>
-	<data name="Group"><![CDATA[Search]]></data>
-</resources>

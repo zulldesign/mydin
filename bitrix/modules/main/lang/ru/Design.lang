@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <data name="Selection.Available"><![CDATA[Доступно:]]></data>
-  <data name="Selection.Selected"><![CDATA[Выбрано:]]></data>
-  <data name="Selection.MoveUp"><![CDATA[Переместить выбранные элементы вверх]]></data>
-  <data name="Selection.MoveDown"><![CDATA[Переместить выбранные элементы вниз]]></data>
-  <data name="Selection.Remove"><![CDATA[Удалить выбранные элементы]]></data>
-</resources>

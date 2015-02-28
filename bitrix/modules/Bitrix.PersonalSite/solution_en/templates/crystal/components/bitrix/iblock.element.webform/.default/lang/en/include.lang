@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Param.UserCssClass"><![CDATA[Template CSS Class]]></data>
-	<data name="Param.ShowAsterisk"><![CDATA[Show Asterisk At Required Fields]]></data>
-</resources>

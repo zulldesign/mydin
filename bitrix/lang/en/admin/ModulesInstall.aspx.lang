@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="InstallErrorTitle"><![CDATA[Module Installation Failed]]></data>
-	<data name="InstallPageTitle"><![CDATA[Module Installation]]></data>
-	<data name="UnstallPageTitle"><![CDATA[Module Uninstallation]]></data>
-	<data name="UnstallErrorTitle"><![CDATA[Module Uninstallation Failed]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Завершение установки]]></data>
-	<data name="GotoWebsite"><![CDATA[Перейти на сайт]]></data>
-	<data name="Finished"><![CDATA[Установка продукта завершена!]]></data>
-</resources>

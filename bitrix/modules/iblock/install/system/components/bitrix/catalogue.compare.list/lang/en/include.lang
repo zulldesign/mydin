@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Catalog Element Comparison List]]></data>
-	<data name="Description"><![CDATA[Displays a list of the catalog elements to compare]]></data>
-	<data name="Group"><![CDATA[Catalog]]></data>
-</resources>

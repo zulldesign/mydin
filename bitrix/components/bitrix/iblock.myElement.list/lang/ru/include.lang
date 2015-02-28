@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Список моих элементов]]></data>
-	<data name="Description"><![CDATA[Список моих элементов]]></data>
-	<data name="Group"><![CDATA[Добавление элементов]]></data>
-	<data name="Category.Access"><![CDATA[Настройки доступа]]></data>
-</resources>

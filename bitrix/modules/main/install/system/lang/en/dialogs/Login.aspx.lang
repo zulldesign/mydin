@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="ButtonText.RequestOfAuthorization"><![CDATA[Authorize]]></data>
-	<data name="Message.UserHasBeenSuccessfullyAuthorized"><![CDATA[User has been authorized successfully...]]></data>
-	<data name="Message.InvalidUserNameOrPassword"><![CDATA[The user name or password is invalid.]]></data>
-	<data name="DialogTitle.Authorization"><![CDATA[Authorization]]></data>
-</resources>

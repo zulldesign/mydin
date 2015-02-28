@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Updater.Server">http://www.bitrixsoft.com</data>		
-	<data name="Title"><![CDATA[System Installation]]></data>
-	<data name="SubTitle"><![CDATA[Initializing the update system]]></data>
-</resources>

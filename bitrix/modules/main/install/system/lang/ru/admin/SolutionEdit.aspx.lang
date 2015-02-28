@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="PageTitle"><![CDATA[Настройки решения]]></data>
-	<data name="SiteNotFound"><![CDATA[Сайт не найден или не активен]]></data>
-	<data name="SolutionNotFound"><![CDATA[На сайте не установлено ни одно доступное решение]]></data>
-	<data name="SettingsPageNotFound"><![CDATA[Не найдена страница настроек решения]]></data>
-</resources>

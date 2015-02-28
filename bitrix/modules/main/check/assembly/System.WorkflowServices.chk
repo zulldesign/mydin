@@ -1,8 +1,0 @@
-﻿<%@ Control Language="C#" ClassName="SystemWorkflowServices" AutoEventWireup="false" %>
-<script runat="server">
-    protected override void OnInit(EventArgs e)
-    {
-        System.ServiceModel.Description.UnknownExceptionAction act = System.ServiceModel.Description.UnknownExceptionAction.AbortInstance;
-        base.OnInit(e);
-    }
-</script>

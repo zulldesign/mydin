@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title.Singular"><![CDATA[Перемещение темы в новый форум]]></data>
-	<data name="Title.Plural"><![CDATA[Перемещение тем в новый форум]]></data>
-	<data name="ButtonText.MoveSelectedTopics"><![CDATA[Перенести выбранные темы]]></data>
-	<data name="To"><![CDATA[в]]></data>
-	<data name="CheckBoxText.CreateLink"><![CDATA[Оставить ссылку на новую тему в старом форуме?]]></data>
-</resources>

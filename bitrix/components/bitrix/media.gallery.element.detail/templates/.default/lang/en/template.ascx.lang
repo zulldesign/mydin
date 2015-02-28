@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="MediaGalleryElementDetailComponentErrIBlockIsNotFound"><![CDATA[Information Block Isn't Found]]></data>
-	<data name="MediaGalleryElementDetailComponentErrIBlockElementIsNotFound"><![CDATA[Information Block Element Isn't Found]]></data>
-	<data name="InstallFlashPlayer"><![CDATA[Please <a target="_blank" href="http://www.adobe.com/go/getflashplayer" title="Get Flash player">install Flash Player</a>  9 or better to use player.]]></data>
-	<data name="CouldntCreatePlayerErrorMsg"><![CDATA[Could not create player.]]></data>
-	<data name="CouldntCreateFlashPlayerErrorMsg"><![CDATA[Could not create Flash player.]]></data>
-	<data name="CouldntCreateSilverlightPlayerErrorMsg"><![CDATA[Could not create Silverlight player.]]></data>
-</resources>

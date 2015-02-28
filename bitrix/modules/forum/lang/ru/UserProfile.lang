@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Posts"><![CDATA[Количество сообщений в форуме]]></data>
-	<data name="Signature"><![CDATA[Подпись]]></data>
-	<data name="OwnPostNotification"><![CDATA[Включать свои сообщения на форуме в рассылку]]></data>
-</resources>

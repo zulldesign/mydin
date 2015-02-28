@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Text.Welcome"><![CDATA[Добро пожаловать в административный раздел проекта]]></data>
-	<data name="Text.PoweredBy"><![CDATA[Проект работает на основе]]></data>
-	<data name="Text.BitrixCMS"><![CDATA[1С-Битрикс: .NET Forge]]></data>
-	<data name="ActionText.Icons"><![CDATA[Значки]]></data>
-	<data name="ActionText.List"><![CDATA[Список]]></data>
-</resources>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="UrlTitle.GoTo"><![CDATA[Go to Post]]></data>
-	<data name="UrlTitle.GoToTopic"><![CDATA[Go to Topic]]></data>
-	<data name="Message.NoPostsFound"><![CDATA[No posts has been found.]]></data>
-	<data name="Guest"><![CDATA[Guest]]></data>
-	<data name="Description"><![CDATA[Search Forum]]></data>
-</resources>

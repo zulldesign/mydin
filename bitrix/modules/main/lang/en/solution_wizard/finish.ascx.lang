@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Finishing The Installation]]></data>
-	<data name="GotoWebsite"><![CDATA[Go to site]]></data>
-	<data name="Finished"><![CDATA[The system has been installed!]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Новость детально]]></data>
-	<data name="Description"><![CDATA[Показывает новость подробно]]></data>
-	<data name="Group"><![CDATA[Новости]]></data>
-</resources>

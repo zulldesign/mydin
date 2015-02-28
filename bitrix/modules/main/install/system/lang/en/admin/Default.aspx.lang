@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Text.Welcome"><![CDATA[Welcome to Control Panel]]></data>
-	<data name="Text.PoweredBy"><![CDATA[Powered by]]></data>
-	<data name="Text.BitrixCMS"><![CDATA[Bitrix .NET Forge CMS]]></data>
-	<data name="ActionText.Icons"><![CDATA[Icons]]></data>
-	<data name="ActionText.List"><![CDATA[List]]></data>
-</resources>

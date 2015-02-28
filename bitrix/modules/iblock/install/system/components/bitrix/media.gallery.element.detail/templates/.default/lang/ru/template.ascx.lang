@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="MediaGalleryElementDetailComponentErrIBlockIsNotFound"><![CDATA[Не найден информационный блок]]></data>
-	<data name="MediaGalleryElementDetailComponentErrIBlockElementIsNotFound"><![CDATA[Не найден элемент информационного блока]]></data>
-	<data name="InstallFlashPlayer"><![CDATA[Для того чтобы просмотреть ролик необходимо установить <a target="_blank" href="http://www.adobe.com/go/getflashplayer" title="Get Flash player">флеш-плеер</a> версии 9 или выше]]></data>
-	<data name="CouldntCreatePlayerErrorMsg"><![CDATA[Не удалось создать проигрыватель.]]></data>
-	<data name="CouldntCreateFlashPlayerErrorMsg"><![CDATA[Не удалось создать Flash проигрыватель.]]></data>
-	<data name="CouldntCreateSilverlightPlayerErrorMsg"><![CDATA[Не удалось создать Silverlight проигрыватель.]]></data>
-</resources>

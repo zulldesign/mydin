@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Photogallery"><![CDATA[Photo Gallery]]></data>
-	<data name="PhotogalleryAlbum.Title"><![CDATA[Photo Gallery]]></data>
-	<data name="PhotogalleryAlbum.Description"><![CDATA[Displays album information]]></data>
-	<data name="Error.FailedToDeleteAlbum"><![CDATA[Cannot delete the album.]]></data>
-</resources>

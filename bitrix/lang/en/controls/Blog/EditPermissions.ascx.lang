@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Column.Posts"><![CDATA[Posts]]></data>
-	<data name="Column.Comments"><![CDATA[Comments]]></data>
-	<data name="DefaultUserGroupName"><![CDATA[Group Name]]></data>
-	<data name="Error.UserGroupNameRequired"><![CDATA[The group name is missing.]]></data>
-</resources>

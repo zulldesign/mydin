@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="FieldMustBeFilled"><![CDATA[The field "{0}" is required.]]></data>
-	<data name="ValueMustBeDouble"><![CDATA[The value of "{0}" must be a number.]]></data>
-	<data name="ValueMustBeGreaterOrEqual"><![CDATA[The value of "{0}" must be greater or equal {1}]]></data>
-	<data name="ValueMustBeLessOrEqual"><![CDATA[The value of "{0}" must be less or equal {1}]]></data>
-</resources>

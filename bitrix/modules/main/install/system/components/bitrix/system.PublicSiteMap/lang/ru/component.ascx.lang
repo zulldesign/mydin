@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Карта сайта]]></data>
-	<data name="Description"><![CDATA[Стандартный компонент карты сайта]]></data>
-	<data name="Group"><![CDATA[Навигация]]></data>
-	<data name="Component.Parameter.Title.MenuDepth"><![CDATA[Глубина меню]]></data>
-	<data name="Component.Parameter.Title.QuantityOfColumns"><![CDATA[Количество колонок]]></data>
-</resources>

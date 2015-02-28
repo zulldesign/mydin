@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="TypeName.BlogPost"><![CDATA[Пост в блоге]]></data>
-	<data name="TypeName.BlogComment"><![CDATA[Комментарий в блоге]]></data>
-</resources>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Site Map]]></data>
-	<data name="Description"><![CDATA[Standard site map component]]></data>
-	<data name="Group"><![CDATA[Navigation]]></data>
-	<data name="Component.Parameter.Title.MenuDepth"><![CDATA[Menu Depth]]></data>
-	<data name="Component.Parameter.Title.QuantityOfColumns"><![CDATA[Column Count]]></data>
-</resources>

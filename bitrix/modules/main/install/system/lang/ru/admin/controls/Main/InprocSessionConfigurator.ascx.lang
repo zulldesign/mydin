@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="IsActive"><![CDATA[Провайдер сейчас активирован]]></data>
-	<data name="Button.Activate"><![CDATA[Активировать]]></data>
-	<data name="Button.Reactivate"><![CDATA[Активировать повторно]]></data>
-	<data name="Message.Error"><![CDATA[Произошла ошибка. Детальная информация в журнале событий.]]></data>
-</resources>

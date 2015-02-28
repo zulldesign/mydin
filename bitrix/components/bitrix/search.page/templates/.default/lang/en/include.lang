@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="ItemsFound"><![CDATA[Items found]]></data>
-	<data name="NothingFound"><![CDATA[Your search did not match any documents.]]></data>
-	<data name="NoTitle"><![CDATA[No Title]]></data>
-	<data name="EmptyQuery"><![CDATA[Your search query is empty.]]></data>
-</resources>

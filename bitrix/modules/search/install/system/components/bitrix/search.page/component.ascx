@@ -1,1 +1,0 @@
-﻿<%@ Control ClassName="BitrixSearchPageComponent" Language="C#" AutoEventWireup="true" Inherits="Bitrix.Search.Components.SearchPage" CodeFile="component.ascx.cs" %>

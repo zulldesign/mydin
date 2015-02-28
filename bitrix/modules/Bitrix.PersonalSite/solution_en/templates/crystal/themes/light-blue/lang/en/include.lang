@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Template.Name"><![CDATA[Bright: Light Blue Theme]]></data>
-	<data name="Template.Description"><![CDATA[<p>Bright fixed width template.</p><p>Designed as a monolithic, round cornered box. The presentation area resides on a monochrome background accented with a glowing crystal.</p>]]></data>
-	<data name="Theme.Name"><![CDATA[Light Blue]]></data>
-	<data name="Theme.Description"><![CDATA[Light blue theme]]></data>
-</resources>

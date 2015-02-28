@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="IsActive"><![CDATA[The provider is now active.]]></data>
-	<data name="Button.Activate"><![CDATA[Activate]]></data>
-	<data name="Button.Reactivate"><![CDATA[Activate again]]></data>
-	<data name="Message.Error"><![CDATA[An error has occurred. Please refer to the event log for details.]]></data>
-	<data name="Message.IsActive"><![CDATA[An active session provider cannot be deleted.]]></data>
-</resources>

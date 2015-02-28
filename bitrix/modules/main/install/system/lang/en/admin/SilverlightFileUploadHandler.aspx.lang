@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="File"><![CDATA[File]]></data>
-	<data name="Size"><![CDATA[Size]]></data>
-	<data name="Error.NoFile"><![CDATA[No file to upload!]]></data>
-	<data name="Error.IncorrectFileExtension"><![CDATA[Incorrect file extension!]]></data>
-	<data name="Error.InsufficientRights"><![CDATA[Insufficient permissions to complete the operation!]]></data>
-	<data name="Error.Loading"><![CDATA[Unknown server error while uploading file!]]></data>
-</resources>

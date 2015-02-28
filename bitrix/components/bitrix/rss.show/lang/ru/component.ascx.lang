@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Error.AnErrorHasOccurredWhileReading"><![CDATA[Ошибка чтения RSS файла]]></data>
-	<data name="RssShow.Title"><![CDATA[Показ новостей из RSS]]></data>
-	<data name="RssShow.Description"><![CDATA[Показ RSS новостей]]></data>
-	<data name="RssUrl"><![CDATA[URL на RSS]]></data>
-	<data name="DisplayedElementsCount"><![CDATA[Количество элементов для показа]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Карта (Google Maps)]]></data>
-	<data name="Description"><![CDATA[Карта (Google Maps) с маркерами]]></data>
-	<data name="Group"><![CDATA[Google Maps]]></data>
-</resources>

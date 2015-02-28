@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Heading.Forum"><![CDATA[Форум]]></data>
-	<data name="Label.Posts"><![CDATA[Количество постов]]></data>
-	<data name="Label.Signature"><![CDATA[Подпись]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="PostsRssTitle"><![CDATA[Записи блога]]></data>
-	<data name="PostCommentsRssTitle"><![CDATA[Комментарии к "{0}"]]></data>
-	<data name="MetaWeblogApiNote"><![CDATA[Для подключения <a href="http://download.live.com/writer">Windows Live Writer</a> или другого клиента, поддерживающего MetaWeblog API, перейдите по следующей <a href="{0}">ссылке</a>.]]></data>
-</resources>

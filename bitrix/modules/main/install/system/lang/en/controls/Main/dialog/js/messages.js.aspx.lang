@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Button.Yes"><![CDATA[Yes]]></data>
-	<data name="Button.No"><![CDATA[No]]></data>
-	<data name="Button.OK"><![CDATA[&nbsp;&nbsp;OK&nbsp;&nbsp;]]></data>
-	<data name="Button.Cancel"><![CDATA[Cancel]]></data>
-	<data name="Button.Continue"><![CDATA[Continue]]></data>
-</resources>

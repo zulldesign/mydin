@@ -1,1 +1,0 @@
-﻿<%@ Control Language="C#" CodeFile="component.ascx.cs" Inherits="Bitrix.IBlock.Components.IBlockHierarchyComponent" %>

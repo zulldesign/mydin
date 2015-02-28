@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Select Solution Color Theme]]></data>
-	<data name="Navigation.Theme"><![CDATA[Select Theme]]></data>
-	<data name="Error.SelectTheme"><![CDATA[Select one of the existing themes.]]></data>
-</resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="JS_CORE_LOADING"><![CDATA[Загрузка...]]></data>
-	<data name="JS_CORE_WINDOW_CLOSE"><![CDATA[Закрыть]]></data>
-	<data name="JS_CORE_WINDOW_EXPAND"><![CDATA[Развернуть]]></data>
-	<data name="JS_CORE_WINDOW_NARROW"><![CDATA[Свернуть в окно]]></data>
-	<data name="JS_CORE_WINDOW_SAVE"><![CDATA[Сохранить]]></data>
-	<data name="JS_CORE_WINDOW_CANCEL"><![CDATA[Отменить]]></data>
-</resources>

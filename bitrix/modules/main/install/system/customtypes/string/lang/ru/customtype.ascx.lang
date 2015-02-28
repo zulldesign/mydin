@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="FieldMustBeFilled"><![CDATA[Поле "{0}" должно быть заполнено]]></data>
-	<data name="LengthMustBeNotLess"><![CDATA[Длина поля "{0}" должна быть не менее {1} символов]]></data>
-	<data name="LengthMustBeNotGreater"><![CDATA[Длина поля "{0}" должна быть не более {1} символов]]></data>
-</resources>

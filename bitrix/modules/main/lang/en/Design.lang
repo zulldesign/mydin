@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <data name="Selection.Available"><![CDATA[Available:]]></data>
-  <data name="Selection.Selected"><![CDATA[Selected:]]></data>
-  <data name="Selection.MoveUp"><![CDATA[Move selected items up]]></data>
-  <data name="Selection.MoveDown"><![CDATA[Move selected items down]]></data>
-  <data name="Selection.Remove"><![CDATA[Remove selected items]]></data>
-</resources>

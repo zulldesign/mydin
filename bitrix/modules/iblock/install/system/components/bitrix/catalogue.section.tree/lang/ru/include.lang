@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Структура разделов]]></data>
-	<data name="Description"><![CDATA[Выводит дерево разделов информационного блока]]></data>
-	<data name="Group"><![CDATA[Каталог]]></data>
-</resources>

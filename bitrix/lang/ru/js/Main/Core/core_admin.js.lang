@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="ADMIN_INCLAREA_DBLCLICK"><![CDATA[Двойной щелчок]]></data>
-	<data name="ADMIN_SHOW_MODE_ON"><![CDATA[включен]]></data>
-	<data name="ADMIN_SHOW_MODE_OFF"><![CDATA[выключен]]></data>
-	<data name="AMDIN_SHOW_MODE_TITLE"><![CDATA[Режим правки]]></data>
-	<data name="ADMIN_SHOW_MODE_ON_HINT"><![CDATA[Режим правки включен. На странице доступны элементы управления компонентами и включаемыми областями.]]></data>
-	<data name="ADMIN_SHOW_MODE_OFF_HINT"><![CDATA[Режим правки выключен]]></data>
-</resources>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="DayPostsCoef.Label"><![CDATA[Коэф. для сообщений за текущий день]]></data>
-	<data name="WeekPostsCoef.Label"><![CDATA[Коэф. для сообщений за последние 7 дней]]></data>
-	<data name="MonthPostsCoef.Label"><![CDATA[Коэф. для сообщений за последние 30 дней]]></data>
-	<data name="DayCommentsCoef.Label"><![CDATA[Коэф. для комментариев за текущий день]]></data>
-	<data name="WeekCommentsCoef.Label"><![CDATA[Коэф. для комментариев за последние 7 дней]]></data>
-	<data name="MonthCommentsCoef.Label"><![CDATA[Коэф. для комментариев за последние 30 дней]]></data>
-</resources>

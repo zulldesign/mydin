@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="TemplateTitle"><![CDATA[Список]]></data>
-	<data name="Title"><![CDATA[Вакансии]]></data>
-	<data name="NoVacancies"><![CDATA[В настоящее время нет ни одной открытой вакансии]]></data>
-</resources>

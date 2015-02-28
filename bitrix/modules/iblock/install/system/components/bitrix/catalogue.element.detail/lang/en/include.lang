@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Catalog Element Details]]></data>
-	<data name="Description"><![CDATA[Displays details about catalog element]]></data>
-	<data name="Group"><![CDATA[Catalog]]></data>
-</resources>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Comments"><![CDATA[Comments]]></data>
-	<data name="Views"><![CDATA[Views]]></data>
-	<data name="Confirm.Delete"><![CDATA[Are you sure you want to delete the record?]]></data>
-	<data name="Tags"><![CDATA[Tags]]></data>
-	<data name="CommentsRss"><![CDATA[Subscribe to new comments]]></data>
-</resources>

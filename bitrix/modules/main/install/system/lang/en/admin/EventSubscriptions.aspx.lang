@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="PageTitle"><![CDATA[Event Listeners]]></data>
-	<data name="MasterTitle"><![CDATA[Event Listeners]]></data>
-	<data name="TableTitle"><![CDATA[Existing Event Listeners]]></data>
-	<data name="ColumnListener"><![CDATA[Listener Class]]></data>
-	<data name="ColumnTemplate"><![CDATA[Event Template]]></data>
-	<data name="ColumnAssembly"><![CDATA[Event Template Assembly]]></data>
-</resources>

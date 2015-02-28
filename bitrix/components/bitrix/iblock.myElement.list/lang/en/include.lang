@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[My Element List]]></data>
-	<data name="Description"><![CDATA[My Element List]]></data>
-	<data name="Group"><![CDATA[Add elements]]></data>
-	<data name="Category.Access"><![CDATA[Access Settings]]></data>
-</resources>

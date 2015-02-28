@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Exception.YouDontHaveRightsToPerformThisAction"><![CDATA[У вас нет прав на выполнение этого действия]]></data>
-	<data name="Message.SettingsHasBeenSavedSuccessfully"><![CDATA[Настройки успешно сохранены]]></data>
-	<data name="TabText.AdjustmentOfModuleParameters"><![CDATA[Настройка параметров модуля]]></data>
-	<data name="Legend.UseVisualEditor"><![CDATA[Использовать визуальный редактор:]]></data>
-	<data name="Legend.CombinedReviewOfSectionsAndElements"><![CDATA[Совместный просмотр секций и элементов:]]></data>
-	<data name="Legend.MaxDepthOfSectionMenus"><![CDATA[Максимальная глубина меню разделов:]]></data>
-</resources>

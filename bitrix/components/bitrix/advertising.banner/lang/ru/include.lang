@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Баннер]]></data>
-	<data name="Description"><![CDATA[Отображение баннера заданной рекламной области]]></data>
-	<data name="Group"><![CDATA[Реклама]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Legend.Photos"><![CDATA[Фотографии:]]></data>
-	<data name="SearchIsCompleteThereAreNoResultsToDisplay"><![CDATA[Поиск не дал результатов!]]></data>
-	<data name="Return"><![CDATA[Вернуться...]]></data>
-</resources>

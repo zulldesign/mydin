@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="ValueMustBeSet"><![CDATA[The field "{0}" requires a value.]]></data>
-	<data name="IncorrectValue"><![CDATA[The value of "{0}" is incorrect.]]></data>
-</resources>

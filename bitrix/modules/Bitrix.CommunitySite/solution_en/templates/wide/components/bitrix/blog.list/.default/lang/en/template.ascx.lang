@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="NoItems"><![CDATA[No Items]]></data>
-	<data name="NoItemsInCategory"><![CDATA[No blogs in this category.]]></data>
-	<data name="CategoryIsNotFound"><![CDATA[The category '{0}' was not found.]]></data>
-	<data name="BlogCreated"><![CDATA[created]]></data>
-  <data name="Rating"><![CDATA[Rating]]></data>
-</resources>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<data name="Title"><![CDATA[Searchable Yandex.Map]]></data>
-	<data name="Description"><![CDATA[Yandex.Map powered with a search form]]></data>
-	<data name="Group"><![CDATA[Yandex.Map]]></data>
-</resources>
