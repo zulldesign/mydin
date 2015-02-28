@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Register an external login" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RegisterExternalLogin.aspx.cs" Inherits="WingtipToys.Account.RegisterExternalLogin" Async="true" %>
+﻿<%@ Page Title="Register an external login" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RegisterExternalLogin.aspx.cs" Inherits="mydin.Account.RegisterExternalLogin" Async="true" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
 <h3>Register with your <%: ProviderName %> account</h3>

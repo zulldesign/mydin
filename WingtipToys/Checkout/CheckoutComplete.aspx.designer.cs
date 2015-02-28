@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WingtipToys.Checkout {
+namespace mydin.Checkout {
     
     
     public partial class CheckoutComplete {

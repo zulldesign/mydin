@@ -7,10 +7,10 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 using System.Data.Entity;
-using WingtipToys.Models;
-using WingtipToys.Logic;
+using mydin.Models;
+using mydin.Logic;
 
-namespace WingtipToys
+namespace mydin
 {
     public class Global : HttpApplication
     {

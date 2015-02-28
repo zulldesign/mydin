@@ -7,8 +7,8 @@ using System.Text;
 using System.Data;
 using System.Configuration;
 using System.Web;
-using WingtipToys;
-using WingtipToys.Models;
+using mydin;
+using mydin.Models;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -73,7 +73,7 @@ public class NVPAPICaller
     encoder["PAYMENTREQUEST_0_CURRENCYCODE"] = "USD";
 
     // Get the Shopping Cart Products
-    using (WingtipToys.Logic.ShoppingCartActions myCartOrders = new WingtipToys.Logic.ShoppingCartActions())
+    using (mydin.Logic.ShoppingCartActions myCartOrders = new mydin.Logic.ShoppingCartActions())
     {
       List<CartItem> myOrderList = myCartOrders.GetCartItems();
 
@@ -199,7 +199,7 @@ public class NVPAPICaller
     catch (Exception e)
     {
       // Log the exception.
-      WingtipToys.Logic.ExceptionUtility.LogException(e, "HttpCall in PayPalFunction.cs");
+      mydin.Logic.ExceptionUtility.LogException(e, "HttpCall in PayPalFunction.cs");
     }
 
 

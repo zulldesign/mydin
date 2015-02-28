@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WingtipToys.Admin {
+namespace mydin.Admin {
     
     
     public partial class AdminPage {

@@ -1,5 +1,5 @@
 ﻿	<%@ Page Title="Products" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" 
-         CodeBehind="ProductList.aspx.cs" Inherits="WingtipToys.ProductList" %>
+         CodeBehind="ProductList.aspx.cs" Inherits="mydin.ProductList" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <section>
         <div>
@@ -9,7 +9,7 @@
 
             <asp:ListView ID="productList" runat="server" 
                 DataKeyNames="ProductID" GroupItemCount="4"
-                ItemType="WingtipToys.Models.Product" SelectMethod="GetProducts">
+                ItemType="mydin.Models.Product" SelectMethod="GetProducts">
                 <EmptyDataTemplate>
                     <table >
                         <tr>

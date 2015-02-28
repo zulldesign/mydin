@@ -4,11 +4,11 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using WingtipToys.Models;
+using mydin.Models;
 using System.Web.ModelBinding;
 using System.Web.Routing;
 
-namespace WingtipToys
+namespace mydin
 {
   public partial class ProductList : System.Web.UI.Page
   {
@@ -21,7 +21,7 @@ namespace WingtipToys
                         [QueryString("id")] int? categoryId,
                         [RouteData] string categoryName)
     {
-      var _db = new WingtipToys.Models.ProductContext();
+      var _db = new mydin.Models.ProductContext();
       IQueryable<Product> query = _db.Products;
 
       if (categoryId.HasValue && categoryId > 0)

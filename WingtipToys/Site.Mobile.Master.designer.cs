@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WingtipToys {
+namespace mydin {
     
     
     public partial class Site_Mobile {

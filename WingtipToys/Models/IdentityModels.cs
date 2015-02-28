@@ -3,9 +3,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 using System.Web;
 using System;
-using WingtipToys.Models;
+using mydin.Models;
 
-namespace WingtipToys.Models
+namespace mydin.Models
 {
     // You can add User data for the user by adding more properties to your User class, please visit http://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
@@ -30,7 +30,7 @@ namespace WingtipToys.Models
     }
 }
 
-namespace WingtipToys
+namespace mydin
 {
     public static class IdentityHelper
     {
