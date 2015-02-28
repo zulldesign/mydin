@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using WingtipToys.Models;
+using mydin.Models;
 
-namespace WingtipToys.Logic
+namespace mydin.Logic
 {
   public class ShoppingCartActions : IDisposable
   {
@@ -106,7 +106,7 @@ namespace WingtipToys.Logic
 
     public void UpdateShoppingCartDatabase(String cartId, ShoppingCartUpdates[] CartItemUpdates)
     {
-      using (var db = new WingtipToys.Models.ProductContext())
+      using (var db = new mydin.Models.ProductContext())
       {
         try
         {
@@ -140,7 +140,7 @@ namespace WingtipToys.Logic
 
     public void RemoveItem(string removeCartID, int removeProductID)
     {
-      using (var _db = new WingtipToys.Models.ProductContext())
+      using (var _db = new mydin.Models.ProductContext())
       {
         try
         {
@@ -161,7 +161,7 @@ namespace WingtipToys.Logic
 
     public void UpdateItem(string updateCartID, int updateProductID, int quantity)
     {
-      using (var _db = new WingtipToys.Models.ProductContext())
+      using (var _db = new mydin.Models.ProductContext())
       {
         try
         {

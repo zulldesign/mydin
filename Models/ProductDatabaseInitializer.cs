@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Data.Entity;
 
-namespace WingtipToys.Models
+namespace mydin.Models
 {
   public class ProductDatabaseInitializer : DropCreateDatabaseAlways<ProductContext>
   {

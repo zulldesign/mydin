@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WingtipToys.Account {
+namespace mydin.Account {
     
     
     public partial class RegisterExternalLogin {

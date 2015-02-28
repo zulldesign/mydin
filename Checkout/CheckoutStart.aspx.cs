@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WingtipToys.Checkout
+namespace mydin.Checkout
 {
   public partial class CheckoutStart : System.Web.UI.Page
   {

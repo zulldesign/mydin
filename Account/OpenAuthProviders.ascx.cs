@@ -6,7 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Web;
 
-namespace WingtipToys.Account
+namespace mydin.Account
 {
     public partial class OpenAuthProviders : System.Web.UI.UserControl
     {

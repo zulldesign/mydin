@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using WingtipToys.Models;
+using mydin.Models;
 
-namespace WingtipToys.Logic
+namespace mydin.Logic
 {
   public class AddProducts
   {

@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using WingtipToys.Models;
+using mydin.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 
-namespace WingtipToys.Logic
+namespace mydin.Logic
 {
   internal class RoleActions
   {
